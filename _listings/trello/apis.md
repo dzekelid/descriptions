@@ -9,11 +9,341 @@ image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/l
 x-kinRank: "7"
 x-alexaRank: "0"
 tags: Descriptions
-created: "2018-08-26"
-modified: "2018-08-26"
+created: "2018-08-27"
+modified: "2018-08-27"
 url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/trello/apis.md
 specificationVersion: "0.14"
-apis: []
+apis:
+- name: Trello - Put Boards Desc
+  x-api-slug: boardsidboarddesc-put
+  description: Put boards desc.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/trello-logo.png
+  humanURL: http://trello.com
+  baseURL: https://trello.com//1
+  tags: Projects, Collaboration, General Data, Relative Data, Service API, Pedestal
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/trello/boardsidboarddesc-put-openapi.md
+- name: Trello - Put Cards Desc
+  x-api-slug: cardsidcarddesc-put
+  description: Put cards desc.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/trello-logo.png
+  humanURL: http://trello.com
+  baseURL: https://trello.com//1
+  tags: Projects, Collaboration, General Data, Relative Data, Service API, Pedestal
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/trello/cardsidcarddesc-put-openapi.md
+- name: Trello - Put Organizations Desc
+  x-api-slug: organizationsidorgdesc-put
+  description: Put organizations desc.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/trello-logo.png
+  humanURL: http://trello.com
+  baseURL: https://trello.com//1
+  tags: Projects, Collaboration, General Data, Relative Data, Service API, Pedestal
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/trello/organizationsidorgdesc-put-openapi.md
+- name: Trello - Put Webhooks Description
+  x-api-slug: webhooksidwebhookdescription-put
+  description: Put webhooks description.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/trello-logo.png
+  humanURL: http://trello.com
+  baseURL: https://trello.com//1
+  tags: Projects, Collaboration, General Data, Relative Data, Service API, Pedestal
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/trello/webhooksidwebhookdescription-put-openapi.md
+- name: Trello - Put Boards Desc
+  x-api-slug: boardsidboarddesc-put
+  description: Put boards desc.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/trello-logo.png
+  humanURL: http://trello.com
+  baseURL: https://trello.com//1
+  tags: Projects, Collaboration, General Data, Relative Data, Service API, Pedestal
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/trello/boardsidboarddesc-put-openapi.md
+- name: Trello - Put Cards Desc
+  x-api-slug: cardsidcarddesc-put
+  description: Put cards desc.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/trello-logo.png
+  humanURL: http://trello.com
+  baseURL: https://trello.com//1
+  tags: Projects, Collaboration, General Data, Relative Data, Service API, Pedestal
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/trello/cardsidcarddesc-put-openapi.md
+- name: Trello - Put Organizations Desc
+  x-api-slug: organizationsidorgdesc-put
+  description: Put organizations desc.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/trello-logo.png
+  humanURL: http://trello.com
+  baseURL: https://trello.com//1
+  tags: Projects, Collaboration, General Data, Relative Data, Service API, Pedestal
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/trello/organizationsidorgdesc-put-openapi.md
+- name: Trello - Put Webhooks Description
+  x-api-slug: webhooksidwebhookdescription-put
+  description: Put webhooks description.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/trello-logo.png
+  humanURL: http://trello.com
+  baseURL: https://trello.com//1
+  tags: Projects, Collaboration, General Data, Relative Data, Service API, Pedestal
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/trello/webhooksidwebhookdescription-put-openapi.md
+- name: Trello - Put Webhooks Description
+  x-api-slug: webhooksidwebhookdescription-put
+  description: Put webhooks description.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/trello-logo.png
+  humanURL: http://trello.com
+  baseURL: https://trello.com//1
+  tags: Projects, Collaboration, General Data, Relative Data, Service API, Pedestal
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/trello/webhooksidwebhookdescription-put-openapi.md
+- name: Trello - Put Webhooks Description
+  x-api-slug: webhooksidwebhookdescription-put
+  description: Put webhooks description.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/trello-logo.png
+  humanURL: http://trello.com
+  baseURL: https://trello.com//1
+  tags: Projects, Collaboration, General Data, Relative Data, Service API, Pedestal
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/trello/webhooksidwebhookdescription-put-openapi.md
+- name: Trello - Put Webhooks Description
+  x-api-slug: webhooksidwebhookdescription-put
+  description: Put webhooks description.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/trello-logo.png
+  humanURL: http://trello.com
+  baseURL: https://trello.com//1
+  tags: Projects, Collaboration, General Data, Relative Data, Service API, Pedestal
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/trello/webhooksidwebhookdescription-put-openapi.md
+- name: Trello - Put Webhooks Description
+  x-api-slug: webhooksidwebhookdescription-put
+  description: Put webhooks description.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/trello-logo.png
+  humanURL: http://trello.com
+  baseURL: https://trello.com//1
+  tags: Projects, Collaboration, General Data, Relative Data, Service API, Pedestal
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/trello/webhooksidwebhookdescription-put-openapi.md
+- name: Trello - Put Webhooks Description
+  x-api-slug: webhooksidwebhookdescription-put
+  description: Put webhooks description.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/trello-logo.png
+  humanURL: http://trello.com
+  baseURL: https://trello.com//1
+  tags: Projects, Collaboration, General Data, Relative Data, Service API, Pedestal
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/trello/webhooksidwebhookdescription-put-openapi.md
+- name: Trello - Put Webhooks Description
+  x-api-slug: webhooksidwebhookdescription-put
+  description: Put webhooks description.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/trello-logo.png
+  humanURL: http://trello.com
+  baseURL: https://trello.com//1
+  tags: Projects, Collaboration, General Data, Relative Data, Service API, Pedestal
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/trello/webhooksidwebhookdescription-put-openapi.md
+- name: Trello - Put Webhooks Description
+  x-api-slug: webhooksidwebhookdescription-put
+  description: Put webhooks description.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/trello-logo.png
+  humanURL: http://trello.com
+  baseURL: https://trello.com//1
+  tags: Projects, Collaboration, General Data, Relative Data, Service API, Pedestal
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/trello/webhooksidwebhookdescription-put-openapi.md
+- name: Trello - Put Webhooks Description
+  x-api-slug: webhooksidwebhookdescription-put
+  description: Put webhooks description.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/trello-logo.png
+  humanURL: http://trello.com
+  baseURL: https://trello.com//1
+  tags: Projects, Collaboration, General Data, Relative Data, Service API, Pedestal
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/trello/webhooksidwebhookdescription-put-openapi.md
+- name: Trello - Put Webhooks Description
+  x-api-slug: webhooksidwebhookdescription-put
+  description: Put webhooks description.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/trello-logo.png
+  humanURL: http://trello.com
+  baseURL: https://trello.com//1
+  tags: Projects, Collaboration, General Data, Relative Data, Service API, Pedestal
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/trello/webhooksidwebhookdescription-put-openapi.md
+- name: Trello - Put Webhooks Description
+  x-api-slug: webhooksidwebhookdescription-put
+  description: Put webhooks description.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/trello-logo.png
+  humanURL: http://trello.com
+  baseURL: https://trello.com//1
+  tags: Projects, Collaboration, General Data, Relative Data, Service API, Pedestal
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/trello/webhooksidwebhookdescription-put-openapi.md
+- name: Trello - Put Webhooks Description
+  x-api-slug: webhooksidwebhookdescription-put
+  description: Put webhooks description.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/trello-logo.png
+  humanURL: http://trello.com
+  baseURL: https://trello.com//1
+  tags: Projects, Collaboration, General Data, Relative Data, Service API, Pedestal
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/trello/webhooksidwebhookdescription-put-openapi.md
+- name: Trello - Put Webhooks Description
+  x-api-slug: webhooksidwebhookdescription-put
+  description: Put webhooks description.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/trello-logo.png
+  humanURL: http://trello.com
+  baseURL: https://trello.com//1
+  tags: Projects, Collaboration, General Data, Relative Data, Service API, Pedestal
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/trello/webhooksidwebhookdescription-put-openapi.md
+- name: Trello - Put Organizations Desc
+  x-api-slug: organizationsidorgdesc-put
+  description: Put organizations desc.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/trello-logo.png
+  humanURL: http://trello.com
+  baseURL: https://trello.com//1
+  tags: Projects, Collaboration, General Data, Relative Data, Service API, Pedestal
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/trello/organizationsidorgdesc-put-openapi.md
+- name: Trello - Put Organizations Desc
+  x-api-slug: organizationsidorgdesc-put
+  description: Put organizations desc.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/trello-logo.png
+  humanURL: http://trello.com
+  baseURL: https://trello.com//1
+  tags: Projects, Collaboration, General Data, Relative Data, Service API, Pedestal
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/trello/organizationsidorgdesc-put-openapi.md
+- name: Trello - Put Cards Desc
+  x-api-slug: cardsidcarddesc-put
+  description: Put cards desc.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/trello-logo.png
+  humanURL: http://trello.com
+  baseURL: https://trello.com//1
+  tags: Projects, Collaboration, General Data, Relative Data, Service API, Pedestal
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/trello/cardsidcarddesc-put-openapi.md
+- name: Trello - Put Cards Desc
+  x-api-slug: cardsidcarddesc-put
+  description: Put cards desc.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/trello-logo.png
+  humanURL: http://trello.com
+  baseURL: https://trello.com//1
+  tags: Projects, Collaboration, General Data, Relative Data, Service API, Pedestal
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/trello/cardsidcarddesc-put-openapi.md
+- name: Trello - Put Boards Desc
+  x-api-slug: boardsidboarddesc-put
+  description: Put boards desc.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/trello-logo.png
+  humanURL: http://trello.com
+  baseURL: https://trello.com//1
+  tags: Projects, Collaboration, General Data, Relative Data, Service API, Pedestal
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/trello/boardsidboarddesc-put-openapi.md
+- name: Trello - Put Boards Desc
+  x-api-slug: boardsidboarddesc-put
+  description: Put boards desc.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/trello-logo.png
+  humanURL: http://trello.com
+  baseURL: https://trello.com//1
+  tags: Projects, Collaboration, General Data, Relative Data, Service API, Pedestal
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/trello/boardsidboarddesc-put-openapi.md
+- name: Trello - Put Webhooks Description
+  x-api-slug: webhooksidwebhookdescription-put
+  description: Put webhooks description.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/trello-logo.png
+  humanURL: http://trello.com
+  baseURL: https://trello.com//1
+  tags: Projects, Collaboration, General Data, Relative Data, Service API, Pedestal
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/trello/webhooksidwebhookdescription-put-openapi.md
+- name: Trello - Put Webhooks Description
+  x-api-slug: webhooksidwebhookdescription-put
+  description: Put webhooks description.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/trello-logo.png
+  humanURL: http://trello.com
+  baseURL: https://trello.com//1
+  tags: Projects, Collaboration, General Data, Relative Data, Service API, Pedestal
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/trello/webhooksidwebhookdescription-put-openapi.md
+- name: Trello - Put Webhooks Description
+  x-api-slug: webhooksidwebhookdescription-put
+  description: Put webhooks description.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/trello-logo.png
+  humanURL: http://trello.com
+  baseURL: https://trello.com//1
+  tags: Projects, Collaboration, General Data, Relative Data, Service API, Pedestal
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/trello/webhooksidwebhookdescription-put-openapi.md
+- name: Trello - Put Webhooks Description
+  x-api-slug: webhooksidwebhookdescription-put
+  description: Put webhooks description.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/trello-logo.png
+  humanURL: http://trello.com
+  baseURL: https://trello.com//1
+  tags: Projects, Collaboration, General Data, Relative Data, Service API, Pedestal
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/trello/webhooksidwebhookdescription-put-openapi.md
+- name: Trello - Put Webhooks Description
+  x-api-slug: webhooksidwebhookdescription-put
+  description: Put webhooks description.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/trello-logo.png
+  humanURL: http://trello.com
+  baseURL: https://trello.com//1
+  tags: Projects, Collaboration, General Data, Relative Data, Service API, Pedestal
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/trello/webhooksidwebhookdescription-put-openapi.md
+- name: Trello - Put Webhooks Description
+  x-api-slug: webhooksidwebhookdescription-put
+  description: Put webhooks description.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/trello-logo.png
+  humanURL: http://trello.com
+  baseURL: https://trello.com//1
+  tags: Projects, Collaboration, General Data, Relative Data, Service API, Pedestal
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/trello/webhooksidwebhookdescription-put-openapi.md
+- name: Trello - Put Webhooks Description
+  x-api-slug: webhooksidwebhookdescription-put
+  description: Put webhooks description.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/trello-logo.png
+  humanURL: http://trello.com
+  baseURL: https://trello.com//1
+  tags: Projects, Collaboration, General Data, Relative Data, Service API, Pedestal
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/trello/webhooksidwebhookdescription-put-openapi.md
 x-common:
 - type: x-api-gallery
   url: http://transport.for.london.unified.api.gallery.streamdata.io

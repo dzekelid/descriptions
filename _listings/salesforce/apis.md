@@ -8,11 +8,217 @@ image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/175-salesf
 x-kinRank: "10"
 x-alexaRank: "146"
 tags: Descriptions
-created: "2018-08-26"
-modified: "2018-08-26"
+created: "2018-08-27"
+modified: "2018-08-27"
 url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/salesforce/apis.md
 specificationVersion: "0.14"
 apis:
+- name: Salesforce - Get Version Sobjects Sobject Describe
+  x-api-slug: versionsobjectssobjectdescribe-get
+  description: Completely describes the individual metadata at all levels for the
+    specified object. For example, this can be used to retrieve the fields, URLs,
+    and child relationships for the Account object.
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/175-salesforce.jpg
+  humanURL: http://developer.salesforce.com
+  baseURL: https://na14.salesforce.com//services/data
+  tags: Freshbooks, Hosting, PaaS, Notifications, BaaS, CRM, Sales, Spreadsheets,
+    Wearables, Stack Network, Stack, Productivity, SaaS, Technology, Enterprise, internet,
+    SDIO Partner, Customers, Databases, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/salesforce/versionsobjectssobjectdescribe-get-openapi.md
+- name: Salesforce - Get Version Sobjects Sobject Describe
+  x-api-slug: versionsobjectssobjectdescribe-get
+  description: Completely describes the individual metadata at all levels for the
+    specified object. For example, this can be used to retrieve the fields, URLs,
+    and child relationships for the Account object.
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/175-salesforce.jpg
+  humanURL: http://developer.salesforce.com
+  baseURL: https://na14.salesforce.com//services/data
+  tags: Freshbooks, Hosting, PaaS, Notifications, BaaS, CRM, Sales, Spreadsheets,
+    Wearables, Stack Network, Stack, Productivity, SaaS, Technology, Enterprise, internet,
+    SDIO Partner, Customers, Databases, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/salesforce/versionsobjectssobjectdescribe-get-openapi.md
+- name: Salesforce - Get Version Sobjects Sobject Describe
+  x-api-slug: versionsobjectssobjectdescribe-get
+  description: Completely describes the individual metadata at all levels for the
+    specified object. For example, this can be used to retrieve the fields, URLs,
+    and child relationships for the Account object.
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/175-salesforce.jpg
+  humanURL: http://developer.salesforce.com
+  baseURL: https://na14.salesforce.com//services/data
+  tags: Freshbooks, Hosting, PaaS, Notifications, BaaS, CRM, Sales, Spreadsheets,
+    Wearables, Stack Network, Stack, Productivity, SaaS, Technology, Enterprise, internet,
+    SDIO Partner, Customers, Databases, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/salesforce/versionsobjectssobjectdescribe-get-openapi.md
+- name: Salesforce - Get Version Sobjects Sobject Describe
+  x-api-slug: versionsobjectssobjectdescribe-get
+  description: Completely describes the individual metadata at all levels for the
+    specified object. For example, this can be used to retrieve the fields, URLs,
+    and child relationships for the Account object.
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/175-salesforce.jpg
+  humanURL: http://developer.salesforce.com
+  baseURL: https://na14.salesforce.com//services/data
+  tags: Freshbooks, Hosting, PaaS, Notifications, BaaS, CRM, Sales, Spreadsheets,
+    Wearables, Stack Network, Stack, Productivity, SaaS, Technology, Enterprise, internet,
+    SDIO Partner, Customers, Databases, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/salesforce/versionsobjectssobjectdescribe-get-openapi.md
+- name: Salesforce - Get Version Sobjects Sobject Describe
+  x-api-slug: versionsobjectssobjectdescribe-get
+  description: Completely describes the individual metadata at all levels for the
+    specified object. For example, this can be used to retrieve the fields, URLs,
+    and child relationships for the Account object.
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/175-salesforce.jpg
+  humanURL: http://developer.salesforce.com
+  baseURL: https://na14.salesforce.com//services/data
+  tags: Freshbooks, Hosting, PaaS, Notifications, BaaS, CRM, Sales, Spreadsheets,
+    Wearables, Stack Network, Stack, Productivity, SaaS, Technology, Enterprise, internet,
+    SDIO Partner, Customers, Databases, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/salesforce/versionsobjectssobjectdescribe-get-openapi.md
+- name: Salesforce - Get Version Sobjects Sobject Describe
+  x-api-slug: versionsobjectssobjectdescribe-get
+  description: Completely describes the individual metadata at all levels for the
+    specified object. For example, this can be used to retrieve the fields, URLs,
+    and child relationships for the Account object.
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/175-salesforce.jpg
+  humanURL: http://developer.salesforce.com
+  baseURL: https://na14.salesforce.com//services/data
+  tags: Freshbooks, Hosting, PaaS, Notifications, BaaS, CRM, Sales, Spreadsheets,
+    Wearables, Stack Network, Stack, Productivity, SaaS, Technology, Enterprise, internet,
+    SDIO Partner, Customers, Databases, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/salesforce/versionsobjectssobjectdescribe-get-openapi.md
+- name: Salesforce - Get Version Sobjects Sobject Describe
+  x-api-slug: versionsobjectssobjectdescribe-get
+  description: Completely describes the individual metadata at all levels for the
+    specified object. For example, this can be used to retrieve the fields, URLs,
+    and child relationships for the Account object.
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/175-salesforce.jpg
+  humanURL: http://developer.salesforce.com
+  baseURL: https://na14.salesforce.com//services/data
+  tags: Freshbooks, Hosting, PaaS, Notifications, BaaS, CRM, Sales, Spreadsheets,
+    Wearables, Stack Network, Stack, Productivity, SaaS, Technology, Enterprise, internet,
+    SDIO Partner, Customers, Databases, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/salesforce/versionsobjectssobjectdescribe-get-openapi.md
+- name: Salesforce - Get Version Sobjects Sobject Describe
+  x-api-slug: versionsobjectssobjectdescribe-get
+  description: Completely describes the individual metadata at all levels for the
+    specified object. For example, this can be used to retrieve the fields, URLs,
+    and child relationships for the Account object.
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/175-salesforce.jpg
+  humanURL: http://developer.salesforce.com
+  baseURL: https://na14.salesforce.com//services/data
+  tags: Freshbooks, Hosting, PaaS, Notifications, BaaS, CRM, Sales, Spreadsheets,
+    Wearables, Stack Network, Stack, Productivity, SaaS, Technology, Enterprise, internet,
+    SDIO Partner, Customers, Databases, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/salesforce/versionsobjectssobjectdescribe-get-openapi.md
+- name: Salesforce - Get Version Sobjects Sobject Describe
+  x-api-slug: versionsobjectssobjectdescribe-get
+  description: Completely describes the individual metadata at all levels for the
+    specified object. For example, this can be used to retrieve the fields, URLs,
+    and child relationships for the Account object.
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/175-salesforce.jpg
+  humanURL: http://developer.salesforce.com
+  baseURL: https://na14.salesforce.com//services/data
+  tags: Freshbooks, Hosting, PaaS, Notifications, BaaS, CRM, Sales, Spreadsheets,
+    Wearables, Stack Network, Stack, Productivity, SaaS, Technology, Enterprise, internet,
+    SDIO Partner, Customers, Databases, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/salesforce/versionsobjectssobjectdescribe-get-openapi.md
+- name: Salesforce Sandbox - Get Version Sobjects Sobject Describe
+  x-api-slug: versionsobjectssobjectdescribe-get
+  description: Completely describes the individual metadata at all levels for the
+    specified object. For example, this can be used to retrieve the fields, URLs,
+    and child relationships for the Account object.
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/175-salesforce.jpg
+  humanURL: http://developer.salesforce.com
+  baseURL: https://na14.salesforce.com//services/data/
+  tags: Freshbooks, Hosting, PaaS, Notifications, BaaS, CRM, Sales, Spreadsheets,
+    Wearables, Stack Network, Stack, Productivity, SaaS, Technology, Enterprise, internet,
+    SDIO Partner, Customers, Databases, Relative Data, Service API
+  properties:
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/salesforce/versionsobjectssobjectdescribe-get-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/salesforce/versionsobjectssobjectdescribe-get-openapi.md
+- name: Salesforce Sandbox - Get Version Sobjects Sobject Describe
+  x-api-slug: versionsobjectssobjectdescribe-get
+  description: Completely describes the individual metadata at all levels for the
+    specified object. For example, this can be used to retrieve the fields, URLs,
+    and child relationships for the Account object.
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/175-salesforce.jpg
+  humanURL: http://developer.salesforce.com
+  baseURL: https://na14.salesforce.com//services/data/
+  tags: Freshbooks, Hosting, PaaS, Notifications, BaaS, CRM, Sales, Spreadsheets,
+    Wearables, Stack Network, Stack, Productivity, SaaS, Technology, Enterprise, internet,
+    SDIO Partner, Customers, Databases, Relative Data, Service API
+  properties:
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/salesforce/versionsobjectssobjectdescribe-get-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/salesforce/versionsobjectssobjectdescribe-get-openapi.md
+- name: Salesforce Sandbox - Get Version Sobjects Sobject Describe
+  x-api-slug: versionsobjectssobjectdescribe-get
+  description: Completely describes the individual metadata at all levels for the
+    specified object. For example, this can be used to retrieve the fields, URLs,
+    and child relationships for the Account object.
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/175-salesforce.jpg
+  humanURL: http://developer.salesforce.com
+  baseURL: https://na14.salesforce.com//services/data/
+  tags: Freshbooks, Hosting, PaaS, Notifications, BaaS, CRM, Sales, Spreadsheets,
+    Wearables, Stack Network, Stack, Productivity, SaaS, Technology, Enterprise, internet,
+    SDIO Partner, Customers, Databases, Relative Data, Service API
+  properties:
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/salesforce/versionsobjectssobjectdescribe-get-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/salesforce/versionsobjectssobjectdescribe-get-openapi.md
+- name: Salesforce Sandbox - Get Version Sobjects Sobject Describe
+  x-api-slug: versionsobjectssobjectdescribe-get
+  description: Completely describes the individual metadata at all levels for the
+    specified object. For example, this can be used to retrieve the fields, URLs,
+    and child relationships for the Account object.
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/175-salesforce.jpg
+  humanURL: http://developer.salesforce.com
+  baseURL: https://na14.salesforce.com//services/data/
+  tags: Freshbooks, Hosting, PaaS, Notifications, BaaS, CRM, Sales, Spreadsheets,
+    Wearables, Stack Network, Stack, Productivity, SaaS, Technology, Enterprise, internet,
+    SDIO Partner, Customers, Databases, Relative Data, Service API
+  properties:
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/salesforce/versionsobjectssobjectdescribe-get-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/salesforce/versionsobjectssobjectdescribe-get-openapi.md
+- name: Salesforce Sandbox - Get Version Sobjects Sobject Describe
+  x-api-slug: versionsobjectssobjectdescribe-get
+  description: Completely describes the individual metadata at all levels for the
+    specified object. For example, this can be used to retrieve the fields, URLs,
+    and child relationships for the Account object.
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/175-salesforce.jpg
+  humanURL: http://developer.salesforce.com
+  baseURL: https://na14.salesforce.com//services/data/
+  tags: Freshbooks, Hosting, PaaS, Notifications, BaaS, CRM, Sales, Spreadsheets,
+    Wearables, Stack Network, Stack, Productivity, SaaS, Technology, Enterprise, internet,
+    SDIO Partner, Customers, Databases, Relative Data, Service API
+  properties:
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/salesforce/versionsobjectssobjectdescribe-get-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/salesforce/versionsobjectssobjectdescribe-get-openapi.md
 - name: Salesforce Sandbox - Get Version Sobjects Sobject Describe
   x-api-slug: versionsobjectssobjectdescribe-get
   description: Completely describes the individual metadata at all levels for the

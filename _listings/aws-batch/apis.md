@@ -14,11 +14,751 @@ image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/l
 x-kinRank: "10"
 x-alexaRank: "0"
 tags: Descriptions
-created: "2018-08-26"
-modified: "2018-08-26"
+created: "2018-08-27"
+modified: "2018-08-27"
 url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-batch/apis.md
 specificationVersion: "0.14"
 apis:
+- name: AWS Batch API - Describe Compute Environments
+  x-api-slug: actiondescribecomputeenvironments-get
+  description: Describes one or more of your compute environments.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/aws-batch.jpg
+  humanURL: https://aws.amazon.com/batch/
+  baseURL: :///
+  tags: Amazon Web Services, Jobs, Science, Research, Data, Stack Network, API Service
+    Provider, API Service Provider, API Provider, Profiles, Relative Data, Service
+    API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-batch/actiondescribecomputeenvironments-get-openapi.md
+- name: AWS Batch API - Describe Job Definitions
+  x-api-slug: actiondescribejobdefinitions-get
+  description: Describes a list of job definitions.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/aws-batch.jpg
+  humanURL: https://aws.amazon.com/batch/
+  baseURL: :///
+  tags: Amazon Web Services, Jobs, Science, Research, Data, Stack Network, API Service
+    Provider, API Service Provider, API Provider, Profiles, Relative Data, Service
+    API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-batch/actiondescribejobdefinitions-get-openapi.md
+- name: AWS Batch API - Describe Job Definitions
+  x-api-slug: actiondescribejobdefinitions-get
+  description: Describes a list of job definitions.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/aws-batch.jpg
+  humanURL: https://aws.amazon.com/batch/
+  baseURL: :///
+  tags: Amazon Web Services, Jobs, Science, Research, Data, Stack Network, API Service
+    Provider, API Service Provider, API Provider, Profiles, Relative Data, Service
+    API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-batch/actiondescribejobdefinitions-get-openapi.md
+- name: AWS Batch API - Describe Job Queues
+  x-api-slug: actiondescribejobqueues-get
+  description: Describes one or more of your job queues.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/aws-batch.jpg
+  humanURL: https://aws.amazon.com/batch/
+  baseURL: :///
+  tags: Amazon Web Services, Jobs, Science, Research, Data, Stack Network, API Service
+    Provider, API Service Provider, API Provider, Profiles, Relative Data, Service
+    API
+  properties:
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-batch/actiondescribejobqueues-get-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-batch/actiondescribejobqueues-get-openapi.md
+- name: AWS Batch API - Describe Job Queues
+  x-api-slug: actiondescribejobqueues-get
+  description: Describes one or more of your job queues.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/aws-batch.jpg
+  humanURL: https://aws.amazon.com/batch/
+  baseURL: :///
+  tags: Amazon Web Services, Jobs, Science, Research, Data, Stack Network, API Service
+    Provider, API Service Provider, API Provider, Profiles, Relative Data, Service
+    API
+  properties:
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-batch/actiondescribejobqueues-get-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-batch/actiondescribejobqueues-get-openapi.md
+- name: AWS Batch API - Describe Jobs
+  x-api-slug: actiondescribejobs-get
+  description: Describes a list of AWS Batch jobs.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/aws-batch.jpg
+  humanURL: https://aws.amazon.com/batch/
+  baseURL: :///
+  tags: Amazon Web Services, Jobs, Science, Research, Data, Stack Network, API Service
+    Provider, API Service Provider, API Provider, Profiles, Relative Data, Service
+    API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-batch/actiondescribejobs-get-openapi.md
+- name: AWS Batch API - Describe Jobs
+  x-api-slug: actiondescribejobs-get
+  description: Describes a list of AWS Batch jobs.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/aws-batch.jpg
+  humanURL: https://aws.amazon.com/batch/
+  baseURL: :///
+  tags: Amazon Web Services, Jobs, Science, Research, Data, Stack Network, API Service
+    Provider, API Service Provider, API Provider, Profiles, Relative Data, Service
+    API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-batch/actiondescribejobs-get-openapi.md
+- name: AWS Batch API - Describe Compute Environments
+  x-api-slug: actiondescribecomputeenvironments-get
+  description: Describes one or more of your compute environments.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/aws-batch.jpg
+  humanURL: https://aws.amazon.com/batch/
+  baseURL: :///
+  tags: Amazon Web Services, Jobs, Science, Research, Data, Stack Network, API Service
+    Provider, API Service Provider, API Provider, Profiles, Relative Data, Service
+    API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-batch/actiondescribecomputeenvironments-get-openapi.md
+- name: AWS Batch API - Describe Compute Environments
+  x-api-slug: actiondescribecomputeenvironments-get
+  description: Describes one or more of your compute environments.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/aws-batch.jpg
+  humanURL: https://aws.amazon.com/batch/
+  baseURL: :///
+  tags: Amazon Web Services, Jobs, Science, Research, Data, Stack Network, API Service
+    Provider, API Service Provider, API Provider, Profiles, Relative Data, Service
+    API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-batch/actiondescribecomputeenvironments-get-openapi.md
+- name: AWS Batch API - Describe Compute Environments
+  x-api-slug: actiondescribecomputeenvironments-get
+  description: Describes one or more of your compute environments.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/aws-batch.jpg
+  humanURL: https://aws.amazon.com/batch/
+  baseURL: :///
+  tags: Amazon Web Services, Jobs, Science, Research, Data, Stack Network, API Service
+    Provider, API Service Provider, API Provider, Profiles, Relative Data, Service
+    API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-batch/actiondescribecomputeenvironments-get-openapi.md
+- name: AWS Batch API - Describe Compute Environments
+  x-api-slug: actiondescribecomputeenvironments-get
+  description: Describes one or more of your compute environments.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/aws-batch.jpg
+  humanURL: https://aws.amazon.com/batch/
+  baseURL: :///
+  tags: Amazon Web Services, Jobs, Science, Research, Data, Stack Network, API Service
+    Provider, API Service Provider, API Provider, Profiles, Relative Data, Service
+    API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-batch/actiondescribecomputeenvironments-get-openapi.md
+- name: AWS Batch API - Describe Compute Environments
+  x-api-slug: actiondescribecomputeenvironments-get
+  description: Describes one or more of your compute environments.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/aws-batch.jpg
+  humanURL: https://aws.amazon.com/batch/
+  baseURL: :///
+  tags: Amazon Web Services, Jobs, Science, Research, Data, Stack Network, API Service
+    Provider, API Service Provider, API Provider, Profiles, Relative Data, Service
+    API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-batch/actiondescribecomputeenvironments-get-openapi.md
+- name: AWS Batch API - Describe Compute Environments
+  x-api-slug: actiondescribecomputeenvironments-get
+  description: Describes one or more of your compute environments.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/aws-batch.jpg
+  humanURL: https://aws.amazon.com/batch/
+  baseURL: :///
+  tags: Amazon Web Services, Jobs, Science, Research, Data, Stack Network, API Service
+    Provider, API Service Provider, API Provider, Profiles, Relative Data, Service
+    API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-batch/actiondescribecomputeenvironments-get-openapi.md
+- name: AWS Batch API - Describe Compute Environments
+  x-api-slug: actiondescribecomputeenvironments-get
+  description: Describes one or more of your compute environments.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/aws-batch.jpg
+  humanURL: https://aws.amazon.com/batch/
+  baseURL: :///
+  tags: Amazon Web Services, Jobs, Science, Research, Data, Stack Network, API Service
+    Provider, API Service Provider, API Provider, Profiles, Relative Data, Service
+    API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-batch/actiondescribecomputeenvironments-get-openapi.md
+- name: AWS Batch API - Describe Job Definitions
+  x-api-slug: actiondescribejobdefinitions-get
+  description: Describes a list of job definitions.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/aws-batch.jpg
+  humanURL: https://aws.amazon.com/batch/
+  baseURL: :///
+  tags: Amazon Web Services, Jobs, Science, Research, Data, Stack Network, API Service
+    Provider, API Service Provider, API Provider, Profiles, Relative Data, Service
+    API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-batch/actiondescribejobdefinitions-get-openapi.md
+- name: AWS Batch API - Describe Job Definitions
+  x-api-slug: actiondescribejobdefinitions-get
+  description: Describes a list of job definitions.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/aws-batch.jpg
+  humanURL: https://aws.amazon.com/batch/
+  baseURL: :///
+  tags: Amazon Web Services, Jobs, Science, Research, Data, Stack Network, API Service
+    Provider, API Service Provider, API Provider, Profiles, Relative Data, Service
+    API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-batch/actiondescribejobdefinitions-get-openapi.md
+- name: AWS Batch API - Describe Job Definitions
+  x-api-slug: actiondescribejobdefinitions-get
+  description: Describes a list of job definitions.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/aws-batch.jpg
+  humanURL: https://aws.amazon.com/batch/
+  baseURL: :///
+  tags: Amazon Web Services, Jobs, Science, Research, Data, Stack Network, API Service
+    Provider, API Service Provider, API Provider, Profiles, Relative Data, Service
+    API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-batch/actiondescribejobdefinitions-get-openapi.md
+- name: AWS Batch API - Describe Job Definitions
+  x-api-slug: actiondescribejobdefinitions-get
+  description: Describes a list of job definitions.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/aws-batch.jpg
+  humanURL: https://aws.amazon.com/batch/
+  baseURL: :///
+  tags: Amazon Web Services, Jobs, Science, Research, Data, Stack Network, API Service
+    Provider, API Service Provider, API Provider, Profiles, Relative Data, Service
+    API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-batch/actiondescribejobdefinitions-get-openapi.md
+- name: AWS Batch API - Describe Job Definitions
+  x-api-slug: actiondescribejobdefinitions-get
+  description: Describes a list of job definitions.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/aws-batch.jpg
+  humanURL: https://aws.amazon.com/batch/
+  baseURL: :///
+  tags: Amazon Web Services, Jobs, Science, Research, Data, Stack Network, API Service
+    Provider, API Service Provider, API Provider, Profiles, Relative Data, Service
+    API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-batch/actiondescribejobdefinitions-get-openapi.md
+- name: AWS Batch API - Describe Job Definitions
+  x-api-slug: actiondescribejobdefinitions-get
+  description: Describes a list of job definitions.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/aws-batch.jpg
+  humanURL: https://aws.amazon.com/batch/
+  baseURL: :///
+  tags: Amazon Web Services, Jobs, Science, Research, Data, Stack Network, API Service
+    Provider, API Service Provider, API Provider, Profiles, Relative Data, Service
+    API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-batch/actiondescribejobdefinitions-get-openapi.md
+- name: AWS Batch API - Describe Job Definitions
+  x-api-slug: actiondescribejobdefinitions-get
+  description: Describes a list of job definitions.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/aws-batch.jpg
+  humanURL: https://aws.amazon.com/batch/
+  baseURL: :///
+  tags: Amazon Web Services, Jobs, Science, Research, Data, Stack Network, API Service
+    Provider, API Service Provider, API Provider, Profiles, Relative Data, Service
+    API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-batch/actiondescribejobdefinitions-get-openapi.md
+- name: AWS Batch API - Describe Job Definitions
+  x-api-slug: actiondescribejobdefinitions-get
+  description: Describes a list of job definitions.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/aws-batch.jpg
+  humanURL: https://aws.amazon.com/batch/
+  baseURL: :///
+  tags: Amazon Web Services, Jobs, Science, Research, Data, Stack Network, API Service
+    Provider, API Service Provider, API Provider, Profiles, Relative Data, Service
+    API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-batch/actiondescribejobdefinitions-get-openapi.md
+- name: AWS Batch API - Describe Job Queues
+  x-api-slug: actiondescribejobqueues-get
+  description: Describes one or more of your job queues.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/aws-batch.jpg
+  humanURL: https://aws.amazon.com/batch/
+  baseURL: :///
+  tags: Amazon Web Services, Jobs, Science, Research, Data, Stack Network, API Service
+    Provider, API Service Provider, API Provider, Profiles, Relative Data, Service
+    API
+  properties:
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-batch/actiondescribejobqueues-get-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-batch/actiondescribejobqueues-get-openapi.md
+- name: AWS Batch API - Describe Job Queues
+  x-api-slug: actiondescribejobqueues-get
+  description: Describes one or more of your job queues.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/aws-batch.jpg
+  humanURL: https://aws.amazon.com/batch/
+  baseURL: :///
+  tags: Amazon Web Services, Jobs, Science, Research, Data, Stack Network, API Service
+    Provider, API Service Provider, API Provider, Profiles, Relative Data, Service
+    API
+  properties:
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-batch/actiondescribejobqueues-get-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-batch/actiondescribejobqueues-get-openapi.md
+- name: AWS Batch API - Describe Job Queues
+  x-api-slug: actiondescribejobqueues-get
+  description: Describes one or more of your job queues.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/aws-batch.jpg
+  humanURL: https://aws.amazon.com/batch/
+  baseURL: :///
+  tags: Amazon Web Services, Jobs, Science, Research, Data, Stack Network, API Service
+    Provider, API Service Provider, API Provider, Profiles, Relative Data, Service
+    API
+  properties:
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-batch/actiondescribejobqueues-get-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-batch/actiondescribejobqueues-get-openapi.md
+- name: AWS Batch API - Describe Job Queues
+  x-api-slug: actiondescribejobqueues-get
+  description: Describes one or more of your job queues.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/aws-batch.jpg
+  humanURL: https://aws.amazon.com/batch/
+  baseURL: :///
+  tags: Amazon Web Services, Jobs, Science, Research, Data, Stack Network, API Service
+    Provider, API Service Provider, API Provider, Profiles, Relative Data, Service
+    API
+  properties:
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-batch/actiondescribejobqueues-get-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-batch/actiondescribejobqueues-get-openapi.md
+- name: AWS Batch API - Describe Job Queues
+  x-api-slug: actiondescribejobqueues-get
+  description: Describes one or more of your job queues.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/aws-batch.jpg
+  humanURL: https://aws.amazon.com/batch/
+  baseURL: :///
+  tags: Amazon Web Services, Jobs, Science, Research, Data, Stack Network, API Service
+    Provider, API Service Provider, API Provider, Profiles, Relative Data, Service
+    API
+  properties:
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-batch/actiondescribejobqueues-get-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-batch/actiondescribejobqueues-get-openapi.md
+- name: AWS Batch API - Describe Job Queues
+  x-api-slug: actiondescribejobqueues-get
+  description: Describes one or more of your job queues.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/aws-batch.jpg
+  humanURL: https://aws.amazon.com/batch/
+  baseURL: :///
+  tags: Amazon Web Services, Jobs, Science, Research, Data, Stack Network, API Service
+    Provider, API Service Provider, API Provider, Profiles, Relative Data, Service
+    API
+  properties:
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-batch/actiondescribejobqueues-get-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-batch/actiondescribejobqueues-get-openapi.md
+- name: AWS Batch API - Describe Job Queues
+  x-api-slug: actiondescribejobqueues-get
+  description: Describes one or more of your job queues.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/aws-batch.jpg
+  humanURL: https://aws.amazon.com/batch/
+  baseURL: :///
+  tags: Amazon Web Services, Jobs, Science, Research, Data, Stack Network, API Service
+    Provider, API Service Provider, API Provider, Profiles, Relative Data, Service
+    API
+  properties:
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-batch/actiondescribejobqueues-get-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-batch/actiondescribejobqueues-get-openapi.md
+- name: AWS Batch API - Describe Job Queues
+  x-api-slug: actiondescribejobqueues-get
+  description: Describes one or more of your job queues.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/aws-batch.jpg
+  humanURL: https://aws.amazon.com/batch/
+  baseURL: :///
+  tags: Amazon Web Services, Jobs, Science, Research, Data, Stack Network, API Service
+    Provider, API Service Provider, API Provider, Profiles, Relative Data, Service
+    API
+  properties:
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-batch/actiondescribejobqueues-get-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-batch/actiondescribejobqueues-get-openapi.md
+- name: AWS Batch API - Describe Jobs
+  x-api-slug: actiondescribejobs-get
+  description: Describes a list of AWS Batch jobs.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/aws-batch.jpg
+  humanURL: https://aws.amazon.com/batch/
+  baseURL: :///
+  tags: Amazon Web Services, Jobs, Science, Research, Data, Stack Network, API Service
+    Provider, API Service Provider, API Provider, Profiles, Relative Data, Service
+    API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-batch/actiondescribejobs-get-openapi.md
+- name: AWS Batch API - Describe Jobs
+  x-api-slug: actiondescribejobs-get
+  description: Describes a list of AWS Batch jobs.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/aws-batch.jpg
+  humanURL: https://aws.amazon.com/batch/
+  baseURL: :///
+  tags: Amazon Web Services, Jobs, Science, Research, Data, Stack Network, API Service
+    Provider, API Service Provider, API Provider, Profiles, Relative Data, Service
+    API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-batch/actiondescribejobs-get-openapi.md
+- name: AWS Batch API - Describe Jobs
+  x-api-slug: actiondescribejobs-get
+  description: Describes a list of AWS Batch jobs.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/aws-batch.jpg
+  humanURL: https://aws.amazon.com/batch/
+  baseURL: :///
+  tags: Amazon Web Services, Jobs, Science, Research, Data, Stack Network, API Service
+    Provider, API Service Provider, API Provider, Profiles, Relative Data, Service
+    API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-batch/actiondescribejobs-get-openapi.md
+- name: AWS Batch API - Describe Jobs
+  x-api-slug: actiondescribejobs-get
+  description: Describes a list of AWS Batch jobs.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/aws-batch.jpg
+  humanURL: https://aws.amazon.com/batch/
+  baseURL: :///
+  tags: Amazon Web Services, Jobs, Science, Research, Data, Stack Network, API Service
+    Provider, API Service Provider, API Provider, Profiles, Relative Data, Service
+    API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-batch/actiondescribejobs-get-openapi.md
+- name: AWS Batch API - Describe Jobs
+  x-api-slug: actiondescribejobs-get
+  description: Describes a list of AWS Batch jobs.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/aws-batch.jpg
+  humanURL: https://aws.amazon.com/batch/
+  baseURL: :///
+  tags: Amazon Web Services, Jobs, Science, Research, Data, Stack Network, API Service
+    Provider, API Service Provider, API Provider, Profiles, Relative Data, Service
+    API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-batch/actiondescribejobs-get-openapi.md
+- name: AWS Batch API - Describe Jobs
+  x-api-slug: actiondescribejobs-get
+  description: Describes a list of AWS Batch jobs.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/aws-batch.jpg
+  humanURL: https://aws.amazon.com/batch/
+  baseURL: :///
+  tags: Amazon Web Services, Jobs, Science, Research, Data, Stack Network, API Service
+    Provider, API Service Provider, API Provider, Profiles, Relative Data, Service
+    API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-batch/actiondescribejobs-get-openapi.md
+- name: AWS Batch API - Describe Jobs
+  x-api-slug: actiondescribejobs-get
+  description: Describes a list of AWS Batch jobs.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/aws-batch.jpg
+  humanURL: https://aws.amazon.com/batch/
+  baseURL: :///
+  tags: Amazon Web Services, Jobs, Science, Research, Data, Stack Network, API Service
+    Provider, API Service Provider, API Provider, Profiles, Relative Data, Service
+    API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-batch/actiondescribejobs-get-openapi.md
+- name: AWS Batch API - Describe Jobs
+  x-api-slug: actiondescribejobs-get
+  description: Describes a list of AWS Batch jobs.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/aws-batch.jpg
+  humanURL: https://aws.amazon.com/batch/
+  baseURL: :///
+  tags: Amazon Web Services, Jobs, Science, Research, Data, Stack Network, API Service
+    Provider, API Service Provider, API Provider, Profiles, Relative Data, Service
+    API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-batch/actiondescribejobs-get-openapi.md
+- name: AWS Batch API - Describe Compute Environments
+  x-api-slug: actiondescribecomputeenvironments-get
+  description: Describes one or more of your compute environments.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/aws-batch.jpg
+  humanURL: https://aws.amazon.com/batch/
+  baseURL: :///
+  tags: Amazon Web Services, Jobs, Science, Research, Data, Stack Network, API Service
+    Provider, API Service Provider, API Provider, Profiles, Relative Data, Service
+    API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-batch/actiondescribecomputeenvironments-get-openapi.md
+- name: AWS Batch API - Describe Compute Environments
+  x-api-slug: actiondescribecomputeenvironments-get
+  description: Describes one or more of your compute environments.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/aws-batch.jpg
+  humanURL: https://aws.amazon.com/batch/
+  baseURL: :///
+  tags: Amazon Web Services, Jobs, Science, Research, Data, Stack Network, API Service
+    Provider, API Service Provider, API Provider, Profiles, Relative Data, Service
+    API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-batch/actiondescribecomputeenvironments-get-openapi.md
+- name: AWS Batch API - Describe Compute Environments
+  x-api-slug: actiondescribecomputeenvironments-get
+  description: Describes one or more of your compute environments.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/aws-batch.jpg
+  humanURL: https://aws.amazon.com/batch/
+  baseURL: :///
+  tags: Amazon Web Services, Jobs, Science, Research, Data, Stack Network, API Service
+    Provider, API Service Provider, API Provider, Profiles, Relative Data, Service
+    API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-batch/actiondescribecomputeenvironments-get-openapi.md
+- name: AWS Batch API - Describe Compute Environments
+  x-api-slug: actiondescribecomputeenvironments-get
+  description: Describes one or more of your compute environments.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/aws-batch.jpg
+  humanURL: https://aws.amazon.com/batch/
+  baseURL: :///
+  tags: Amazon Web Services, Jobs, Science, Research, Data, Stack Network, API Service
+    Provider, API Service Provider, API Provider, Profiles, Relative Data, Service
+    API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-batch/actiondescribecomputeenvironments-get-openapi.md
+- name: AWS Batch API - Describe Compute Environments
+  x-api-slug: actiondescribecomputeenvironments-get
+  description: Describes one or more of your compute environments.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/aws-batch.jpg
+  humanURL: https://aws.amazon.com/batch/
+  baseURL: :///
+  tags: Amazon Web Services, Jobs, Science, Research, Data, Stack Network, API Service
+    Provider, API Service Provider, API Provider, Profiles, Relative Data, Service
+    API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-batch/actiondescribecomputeenvironments-get-openapi.md
+- name: AWS Batch API - Describe Compute Environments
+  x-api-slug: actiondescribecomputeenvironments-get
+  description: Describes one or more of your compute environments.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/aws-batch.jpg
+  humanURL: https://aws.amazon.com/batch/
+  baseURL: :///
+  tags: Amazon Web Services, Jobs, Science, Research, Data, Stack Network, API Service
+    Provider, API Service Provider, API Provider, Profiles, Relative Data, Service
+    API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-batch/actiondescribecomputeenvironments-get-openapi.md
+- name: AWS Batch API - Describe Compute Environments
+  x-api-slug: actiondescribecomputeenvironments-get
+  description: Describes one or more of your compute environments.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/aws-batch.jpg
+  humanURL: https://aws.amazon.com/batch/
+  baseURL: :///
+  tags: Amazon Web Services, Jobs, Science, Research, Data, Stack Network, API Service
+    Provider, API Service Provider, API Provider, Profiles, Relative Data, Service
+    API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-batch/actiondescribecomputeenvironments-get-openapi.md
+- name: AWS Batch API - Describe Compute Environments
+  x-api-slug: actiondescribecomputeenvironments-get
+  description: Describes one or more of your compute environments.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/aws-batch.jpg
+  humanURL: https://aws.amazon.com/batch/
+  baseURL: :///
+  tags: Amazon Web Services, Jobs, Science, Research, Data, Stack Network, API Service
+    Provider, API Service Provider, API Provider, Profiles, Relative Data, Service
+    API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-batch/actiondescribecomputeenvironments-get-openapi.md
+- name: AWS Batch API - Describe Compute Environments
+  x-api-slug: actiondescribecomputeenvironments-get
+  description: Describes one or more of your compute environments.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/aws-batch.jpg
+  humanURL: https://aws.amazon.com/batch/
+  baseURL: :///
+  tags: Amazon Web Services, Jobs, Science, Research, Data, Stack Network, API Service
+    Provider, API Service Provider, API Provider, Profiles, Relative Data, Service
+    API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-batch/actiondescribecomputeenvironments-get-openapi.md
+- name: AWS Batch API - Describe Compute Environments
+  x-api-slug: actiondescribecomputeenvironments-get
+  description: Describes one or more of your compute environments.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/aws-batch.jpg
+  humanURL: https://aws.amazon.com/batch/
+  baseURL: :///
+  tags: Amazon Web Services, Jobs, Science, Research, Data, Stack Network, API Service
+    Provider, API Service Provider, API Provider, Profiles, Relative Data, Service
+    API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-batch/actiondescribecomputeenvironments-get-openapi.md
+- name: AWS Batch API - Describe Compute Environments
+  x-api-slug: actiondescribecomputeenvironments-get
+  description: Describes one or more of your compute environments.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/aws-batch.jpg
+  humanURL: https://aws.amazon.com/batch/
+  baseURL: :///
+  tags: Amazon Web Services, Jobs, Science, Research, Data, Stack Network, API Service
+    Provider, API Service Provider, API Provider, Profiles, Relative Data, Service
+    API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-batch/actiondescribecomputeenvironments-get-openapi.md
+- name: AWS Batch API - Describe Job Definitions
+  x-api-slug: actiondescribejobdefinitions-get
+  description: Describes a list of job definitions.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/aws-batch.jpg
+  humanURL: https://aws.amazon.com/batch/
+  baseURL: :///
+  tags: Amazon Web Services, Jobs, Science, Research, Data, Stack Network, API Service
+    Provider, API Service Provider, API Provider, Profiles, Relative Data, Service
+    API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-batch/actiondescribejobdefinitions-get-openapi.md
+- name: AWS Batch API - Describe Job Definitions
+  x-api-slug: actiondescribejobdefinitions-get
+  description: Describes a list of job definitions.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/aws-batch.jpg
+  humanURL: https://aws.amazon.com/batch/
+  baseURL: :///
+  tags: Amazon Web Services, Jobs, Science, Research, Data, Stack Network, API Service
+    Provider, API Service Provider, API Provider, Profiles, Relative Data, Service
+    API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-batch/actiondescribejobdefinitions-get-openapi.md
+- name: AWS Batch API - Describe Job Definitions
+  x-api-slug: actiondescribejobdefinitions-get
+  description: Describes a list of job definitions.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/aws-batch.jpg
+  humanURL: https://aws.amazon.com/batch/
+  baseURL: :///
+  tags: Amazon Web Services, Jobs, Science, Research, Data, Stack Network, API Service
+    Provider, API Service Provider, API Provider, Profiles, Relative Data, Service
+    API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-batch/actiondescribejobdefinitions-get-openapi.md
+- name: AWS Batch API - Describe Job Definitions
+  x-api-slug: actiondescribejobdefinitions-get
+  description: Describes a list of job definitions.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/aws-batch.jpg
+  humanURL: https://aws.amazon.com/batch/
+  baseURL: :///
+  tags: Amazon Web Services, Jobs, Science, Research, Data, Stack Network, API Service
+    Provider, API Service Provider, API Provider, Profiles, Relative Data, Service
+    API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-batch/actiondescribejobdefinitions-get-openapi.md
+- name: AWS Batch API - Describe Job Definitions
+  x-api-slug: actiondescribejobdefinitions-get
+  description: Describes a list of job definitions.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/aws-batch.jpg
+  humanURL: https://aws.amazon.com/batch/
+  baseURL: :///
+  tags: Amazon Web Services, Jobs, Science, Research, Data, Stack Network, API Service
+    Provider, API Service Provider, API Provider, Profiles, Relative Data, Service
+    API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-batch/actiondescribejobdefinitions-get-openapi.md
+- name: AWS Batch API - Describe Job Definitions
+  x-api-slug: actiondescribejobdefinitions-get
+  description: Describes a list of job definitions.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/aws-batch.jpg
+  humanURL: https://aws.amazon.com/batch/
+  baseURL: :///
+  tags: Amazon Web Services, Jobs, Science, Research, Data, Stack Network, API Service
+    Provider, API Service Provider, API Provider, Profiles, Relative Data, Service
+    API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-batch/actiondescribejobdefinitions-get-openapi.md
+- name: AWS Batch API - Describe Job Definitions
+  x-api-slug: actiondescribejobdefinitions-get
+  description: Describes a list of job definitions.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/aws-batch.jpg
+  humanURL: https://aws.amazon.com/batch/
+  baseURL: :///
+  tags: Amazon Web Services, Jobs, Science, Research, Data, Stack Network, API Service
+    Provider, API Service Provider, API Provider, Profiles, Relative Data, Service
+    API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-batch/actiondescribejobdefinitions-get-openapi.md
+- name: AWS Batch API - Describe Job Definitions
+  x-api-slug: actiondescribejobdefinitions-get
+  description: Describes a list of job definitions.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/aws-batch.jpg
+  humanURL: https://aws.amazon.com/batch/
+  baseURL: :///
+  tags: Amazon Web Services, Jobs, Science, Research, Data, Stack Network, API Service
+    Provider, API Service Provider, API Provider, Profiles, Relative Data, Service
+    API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-batch/actiondescribejobdefinitions-get-openapi.md
+- name: AWS Batch API - Describe Job Definitions
+  x-api-slug: actiondescribejobdefinitions-get
+  description: Describes a list of job definitions.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/aws-batch.jpg
+  humanURL: https://aws.amazon.com/batch/
+  baseURL: :///
+  tags: Amazon Web Services, Jobs, Science, Research, Data, Stack Network, API Service
+    Provider, API Service Provider, API Provider, Profiles, Relative Data, Service
+    API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-batch/actiondescribejobdefinitions-get-openapi.md
+- name: AWS Batch API - Describe Job Definitions
+  x-api-slug: actiondescribejobdefinitions-get
+  description: Describes a list of job definitions.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/aws-batch.jpg
+  humanURL: https://aws.amazon.com/batch/
+  baseURL: :///
+  tags: Amazon Web Services, Jobs, Science, Research, Data, Stack Network, API Service
+    Provider, API Service Provider, API Provider, Profiles, Relative Data, Service
+    API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-batch/actiondescribejobdefinitions-get-openapi.md
+- name: AWS Batch API - Describe Job Definitions
+  x-api-slug: actiondescribejobdefinitions-get
+  description: Describes a list of job definitions.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/aws-batch.jpg
+  humanURL: https://aws.amazon.com/batch/
+  baseURL: :///
+  tags: Amazon Web Services, Jobs, Science, Research, Data, Stack Network, API Service
+    Provider, API Service Provider, API Provider, Profiles, Relative Data, Service
+    API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-batch/actiondescribejobdefinitions-get-openapi.md
 - name: AWS Batch API - Describe Job Queues
   x-api-slug: actiondescribejobqueues-get
   description: Describes one or more of your job queues.
@@ -173,9 +913,9 @@ apis:
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-batch/actiondescribejobqueues-get-postman.md
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-batch/actiondescribejobqueues-get-openapi.md
-- name: AWS Batch API - Describe Job Queues
-  x-api-slug: actiondescribejobqueues-get
-  description: Describes one or more of your job queues.
+- name: AWS Batch API - Describe Jobs
+  x-api-slug: actiondescribejobs-get
+  description: Describes a list of AWS Batch jobs.
   image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/aws-batch.jpg
   humanURL: https://aws.amazon.com/batch/
   baseURL: :///
@@ -183,13 +923,11 @@ apis:
     Provider, API Service Provider, API Provider, Profiles, Relative Data, Service
     API
   properties:
-  - type: x-postman-collection
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-batch/actiondescribejobqueues-get-postman.md
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-batch/actiondescribejobqueues-get-openapi.md
-- name: AWS Batch API - Describe Job Queues
-  x-api-slug: actiondescribejobqueues-get
-  description: Describes one or more of your job queues.
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-batch/actiondescribejobs-get-openapi.md
+- name: AWS Batch API - Describe Jobs
+  x-api-slug: actiondescribejobs-get
+  description: Describes a list of AWS Batch jobs.
   image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/aws-batch.jpg
   humanURL: https://aws.amazon.com/batch/
   baseURL: :///
@@ -197,13 +935,11 @@ apis:
     Provider, API Service Provider, API Provider, Profiles, Relative Data, Service
     API
   properties:
-  - type: x-postman-collection
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-batch/actiondescribejobqueues-get-postman.md
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-batch/actiondescribejobqueues-get-openapi.md
-- name: AWS Batch API - Describe Job Queues
-  x-api-slug: actiondescribejobqueues-get
-  description: Describes one or more of your job queues.
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-batch/actiondescribejobs-get-openapi.md
+- name: AWS Batch API - Describe Jobs
+  x-api-slug: actiondescribejobs-get
+  description: Describes a list of AWS Batch jobs.
   image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/aws-batch.jpg
   humanURL: https://aws.amazon.com/batch/
   baseURL: :///
@@ -211,13 +947,11 @@ apis:
     Provider, API Service Provider, API Provider, Profiles, Relative Data, Service
     API
   properties:
-  - type: x-postman-collection
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-batch/actiondescribejobqueues-get-postman.md
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-batch/actiondescribejobqueues-get-openapi.md
-- name: AWS Batch API - Describe Job Queues
-  x-api-slug: actiondescribejobqueues-get
-  description: Describes one or more of your job queues.
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-batch/actiondescribejobs-get-openapi.md
+- name: AWS Batch API - Describe Jobs
+  x-api-slug: actiondescribejobs-get
+  description: Describes a list of AWS Batch jobs.
   image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/aws-batch.jpg
   humanURL: https://aws.amazon.com/batch/
   baseURL: :///
@@ -225,13 +959,11 @@ apis:
     Provider, API Service Provider, API Provider, Profiles, Relative Data, Service
     API
   properties:
-  - type: x-postman-collection
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-batch/actiondescribejobqueues-get-postman.md
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-batch/actiondescribejobqueues-get-openapi.md
-- name: AWS Batch API - Describe Job Queues
-  x-api-slug: actiondescribejobqueues-get
-  description: Describes one or more of your job queues.
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-batch/actiondescribejobs-get-openapi.md
+- name: AWS Batch API - Describe Jobs
+  x-api-slug: actiondescribejobs-get
+  description: Describes a list of AWS Batch jobs.
   image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/aws-batch.jpg
   humanURL: https://aws.amazon.com/batch/
   baseURL: :///
@@ -239,13 +971,11 @@ apis:
     Provider, API Service Provider, API Provider, Profiles, Relative Data, Service
     API
   properties:
-  - type: x-postman-collection
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-batch/actiondescribejobqueues-get-postman.md
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-batch/actiondescribejobqueues-get-openapi.md
-- name: AWS Batch API - Describe Job Queues
-  x-api-slug: actiondescribejobqueues-get
-  description: Describes one or more of your job queues.
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-batch/actiondescribejobs-get-openapi.md
+- name: AWS Batch API - Describe Jobs
+  x-api-slug: actiondescribejobs-get
+  description: Describes a list of AWS Batch jobs.
   image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/aws-batch.jpg
   humanURL: https://aws.amazon.com/batch/
   baseURL: :///
@@ -253,13 +983,11 @@ apis:
     Provider, API Service Provider, API Provider, Profiles, Relative Data, Service
     API
   properties:
-  - type: x-postman-collection
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-batch/actiondescribejobqueues-get-postman.md
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-batch/actiondescribejobqueues-get-openapi.md
-- name: AWS Batch API - Describe Job Queues
-  x-api-slug: actiondescribejobqueues-get
-  description: Describes one or more of your job queues.
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-batch/actiondescribejobs-get-openapi.md
+- name: AWS Batch API - Describe Jobs
+  x-api-slug: actiondescribejobs-get
+  description: Describes a list of AWS Batch jobs.
   image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/aws-batch.jpg
   humanURL: https://aws.amazon.com/batch/
   baseURL: :///
@@ -267,13 +995,11 @@ apis:
     Provider, API Service Provider, API Provider, Profiles, Relative Data, Service
     API
   properties:
-  - type: x-postman-collection
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-batch/actiondescribejobqueues-get-postman.md
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-batch/actiondescribejobqueues-get-openapi.md
-- name: AWS Batch API - Describe Job Queues
-  x-api-slug: actiondescribejobqueues-get
-  description: Describes one or more of your job queues.
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-batch/actiondescribejobs-get-openapi.md
+- name: AWS Batch API - Describe Jobs
+  x-api-slug: actiondescribejobs-get
+  description: Describes a list of AWS Batch jobs.
   image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/aws-batch.jpg
   humanURL: https://aws.amazon.com/batch/
   baseURL: :///
@@ -281,13 +1007,11 @@ apis:
     Provider, API Service Provider, API Provider, Profiles, Relative Data, Service
     API
   properties:
-  - type: x-postman-collection
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-batch/actiondescribejobqueues-get-postman.md
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-batch/actiondescribejobqueues-get-openapi.md
-- name: AWS Batch API - Describe Job Queues
-  x-api-slug: actiondescribejobqueues-get
-  description: Describes one or more of your job queues.
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-batch/actiondescribejobs-get-openapi.md
+- name: AWS Batch API - Describe Jobs
+  x-api-slug: actiondescribejobs-get
+  description: Describes a list of AWS Batch jobs.
   image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/aws-batch.jpg
   humanURL: https://aws.amazon.com/batch/
   baseURL: :///
@@ -295,13 +1019,11 @@ apis:
     Provider, API Service Provider, API Provider, Profiles, Relative Data, Service
     API
   properties:
-  - type: x-postman-collection
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-batch/actiondescribejobqueues-get-postman.md
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-batch/actiondescribejobqueues-get-openapi.md
-- name: AWS Batch API - Describe Job Queues
-  x-api-slug: actiondescribejobqueues-get
-  description: Describes one or more of your job queues.
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-batch/actiondescribejobs-get-openapi.md
+- name: AWS Batch API - Describe Jobs
+  x-api-slug: actiondescribejobs-get
+  description: Describes a list of AWS Batch jobs.
   image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/aws-batch.jpg
   humanURL: https://aws.amazon.com/batch/
   baseURL: :///
@@ -309,10 +1031,20 @@ apis:
     Provider, API Service Provider, API Provider, Profiles, Relative Data, Service
     API
   properties:
-  - type: x-postman-collection
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-batch/actiondescribejobqueues-get-postman.md
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-batch/actiondescribejobqueues-get-openapi.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-batch/actiondescribejobs-get-openapi.md
+- name: AWS Batch API - Describe Jobs
+  x-api-slug: actiondescribejobs-get
+  description: Describes a list of AWS Batch jobs.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/aws-batch.jpg
+  humanURL: https://aws.amazon.com/batch/
+  baseURL: :///
+  tags: Amazon Web Services, Jobs, Science, Research, Data, Stack Network, API Service
+    Provider, API Service Provider, API Provider, Profiles, Relative Data, Service
+    API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-batch/actiondescribejobs-get-openapi.md
 x-common:
 - type: x-api-gallery
   url: http://aws.auto.scaling.api.gallery.streamdata.io

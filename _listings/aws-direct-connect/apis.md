@@ -18,11 +18,45 @@ image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/l
 x-kinRank: "10"
 x-alexaRank: "0"
 tags: Descriptions
-created: "2018-08-26"
-modified: "2018-08-26"
+created: "2018-08-27"
+modified: "2018-08-27"
 url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-direct-connect/apis.md
 specificationVersion: "0.14"
 apis:
+- name: AWS Direct Connect API - Describe Connection Loa
+  x-api-slug: actiondescribeconnectionloa-get
+  description: Returns the LOA-CFA for a Connection.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Networking_AWSDirectConnect.png
+  humanURL: https://aws.amazon.com/directconnect/
+  baseURL: :///
+  tags: Amazon Web Services, Stack Network, API Service Provider, API Service Provider,
+    API Provider, Profiles, Relative Data, Service API, Networks
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-direct-connect/actiondescribeconnectionloa-get-openapi.md
+- name: AWS Direct Connect API - Describe Connections
+  x-api-slug: actiondescribeconnections-get
+  description: Displays all connections in this region.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Networking_AWSDirectConnect.png
+  humanURL: https://aws.amazon.com/directconnect/
+  baseURL: :///
+  tags: Amazon Web Services, Stack Network, API Service Provider, API Service Provider,
+    API Provider, Profiles, Relative Data, Service API, Networks
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-direct-connect/actiondescribeconnections-get-openapi.md
+- name: AWS Direct Connect API - Describe Connections On Interconnect
+  x-api-slug: actiondescribeconnectionsoninterconnect-get
+  description: Return a list of connections that have been provisioned on the given
+    interconnect.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Networking_AWSDirectConnect.png
+  humanURL: https://aws.amazon.com/directconnect/
+  baseURL: :///
+  tags: Amazon Web Services, Stack Network, API Service Provider, API Service Provider,
+    API Provider, Profiles, Relative Data, Service API, Networks
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-direct-connect/actiondescribeconnectionsoninterconnect-get-openapi.md
 - name: AWS Direct Connect API - Describe Interconnect Loa
   x-api-slug: actiondescribeinterconnectloa-get
   description: Returns the LOA-CFA for an Interconnect.
@@ -103,6 +137,310 @@ apis:
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-direct-connect/actiondescribelocations-get-postman.md
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-direct-connect/actiondescribelocations-get-openapi.md
+- name: AWS Direct Connect API - Describe Tags
+  x-api-slug: actiondescribetags-get
+  description: Describes the tags associated with the specified Direct Connect resources.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Networking_AWSDirectConnect.png
+  humanURL: https://aws.amazon.com/directconnect/
+  baseURL: :///
+  tags: Amazon Web Services, Stack Network, API Service Provider, API Service Provider,
+    API Provider, Profiles, Relative Data, Service API, Networks
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-direct-connect/actiondescribetags-get-openapi.md
+- name: AWS Direct Connect API - Describe Tags
+  x-api-slug: actiondescribetags-get
+  description: Describes the tags associated with the specified Direct Connect resources.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Networking_AWSDirectConnect.png
+  humanURL: https://aws.amazon.com/directconnect/
+  baseURL: :///
+  tags: Amazon Web Services, Stack Network, API Service Provider, API Service Provider,
+    API Provider, Profiles, Relative Data, Service API, Networks
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-direct-connect/actiondescribetags-get-openapi.md
+- name: AWS Direct Connect API - Describe Virtual Gateways
+  x-api-slug: actiondescribevirtualgateways-get
+  description: Returns a list of virtual private gateways owned by the AWS account.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Networking_AWSDirectConnect.png
+  humanURL: https://aws.amazon.com/directconnect/
+  baseURL: :///
+  tags: Amazon Web Services, Stack Network, API Service Provider, API Service Provider,
+    API Provider, Profiles, Relative Data, Service API, Networks
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-direct-connect/actiondescribevirtualgateways-get-openapi.md
+- name: AWS Direct Connect API - Describe Virtual Gateways
+  x-api-slug: actiondescribevirtualgateways-get
+  description: Returns a list of virtual private gateways owned by the AWS account.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Networking_AWSDirectConnect.png
+  humanURL: https://aws.amazon.com/directconnect/
+  baseURL: :///
+  tags: Amazon Web Services, Stack Network, API Service Provider, API Service Provider,
+    API Provider, Profiles, Relative Data, Service API, Networks
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-direct-connect/actiondescribevirtualgateways-get-openapi.md
+- name: AWS Direct Connect API - Describe Virtual Interfaces
+  x-api-slug: actiondescribevirtualinterfaces-get
+  description: Displays all virtual interfaces for an AWS account.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Networking_AWSDirectConnect.png
+  humanURL: https://aws.amazon.com/directconnect/
+  baseURL: :///
+  tags: Amazon Web Services, Stack Network, API Service Provider, API Service Provider,
+    API Provider, Profiles, Relative Data, Service API, Networks
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-direct-connect/actiondescribevirtualinterfaces-get-openapi.md
+- name: AWS Direct Connect API - Describe Virtual Interfaces
+  x-api-slug: actiondescribevirtualinterfaces-get
+  description: Displays all virtual interfaces for an AWS account.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Networking_AWSDirectConnect.png
+  humanURL: https://aws.amazon.com/directconnect/
+  baseURL: :///
+  tags: Amazon Web Services, Stack Network, API Service Provider, API Service Provider,
+    API Provider, Profiles, Relative Data, Service API, Networks
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-direct-connect/actiondescribevirtualinterfaces-get-openapi.md
+- name: AWS Direct Connect API - Describe Connection Loa
+  x-api-slug: actiondescribeconnectionloa-get
+  description: Returns the LOA-CFA for a Connection.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Networking_AWSDirectConnect.png
+  humanURL: https://aws.amazon.com/directconnect/
+  baseURL: :///
+  tags: Amazon Web Services, Stack Network, API Service Provider, API Service Provider,
+    API Provider, Profiles, Relative Data, Service API, Networks
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-direct-connect/actiondescribeconnectionloa-get-openapi.md
+- name: AWS Direct Connect API - Describe Connection Loa
+  x-api-slug: actiondescribeconnectionloa-get
+  description: Returns the LOA-CFA for a Connection.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Networking_AWSDirectConnect.png
+  humanURL: https://aws.amazon.com/directconnect/
+  baseURL: :///
+  tags: Amazon Web Services, Stack Network, API Service Provider, API Service Provider,
+    API Provider, Profiles, Relative Data, Service API, Networks
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-direct-connect/actiondescribeconnectionloa-get-openapi.md
+- name: AWS Direct Connect API - Describe Connection Loa
+  x-api-slug: actiondescribeconnectionloa-get
+  description: Returns the LOA-CFA for a Connection.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Networking_AWSDirectConnect.png
+  humanURL: https://aws.amazon.com/directconnect/
+  baseURL: :///
+  tags: Amazon Web Services, Stack Network, API Service Provider, API Service Provider,
+    API Provider, Profiles, Relative Data, Service API, Networks
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-direct-connect/actiondescribeconnectionloa-get-openapi.md
+- name: AWS Direct Connect API - Describe Connection Loa
+  x-api-slug: actiondescribeconnectionloa-get
+  description: Returns the LOA-CFA for a Connection.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Networking_AWSDirectConnect.png
+  humanURL: https://aws.amazon.com/directconnect/
+  baseURL: :///
+  tags: Amazon Web Services, Stack Network, API Service Provider, API Service Provider,
+    API Provider, Profiles, Relative Data, Service API, Networks
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-direct-connect/actiondescribeconnectionloa-get-openapi.md
+- name: AWS Direct Connect API - Describe Connection Loa
+  x-api-slug: actiondescribeconnectionloa-get
+  description: Returns the LOA-CFA for a Connection.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Networking_AWSDirectConnect.png
+  humanURL: https://aws.amazon.com/directconnect/
+  baseURL: :///
+  tags: Amazon Web Services, Stack Network, API Service Provider, API Service Provider,
+    API Provider, Profiles, Relative Data, Service API, Networks
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-direct-connect/actiondescribeconnectionloa-get-openapi.md
+- name: AWS Direct Connect API - Describe Connection Loa
+  x-api-slug: actiondescribeconnectionloa-get
+  description: Returns the LOA-CFA for a Connection.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Networking_AWSDirectConnect.png
+  humanURL: https://aws.amazon.com/directconnect/
+  baseURL: :///
+  tags: Amazon Web Services, Stack Network, API Service Provider, API Service Provider,
+    API Provider, Profiles, Relative Data, Service API, Networks
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-direct-connect/actiondescribeconnectionloa-get-openapi.md
+- name: AWS Direct Connect API - Describe Connection Loa
+  x-api-slug: actiondescribeconnectionloa-get
+  description: Returns the LOA-CFA for a Connection.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Networking_AWSDirectConnect.png
+  humanURL: https://aws.amazon.com/directconnect/
+  baseURL: :///
+  tags: Amazon Web Services, Stack Network, API Service Provider, API Service Provider,
+    API Provider, Profiles, Relative Data, Service API, Networks
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-direct-connect/actiondescribeconnectionloa-get-openapi.md
+- name: AWS Direct Connect API - Describe Connections
+  x-api-slug: actiondescribeconnections-get
+  description: Displays all connections in this region.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Networking_AWSDirectConnect.png
+  humanURL: https://aws.amazon.com/directconnect/
+  baseURL: :///
+  tags: Amazon Web Services, Stack Network, API Service Provider, API Service Provider,
+    API Provider, Profiles, Relative Data, Service API, Networks
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-direct-connect/actiondescribeconnections-get-openapi.md
+- name: AWS Direct Connect API - Describe Connections
+  x-api-slug: actiondescribeconnections-get
+  description: Displays all connections in this region.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Networking_AWSDirectConnect.png
+  humanURL: https://aws.amazon.com/directconnect/
+  baseURL: :///
+  tags: Amazon Web Services, Stack Network, API Service Provider, API Service Provider,
+    API Provider, Profiles, Relative Data, Service API, Networks
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-direct-connect/actiondescribeconnections-get-openapi.md
+- name: AWS Direct Connect API - Describe Connections
+  x-api-slug: actiondescribeconnections-get
+  description: Displays all connections in this region.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Networking_AWSDirectConnect.png
+  humanURL: https://aws.amazon.com/directconnect/
+  baseURL: :///
+  tags: Amazon Web Services, Stack Network, API Service Provider, API Service Provider,
+    API Provider, Profiles, Relative Data, Service API, Networks
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-direct-connect/actiondescribeconnections-get-openapi.md
+- name: AWS Direct Connect API - Describe Connections
+  x-api-slug: actiondescribeconnections-get
+  description: Displays all connections in this region.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Networking_AWSDirectConnect.png
+  humanURL: https://aws.amazon.com/directconnect/
+  baseURL: :///
+  tags: Amazon Web Services, Stack Network, API Service Provider, API Service Provider,
+    API Provider, Profiles, Relative Data, Service API, Networks
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-direct-connect/actiondescribeconnections-get-openapi.md
+- name: AWS Direct Connect API - Describe Connections
+  x-api-slug: actiondescribeconnections-get
+  description: Displays all connections in this region.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Networking_AWSDirectConnect.png
+  humanURL: https://aws.amazon.com/directconnect/
+  baseURL: :///
+  tags: Amazon Web Services, Stack Network, API Service Provider, API Service Provider,
+    API Provider, Profiles, Relative Data, Service API, Networks
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-direct-connect/actiondescribeconnections-get-openapi.md
+- name: AWS Direct Connect API - Describe Connections
+  x-api-slug: actiondescribeconnections-get
+  description: Displays all connections in this region.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Networking_AWSDirectConnect.png
+  humanURL: https://aws.amazon.com/directconnect/
+  baseURL: :///
+  tags: Amazon Web Services, Stack Network, API Service Provider, API Service Provider,
+    API Provider, Profiles, Relative Data, Service API, Networks
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-direct-connect/actiondescribeconnections-get-openapi.md
+- name: AWS Direct Connect API - Describe Connections
+  x-api-slug: actiondescribeconnections-get
+  description: Displays all connections in this region.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Networking_AWSDirectConnect.png
+  humanURL: https://aws.amazon.com/directconnect/
+  baseURL: :///
+  tags: Amazon Web Services, Stack Network, API Service Provider, API Service Provider,
+    API Provider, Profiles, Relative Data, Service API, Networks
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-direct-connect/actiondescribeconnections-get-openapi.md
+- name: AWS Direct Connect API - Describe Connections On Interconnect
+  x-api-slug: actiondescribeconnectionsoninterconnect-get
+  description: Return a list of connections that have been provisioned on the given
+    interconnect.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Networking_AWSDirectConnect.png
+  humanURL: https://aws.amazon.com/directconnect/
+  baseURL: :///
+  tags: Amazon Web Services, Stack Network, API Service Provider, API Service Provider,
+    API Provider, Profiles, Relative Data, Service API, Networks
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-direct-connect/actiondescribeconnectionsoninterconnect-get-openapi.md
+- name: AWS Direct Connect API - Describe Connections On Interconnect
+  x-api-slug: actiondescribeconnectionsoninterconnect-get
+  description: Return a list of connections that have been provisioned on the given
+    interconnect.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Networking_AWSDirectConnect.png
+  humanURL: https://aws.amazon.com/directconnect/
+  baseURL: :///
+  tags: Amazon Web Services, Stack Network, API Service Provider, API Service Provider,
+    API Provider, Profiles, Relative Data, Service API, Networks
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-direct-connect/actiondescribeconnectionsoninterconnect-get-openapi.md
+- name: AWS Direct Connect API - Describe Connections On Interconnect
+  x-api-slug: actiondescribeconnectionsoninterconnect-get
+  description: Return a list of connections that have been provisioned on the given
+    interconnect.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Networking_AWSDirectConnect.png
+  humanURL: https://aws.amazon.com/directconnect/
+  baseURL: :///
+  tags: Amazon Web Services, Stack Network, API Service Provider, API Service Provider,
+    API Provider, Profiles, Relative Data, Service API, Networks
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-direct-connect/actiondescribeconnectionsoninterconnect-get-openapi.md
+- name: AWS Direct Connect API - Describe Connections On Interconnect
+  x-api-slug: actiondescribeconnectionsoninterconnect-get
+  description: Return a list of connections that have been provisioned on the given
+    interconnect.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Networking_AWSDirectConnect.png
+  humanURL: https://aws.amazon.com/directconnect/
+  baseURL: :///
+  tags: Amazon Web Services, Stack Network, API Service Provider, API Service Provider,
+    API Provider, Profiles, Relative Data, Service API, Networks
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-direct-connect/actiondescribeconnectionsoninterconnect-get-openapi.md
+- name: AWS Direct Connect API - Describe Connections On Interconnect
+  x-api-slug: actiondescribeconnectionsoninterconnect-get
+  description: Return a list of connections that have been provisioned on the given
+    interconnect.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Networking_AWSDirectConnect.png
+  humanURL: https://aws.amazon.com/directconnect/
+  baseURL: :///
+  tags: Amazon Web Services, Stack Network, API Service Provider, API Service Provider,
+    API Provider, Profiles, Relative Data, Service API, Networks
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-direct-connect/actiondescribeconnectionsoninterconnect-get-openapi.md
+- name: AWS Direct Connect API - Describe Connections On Interconnect
+  x-api-slug: actiondescribeconnectionsoninterconnect-get
+  description: Return a list of connections that have been provisioned on the given
+    interconnect.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Networking_AWSDirectConnect.png
+  humanURL: https://aws.amazon.com/directconnect/
+  baseURL: :///
+  tags: Amazon Web Services, Stack Network, API Service Provider, API Service Provider,
+    API Provider, Profiles, Relative Data, Service API, Networks
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-direct-connect/actiondescribeconnectionsoninterconnect-get-openapi.md
+- name: AWS Direct Connect API - Describe Connections On Interconnect
+  x-api-slug: actiondescribeconnectionsoninterconnect-get
+  description: Return a list of connections that have been provisioned on the given
+    interconnect.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Networking_AWSDirectConnect.png
+  humanURL: https://aws.amazon.com/directconnect/
+  baseURL: :///
+  tags: Amazon Web Services, Stack Network, API Service Provider, API Service Provider,
+    API Provider, Profiles, Relative Data, Service API, Networks
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-direct-connect/actiondescribeconnectionsoninterconnect-get-openapi.md
 - name: AWS Direct Connect API - Describe Interconnect Loa
   x-api-slug: actiondescribeinterconnectloa-get
   description: Returns the LOA-CFA for an Interconnect.
@@ -423,6 +761,457 @@ apis:
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-direct-connect/actiondescribelocations-get-postman.md
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-direct-connect/actiondescribelocations-get-openapi.md
+- name: AWS Direct Connect API - Describe Tags
+  x-api-slug: actiondescribetags-get
+  description: Describes the tags associated with the specified Direct Connect resources.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Networking_AWSDirectConnect.png
+  humanURL: https://aws.amazon.com/directconnect/
+  baseURL: :///
+  tags: Amazon Web Services, Stack Network, API Service Provider, API Service Provider,
+    API Provider, Profiles, Relative Data, Service API, Networks
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-direct-connect/actiondescribetags-get-openapi.md
+- name: AWS Direct Connect API - Describe Tags
+  x-api-slug: actiondescribetags-get
+  description: Describes the tags associated with the specified Direct Connect resources.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Networking_AWSDirectConnect.png
+  humanURL: https://aws.amazon.com/directconnect/
+  baseURL: :///
+  tags: Amazon Web Services, Stack Network, API Service Provider, API Service Provider,
+    API Provider, Profiles, Relative Data, Service API, Networks
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-direct-connect/actiondescribetags-get-openapi.md
+- name: AWS Direct Connect API - Describe Tags
+  x-api-slug: actiondescribetags-get
+  description: Describes the tags associated with the specified Direct Connect resources.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Networking_AWSDirectConnect.png
+  humanURL: https://aws.amazon.com/directconnect/
+  baseURL: :///
+  tags: Amazon Web Services, Stack Network, API Service Provider, API Service Provider,
+    API Provider, Profiles, Relative Data, Service API, Networks
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-direct-connect/actiondescribetags-get-openapi.md
+- name: AWS Direct Connect API - Describe Tags
+  x-api-slug: actiondescribetags-get
+  description: Describes the tags associated with the specified Direct Connect resources.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Networking_AWSDirectConnect.png
+  humanURL: https://aws.amazon.com/directconnect/
+  baseURL: :///
+  tags: Amazon Web Services, Stack Network, API Service Provider, API Service Provider,
+    API Provider, Profiles, Relative Data, Service API, Networks
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-direct-connect/actiondescribetags-get-openapi.md
+- name: AWS Direct Connect API - Describe Tags
+  x-api-slug: actiondescribetags-get
+  description: Describes the tags associated with the specified Direct Connect resources.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Networking_AWSDirectConnect.png
+  humanURL: https://aws.amazon.com/directconnect/
+  baseURL: :///
+  tags: Amazon Web Services, Stack Network, API Service Provider, API Service Provider,
+    API Provider, Profiles, Relative Data, Service API, Networks
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-direct-connect/actiondescribetags-get-openapi.md
+- name: AWS Direct Connect API - Describe Tags
+  x-api-slug: actiondescribetags-get
+  description: Describes the tags associated with the specified Direct Connect resources.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Networking_AWSDirectConnect.png
+  humanURL: https://aws.amazon.com/directconnect/
+  baseURL: :///
+  tags: Amazon Web Services, Stack Network, API Service Provider, API Service Provider,
+    API Provider, Profiles, Relative Data, Service API, Networks
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-direct-connect/actiondescribetags-get-openapi.md
+- name: AWS Direct Connect API - Describe Tags
+  x-api-slug: actiondescribetags-get
+  description: Describes the tags associated with the specified Direct Connect resources.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Networking_AWSDirectConnect.png
+  humanURL: https://aws.amazon.com/directconnect/
+  baseURL: :///
+  tags: Amazon Web Services, Stack Network, API Service Provider, API Service Provider,
+    API Provider, Profiles, Relative Data, Service API, Networks
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-direct-connect/actiondescribetags-get-openapi.md
+- name: AWS Direct Connect API - Describe Tags
+  x-api-slug: actiondescribetags-get
+  description: Describes the tags associated with the specified Direct Connect resources.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Networking_AWSDirectConnect.png
+  humanURL: https://aws.amazon.com/directconnect/
+  baseURL: :///
+  tags: Amazon Web Services, Stack Network, API Service Provider, API Service Provider,
+    API Provider, Profiles, Relative Data, Service API, Networks
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-direct-connect/actiondescribetags-get-openapi.md
+- name: AWS Direct Connect API - Describe Tags
+  x-api-slug: actiondescribetags-get
+  description: Describes the tags associated with the specified Direct Connect resources.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Networking_AWSDirectConnect.png
+  humanURL: https://aws.amazon.com/directconnect/
+  baseURL: :///
+  tags: Amazon Web Services, Stack Network, API Service Provider, API Service Provider,
+    API Provider, Profiles, Relative Data, Service API, Networks
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-direct-connect/actiondescribetags-get-openapi.md
+- name: AWS Direct Connect API - Describe Virtual Gateways
+  x-api-slug: actiondescribevirtualgateways-get
+  description: Returns a list of virtual private gateways owned by the AWS account.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Networking_AWSDirectConnect.png
+  humanURL: https://aws.amazon.com/directconnect/
+  baseURL: :///
+  tags: Amazon Web Services, Stack Network, API Service Provider, API Service Provider,
+    API Provider, Profiles, Relative Data, Service API, Networks
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-direct-connect/actiondescribevirtualgateways-get-openapi.md
+- name: AWS Direct Connect API - Describe Virtual Gateways
+  x-api-slug: actiondescribevirtualgateways-get
+  description: Returns a list of virtual private gateways owned by the AWS account.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Networking_AWSDirectConnect.png
+  humanURL: https://aws.amazon.com/directconnect/
+  baseURL: :///
+  tags: Amazon Web Services, Stack Network, API Service Provider, API Service Provider,
+    API Provider, Profiles, Relative Data, Service API, Networks
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-direct-connect/actiondescribevirtualgateways-get-openapi.md
+- name: AWS Direct Connect API - Describe Virtual Gateways
+  x-api-slug: actiondescribevirtualgateways-get
+  description: Returns a list of virtual private gateways owned by the AWS account.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Networking_AWSDirectConnect.png
+  humanURL: https://aws.amazon.com/directconnect/
+  baseURL: :///
+  tags: Amazon Web Services, Stack Network, API Service Provider, API Service Provider,
+    API Provider, Profiles, Relative Data, Service API, Networks
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-direct-connect/actiondescribevirtualgateways-get-openapi.md
+- name: AWS Direct Connect API - Describe Virtual Gateways
+  x-api-slug: actiondescribevirtualgateways-get
+  description: Returns a list of virtual private gateways owned by the AWS account.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Networking_AWSDirectConnect.png
+  humanURL: https://aws.amazon.com/directconnect/
+  baseURL: :///
+  tags: Amazon Web Services, Stack Network, API Service Provider, API Service Provider,
+    API Provider, Profiles, Relative Data, Service API, Networks
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-direct-connect/actiondescribevirtualgateways-get-openapi.md
+- name: AWS Direct Connect API - Describe Virtual Gateways
+  x-api-slug: actiondescribevirtualgateways-get
+  description: Returns a list of virtual private gateways owned by the AWS account.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Networking_AWSDirectConnect.png
+  humanURL: https://aws.amazon.com/directconnect/
+  baseURL: :///
+  tags: Amazon Web Services, Stack Network, API Service Provider, API Service Provider,
+    API Provider, Profiles, Relative Data, Service API, Networks
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-direct-connect/actiondescribevirtualgateways-get-openapi.md
+- name: AWS Direct Connect API - Describe Virtual Gateways
+  x-api-slug: actiondescribevirtualgateways-get
+  description: Returns a list of virtual private gateways owned by the AWS account.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Networking_AWSDirectConnect.png
+  humanURL: https://aws.amazon.com/directconnect/
+  baseURL: :///
+  tags: Amazon Web Services, Stack Network, API Service Provider, API Service Provider,
+    API Provider, Profiles, Relative Data, Service API, Networks
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-direct-connect/actiondescribevirtualgateways-get-openapi.md
+- name: AWS Direct Connect API - Describe Virtual Gateways
+  x-api-slug: actiondescribevirtualgateways-get
+  description: Returns a list of virtual private gateways owned by the AWS account.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Networking_AWSDirectConnect.png
+  humanURL: https://aws.amazon.com/directconnect/
+  baseURL: :///
+  tags: Amazon Web Services, Stack Network, API Service Provider, API Service Provider,
+    API Provider, Profiles, Relative Data, Service API, Networks
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-direct-connect/actiondescribevirtualgateways-get-openapi.md
+- name: AWS Direct Connect API - Describe Virtual Gateways
+  x-api-slug: actiondescribevirtualgateways-get
+  description: Returns a list of virtual private gateways owned by the AWS account.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Networking_AWSDirectConnect.png
+  humanURL: https://aws.amazon.com/directconnect/
+  baseURL: :///
+  tags: Amazon Web Services, Stack Network, API Service Provider, API Service Provider,
+    API Provider, Profiles, Relative Data, Service API, Networks
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-direct-connect/actiondescribevirtualgateways-get-openapi.md
+- name: AWS Direct Connect API - Describe Virtual Gateways
+  x-api-slug: actiondescribevirtualgateways-get
+  description: Returns a list of virtual private gateways owned by the AWS account.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Networking_AWSDirectConnect.png
+  humanURL: https://aws.amazon.com/directconnect/
+  baseURL: :///
+  tags: Amazon Web Services, Stack Network, API Service Provider, API Service Provider,
+    API Provider, Profiles, Relative Data, Service API, Networks
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-direct-connect/actiondescribevirtualgateways-get-openapi.md
+- name: AWS Direct Connect API - Describe Virtual Gateways
+  x-api-slug: actiondescribevirtualgateways-get
+  description: Returns a list of virtual private gateways owned by the AWS account.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Networking_AWSDirectConnect.png
+  humanURL: https://aws.amazon.com/directconnect/
+  baseURL: :///
+  tags: Amazon Web Services, Stack Network, API Service Provider, API Service Provider,
+    API Provider, Profiles, Relative Data, Service API, Networks
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-direct-connect/actiondescribevirtualgateways-get-openapi.md
+- name: AWS Direct Connect API - Describe Virtual Interfaces
+  x-api-slug: actiondescribevirtualinterfaces-get
+  description: Displays all virtual interfaces for an AWS account.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Networking_AWSDirectConnect.png
+  humanURL: https://aws.amazon.com/directconnect/
+  baseURL: :///
+  tags: Amazon Web Services, Stack Network, API Service Provider, API Service Provider,
+    API Provider, Profiles, Relative Data, Service API, Networks
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-direct-connect/actiondescribevirtualinterfaces-get-openapi.md
+- name: AWS Direct Connect API - Describe Virtual Interfaces
+  x-api-slug: actiondescribevirtualinterfaces-get
+  description: Displays all virtual interfaces for an AWS account.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Networking_AWSDirectConnect.png
+  humanURL: https://aws.amazon.com/directconnect/
+  baseURL: :///
+  tags: Amazon Web Services, Stack Network, API Service Provider, API Service Provider,
+    API Provider, Profiles, Relative Data, Service API, Networks
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-direct-connect/actiondescribevirtualinterfaces-get-openapi.md
+- name: AWS Direct Connect API - Describe Virtual Interfaces
+  x-api-slug: actiondescribevirtualinterfaces-get
+  description: Displays all virtual interfaces for an AWS account.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Networking_AWSDirectConnect.png
+  humanURL: https://aws.amazon.com/directconnect/
+  baseURL: :///
+  tags: Amazon Web Services, Stack Network, API Service Provider, API Service Provider,
+    API Provider, Profiles, Relative Data, Service API, Networks
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-direct-connect/actiondescribevirtualinterfaces-get-openapi.md
+- name: AWS Direct Connect API - Describe Virtual Interfaces
+  x-api-slug: actiondescribevirtualinterfaces-get
+  description: Displays all virtual interfaces for an AWS account.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Networking_AWSDirectConnect.png
+  humanURL: https://aws.amazon.com/directconnect/
+  baseURL: :///
+  tags: Amazon Web Services, Stack Network, API Service Provider, API Service Provider,
+    API Provider, Profiles, Relative Data, Service API, Networks
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-direct-connect/actiondescribevirtualinterfaces-get-openapi.md
+- name: AWS Direct Connect API - Describe Virtual Interfaces
+  x-api-slug: actiondescribevirtualinterfaces-get
+  description: Displays all virtual interfaces for an AWS account.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Networking_AWSDirectConnect.png
+  humanURL: https://aws.amazon.com/directconnect/
+  baseURL: :///
+  tags: Amazon Web Services, Stack Network, API Service Provider, API Service Provider,
+    API Provider, Profiles, Relative Data, Service API, Networks
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-direct-connect/actiondescribevirtualinterfaces-get-openapi.md
+- name: AWS Direct Connect API - Describe Virtual Interfaces
+  x-api-slug: actiondescribevirtualinterfaces-get
+  description: Displays all virtual interfaces for an AWS account.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Networking_AWSDirectConnect.png
+  humanURL: https://aws.amazon.com/directconnect/
+  baseURL: :///
+  tags: Amazon Web Services, Stack Network, API Service Provider, API Service Provider,
+    API Provider, Profiles, Relative Data, Service API, Networks
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-direct-connect/actiondescribevirtualinterfaces-get-openapi.md
+- name: AWS Direct Connect API - Describe Virtual Interfaces
+  x-api-slug: actiondescribevirtualinterfaces-get
+  description: Displays all virtual interfaces for an AWS account.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Networking_AWSDirectConnect.png
+  humanURL: https://aws.amazon.com/directconnect/
+  baseURL: :///
+  tags: Amazon Web Services, Stack Network, API Service Provider, API Service Provider,
+    API Provider, Profiles, Relative Data, Service API, Networks
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-direct-connect/actiondescribevirtualinterfaces-get-openapi.md
+- name: AWS Direct Connect API - Describe Virtual Interfaces
+  x-api-slug: actiondescribevirtualinterfaces-get
+  description: Displays all virtual interfaces for an AWS account.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Networking_AWSDirectConnect.png
+  humanURL: https://aws.amazon.com/directconnect/
+  baseURL: :///
+  tags: Amazon Web Services, Stack Network, API Service Provider, API Service Provider,
+    API Provider, Profiles, Relative Data, Service API, Networks
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-direct-connect/actiondescribevirtualinterfaces-get-openapi.md
+- name: AWS Direct Connect API - Describe Virtual Interfaces
+  x-api-slug: actiondescribevirtualinterfaces-get
+  description: Displays all virtual interfaces for an AWS account.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Networking_AWSDirectConnect.png
+  humanURL: https://aws.amazon.com/directconnect/
+  baseURL: :///
+  tags: Amazon Web Services, Stack Network, API Service Provider, API Service Provider,
+    API Provider, Profiles, Relative Data, Service API, Networks
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-direct-connect/actiondescribevirtualinterfaces-get-openapi.md
+- name: AWS Direct Connect API - Describe Virtual Interfaces
+  x-api-slug: actiondescribevirtualinterfaces-get
+  description: Displays all virtual interfaces for an AWS account.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Networking_AWSDirectConnect.png
+  humanURL: https://aws.amazon.com/directconnect/
+  baseURL: :///
+  tags: Amazon Web Services, Stack Network, API Service Provider, API Service Provider,
+    API Provider, Profiles, Relative Data, Service API, Networks
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-direct-connect/actiondescribevirtualinterfaces-get-openapi.md
+- name: AWS Direct Connect API - Describe Tags
+  x-api-slug: actiondescribetags-get
+  description: Describes the tags associated with the specified Direct Connect resources.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Networking_AWSDirectConnect.png
+  humanURL: https://aws.amazon.com/directconnect/
+  baseURL: :///
+  tags: Amazon Web Services, Stack Network, API Service Provider, API Service Provider,
+    API Provider, Profiles, Relative Data, Service API, Networks
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-direct-connect/actiondescribetags-get-openapi.md
+- name: AWS Direct Connect API - Describe Tags
+  x-api-slug: actiondescribetags-get
+  description: Describes the tags associated with the specified Direct Connect resources.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Networking_AWSDirectConnect.png
+  humanURL: https://aws.amazon.com/directconnect/
+  baseURL: :///
+  tags: Amazon Web Services, Stack Network, API Service Provider, API Service Provider,
+    API Provider, Profiles, Relative Data, Service API, Networks
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-direct-connect/actiondescribetags-get-openapi.md
+- name: AWS Direct Connect API - Describe Tags
+  x-api-slug: actiondescribetags-get
+  description: Describes the tags associated with the specified Direct Connect resources.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Networking_AWSDirectConnect.png
+  humanURL: https://aws.amazon.com/directconnect/
+  baseURL: :///
+  tags: Amazon Web Services, Stack Network, API Service Provider, API Service Provider,
+    API Provider, Profiles, Relative Data, Service API, Networks
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-direct-connect/actiondescribetags-get-openapi.md
+- name: AWS Direct Connect API - Describe Tags
+  x-api-slug: actiondescribetags-get
+  description: Describes the tags associated with the specified Direct Connect resources.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Networking_AWSDirectConnect.png
+  humanURL: https://aws.amazon.com/directconnect/
+  baseURL: :///
+  tags: Amazon Web Services, Stack Network, API Service Provider, API Service Provider,
+    API Provider, Profiles, Relative Data, Service API, Networks
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-direct-connect/actiondescribetags-get-openapi.md
+- name: AWS Direct Connect API - Describe Tags
+  x-api-slug: actiondescribetags-get
+  description: Describes the tags associated with the specified Direct Connect resources.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Networking_AWSDirectConnect.png
+  humanURL: https://aws.amazon.com/directconnect/
+  baseURL: :///
+  tags: Amazon Web Services, Stack Network, API Service Provider, API Service Provider,
+    API Provider, Profiles, Relative Data, Service API, Networks
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-direct-connect/actiondescribetags-get-openapi.md
+- name: AWS Direct Connect API - Describe Tags
+  x-api-slug: actiondescribetags-get
+  description: Describes the tags associated with the specified Direct Connect resources.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Networking_AWSDirectConnect.png
+  humanURL: https://aws.amazon.com/directconnect/
+  baseURL: :///
+  tags: Amazon Web Services, Stack Network, API Service Provider, API Service Provider,
+    API Provider, Profiles, Relative Data, Service API, Networks
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-direct-connect/actiondescribetags-get-openapi.md
+- name: AWS Direct Connect API - Describe Tags
+  x-api-slug: actiondescribetags-get
+  description: Describes the tags associated with the specified Direct Connect resources.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Networking_AWSDirectConnect.png
+  humanURL: https://aws.amazon.com/directconnect/
+  baseURL: :///
+  tags: Amazon Web Services, Stack Network, API Service Provider, API Service Provider,
+    API Provider, Profiles, Relative Data, Service API, Networks
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-direct-connect/actiondescribetags-get-openapi.md
+- name: AWS Direct Connect API - Describe Tags
+  x-api-slug: actiondescribetags-get
+  description: Describes the tags associated with the specified Direct Connect resources.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Networking_AWSDirectConnect.png
+  humanURL: https://aws.amazon.com/directconnect/
+  baseURL: :///
+  tags: Amazon Web Services, Stack Network, API Service Provider, API Service Provider,
+    API Provider, Profiles, Relative Data, Service API, Networks
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-direct-connect/actiondescribetags-get-openapi.md
+- name: AWS Direct Connect API - Describe Tags
+  x-api-slug: actiondescribetags-get
+  description: Describes the tags associated with the specified Direct Connect resources.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Networking_AWSDirectConnect.png
+  humanURL: https://aws.amazon.com/directconnect/
+  baseURL: :///
+  tags: Amazon Web Services, Stack Network, API Service Provider, API Service Provider,
+    API Provider, Profiles, Relative Data, Service API, Networks
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-direct-connect/actiondescribetags-get-openapi.md
+- name: AWS Direct Connect API - Describe Tags
+  x-api-slug: actiondescribetags-get
+  description: Describes the tags associated with the specified Direct Connect resources.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Networking_AWSDirectConnect.png
+  humanURL: https://aws.amazon.com/directconnect/
+  baseURL: :///
+  tags: Amazon Web Services, Stack Network, API Service Provider, API Service Provider,
+    API Provider, Profiles, Relative Data, Service API, Networks
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-direct-connect/actiondescribetags-get-openapi.md
+- name: AWS Direct Connect API - Describe Tags
+  x-api-slug: actiondescribetags-get
+  description: Describes the tags associated with the specified Direct Connect resources.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Networking_AWSDirectConnect.png
+  humanURL: https://aws.amazon.com/directconnect/
+  baseURL: :///
+  tags: Amazon Web Services, Stack Network, API Service Provider, API Service Provider,
+    API Provider, Profiles, Relative Data, Service API, Networks
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-direct-connect/actiondescribetags-get-openapi.md
+- name: AWS Direct Connect API - Describe Tags
+  x-api-slug: actiondescribetags-get
+  description: Describes the tags associated with the specified Direct Connect resources.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Networking_AWSDirectConnect.png
+  humanURL: https://aws.amazon.com/directconnect/
+  baseURL: :///
+  tags: Amazon Web Services, Stack Network, API Service Provider, API Service Provider,
+    API Provider, Profiles, Relative Data, Service API, Networks
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-direct-connect/actiondescribetags-get-openapi.md
 x-common:
 - type: x-api-gallery
   url: http://aws.device.farm.api.gallery.streamdata.io

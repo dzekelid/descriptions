@@ -9,11 +9,95 @@ image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/l
 x-kinRank: "7"
 x-alexaRank: "4991"
 tags: Descriptions
-created: "2018-08-26"
-modified: "2018-08-26"
+created: "2018-08-27"
+modified: "2018-08-27"
 url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/crypto-compare/apis.md
 specificationVersion: "0.14"
 apis:
+- name: Cryptocompare - API Description
+  x-api-slug: get
+  description: Api description.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/cryptocompare-logo.png
+  humanURL: https://www.cryptocompare.com
+  baseURL: https://min-api.cryptocompare.com//
+  tags: Blockchain, API Provider
+  properties:
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/crypto-compare/get-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/crypto-compare/get-openapi.md
+- name: Cryptocompare - API Description
+  x-api-slug: get
+  description: Api description.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/cryptocompare-logo.png
+  humanURL: https://www.cryptocompare.com
+  baseURL: https://min-api.cryptocompare.com//
+  tags: Blockchain, API Provider
+  properties:
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/crypto-compare/get-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/crypto-compare/get-openapi.md
+- name: Cryptocompare - API Description
+  x-api-slug: get
+  description: Api description.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/cryptocompare-logo.png
+  humanURL: https://www.cryptocompare.com
+  baseURL: https://min-api.cryptocompare.com//
+  tags: Blockchain, API Provider
+  properties:
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/crypto-compare/get-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/crypto-compare/get-openapi.md
+- name: Cryptocompare - API Description
+  x-api-slug: get
+  description: Api description.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/cryptocompare-logo.png
+  humanURL: https://www.cryptocompare.com
+  baseURL: https://min-api.cryptocompare.com//
+  tags: Blockchain, API Provider
+  properties:
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/crypto-compare/get-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/crypto-compare/get-openapi.md
+- name: Cryptocompare - API Description
+  x-api-slug: get
+  description: Api description.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/cryptocompare-logo.png
+  humanURL: https://www.cryptocompare.com
+  baseURL: https://min-api.cryptocompare.com//
+  tags: Blockchain, API Provider
+  properties:
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/crypto-compare/get-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/crypto-compare/get-openapi.md
+- name: Cryptocompare - API Description
+  x-api-slug: get
+  description: Api description.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/cryptocompare-logo.png
+  humanURL: https://www.cryptocompare.com
+  baseURL: https://min-api.cryptocompare.com//
+  tags: Blockchain, API Provider
+  properties:
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/crypto-compare/get-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/crypto-compare/get-openapi.md
+- name: Cryptocompare - API Description
+  x-api-slug: get
+  description: Api description.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/cryptocompare-logo.png
+  humanURL: https://www.cryptocompare.com
+  baseURL: https://min-api.cryptocompare.com//
+  tags: Blockchain, API Provider
+  properties:
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/crypto-compare/get-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/crypto-compare/get-openapi.md
 - name: Cryptocompare - API Description
   x-api-slug: get
   description: Api description.

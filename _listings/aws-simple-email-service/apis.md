@@ -9,8 +9,8 @@ image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/l
 x-kinRank: "10"
 x-alexaRank: "0"
 tags: Descriptions
-created: "2018-08-26"
-modified: "2018-08-26"
+created: "2018-08-27"
+modified: "2018-08-27"
 url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-simple-email-service/apis.md
 specificationVersion: "0.14"
 apis:
@@ -41,6 +41,28 @@ apis:
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-simple-email-service/actiondescribeconfigurationset-get-postman.md
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-simple-email-service/actiondescribeconfigurationset-get-openapi.md
+- name: AWS Simple Email Service API - Describe Receipt Rule
+  x-api-slug: actiondescribereceiptrule-get
+  description: Returns the details of the specified receipt rule.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Application-Services_AmazonSES.png
+  humanURL: https://aws.amazon.com/ses/
+  baseURL: :///
+  tags: Amazon Web Services, Stack Network, API Service Provider, API Service Provider,
+    API Provider, Emails, Messages, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-simple-email-service/actiondescribereceiptrule-get-openapi.md
+- name: AWS Simple Email Service API - Describe Receipt Rule
+  x-api-slug: actiondescribereceiptrule-get
+  description: Returns the details of the specified receipt rule.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Application-Services_AmazonSES.png
+  humanURL: https://aws.amazon.com/ses/
+  baseURL: :///
+  tags: Amazon Web Services, Stack Network, API Service Provider, API Service Provider,
+    API Provider, Emails, Messages, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-simple-email-service/actiondescribereceiptrule-get-openapi.md
 - name: AWS Simple Email Service API - Describe Receipt Rule Set
   x-api-slug: actiondescribereceiptruleset-get
   description: Returns the details of the specified receipt rule set.
@@ -256,6 +278,105 @@ apis:
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-simple-email-service/actiondescribeconfigurationset-get-postman.md
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-simple-email-service/actiondescribeconfigurationset-get-openapi.md
+- name: AWS Simple Email Service API - Describe Receipt Rule
+  x-api-slug: actiondescribereceiptrule-get
+  description: Returns the details of the specified receipt rule.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Application-Services_AmazonSES.png
+  humanURL: https://aws.amazon.com/ses/
+  baseURL: :///
+  tags: Amazon Web Services, Stack Network, API Service Provider, API Service Provider,
+    API Provider, Emails, Messages, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-simple-email-service/actiondescribereceiptrule-get-openapi.md
+- name: AWS Simple Email Service API - Describe Receipt Rule
+  x-api-slug: actiondescribereceiptrule-get
+  description: Returns the details of the specified receipt rule.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Application-Services_AmazonSES.png
+  humanURL: https://aws.amazon.com/ses/
+  baseURL: :///
+  tags: Amazon Web Services, Stack Network, API Service Provider, API Service Provider,
+    API Provider, Emails, Messages, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-simple-email-service/actiondescribereceiptrule-get-openapi.md
+- name: AWS Simple Email Service API - Describe Receipt Rule
+  x-api-slug: actiondescribereceiptrule-get
+  description: Returns the details of the specified receipt rule.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Application-Services_AmazonSES.png
+  humanURL: https://aws.amazon.com/ses/
+  baseURL: :///
+  tags: Amazon Web Services, Stack Network, API Service Provider, API Service Provider,
+    API Provider, Emails, Messages, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-simple-email-service/actiondescribereceiptrule-get-openapi.md
+- name: AWS Simple Email Service API - Describe Receipt Rule
+  x-api-slug: actiondescribereceiptrule-get
+  description: Returns the details of the specified receipt rule.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Application-Services_AmazonSES.png
+  humanURL: https://aws.amazon.com/ses/
+  baseURL: :///
+  tags: Amazon Web Services, Stack Network, API Service Provider, API Service Provider,
+    API Provider, Emails, Messages, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-simple-email-service/actiondescribereceiptrule-get-openapi.md
+- name: AWS Simple Email Service API - Describe Receipt Rule
+  x-api-slug: actiondescribereceiptrule-get
+  description: Returns the details of the specified receipt rule.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Application-Services_AmazonSES.png
+  humanURL: https://aws.amazon.com/ses/
+  baseURL: :///
+  tags: Amazon Web Services, Stack Network, API Service Provider, API Service Provider,
+    API Provider, Emails, Messages, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-simple-email-service/actiondescribereceiptrule-get-openapi.md
+- name: AWS Simple Email Service API - Describe Receipt Rule
+  x-api-slug: actiondescribereceiptrule-get
+  description: Returns the details of the specified receipt rule.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Application-Services_AmazonSES.png
+  humanURL: https://aws.amazon.com/ses/
+  baseURL: :///
+  tags: Amazon Web Services, Stack Network, API Service Provider, API Service Provider,
+    API Provider, Emails, Messages, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-simple-email-service/actiondescribereceiptrule-get-openapi.md
+- name: AWS Simple Email Service API - Describe Receipt Rule
+  x-api-slug: actiondescribereceiptrule-get
+  description: Returns the details of the specified receipt rule.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Application-Services_AmazonSES.png
+  humanURL: https://aws.amazon.com/ses/
+  baseURL: :///
+  tags: Amazon Web Services, Stack Network, API Service Provider, API Service Provider,
+    API Provider, Emails, Messages, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-simple-email-service/actiondescribereceiptrule-get-openapi.md
+- name: AWS Simple Email Service API - Describe Receipt Rule
+  x-api-slug: actiondescribereceiptrule-get
+  description: Returns the details of the specified receipt rule.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Application-Services_AmazonSES.png
+  humanURL: https://aws.amazon.com/ses/
+  baseURL: :///
+  tags: Amazon Web Services, Stack Network, API Service Provider, API Service Provider,
+    API Provider, Emails, Messages, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-simple-email-service/actiondescribereceiptrule-get-openapi.md
+- name: AWS Simple Email Service API - Describe Receipt Rule
+  x-api-slug: actiondescribereceiptrule-get
+  description: Returns the details of the specified receipt rule.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Application-Services_AmazonSES.png
+  humanURL: https://aws.amazon.com/ses/
+  baseURL: :///
+  tags: Amazon Web Services, Stack Network, API Service Provider, API Service Provider,
+    API Provider, Emails, Messages, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-simple-email-service/actiondescribereceiptrule-get-openapi.md
 - name: AWS Simple Email Service API - Describe Receipt Rule Set
   x-api-slug: actiondescribereceiptruleset-get
   description: Returns the details of the specified receipt rule set.

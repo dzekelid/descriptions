@@ -15,11 +15,394 @@ image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/l
 x-kinRank: "10"
 x-alexaRank: "0"
 tags: Descriptions
-created: "2018-08-26"
-modified: "2018-08-26"
+created: "2018-08-27"
+modified: "2018-08-27"
 url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-ec2-container-registry-service/apis.md
 specificationVersion: "0.14"
-apis: []
+apis:
+- name: AWS EC2 Container Registry API - Describe Images
+  x-api-slug: actiondescribeimages-get
+  description: |-
+    Returns metadata about the images in a repository, including image size, image
+                tags, and creation date.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonECR.png
+  humanURL: https://aws.amazon.com/ecr/
+  baseURL: :///
+  tags: Amazon Web Services, Containers, Discovery, Stack Network, API Service Provider,
+    API Service Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-ec2-container-registry-service/actiondescribeimages-get-openapi.md
+- name: AWS EC2 Container Registry API - Describe Images
+  x-api-slug: actiondescribeimages-get
+  description: |-
+    Returns metadata about the images in a repository, including image size, image
+                tags, and creation date.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonECR.png
+  humanURL: https://aws.amazon.com/ecr/
+  baseURL: :///
+  tags: Amazon Web Services, Containers, Discovery, Stack Network, API Service Provider,
+    API Service Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-ec2-container-registry-service/actiondescribeimages-get-openapi.md
+- name: AWS EC2 Container Registry API - Describe Repositories
+  x-api-slug: actiondescriberepositories-get
+  description: Describes image repositories in a registry.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonECR.png
+  humanURL: https://aws.amazon.com/ecr/
+  baseURL: :///
+  tags: Amazon Web Services, Containers, Discovery, Stack Network, API Service Provider,
+    API Service Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-ec2-container-registry-service/actiondescriberepositories-get-openapi.md
+- name: AWS EC2 Container Registry API - Describe Repositories
+  x-api-slug: actiondescriberepositories-get
+  description: Describes image repositories in a registry.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonECR.png
+  humanURL: https://aws.amazon.com/ecr/
+  baseURL: :///
+  tags: Amazon Web Services, Containers, Discovery, Stack Network, API Service Provider,
+    API Service Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-ec2-container-registry-service/actiondescriberepositories-get-openapi.md
+- name: AWS EC2 Container Registry API - Describe Images
+  x-api-slug: actiondescribeimages-get
+  description: |-
+    Returns metadata about the images in a repository, including image size, image
+                tags, and creation date.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonECR.png
+  humanURL: https://aws.amazon.com/ecr/
+  baseURL: :///
+  tags: Amazon Web Services, Containers, Discovery, Stack Network, API Service Provider,
+    API Service Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-ec2-container-registry-service/actiondescribeimages-get-openapi.md
+- name: AWS EC2 Container Registry API - Describe Images
+  x-api-slug: actiondescribeimages-get
+  description: |-
+    Returns metadata about the images in a repository, including image size, image
+                tags, and creation date.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonECR.png
+  humanURL: https://aws.amazon.com/ecr/
+  baseURL: :///
+  tags: Amazon Web Services, Containers, Discovery, Stack Network, API Service Provider,
+    API Service Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-ec2-container-registry-service/actiondescribeimages-get-openapi.md
+- name: AWS EC2 Container Registry API - Describe Images
+  x-api-slug: actiondescribeimages-get
+  description: |-
+    Returns metadata about the images in a repository, including image size, image
+                tags, and creation date.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonECR.png
+  humanURL: https://aws.amazon.com/ecr/
+  baseURL: :///
+  tags: Amazon Web Services, Containers, Discovery, Stack Network, API Service Provider,
+    API Service Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-ec2-container-registry-service/actiondescribeimages-get-openapi.md
+- name: AWS EC2 Container Registry API - Describe Images
+  x-api-slug: actiondescribeimages-get
+  description: |-
+    Returns metadata about the images in a repository, including image size, image
+                tags, and creation date.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonECR.png
+  humanURL: https://aws.amazon.com/ecr/
+  baseURL: :///
+  tags: Amazon Web Services, Containers, Discovery, Stack Network, API Service Provider,
+    API Service Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-ec2-container-registry-service/actiondescribeimages-get-openapi.md
+- name: AWS EC2 Container Registry API - Describe Images
+  x-api-slug: actiondescribeimages-get
+  description: |-
+    Returns metadata about the images in a repository, including image size, image
+                tags, and creation date.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonECR.png
+  humanURL: https://aws.amazon.com/ecr/
+  baseURL: :///
+  tags: Amazon Web Services, Containers, Discovery, Stack Network, API Service Provider,
+    API Service Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-ec2-container-registry-service/actiondescribeimages-get-openapi.md
+- name: AWS EC2 Container Registry API - Describe Images
+  x-api-slug: actiondescribeimages-get
+  description: |-
+    Returns metadata about the images in a repository, including image size, image
+                tags, and creation date.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonECR.png
+  humanURL: https://aws.amazon.com/ecr/
+  baseURL: :///
+  tags: Amazon Web Services, Containers, Discovery, Stack Network, API Service Provider,
+    API Service Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-ec2-container-registry-service/actiondescribeimages-get-openapi.md
+- name: AWS EC2 Container Registry API - Describe Images
+  x-api-slug: actiondescribeimages-get
+  description: |-
+    Returns metadata about the images in a repository, including image size, image
+                tags, and creation date.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonECR.png
+  humanURL: https://aws.amazon.com/ecr/
+  baseURL: :///
+  tags: Amazon Web Services, Containers, Discovery, Stack Network, API Service Provider,
+    API Service Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-ec2-container-registry-service/actiondescribeimages-get-openapi.md
+- name: AWS EC2 Container Registry API - Describe Images
+  x-api-slug: actiondescribeimages-get
+  description: |-
+    Returns metadata about the images in a repository, including image size, image
+                tags, and creation date.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonECR.png
+  humanURL: https://aws.amazon.com/ecr/
+  baseURL: :///
+  tags: Amazon Web Services, Containers, Discovery, Stack Network, API Service Provider,
+    API Service Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-ec2-container-registry-service/actiondescribeimages-get-openapi.md
+- name: AWS EC2 Container Registry API - Describe Repositories
+  x-api-slug: actiondescriberepositories-get
+  description: Describes image repositories in a registry.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonECR.png
+  humanURL: https://aws.amazon.com/ecr/
+  baseURL: :///
+  tags: Amazon Web Services, Containers, Discovery, Stack Network, API Service Provider,
+    API Service Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-ec2-container-registry-service/actiondescriberepositories-get-openapi.md
+- name: AWS EC2 Container Registry API - Describe Repositories
+  x-api-slug: actiondescriberepositories-get
+  description: Describes image repositories in a registry.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonECR.png
+  humanURL: https://aws.amazon.com/ecr/
+  baseURL: :///
+  tags: Amazon Web Services, Containers, Discovery, Stack Network, API Service Provider,
+    API Service Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-ec2-container-registry-service/actiondescriberepositories-get-openapi.md
+- name: AWS EC2 Container Registry API - Describe Repositories
+  x-api-slug: actiondescriberepositories-get
+  description: Describes image repositories in a registry.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonECR.png
+  humanURL: https://aws.amazon.com/ecr/
+  baseURL: :///
+  tags: Amazon Web Services, Containers, Discovery, Stack Network, API Service Provider,
+    API Service Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-ec2-container-registry-service/actiondescriberepositories-get-openapi.md
+- name: AWS EC2 Container Registry API - Describe Repositories
+  x-api-slug: actiondescriberepositories-get
+  description: Describes image repositories in a registry.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonECR.png
+  humanURL: https://aws.amazon.com/ecr/
+  baseURL: :///
+  tags: Amazon Web Services, Containers, Discovery, Stack Network, API Service Provider,
+    API Service Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-ec2-container-registry-service/actiondescriberepositories-get-openapi.md
+- name: AWS EC2 Container Registry API - Describe Repositories
+  x-api-slug: actiondescriberepositories-get
+  description: Describes image repositories in a registry.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonECR.png
+  humanURL: https://aws.amazon.com/ecr/
+  baseURL: :///
+  tags: Amazon Web Services, Containers, Discovery, Stack Network, API Service Provider,
+    API Service Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-ec2-container-registry-service/actiondescriberepositories-get-openapi.md
+- name: AWS EC2 Container Registry API - Describe Repositories
+  x-api-slug: actiondescriberepositories-get
+  description: Describes image repositories in a registry.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonECR.png
+  humanURL: https://aws.amazon.com/ecr/
+  baseURL: :///
+  tags: Amazon Web Services, Containers, Discovery, Stack Network, API Service Provider,
+    API Service Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-ec2-container-registry-service/actiondescriberepositories-get-openapi.md
+- name: AWS EC2 Container Registry API - Describe Repositories
+  x-api-slug: actiondescriberepositories-get
+  description: Describes image repositories in a registry.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonECR.png
+  humanURL: https://aws.amazon.com/ecr/
+  baseURL: :///
+  tags: Amazon Web Services, Containers, Discovery, Stack Network, API Service Provider,
+    API Service Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-ec2-container-registry-service/actiondescriberepositories-get-openapi.md
+- name: AWS EC2 Container Registry API - Describe Repositories
+  x-api-slug: actiondescriberepositories-get
+  description: Describes image repositories in a registry.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonECR.png
+  humanURL: https://aws.amazon.com/ecr/
+  baseURL: :///
+  tags: Amazon Web Services, Containers, Discovery, Stack Network, API Service Provider,
+    API Service Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-ec2-container-registry-service/actiondescriberepositories-get-openapi.md
+- name: AWS EC2 Container Registry API - Describe Repositories
+  x-api-slug: actiondescriberepositories-get
+  description: Describes image repositories in a registry.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonECR.png
+  humanURL: https://aws.amazon.com/ecr/
+  baseURL: :///
+  tags: Amazon Web Services, Containers, Discovery, Stack Network, API Service Provider,
+    API Service Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-ec2-container-registry-service/actiondescriberepositories-get-openapi.md
+- name: AWS EC2 Container Registry API - Describe Repositories
+  x-api-slug: actiondescriberepositories-get
+  description: Describes image repositories in a registry.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonECR.png
+  humanURL: https://aws.amazon.com/ecr/
+  baseURL: :///
+  tags: Amazon Web Services, Containers, Discovery, Stack Network, API Service Provider,
+    API Service Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-ec2-container-registry-service/actiondescriberepositories-get-openapi.md
+- name: AWS EC2 Container Registry API - Describe Repositories
+  x-api-slug: actiondescriberepositories-get
+  description: Describes image repositories in a registry.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonECR.png
+  humanURL: https://aws.amazon.com/ecr/
+  baseURL: :///
+  tags: Amazon Web Services, Containers, Discovery, Stack Network, API Service Provider,
+    API Service Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-ec2-container-registry-service/actiondescriberepositories-get-openapi.md
+- name: AWS EC2 Container Registry API - Describe Repositories
+  x-api-slug: actiondescriberepositories-get
+  description: Describes image repositories in a registry.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonECR.png
+  humanURL: https://aws.amazon.com/ecr/
+  baseURL: :///
+  tags: Amazon Web Services, Containers, Discovery, Stack Network, API Service Provider,
+    API Service Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-ec2-container-registry-service/actiondescriberepositories-get-openapi.md
+- name: AWS EC2 Container Registry API - Describe Repositories
+  x-api-slug: actiondescriberepositories-get
+  description: Describes image repositories in a registry.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonECR.png
+  humanURL: https://aws.amazon.com/ecr/
+  baseURL: :///
+  tags: Amazon Web Services, Containers, Discovery, Stack Network, API Service Provider,
+    API Service Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-ec2-container-registry-service/actiondescriberepositories-get-openapi.md
+- name: AWS EC2 Container Registry API - Describe Repositories
+  x-api-slug: actiondescriberepositories-get
+  description: Describes image repositories in a registry.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonECR.png
+  humanURL: https://aws.amazon.com/ecr/
+  baseURL: :///
+  tags: Amazon Web Services, Containers, Discovery, Stack Network, API Service Provider,
+    API Service Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-ec2-container-registry-service/actiondescriberepositories-get-openapi.md
+- name: AWS EC2 Container Registry API - Describe Repositories
+  x-api-slug: actiondescriberepositories-get
+  description: Describes image repositories in a registry.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonECR.png
+  humanURL: https://aws.amazon.com/ecr/
+  baseURL: :///
+  tags: Amazon Web Services, Containers, Discovery, Stack Network, API Service Provider,
+    API Service Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-ec2-container-registry-service/actiondescriberepositories-get-openapi.md
+- name: AWS EC2 Container Registry API - Describe Repositories
+  x-api-slug: actiondescriberepositories-get
+  description: Describes image repositories in a registry.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonECR.png
+  humanURL: https://aws.amazon.com/ecr/
+  baseURL: :///
+  tags: Amazon Web Services, Containers, Discovery, Stack Network, API Service Provider,
+    API Service Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-ec2-container-registry-service/actiondescriberepositories-get-openapi.md
+- name: AWS EC2 Container Registry API - Describe Repositories
+  x-api-slug: actiondescriberepositories-get
+  description: Describes image repositories in a registry.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonECR.png
+  humanURL: https://aws.amazon.com/ecr/
+  baseURL: :///
+  tags: Amazon Web Services, Containers, Discovery, Stack Network, API Service Provider,
+    API Service Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-ec2-container-registry-service/actiondescriberepositories-get-openapi.md
+- name: AWS EC2 Container Registry API - Describe Repositories
+  x-api-slug: actiondescriberepositories-get
+  description: Describes image repositories in a registry.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonECR.png
+  humanURL: https://aws.amazon.com/ecr/
+  baseURL: :///
+  tags: Amazon Web Services, Containers, Discovery, Stack Network, API Service Provider,
+    API Service Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-ec2-container-registry-service/actiondescriberepositories-get-openapi.md
+- name: AWS EC2 Container Registry API - Describe Repositories
+  x-api-slug: actiondescriberepositories-get
+  description: Describes image repositories in a registry.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonECR.png
+  humanURL: https://aws.amazon.com/ecr/
+  baseURL: :///
+  tags: Amazon Web Services, Containers, Discovery, Stack Network, API Service Provider,
+    API Service Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-ec2-container-registry-service/actiondescriberepositories-get-openapi.md
+- name: AWS EC2 Container Registry API - Describe Repositories
+  x-api-slug: actiondescriberepositories-get
+  description: Describes image repositories in a registry.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonECR.png
+  humanURL: https://aws.amazon.com/ecr/
+  baseURL: :///
+  tags: Amazon Web Services, Containers, Discovery, Stack Network, API Service Provider,
+    API Service Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-ec2-container-registry-service/actiondescriberepositories-get-openapi.md
+- name: AWS EC2 Container Registry API - Describe Repositories
+  x-api-slug: actiondescriberepositories-get
+  description: Describes image repositories in a registry.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonECR.png
+  humanURL: https://aws.amazon.com/ecr/
+  baseURL: :///
+  tags: Amazon Web Services, Containers, Discovery, Stack Network, API Service Provider,
+    API Service Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-ec2-container-registry-service/actiondescriberepositories-get-openapi.md
 x-common:
 - type: x-api-gallery
   url: http://aws.ec2.api.gallery.streamdata.io

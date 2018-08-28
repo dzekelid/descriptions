@@ -14,8 +14,8 @@ image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/l
 x-kinRank: "10"
 x-alexaRank: "0"
 tags: Descriptions
-created: "2018-08-26"
-modified: "2018-08-26"
+created: "2018-08-27"
+modified: "2018-08-27"
 url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-inspector/apis.md
 specificationVersion: "0.14"
 apis:
@@ -34,6 +34,45 @@ apis:
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-inspector/actiondescribeassessmentruns-get-postman.md
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-inspector/actiondescribeassessmentruns-get-openapi.md
+- name: AWS Inspector API - Describe Assessment Targets
+  x-api-slug: actiondescribeassessmenttargets-get
+  description: |-
+    Describes the assessment targets that are specified by the ARNs of the assessment
+             targets.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Security-Identity_AmazonInspector.png
+  humanURL: https://aws.amazon.com/inspector/
+  baseURL: :///
+  tags: Amazon Web Services, Security, Stack Network, API Service Provider, API Service
+    Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-inspector/actiondescribeassessmenttargets-get-openapi.md
+- name: AWS Inspector API - Describe Assessment Templates
+  x-api-slug: actiondescribeassessmenttemplates-get
+  description: |-
+    Describes the assessment templates that are specified by the ARNs of the assessment
+             templates.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Security-Identity_AmazonInspector.png
+  humanURL: https://aws.amazon.com/inspector/
+  baseURL: :///
+  tags: Amazon Web Services, Security, Stack Network, API Service Provider, API Service
+    Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-inspector/actiondescribeassessmenttemplates-get-openapi.md
+- name: AWS Inspector API - Describe Cross Account Access Role
+  x-api-slug: actiondescribecrossaccountaccessrole-get
+  description: |-
+    Describes the IAM role that enables Amazon Inspector to access your AWS
+             account.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Security-Identity_AmazonInspector.png
+  humanURL: https://aws.amazon.com/inspector/
+  baseURL: :///
+  tags: Amazon Web Services, Security, Stack Network, API Service Provider, API Service
+    Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-inspector/actiondescribecrossaccountaccessrole-get-openapi.md
 - name: AWS Inspector API - Describe Findings
   x-api-slug: actiondescribefindings-get
   description: Describes the findings that are specified by the ARNs of the findings.
@@ -60,6 +99,58 @@ apis:
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-inspector/actiondescribefindings-get-postman.md
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-inspector/actiondescribefindings-get-openapi.md
+- name: AWS Inspector API - Describe Resource Groups
+  x-api-slug: actiondescriberesourcegroups-get
+  description: |-
+    Describes the resource groups that are specified by the ARNs of the resource
+             groups.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Security-Identity_AmazonInspector.png
+  humanURL: https://aws.amazon.com/inspector/
+  baseURL: :///
+  tags: Amazon Web Services, Security, Stack Network, API Service Provider, API Service
+    Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-inspector/actiondescriberesourcegroups-get-openapi.md
+- name: AWS Inspector API - Describe Resource Groups
+  x-api-slug: actiondescriberesourcegroups-get
+  description: |-
+    Describes the resource groups that are specified by the ARNs of the resource
+             groups.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Security-Identity_AmazonInspector.png
+  humanURL: https://aws.amazon.com/inspector/
+  baseURL: :///
+  tags: Amazon Web Services, Security, Stack Network, API Service Provider, API Service
+    Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-inspector/actiondescriberesourcegroups-get-openapi.md
+- name: AWS Inspector API - Describe Rules Packages
+  x-api-slug: actiondescriberulespackages-get
+  description: |-
+    Describes the rules packages that are specified by the ARNs of the rules
+             packages.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Security-Identity_AmazonInspector.png
+  humanURL: https://aws.amazon.com/inspector/
+  baseURL: :///
+  tags: Amazon Web Services, Security, Stack Network, API Service Provider, API Service
+    Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-inspector/actiondescriberulespackages-get-openapi.md
+- name: AWS Inspector API - Describe Rules Packages
+  x-api-slug: actiondescriberulespackages-get
+  description: |-
+    Describes the rules packages that are specified by the ARNs of the rules
+             packages.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Security-Identity_AmazonInspector.png
+  humanURL: https://aws.amazon.com/inspector/
+  baseURL: :///
+  tags: Amazon Web Services, Security, Stack Network, API Service Provider, API Service
+    Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-inspector/actiondescriberulespackages-get-openapi.md
 - name: AWS Inspector API - Describe Assessment Runs
   x-api-slug: actiondescribeassessmentruns-get
   description: |-
@@ -165,6 +256,279 @@ apis:
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-inspector/actiondescribeassessmentruns-get-postman.md
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-inspector/actiondescribeassessmentruns-get-openapi.md
+- name: AWS Inspector API - Describe Assessment Targets
+  x-api-slug: actiondescribeassessmenttargets-get
+  description: |-
+    Describes the assessment targets that are specified by the ARNs of the assessment
+             targets.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Security-Identity_AmazonInspector.png
+  humanURL: https://aws.amazon.com/inspector/
+  baseURL: :///
+  tags: Amazon Web Services, Security, Stack Network, API Service Provider, API Service
+    Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-inspector/actiondescribeassessmenttargets-get-openapi.md
+- name: AWS Inspector API - Describe Assessment Targets
+  x-api-slug: actiondescribeassessmenttargets-get
+  description: |-
+    Describes the assessment targets that are specified by the ARNs of the assessment
+             targets.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Security-Identity_AmazonInspector.png
+  humanURL: https://aws.amazon.com/inspector/
+  baseURL: :///
+  tags: Amazon Web Services, Security, Stack Network, API Service Provider, API Service
+    Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-inspector/actiondescribeassessmenttargets-get-openapi.md
+- name: AWS Inspector API - Describe Assessment Targets
+  x-api-slug: actiondescribeassessmenttargets-get
+  description: |-
+    Describes the assessment targets that are specified by the ARNs of the assessment
+             targets.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Security-Identity_AmazonInspector.png
+  humanURL: https://aws.amazon.com/inspector/
+  baseURL: :///
+  tags: Amazon Web Services, Security, Stack Network, API Service Provider, API Service
+    Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-inspector/actiondescribeassessmenttargets-get-openapi.md
+- name: AWS Inspector API - Describe Assessment Targets
+  x-api-slug: actiondescribeassessmenttargets-get
+  description: |-
+    Describes the assessment targets that are specified by the ARNs of the assessment
+             targets.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Security-Identity_AmazonInspector.png
+  humanURL: https://aws.amazon.com/inspector/
+  baseURL: :///
+  tags: Amazon Web Services, Security, Stack Network, API Service Provider, API Service
+    Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-inspector/actiondescribeassessmenttargets-get-openapi.md
+- name: AWS Inspector API - Describe Assessment Targets
+  x-api-slug: actiondescribeassessmenttargets-get
+  description: |-
+    Describes the assessment targets that are specified by the ARNs of the assessment
+             targets.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Security-Identity_AmazonInspector.png
+  humanURL: https://aws.amazon.com/inspector/
+  baseURL: :///
+  tags: Amazon Web Services, Security, Stack Network, API Service Provider, API Service
+    Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-inspector/actiondescribeassessmenttargets-get-openapi.md
+- name: AWS Inspector API - Describe Assessment Targets
+  x-api-slug: actiondescribeassessmenttargets-get
+  description: |-
+    Describes the assessment targets that are specified by the ARNs of the assessment
+             targets.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Security-Identity_AmazonInspector.png
+  humanURL: https://aws.amazon.com/inspector/
+  baseURL: :///
+  tags: Amazon Web Services, Security, Stack Network, API Service Provider, API Service
+    Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-inspector/actiondescribeassessmenttargets-get-openapi.md
+- name: AWS Inspector API - Describe Assessment Targets
+  x-api-slug: actiondescribeassessmenttargets-get
+  description: |-
+    Describes the assessment targets that are specified by the ARNs of the assessment
+             targets.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Security-Identity_AmazonInspector.png
+  humanURL: https://aws.amazon.com/inspector/
+  baseURL: :///
+  tags: Amazon Web Services, Security, Stack Network, API Service Provider, API Service
+    Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-inspector/actiondescribeassessmenttargets-get-openapi.md
+- name: AWS Inspector API - Describe Assessment Templates
+  x-api-slug: actiondescribeassessmenttemplates-get
+  description: |-
+    Describes the assessment templates that are specified by the ARNs of the assessment
+             templates.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Security-Identity_AmazonInspector.png
+  humanURL: https://aws.amazon.com/inspector/
+  baseURL: :///
+  tags: Amazon Web Services, Security, Stack Network, API Service Provider, API Service
+    Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-inspector/actiondescribeassessmenttemplates-get-openapi.md
+- name: AWS Inspector API - Describe Assessment Templates
+  x-api-slug: actiondescribeassessmenttemplates-get
+  description: |-
+    Describes the assessment templates that are specified by the ARNs of the assessment
+             templates.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Security-Identity_AmazonInspector.png
+  humanURL: https://aws.amazon.com/inspector/
+  baseURL: :///
+  tags: Amazon Web Services, Security, Stack Network, API Service Provider, API Service
+    Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-inspector/actiondescribeassessmenttemplates-get-openapi.md
+- name: AWS Inspector API - Describe Assessment Templates
+  x-api-slug: actiondescribeassessmenttemplates-get
+  description: |-
+    Describes the assessment templates that are specified by the ARNs of the assessment
+             templates.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Security-Identity_AmazonInspector.png
+  humanURL: https://aws.amazon.com/inspector/
+  baseURL: :///
+  tags: Amazon Web Services, Security, Stack Network, API Service Provider, API Service
+    Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-inspector/actiondescribeassessmenttemplates-get-openapi.md
+- name: AWS Inspector API - Describe Assessment Templates
+  x-api-slug: actiondescribeassessmenttemplates-get
+  description: |-
+    Describes the assessment templates that are specified by the ARNs of the assessment
+             templates.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Security-Identity_AmazonInspector.png
+  humanURL: https://aws.amazon.com/inspector/
+  baseURL: :///
+  tags: Amazon Web Services, Security, Stack Network, API Service Provider, API Service
+    Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-inspector/actiondescribeassessmenttemplates-get-openapi.md
+- name: AWS Inspector API - Describe Assessment Templates
+  x-api-slug: actiondescribeassessmenttemplates-get
+  description: |-
+    Describes the assessment templates that are specified by the ARNs of the assessment
+             templates.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Security-Identity_AmazonInspector.png
+  humanURL: https://aws.amazon.com/inspector/
+  baseURL: :///
+  tags: Amazon Web Services, Security, Stack Network, API Service Provider, API Service
+    Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-inspector/actiondescribeassessmenttemplates-get-openapi.md
+- name: AWS Inspector API - Describe Assessment Templates
+  x-api-slug: actiondescribeassessmenttemplates-get
+  description: |-
+    Describes the assessment templates that are specified by the ARNs of the assessment
+             templates.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Security-Identity_AmazonInspector.png
+  humanURL: https://aws.amazon.com/inspector/
+  baseURL: :///
+  tags: Amazon Web Services, Security, Stack Network, API Service Provider, API Service
+    Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-inspector/actiondescribeassessmenttemplates-get-openapi.md
+- name: AWS Inspector API - Describe Assessment Templates
+  x-api-slug: actiondescribeassessmenttemplates-get
+  description: |-
+    Describes the assessment templates that are specified by the ARNs of the assessment
+             templates.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Security-Identity_AmazonInspector.png
+  humanURL: https://aws.amazon.com/inspector/
+  baseURL: :///
+  tags: Amazon Web Services, Security, Stack Network, API Service Provider, API Service
+    Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-inspector/actiondescribeassessmenttemplates-get-openapi.md
+- name: AWS Inspector API - Describe Cross Account Access Role
+  x-api-slug: actiondescribecrossaccountaccessrole-get
+  description: |-
+    Describes the IAM role that enables Amazon Inspector to access your AWS
+             account.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Security-Identity_AmazonInspector.png
+  humanURL: https://aws.amazon.com/inspector/
+  baseURL: :///
+  tags: Amazon Web Services, Security, Stack Network, API Service Provider, API Service
+    Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-inspector/actiondescribecrossaccountaccessrole-get-openapi.md
+- name: AWS Inspector API - Describe Cross Account Access Role
+  x-api-slug: actiondescribecrossaccountaccessrole-get
+  description: |-
+    Describes the IAM role that enables Amazon Inspector to access your AWS
+             account.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Security-Identity_AmazonInspector.png
+  humanURL: https://aws.amazon.com/inspector/
+  baseURL: :///
+  tags: Amazon Web Services, Security, Stack Network, API Service Provider, API Service
+    Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-inspector/actiondescribecrossaccountaccessrole-get-openapi.md
+- name: AWS Inspector API - Describe Cross Account Access Role
+  x-api-slug: actiondescribecrossaccountaccessrole-get
+  description: |-
+    Describes the IAM role that enables Amazon Inspector to access your AWS
+             account.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Security-Identity_AmazonInspector.png
+  humanURL: https://aws.amazon.com/inspector/
+  baseURL: :///
+  tags: Amazon Web Services, Security, Stack Network, API Service Provider, API Service
+    Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-inspector/actiondescribecrossaccountaccessrole-get-openapi.md
+- name: AWS Inspector API - Describe Cross Account Access Role
+  x-api-slug: actiondescribecrossaccountaccessrole-get
+  description: |-
+    Describes the IAM role that enables Amazon Inspector to access your AWS
+             account.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Security-Identity_AmazonInspector.png
+  humanURL: https://aws.amazon.com/inspector/
+  baseURL: :///
+  tags: Amazon Web Services, Security, Stack Network, API Service Provider, API Service
+    Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-inspector/actiondescribecrossaccountaccessrole-get-openapi.md
+- name: AWS Inspector API - Describe Cross Account Access Role
+  x-api-slug: actiondescribecrossaccountaccessrole-get
+  description: |-
+    Describes the IAM role that enables Amazon Inspector to access your AWS
+             account.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Security-Identity_AmazonInspector.png
+  humanURL: https://aws.amazon.com/inspector/
+  baseURL: :///
+  tags: Amazon Web Services, Security, Stack Network, API Service Provider, API Service
+    Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-inspector/actiondescribecrossaccountaccessrole-get-openapi.md
+- name: AWS Inspector API - Describe Cross Account Access Role
+  x-api-slug: actiondescribecrossaccountaccessrole-get
+  description: |-
+    Describes the IAM role that enables Amazon Inspector to access your AWS
+             account.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Security-Identity_AmazonInspector.png
+  humanURL: https://aws.amazon.com/inspector/
+  baseURL: :///
+  tags: Amazon Web Services, Security, Stack Network, API Service Provider, API Service
+    Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-inspector/actiondescribecrossaccountaccessrole-get-openapi.md
+- name: AWS Inspector API - Describe Cross Account Access Role
+  x-api-slug: actiondescribecrossaccountaccessrole-get
+  description: |-
+    Describes the IAM role that enables Amazon Inspector to access your AWS
+             account.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Security-Identity_AmazonInspector.png
+  humanURL: https://aws.amazon.com/inspector/
+  baseURL: :///
+  tags: Amazon Web Services, Security, Stack Network, API Service Provider, API Service
+    Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-inspector/actiondescribecrossaccountaccessrole-get-openapi.md
 - name: AWS Inspector API - Describe Findings
   x-api-slug: actiondescribefindings-get
   description: Describes the findings that are specified by the ARNs of the findings.
@@ -269,6 +633,240 @@ apis:
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-inspector/actiondescribefindings-get-postman.md
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-inspector/actiondescribefindings-get-openapi.md
+- name: AWS Inspector API - Describe Resource Groups
+  x-api-slug: actiondescriberesourcegroups-get
+  description: |-
+    Describes the resource groups that are specified by the ARNs of the resource
+             groups.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Security-Identity_AmazonInspector.png
+  humanURL: https://aws.amazon.com/inspector/
+  baseURL: :///
+  tags: Amazon Web Services, Security, Stack Network, API Service Provider, API Service
+    Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-inspector/actiondescriberesourcegroups-get-openapi.md
+- name: AWS Inspector API - Describe Resource Groups
+  x-api-slug: actiondescriberesourcegroups-get
+  description: |-
+    Describes the resource groups that are specified by the ARNs of the resource
+             groups.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Security-Identity_AmazonInspector.png
+  humanURL: https://aws.amazon.com/inspector/
+  baseURL: :///
+  tags: Amazon Web Services, Security, Stack Network, API Service Provider, API Service
+    Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-inspector/actiondescriberesourcegroups-get-openapi.md
+- name: AWS Inspector API - Describe Resource Groups
+  x-api-slug: actiondescriberesourcegroups-get
+  description: |-
+    Describes the resource groups that are specified by the ARNs of the resource
+             groups.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Security-Identity_AmazonInspector.png
+  humanURL: https://aws.amazon.com/inspector/
+  baseURL: :///
+  tags: Amazon Web Services, Security, Stack Network, API Service Provider, API Service
+    Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-inspector/actiondescriberesourcegroups-get-openapi.md
+- name: AWS Inspector API - Describe Resource Groups
+  x-api-slug: actiondescriberesourcegroups-get
+  description: |-
+    Describes the resource groups that are specified by the ARNs of the resource
+             groups.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Security-Identity_AmazonInspector.png
+  humanURL: https://aws.amazon.com/inspector/
+  baseURL: :///
+  tags: Amazon Web Services, Security, Stack Network, API Service Provider, API Service
+    Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-inspector/actiondescriberesourcegroups-get-openapi.md
+- name: AWS Inspector API - Describe Resource Groups
+  x-api-slug: actiondescriberesourcegroups-get
+  description: |-
+    Describes the resource groups that are specified by the ARNs of the resource
+             groups.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Security-Identity_AmazonInspector.png
+  humanURL: https://aws.amazon.com/inspector/
+  baseURL: :///
+  tags: Amazon Web Services, Security, Stack Network, API Service Provider, API Service
+    Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-inspector/actiondescriberesourcegroups-get-openapi.md
+- name: AWS Inspector API - Describe Resource Groups
+  x-api-slug: actiondescriberesourcegroups-get
+  description: |-
+    Describes the resource groups that are specified by the ARNs of the resource
+             groups.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Security-Identity_AmazonInspector.png
+  humanURL: https://aws.amazon.com/inspector/
+  baseURL: :///
+  tags: Amazon Web Services, Security, Stack Network, API Service Provider, API Service
+    Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-inspector/actiondescriberesourcegroups-get-openapi.md
+- name: AWS Inspector API - Describe Resource Groups
+  x-api-slug: actiondescriberesourcegroups-get
+  description: |-
+    Describes the resource groups that are specified by the ARNs of the resource
+             groups.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Security-Identity_AmazonInspector.png
+  humanURL: https://aws.amazon.com/inspector/
+  baseURL: :///
+  tags: Amazon Web Services, Security, Stack Network, API Service Provider, API Service
+    Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-inspector/actiondescriberesourcegroups-get-openapi.md
+- name: AWS Inspector API - Describe Resource Groups
+  x-api-slug: actiondescriberesourcegroups-get
+  description: |-
+    Describes the resource groups that are specified by the ARNs of the resource
+             groups.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Security-Identity_AmazonInspector.png
+  humanURL: https://aws.amazon.com/inspector/
+  baseURL: :///
+  tags: Amazon Web Services, Security, Stack Network, API Service Provider, API Service
+    Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-inspector/actiondescriberesourcegroups-get-openapi.md
+- name: AWS Inspector API - Describe Resource Groups
+  x-api-slug: actiondescriberesourcegroups-get
+  description: |-
+    Describes the resource groups that are specified by the ARNs of the resource
+             groups.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Security-Identity_AmazonInspector.png
+  humanURL: https://aws.amazon.com/inspector/
+  baseURL: :///
+  tags: Amazon Web Services, Security, Stack Network, API Service Provider, API Service
+    Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-inspector/actiondescriberesourcegroups-get-openapi.md
+- name: AWS Inspector API - Describe Rules Packages
+  x-api-slug: actiondescriberulespackages-get
+  description: |-
+    Describes the rules packages that are specified by the ARNs of the rules
+             packages.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Security-Identity_AmazonInspector.png
+  humanURL: https://aws.amazon.com/inspector/
+  baseURL: :///
+  tags: Amazon Web Services, Security, Stack Network, API Service Provider, API Service
+    Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-inspector/actiondescriberulespackages-get-openapi.md
+- name: AWS Inspector API - Describe Rules Packages
+  x-api-slug: actiondescriberulespackages-get
+  description: |-
+    Describes the rules packages that are specified by the ARNs of the rules
+             packages.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Security-Identity_AmazonInspector.png
+  humanURL: https://aws.amazon.com/inspector/
+  baseURL: :///
+  tags: Amazon Web Services, Security, Stack Network, API Service Provider, API Service
+    Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-inspector/actiondescriberulespackages-get-openapi.md
+- name: AWS Inspector API - Describe Rules Packages
+  x-api-slug: actiondescriberulespackages-get
+  description: |-
+    Describes the rules packages that are specified by the ARNs of the rules
+             packages.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Security-Identity_AmazonInspector.png
+  humanURL: https://aws.amazon.com/inspector/
+  baseURL: :///
+  tags: Amazon Web Services, Security, Stack Network, API Service Provider, API Service
+    Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-inspector/actiondescriberulespackages-get-openapi.md
+- name: AWS Inspector API - Describe Rules Packages
+  x-api-slug: actiondescriberulespackages-get
+  description: |-
+    Describes the rules packages that are specified by the ARNs of the rules
+             packages.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Security-Identity_AmazonInspector.png
+  humanURL: https://aws.amazon.com/inspector/
+  baseURL: :///
+  tags: Amazon Web Services, Security, Stack Network, API Service Provider, API Service
+    Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-inspector/actiondescriberulespackages-get-openapi.md
+- name: AWS Inspector API - Describe Rules Packages
+  x-api-slug: actiondescriberulespackages-get
+  description: |-
+    Describes the rules packages that are specified by the ARNs of the rules
+             packages.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Security-Identity_AmazonInspector.png
+  humanURL: https://aws.amazon.com/inspector/
+  baseURL: :///
+  tags: Amazon Web Services, Security, Stack Network, API Service Provider, API Service
+    Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-inspector/actiondescriberulespackages-get-openapi.md
+- name: AWS Inspector API - Describe Rules Packages
+  x-api-slug: actiondescriberulespackages-get
+  description: |-
+    Describes the rules packages that are specified by the ARNs of the rules
+             packages.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Security-Identity_AmazonInspector.png
+  humanURL: https://aws.amazon.com/inspector/
+  baseURL: :///
+  tags: Amazon Web Services, Security, Stack Network, API Service Provider, API Service
+    Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-inspector/actiondescriberulespackages-get-openapi.md
+- name: AWS Inspector API - Describe Rules Packages
+  x-api-slug: actiondescriberulespackages-get
+  description: |-
+    Describes the rules packages that are specified by the ARNs of the rules
+             packages.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Security-Identity_AmazonInspector.png
+  humanURL: https://aws.amazon.com/inspector/
+  baseURL: :///
+  tags: Amazon Web Services, Security, Stack Network, API Service Provider, API Service
+    Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-inspector/actiondescriberulespackages-get-openapi.md
+- name: AWS Inspector API - Describe Rules Packages
+  x-api-slug: actiondescriberulespackages-get
+  description: |-
+    Describes the rules packages that are specified by the ARNs of the rules
+             packages.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Security-Identity_AmazonInspector.png
+  humanURL: https://aws.amazon.com/inspector/
+  baseURL: :///
+  tags: Amazon Web Services, Security, Stack Network, API Service Provider, API Service
+    Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-inspector/actiondescriberulespackages-get-openapi.md
+- name: AWS Inspector API - Describe Rules Packages
+  x-api-slug: actiondescriberulespackages-get
+  description: |-
+    Describes the rules packages that are specified by the ARNs of the rules
+             packages.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Security-Identity_AmazonInspector.png
+  humanURL: https://aws.amazon.com/inspector/
+  baseURL: :///
+  tags: Amazon Web Services, Security, Stack Network, API Service Provider, API Service
+    Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-inspector/actiondescriberulespackages-get-openapi.md
 - name: AWS Inspector API - Describe Assessment Runs
   x-api-slug: actiondescribeassessmentruns-get
   description: |-
@@ -419,6 +1017,409 @@ apis:
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-inspector/actiondescribeassessmentruns-get-postman.md
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-inspector/actiondescribeassessmentruns-get-openapi.md
+- name: AWS Inspector API - Describe Assessment Targets
+  x-api-slug: actiondescribeassessmenttargets-get
+  description: |-
+    Describes the assessment targets that are specified by the ARNs of the assessment
+             targets.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Security-Identity_AmazonInspector.png
+  humanURL: https://aws.amazon.com/inspector/
+  baseURL: :///
+  tags: Amazon Web Services, Security, Stack Network, API Service Provider, API Service
+    Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-inspector/actiondescribeassessmenttargets-get-openapi.md
+- name: AWS Inspector API - Describe Assessment Targets
+  x-api-slug: actiondescribeassessmenttargets-get
+  description: |-
+    Describes the assessment targets that are specified by the ARNs of the assessment
+             targets.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Security-Identity_AmazonInspector.png
+  humanURL: https://aws.amazon.com/inspector/
+  baseURL: :///
+  tags: Amazon Web Services, Security, Stack Network, API Service Provider, API Service
+    Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-inspector/actiondescribeassessmenttargets-get-openapi.md
+- name: AWS Inspector API - Describe Assessment Targets
+  x-api-slug: actiondescribeassessmenttargets-get
+  description: |-
+    Describes the assessment targets that are specified by the ARNs of the assessment
+             targets.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Security-Identity_AmazonInspector.png
+  humanURL: https://aws.amazon.com/inspector/
+  baseURL: :///
+  tags: Amazon Web Services, Security, Stack Network, API Service Provider, API Service
+    Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-inspector/actiondescribeassessmenttargets-get-openapi.md
+- name: AWS Inspector API - Describe Assessment Targets
+  x-api-slug: actiondescribeassessmenttargets-get
+  description: |-
+    Describes the assessment targets that are specified by the ARNs of the assessment
+             targets.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Security-Identity_AmazonInspector.png
+  humanURL: https://aws.amazon.com/inspector/
+  baseURL: :///
+  tags: Amazon Web Services, Security, Stack Network, API Service Provider, API Service
+    Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-inspector/actiondescribeassessmenttargets-get-openapi.md
+- name: AWS Inspector API - Describe Assessment Targets
+  x-api-slug: actiondescribeassessmenttargets-get
+  description: |-
+    Describes the assessment targets that are specified by the ARNs of the assessment
+             targets.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Security-Identity_AmazonInspector.png
+  humanURL: https://aws.amazon.com/inspector/
+  baseURL: :///
+  tags: Amazon Web Services, Security, Stack Network, API Service Provider, API Service
+    Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-inspector/actiondescribeassessmenttargets-get-openapi.md
+- name: AWS Inspector API - Describe Assessment Targets
+  x-api-slug: actiondescribeassessmenttargets-get
+  description: |-
+    Describes the assessment targets that are specified by the ARNs of the assessment
+             targets.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Security-Identity_AmazonInspector.png
+  humanURL: https://aws.amazon.com/inspector/
+  baseURL: :///
+  tags: Amazon Web Services, Security, Stack Network, API Service Provider, API Service
+    Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-inspector/actiondescribeassessmenttargets-get-openapi.md
+- name: AWS Inspector API - Describe Assessment Targets
+  x-api-slug: actiondescribeassessmenttargets-get
+  description: |-
+    Describes the assessment targets that are specified by the ARNs of the assessment
+             targets.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Security-Identity_AmazonInspector.png
+  humanURL: https://aws.amazon.com/inspector/
+  baseURL: :///
+  tags: Amazon Web Services, Security, Stack Network, API Service Provider, API Service
+    Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-inspector/actiondescribeassessmenttargets-get-openapi.md
+- name: AWS Inspector API - Describe Assessment Targets
+  x-api-slug: actiondescribeassessmenttargets-get
+  description: |-
+    Describes the assessment targets that are specified by the ARNs of the assessment
+             targets.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Security-Identity_AmazonInspector.png
+  humanURL: https://aws.amazon.com/inspector/
+  baseURL: :///
+  tags: Amazon Web Services, Security, Stack Network, API Service Provider, API Service
+    Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-inspector/actiondescribeassessmenttargets-get-openapi.md
+- name: AWS Inspector API - Describe Assessment Targets
+  x-api-slug: actiondescribeassessmenttargets-get
+  description: |-
+    Describes the assessment targets that are specified by the ARNs of the assessment
+             targets.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Security-Identity_AmazonInspector.png
+  humanURL: https://aws.amazon.com/inspector/
+  baseURL: :///
+  tags: Amazon Web Services, Security, Stack Network, API Service Provider, API Service
+    Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-inspector/actiondescribeassessmenttargets-get-openapi.md
+- name: AWS Inspector API - Describe Assessment Targets
+  x-api-slug: actiondescribeassessmenttargets-get
+  description: |-
+    Describes the assessment targets that are specified by the ARNs of the assessment
+             targets.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Security-Identity_AmazonInspector.png
+  humanURL: https://aws.amazon.com/inspector/
+  baseURL: :///
+  tags: Amazon Web Services, Security, Stack Network, API Service Provider, API Service
+    Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-inspector/actiondescribeassessmenttargets-get-openapi.md
+- name: AWS Inspector API - Describe Assessment Templates
+  x-api-slug: actiondescribeassessmenttemplates-get
+  description: |-
+    Describes the assessment templates that are specified by the ARNs of the assessment
+             templates.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Security-Identity_AmazonInspector.png
+  humanURL: https://aws.amazon.com/inspector/
+  baseURL: :///
+  tags: Amazon Web Services, Security, Stack Network, API Service Provider, API Service
+    Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-inspector/actiondescribeassessmenttemplates-get-openapi.md
+- name: AWS Inspector API - Describe Assessment Templates
+  x-api-slug: actiondescribeassessmenttemplates-get
+  description: |-
+    Describes the assessment templates that are specified by the ARNs of the assessment
+             templates.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Security-Identity_AmazonInspector.png
+  humanURL: https://aws.amazon.com/inspector/
+  baseURL: :///
+  tags: Amazon Web Services, Security, Stack Network, API Service Provider, API Service
+    Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-inspector/actiondescribeassessmenttemplates-get-openapi.md
+- name: AWS Inspector API - Describe Assessment Templates
+  x-api-slug: actiondescribeassessmenttemplates-get
+  description: |-
+    Describes the assessment templates that are specified by the ARNs of the assessment
+             templates.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Security-Identity_AmazonInspector.png
+  humanURL: https://aws.amazon.com/inspector/
+  baseURL: :///
+  tags: Amazon Web Services, Security, Stack Network, API Service Provider, API Service
+    Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-inspector/actiondescribeassessmenttemplates-get-openapi.md
+- name: AWS Inspector API - Describe Assessment Templates
+  x-api-slug: actiondescribeassessmenttemplates-get
+  description: |-
+    Describes the assessment templates that are specified by the ARNs of the assessment
+             templates.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Security-Identity_AmazonInspector.png
+  humanURL: https://aws.amazon.com/inspector/
+  baseURL: :///
+  tags: Amazon Web Services, Security, Stack Network, API Service Provider, API Service
+    Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-inspector/actiondescribeassessmenttemplates-get-openapi.md
+- name: AWS Inspector API - Describe Assessment Templates
+  x-api-slug: actiondescribeassessmenttemplates-get
+  description: |-
+    Describes the assessment templates that are specified by the ARNs of the assessment
+             templates.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Security-Identity_AmazonInspector.png
+  humanURL: https://aws.amazon.com/inspector/
+  baseURL: :///
+  tags: Amazon Web Services, Security, Stack Network, API Service Provider, API Service
+    Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-inspector/actiondescribeassessmenttemplates-get-openapi.md
+- name: AWS Inspector API - Describe Assessment Templates
+  x-api-slug: actiondescribeassessmenttemplates-get
+  description: |-
+    Describes the assessment templates that are specified by the ARNs of the assessment
+             templates.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Security-Identity_AmazonInspector.png
+  humanURL: https://aws.amazon.com/inspector/
+  baseURL: :///
+  tags: Amazon Web Services, Security, Stack Network, API Service Provider, API Service
+    Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-inspector/actiondescribeassessmenttemplates-get-openapi.md
+- name: AWS Inspector API - Describe Assessment Templates
+  x-api-slug: actiondescribeassessmenttemplates-get
+  description: |-
+    Describes the assessment templates that are specified by the ARNs of the assessment
+             templates.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Security-Identity_AmazonInspector.png
+  humanURL: https://aws.amazon.com/inspector/
+  baseURL: :///
+  tags: Amazon Web Services, Security, Stack Network, API Service Provider, API Service
+    Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-inspector/actiondescribeassessmenttemplates-get-openapi.md
+- name: AWS Inspector API - Describe Assessment Templates
+  x-api-slug: actiondescribeassessmenttemplates-get
+  description: |-
+    Describes the assessment templates that are specified by the ARNs of the assessment
+             templates.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Security-Identity_AmazonInspector.png
+  humanURL: https://aws.amazon.com/inspector/
+  baseURL: :///
+  tags: Amazon Web Services, Security, Stack Network, API Service Provider, API Service
+    Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-inspector/actiondescribeassessmenttemplates-get-openapi.md
+- name: AWS Inspector API - Describe Assessment Templates
+  x-api-slug: actiondescribeassessmenttemplates-get
+  description: |-
+    Describes the assessment templates that are specified by the ARNs of the assessment
+             templates.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Security-Identity_AmazonInspector.png
+  humanURL: https://aws.amazon.com/inspector/
+  baseURL: :///
+  tags: Amazon Web Services, Security, Stack Network, API Service Provider, API Service
+    Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-inspector/actiondescribeassessmenttemplates-get-openapi.md
+- name: AWS Inspector API - Describe Assessment Templates
+  x-api-slug: actiondescribeassessmenttemplates-get
+  description: |-
+    Describes the assessment templates that are specified by the ARNs of the assessment
+             templates.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Security-Identity_AmazonInspector.png
+  humanURL: https://aws.amazon.com/inspector/
+  baseURL: :///
+  tags: Amazon Web Services, Security, Stack Network, API Service Provider, API Service
+    Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-inspector/actiondescribeassessmenttemplates-get-openapi.md
+- name: AWS Inspector API - Describe Cross Account Access Role
+  x-api-slug: actiondescribecrossaccountaccessrole-get
+  description: |-
+    Describes the IAM role that enables Amazon Inspector to access your AWS
+             account.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Security-Identity_AmazonInspector.png
+  humanURL: https://aws.amazon.com/inspector/
+  baseURL: :///
+  tags: Amazon Web Services, Security, Stack Network, API Service Provider, API Service
+    Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-inspector/actiondescribecrossaccountaccessrole-get-openapi.md
+- name: AWS Inspector API - Describe Cross Account Access Role
+  x-api-slug: actiondescribecrossaccountaccessrole-get
+  description: |-
+    Describes the IAM role that enables Amazon Inspector to access your AWS
+             account.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Security-Identity_AmazonInspector.png
+  humanURL: https://aws.amazon.com/inspector/
+  baseURL: :///
+  tags: Amazon Web Services, Security, Stack Network, API Service Provider, API Service
+    Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-inspector/actiondescribecrossaccountaccessrole-get-openapi.md
+- name: AWS Inspector API - Describe Cross Account Access Role
+  x-api-slug: actiondescribecrossaccountaccessrole-get
+  description: |-
+    Describes the IAM role that enables Amazon Inspector to access your AWS
+             account.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Security-Identity_AmazonInspector.png
+  humanURL: https://aws.amazon.com/inspector/
+  baseURL: :///
+  tags: Amazon Web Services, Security, Stack Network, API Service Provider, API Service
+    Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-inspector/actiondescribecrossaccountaccessrole-get-openapi.md
+- name: AWS Inspector API - Describe Cross Account Access Role
+  x-api-slug: actiondescribecrossaccountaccessrole-get
+  description: |-
+    Describes the IAM role that enables Amazon Inspector to access your AWS
+             account.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Security-Identity_AmazonInspector.png
+  humanURL: https://aws.amazon.com/inspector/
+  baseURL: :///
+  tags: Amazon Web Services, Security, Stack Network, API Service Provider, API Service
+    Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-inspector/actiondescribecrossaccountaccessrole-get-openapi.md
+- name: AWS Inspector API - Describe Cross Account Access Role
+  x-api-slug: actiondescribecrossaccountaccessrole-get
+  description: |-
+    Describes the IAM role that enables Amazon Inspector to access your AWS
+             account.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Security-Identity_AmazonInspector.png
+  humanURL: https://aws.amazon.com/inspector/
+  baseURL: :///
+  tags: Amazon Web Services, Security, Stack Network, API Service Provider, API Service
+    Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-inspector/actiondescribecrossaccountaccessrole-get-openapi.md
+- name: AWS Inspector API - Describe Cross Account Access Role
+  x-api-slug: actiondescribecrossaccountaccessrole-get
+  description: |-
+    Describes the IAM role that enables Amazon Inspector to access your AWS
+             account.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Security-Identity_AmazonInspector.png
+  humanURL: https://aws.amazon.com/inspector/
+  baseURL: :///
+  tags: Amazon Web Services, Security, Stack Network, API Service Provider, API Service
+    Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-inspector/actiondescribecrossaccountaccessrole-get-openapi.md
+- name: AWS Inspector API - Describe Cross Account Access Role
+  x-api-slug: actiondescribecrossaccountaccessrole-get
+  description: |-
+    Describes the IAM role that enables Amazon Inspector to access your AWS
+             account.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Security-Identity_AmazonInspector.png
+  humanURL: https://aws.amazon.com/inspector/
+  baseURL: :///
+  tags: Amazon Web Services, Security, Stack Network, API Service Provider, API Service
+    Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-inspector/actiondescribecrossaccountaccessrole-get-openapi.md
+- name: AWS Inspector API - Describe Cross Account Access Role
+  x-api-slug: actiondescribecrossaccountaccessrole-get
+  description: |-
+    Describes the IAM role that enables Amazon Inspector to access your AWS
+             account.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Security-Identity_AmazonInspector.png
+  humanURL: https://aws.amazon.com/inspector/
+  baseURL: :///
+  tags: Amazon Web Services, Security, Stack Network, API Service Provider, API Service
+    Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-inspector/actiondescribecrossaccountaccessrole-get-openapi.md
+- name: AWS Inspector API - Describe Cross Account Access Role
+  x-api-slug: actiondescribecrossaccountaccessrole-get
+  description: |-
+    Describes the IAM role that enables Amazon Inspector to access your AWS
+             account.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Security-Identity_AmazonInspector.png
+  humanURL: https://aws.amazon.com/inspector/
+  baseURL: :///
+  tags: Amazon Web Services, Security, Stack Network, API Service Provider, API Service
+    Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-inspector/actiondescribecrossaccountaccessrole-get-openapi.md
+- name: AWS Inspector API - Describe Cross Account Access Role
+  x-api-slug: actiondescribecrossaccountaccessrole-get
+  description: |-
+    Describes the IAM role that enables Amazon Inspector to access your AWS
+             account.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Security-Identity_AmazonInspector.png
+  humanURL: https://aws.amazon.com/inspector/
+  baseURL: :///
+  tags: Amazon Web Services, Security, Stack Network, API Service Provider, API Service
+    Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-inspector/actiondescribecrossaccountaccessrole-get-openapi.md
+- name: AWS Inspector API - Describe Cross Account Access Role
+  x-api-slug: actiondescribecrossaccountaccessrole-get
+  description: |-
+    Describes the IAM role that enables Amazon Inspector to access your AWS
+             account.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Security-Identity_AmazonInspector.png
+  humanURL: https://aws.amazon.com/inspector/
+  baseURL: :///
+  tags: Amazon Web Services, Security, Stack Network, API Service Provider, API Service
+    Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-inspector/actiondescribecrossaccountaccessrole-get-openapi.md
 - name: AWS Inspector API - Describe Findings
   x-api-slug: actiondescribefindings-get
   description: Describes the findings that are specified by the ARNs of the findings.
@@ -562,6 +1563,318 @@ apis:
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-inspector/actiondescribefindings-get-postman.md
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-inspector/actiondescribefindings-get-openapi.md
+- name: AWS Inspector API - Describe Resource Groups
+  x-api-slug: actiondescriberesourcegroups-get
+  description: |-
+    Describes the resource groups that are specified by the ARNs of the resource
+             groups.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Security-Identity_AmazonInspector.png
+  humanURL: https://aws.amazon.com/inspector/
+  baseURL: :///
+  tags: Amazon Web Services, Security, Stack Network, API Service Provider, API Service
+    Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-inspector/actiondescriberesourcegroups-get-openapi.md
+- name: AWS Inspector API - Describe Resource Groups
+  x-api-slug: actiondescriberesourcegroups-get
+  description: |-
+    Describes the resource groups that are specified by the ARNs of the resource
+             groups.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Security-Identity_AmazonInspector.png
+  humanURL: https://aws.amazon.com/inspector/
+  baseURL: :///
+  tags: Amazon Web Services, Security, Stack Network, API Service Provider, API Service
+    Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-inspector/actiondescriberesourcegroups-get-openapi.md
+- name: AWS Inspector API - Describe Resource Groups
+  x-api-slug: actiondescriberesourcegroups-get
+  description: |-
+    Describes the resource groups that are specified by the ARNs of the resource
+             groups.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Security-Identity_AmazonInspector.png
+  humanURL: https://aws.amazon.com/inspector/
+  baseURL: :///
+  tags: Amazon Web Services, Security, Stack Network, API Service Provider, API Service
+    Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-inspector/actiondescriberesourcegroups-get-openapi.md
+- name: AWS Inspector API - Describe Resource Groups
+  x-api-slug: actiondescriberesourcegroups-get
+  description: |-
+    Describes the resource groups that are specified by the ARNs of the resource
+             groups.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Security-Identity_AmazonInspector.png
+  humanURL: https://aws.amazon.com/inspector/
+  baseURL: :///
+  tags: Amazon Web Services, Security, Stack Network, API Service Provider, API Service
+    Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-inspector/actiondescriberesourcegroups-get-openapi.md
+- name: AWS Inspector API - Describe Resource Groups
+  x-api-slug: actiondescriberesourcegroups-get
+  description: |-
+    Describes the resource groups that are specified by the ARNs of the resource
+             groups.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Security-Identity_AmazonInspector.png
+  humanURL: https://aws.amazon.com/inspector/
+  baseURL: :///
+  tags: Amazon Web Services, Security, Stack Network, API Service Provider, API Service
+    Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-inspector/actiondescriberesourcegroups-get-openapi.md
+- name: AWS Inspector API - Describe Resource Groups
+  x-api-slug: actiondescriberesourcegroups-get
+  description: |-
+    Describes the resource groups that are specified by the ARNs of the resource
+             groups.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Security-Identity_AmazonInspector.png
+  humanURL: https://aws.amazon.com/inspector/
+  baseURL: :///
+  tags: Amazon Web Services, Security, Stack Network, API Service Provider, API Service
+    Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-inspector/actiondescriberesourcegroups-get-openapi.md
+- name: AWS Inspector API - Describe Resource Groups
+  x-api-slug: actiondescriberesourcegroups-get
+  description: |-
+    Describes the resource groups that are specified by the ARNs of the resource
+             groups.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Security-Identity_AmazonInspector.png
+  humanURL: https://aws.amazon.com/inspector/
+  baseURL: :///
+  tags: Amazon Web Services, Security, Stack Network, API Service Provider, API Service
+    Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-inspector/actiondescriberesourcegroups-get-openapi.md
+- name: AWS Inspector API - Describe Resource Groups
+  x-api-slug: actiondescriberesourcegroups-get
+  description: |-
+    Describes the resource groups that are specified by the ARNs of the resource
+             groups.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Security-Identity_AmazonInspector.png
+  humanURL: https://aws.amazon.com/inspector/
+  baseURL: :///
+  tags: Amazon Web Services, Security, Stack Network, API Service Provider, API Service
+    Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-inspector/actiondescriberesourcegroups-get-openapi.md
+- name: AWS Inspector API - Describe Resource Groups
+  x-api-slug: actiondescriberesourcegroups-get
+  description: |-
+    Describes the resource groups that are specified by the ARNs of the resource
+             groups.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Security-Identity_AmazonInspector.png
+  humanURL: https://aws.amazon.com/inspector/
+  baseURL: :///
+  tags: Amazon Web Services, Security, Stack Network, API Service Provider, API Service
+    Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-inspector/actiondescriberesourcegroups-get-openapi.md
+- name: AWS Inspector API - Describe Resource Groups
+  x-api-slug: actiondescriberesourcegroups-get
+  description: |-
+    Describes the resource groups that are specified by the ARNs of the resource
+             groups.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Security-Identity_AmazonInspector.png
+  humanURL: https://aws.amazon.com/inspector/
+  baseURL: :///
+  tags: Amazon Web Services, Security, Stack Network, API Service Provider, API Service
+    Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-inspector/actiondescriberesourcegroups-get-openapi.md
+- name: AWS Inspector API - Describe Resource Groups
+  x-api-slug: actiondescriberesourcegroups-get
+  description: |-
+    Describes the resource groups that are specified by the ARNs of the resource
+             groups.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Security-Identity_AmazonInspector.png
+  humanURL: https://aws.amazon.com/inspector/
+  baseURL: :///
+  tags: Amazon Web Services, Security, Stack Network, API Service Provider, API Service
+    Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-inspector/actiondescriberesourcegroups-get-openapi.md
+- name: AWS Inspector API - Describe Resource Groups
+  x-api-slug: actiondescriberesourcegroups-get
+  description: |-
+    Describes the resource groups that are specified by the ARNs of the resource
+             groups.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Security-Identity_AmazonInspector.png
+  humanURL: https://aws.amazon.com/inspector/
+  baseURL: :///
+  tags: Amazon Web Services, Security, Stack Network, API Service Provider, API Service
+    Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-inspector/actiondescriberesourcegroups-get-openapi.md
+- name: AWS Inspector API - Describe Rules Packages
+  x-api-slug: actiondescriberulespackages-get
+  description: |-
+    Describes the rules packages that are specified by the ARNs of the rules
+             packages.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Security-Identity_AmazonInspector.png
+  humanURL: https://aws.amazon.com/inspector/
+  baseURL: :///
+  tags: Amazon Web Services, Security, Stack Network, API Service Provider, API Service
+    Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-inspector/actiondescriberulespackages-get-openapi.md
+- name: AWS Inspector API - Describe Rules Packages
+  x-api-slug: actiondescriberulespackages-get
+  description: |-
+    Describes the rules packages that are specified by the ARNs of the rules
+             packages.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Security-Identity_AmazonInspector.png
+  humanURL: https://aws.amazon.com/inspector/
+  baseURL: :///
+  tags: Amazon Web Services, Security, Stack Network, API Service Provider, API Service
+    Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-inspector/actiondescriberulespackages-get-openapi.md
+- name: AWS Inspector API - Describe Rules Packages
+  x-api-slug: actiondescriberulespackages-get
+  description: |-
+    Describes the rules packages that are specified by the ARNs of the rules
+             packages.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Security-Identity_AmazonInspector.png
+  humanURL: https://aws.amazon.com/inspector/
+  baseURL: :///
+  tags: Amazon Web Services, Security, Stack Network, API Service Provider, API Service
+    Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-inspector/actiondescriberulespackages-get-openapi.md
+- name: AWS Inspector API - Describe Rules Packages
+  x-api-slug: actiondescriberulespackages-get
+  description: |-
+    Describes the rules packages that are specified by the ARNs of the rules
+             packages.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Security-Identity_AmazonInspector.png
+  humanURL: https://aws.amazon.com/inspector/
+  baseURL: :///
+  tags: Amazon Web Services, Security, Stack Network, API Service Provider, API Service
+    Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-inspector/actiondescriberulespackages-get-openapi.md
+- name: AWS Inspector API - Describe Rules Packages
+  x-api-slug: actiondescriberulespackages-get
+  description: |-
+    Describes the rules packages that are specified by the ARNs of the rules
+             packages.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Security-Identity_AmazonInspector.png
+  humanURL: https://aws.amazon.com/inspector/
+  baseURL: :///
+  tags: Amazon Web Services, Security, Stack Network, API Service Provider, API Service
+    Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-inspector/actiondescriberulespackages-get-openapi.md
+- name: AWS Inspector API - Describe Rules Packages
+  x-api-slug: actiondescriberulespackages-get
+  description: |-
+    Describes the rules packages that are specified by the ARNs of the rules
+             packages.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Security-Identity_AmazonInspector.png
+  humanURL: https://aws.amazon.com/inspector/
+  baseURL: :///
+  tags: Amazon Web Services, Security, Stack Network, API Service Provider, API Service
+    Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-inspector/actiondescriberulespackages-get-openapi.md
+- name: AWS Inspector API - Describe Rules Packages
+  x-api-slug: actiondescriberulespackages-get
+  description: |-
+    Describes the rules packages that are specified by the ARNs of the rules
+             packages.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Security-Identity_AmazonInspector.png
+  humanURL: https://aws.amazon.com/inspector/
+  baseURL: :///
+  tags: Amazon Web Services, Security, Stack Network, API Service Provider, API Service
+    Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-inspector/actiondescriberulespackages-get-openapi.md
+- name: AWS Inspector API - Describe Rules Packages
+  x-api-slug: actiondescriberulespackages-get
+  description: |-
+    Describes the rules packages that are specified by the ARNs of the rules
+             packages.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Security-Identity_AmazonInspector.png
+  humanURL: https://aws.amazon.com/inspector/
+  baseURL: :///
+  tags: Amazon Web Services, Security, Stack Network, API Service Provider, API Service
+    Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-inspector/actiondescriberulespackages-get-openapi.md
+- name: AWS Inspector API - Describe Rules Packages
+  x-api-slug: actiondescriberulespackages-get
+  description: |-
+    Describes the rules packages that are specified by the ARNs of the rules
+             packages.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Security-Identity_AmazonInspector.png
+  humanURL: https://aws.amazon.com/inspector/
+  baseURL: :///
+  tags: Amazon Web Services, Security, Stack Network, API Service Provider, API Service
+    Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-inspector/actiondescriberulespackages-get-openapi.md
+- name: AWS Inspector API - Describe Rules Packages
+  x-api-slug: actiondescriberulespackages-get
+  description: |-
+    Describes the rules packages that are specified by the ARNs of the rules
+             packages.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Security-Identity_AmazonInspector.png
+  humanURL: https://aws.amazon.com/inspector/
+  baseURL: :///
+  tags: Amazon Web Services, Security, Stack Network, API Service Provider, API Service
+    Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-inspector/actiondescriberulespackages-get-openapi.md
+- name: AWS Inspector API - Describe Rules Packages
+  x-api-slug: actiondescriberulespackages-get
+  description: |-
+    Describes the rules packages that are specified by the ARNs of the rules
+             packages.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Security-Identity_AmazonInspector.png
+  humanURL: https://aws.amazon.com/inspector/
+  baseURL: :///
+  tags: Amazon Web Services, Security, Stack Network, API Service Provider, API Service
+    Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-inspector/actiondescriberulespackages-get-openapi.md
+- name: AWS Inspector API - Describe Rules Packages
+  x-api-slug: actiondescriberulespackages-get
+  description: |-
+    Describes the rules packages that are specified by the ARNs of the rules
+             packages.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Security-Identity_AmazonInspector.png
+  humanURL: https://aws.amazon.com/inspector/
+  baseURL: :///
+  tags: Amazon Web Services, Security, Stack Network, API Service Provider, API Service
+    Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-inspector/actiondescriberulespackages-get-openapi.md
 x-common:
 - type: x-api-gallery
   url: http://aws.identity.and.access.management.api.gallery.streamdata.io

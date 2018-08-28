@@ -13,8 +13,8 @@ image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/l
 x-kinRank: "10"
 x-alexaRank: "0"
 tags: Descriptions
-created: "2018-08-26"
-modified: "2018-08-26"
+created: "2018-08-27"
+modified: "2018-08-27"
 url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-auto-scaling/apis.md
 specificationVersion: "0.14"
 apis:
@@ -32,6 +32,54 @@ apis:
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-auto-scaling/actiondescribeaccountlimits-get-postman.md
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-auto-scaling/actiondescribeaccountlimits-get-openapi.md
+- name: AWS Auto Scaling API - Describe Adjustment Types
+  x-api-slug: actiondescribeadjustmenttypes-get
+  description: Describes the policy adjustment types for use with.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2_AutoScaling.png
+  humanURL: https://aws.amazon.com/autoscaling/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Performance, Stack Network, API Service Provider,
+    API Service Provider, API Provider, Deployments, Profiles, Relative Data, Service
+    API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-auto-scaling/actiondescribeadjustmenttypes-get-openapi.md
+- name: AWS Auto Scaling API - Describe Auto Scaling Groups
+  x-api-slug: actiondescribeautoscalinggroups-get
+  description: Describes one or more Auto Scaling groups.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2_AutoScaling.png
+  humanURL: https://aws.amazon.com/autoscaling/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Performance, Stack Network, API Service Provider,
+    API Service Provider, API Provider, Deployments, Profiles, Relative Data, Service
+    API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-auto-scaling/actiondescribeautoscalinggroups-get-openapi.md
+- name: AWS Auto Scaling API - Describe Auto Scaling Instances
+  x-api-slug: actiondescribeautoscalinginstances-get
+  description: Describes one or more Auto Scaling instances.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2_AutoScaling.png
+  humanURL: https://aws.amazon.com/autoscaling/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Performance, Stack Network, API Service Provider,
+    API Service Provider, API Provider, Deployments, Profiles, Relative Data, Service
+    API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-auto-scaling/actiondescribeautoscalinginstances-get-openapi.md
+- name: AWS Auto Scaling API - Describe Auto Scaling Notification Types
+  x-api-slug: actiondescribeautoscalingnotificationtypes-get
+  description: Describes the notification types that are supported by Auto Scaling.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2_AutoScaling.png
+  humanURL: https://aws.amazon.com/autoscaling/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Performance, Stack Network, API Service Provider,
+    API Service Provider, API Provider, Deployments, Profiles, Relative Data, Service
+    API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-auto-scaling/actiondescribeautoscalingnotificationtypes-get-openapi.md
 - name: AWS Auto Scaling API - Describe Launch Configurations
   x-api-slug: actiondescribelaunchconfigurations-get
   description: Describes one or more launch configurations.
@@ -116,6 +164,54 @@ apis:
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-auto-scaling/actiondescribelifecyclehooktypes-get-postman.md
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-auto-scaling/actiondescribelifecyclehooktypes-get-openapi.md
+- name: AWS Auto Scaling API - Describe Load Balancers
+  x-api-slug: actiondescribeloadbalancers-get
+  description: Describes the load balancers for the specified Auto Scaling group.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2_AutoScaling.png
+  humanURL: https://aws.amazon.com/autoscaling/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Performance, Stack Network, API Service Provider,
+    API Service Provider, API Provider, Deployments, Profiles, Relative Data, Service
+    API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-auto-scaling/actiondescribeloadbalancers-get-openapi.md
+- name: AWS Auto Scaling API - Describe Load Balancers
+  x-api-slug: actiondescribeloadbalancers-get
+  description: Describes the load balancers for the specified Auto Scaling group.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2_AutoScaling.png
+  humanURL: https://aws.amazon.com/autoscaling/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Performance, Stack Network, API Service Provider,
+    API Service Provider, API Provider, Deployments, Profiles, Relative Data, Service
+    API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-auto-scaling/actiondescribeloadbalancers-get-openapi.md
+- name: AWS Auto Scaling API - Describe Load Balancer Target Groups
+  x-api-slug: actiondescribeloadbalancertargetgroups-get
+  description: Describes the target groups for the specified Auto Scaling group.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2_AutoScaling.png
+  humanURL: https://aws.amazon.com/autoscaling/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Performance, Stack Network, API Service Provider,
+    API Service Provider, API Provider, Deployments, Profiles, Relative Data, Service
+    API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-auto-scaling/actiondescribeloadbalancertargetgroups-get-openapi.md
+- name: AWS Auto Scaling API - Describe Load Balancer Target Groups
+  x-api-slug: actiondescribeloadbalancertargetgroups-get
+  description: Describes the target groups for the specified Auto Scaling group.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2_AutoScaling.png
+  humanURL: https://aws.amazon.com/autoscaling/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Performance, Stack Network, API Service Provider,
+    API Service Provider, API Provider, Deployments, Profiles, Relative Data, Service
+    API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-auto-scaling/actiondescribeloadbalancertargetgroups-get-openapi.md
 - name: AWS Auto Scaling API - Describe Metric Collection Types
   x-api-slug: actiondescribemetriccollectiontypes-get
   description: Describes the available CloudWatch metrics for Auto Scaling.
@@ -144,6 +240,82 @@ apis:
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-auto-scaling/actiondescribemetriccollectiontypes-get-postman.md
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-auto-scaling/actiondescribemetriccollectiontypes-get-openapi.md
+- name: AWS Auto Scaling API - Describe Notification Configurations
+  x-api-slug: actiondescribenotificationconfigurations-get
+  description: Describes the notification actions associated with the specified Auto
+    Scaling group.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2_AutoScaling.png
+  humanURL: https://aws.amazon.com/autoscaling/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Performance, Stack Network, API Service Provider,
+    API Service Provider, API Provider, Deployments, Profiles, Relative Data, Service
+    API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-auto-scaling/actiondescribenotificationconfigurations-get-openapi.md
+- name: AWS Auto Scaling API - Describe Notification Configurations
+  x-api-slug: actiondescribenotificationconfigurations-get
+  description: Describes the notification actions associated with the specified Auto
+    Scaling group.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2_AutoScaling.png
+  humanURL: https://aws.amazon.com/autoscaling/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Performance, Stack Network, API Service Provider,
+    API Service Provider, API Provider, Deployments, Profiles, Relative Data, Service
+    API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-auto-scaling/actiondescribenotificationconfigurations-get-openapi.md
+- name: AWS Auto Scaling API - Describe Policies
+  x-api-slug: actiondescribepolicies-get
+  description: Describes the policies for the specified Auto Scaling group.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2_AutoScaling.png
+  humanURL: https://aws.amazon.com/autoscaling/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Performance, Stack Network, API Service Provider,
+    API Service Provider, API Provider, Deployments, Profiles, Relative Data, Service
+    API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-auto-scaling/actiondescribepolicies-get-openapi.md
+- name: AWS Auto Scaling API - Describe Policies
+  x-api-slug: actiondescribepolicies-get
+  description: Describes the policies for the specified Auto Scaling group.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2_AutoScaling.png
+  humanURL: https://aws.amazon.com/autoscaling/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Performance, Stack Network, API Service Provider,
+    API Service Provider, API Provider, Deployments, Profiles, Relative Data, Service
+    API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-auto-scaling/actiondescribepolicies-get-openapi.md
+- name: AWS Auto Scaling API - Describe Scaling Activities
+  x-api-slug: actiondescribescalingactivities-get
+  description: Describes one or more scaling activities for the specified Auto Scaling
+    group.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2_AutoScaling.png
+  humanURL: https://aws.amazon.com/autoscaling/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Performance, Stack Network, API Service Provider,
+    API Service Provider, API Provider, Deployments, Profiles, Relative Data, Service
+    API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-auto-scaling/actiondescribescalingactivities-get-openapi.md
+- name: AWS Auto Scaling API - Describe Scaling Activities
+  x-api-slug: actiondescribescalingactivities-get
+  description: Describes one or more scaling activities for the specified Auto Scaling
+    group.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2_AutoScaling.png
+  humanURL: https://aws.amazon.com/autoscaling/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Performance, Stack Network, API Service Provider,
+    API Service Provider, API Provider, Deployments, Profiles, Relative Data, Service
+    API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-auto-scaling/actiondescribescalingactivities-get-openapi.md
 - name: AWS Auto Scaling API - Describe Scaling Process Types
   x-api-slug: actiondescribescalingprocesstypes-get
   description: Describes the scaling process types for use with.
@@ -202,6 +374,54 @@ apis:
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-auto-scaling/actiondescribescheduledactions-get-postman.md
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-auto-scaling/actiondescribescheduledactions-get-openapi.md
+- name: AWS Auto Scaling API - Describe Tags
+  x-api-slug: actiondescribetags-get
+  description: Describes the specified tags.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2_AutoScaling.png
+  humanURL: https://aws.amazon.com/autoscaling/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Performance, Stack Network, API Service Provider,
+    API Service Provider, API Provider, Deployments, Profiles, Relative Data, Service
+    API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-auto-scaling/actiondescribetags-get-openapi.md
+- name: AWS Auto Scaling API - Describe Tags
+  x-api-slug: actiondescribetags-get
+  description: Describes the specified tags.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2_AutoScaling.png
+  humanURL: https://aws.amazon.com/autoscaling/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Performance, Stack Network, API Service Provider,
+    API Service Provider, API Provider, Deployments, Profiles, Relative Data, Service
+    API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-auto-scaling/actiondescribetags-get-openapi.md
+- name: AWS Auto Scaling API - Describe Termination Policy Types
+  x-api-slug: actiondescribeterminationpolicytypes-get
+  description: Describes the termination policies supported by Auto Scaling.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2_AutoScaling.png
+  humanURL: https://aws.amazon.com/autoscaling/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Performance, Stack Network, API Service Provider,
+    API Service Provider, API Provider, Deployments, Profiles, Relative Data, Service
+    API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-auto-scaling/actiondescribeterminationpolicytypes-get-openapi.md
+- name: AWS Auto Scaling API - Describe Termination Policy Types
+  x-api-slug: actiondescribeterminationpolicytypes-get
+  description: Describes the termination policies supported by Auto Scaling.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2_AutoScaling.png
+  humanURL: https://aws.amazon.com/autoscaling/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Performance, Stack Network, API Service Provider,
+    API Service Provider, API Provider, Deployments, Profiles, Relative Data, Service
+    API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-auto-scaling/actiondescribeterminationpolicytypes-get-openapi.md
 - name: AWS Auto Scaling API - Describe Account Limits
   x-api-slug: actiondescribeaccountlimits-get
   description: Describes the current Auto Scaling resource limits for your AWS account.
@@ -300,6 +520,342 @@ apis:
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-auto-scaling/actiondescribeaccountlimits-get-postman.md
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-auto-scaling/actiondescribeaccountlimits-get-openapi.md
+- name: AWS Auto Scaling API - Describe Adjustment Types
+  x-api-slug: actiondescribeadjustmenttypes-get
+  description: Describes the policy adjustment types for use with.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2_AutoScaling.png
+  humanURL: https://aws.amazon.com/autoscaling/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Performance, Stack Network, API Service Provider,
+    API Service Provider, API Provider, Deployments, Profiles, Relative Data, Service
+    API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-auto-scaling/actiondescribeadjustmenttypes-get-openapi.md
+- name: AWS Auto Scaling API - Describe Adjustment Types
+  x-api-slug: actiondescribeadjustmenttypes-get
+  description: Describes the policy adjustment types for use with.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2_AutoScaling.png
+  humanURL: https://aws.amazon.com/autoscaling/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Performance, Stack Network, API Service Provider,
+    API Service Provider, API Provider, Deployments, Profiles, Relative Data, Service
+    API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-auto-scaling/actiondescribeadjustmenttypes-get-openapi.md
+- name: AWS Auto Scaling API - Describe Adjustment Types
+  x-api-slug: actiondescribeadjustmenttypes-get
+  description: Describes the policy adjustment types for use with.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2_AutoScaling.png
+  humanURL: https://aws.amazon.com/autoscaling/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Performance, Stack Network, API Service Provider,
+    API Service Provider, API Provider, Deployments, Profiles, Relative Data, Service
+    API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-auto-scaling/actiondescribeadjustmenttypes-get-openapi.md
+- name: AWS Auto Scaling API - Describe Adjustment Types
+  x-api-slug: actiondescribeadjustmenttypes-get
+  description: Describes the policy adjustment types for use with.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2_AutoScaling.png
+  humanURL: https://aws.amazon.com/autoscaling/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Performance, Stack Network, API Service Provider,
+    API Service Provider, API Provider, Deployments, Profiles, Relative Data, Service
+    API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-auto-scaling/actiondescribeadjustmenttypes-get-openapi.md
+- name: AWS Auto Scaling API - Describe Adjustment Types
+  x-api-slug: actiondescribeadjustmenttypes-get
+  description: Describes the policy adjustment types for use with.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2_AutoScaling.png
+  humanURL: https://aws.amazon.com/autoscaling/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Performance, Stack Network, API Service Provider,
+    API Service Provider, API Provider, Deployments, Profiles, Relative Data, Service
+    API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-auto-scaling/actiondescribeadjustmenttypes-get-openapi.md
+- name: AWS Auto Scaling API - Describe Adjustment Types
+  x-api-slug: actiondescribeadjustmenttypes-get
+  description: Describes the policy adjustment types for use with.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2_AutoScaling.png
+  humanURL: https://aws.amazon.com/autoscaling/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Performance, Stack Network, API Service Provider,
+    API Service Provider, API Provider, Deployments, Profiles, Relative Data, Service
+    API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-auto-scaling/actiondescribeadjustmenttypes-get-openapi.md
+- name: AWS Auto Scaling API - Describe Adjustment Types
+  x-api-slug: actiondescribeadjustmenttypes-get
+  description: Describes the policy adjustment types for use with.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2_AutoScaling.png
+  humanURL: https://aws.amazon.com/autoscaling/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Performance, Stack Network, API Service Provider,
+    API Service Provider, API Provider, Deployments, Profiles, Relative Data, Service
+    API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-auto-scaling/actiondescribeadjustmenttypes-get-openapi.md
+- name: AWS Auto Scaling API - Describe Auto Scaling Groups
+  x-api-slug: actiondescribeautoscalinggroups-get
+  description: Describes one or more Auto Scaling groups.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2_AutoScaling.png
+  humanURL: https://aws.amazon.com/autoscaling/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Performance, Stack Network, API Service Provider,
+    API Service Provider, API Provider, Deployments, Profiles, Relative Data, Service
+    API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-auto-scaling/actiondescribeautoscalinggroups-get-openapi.md
+- name: AWS Auto Scaling API - Describe Auto Scaling Groups
+  x-api-slug: actiondescribeautoscalinggroups-get
+  description: Describes one or more Auto Scaling groups.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2_AutoScaling.png
+  humanURL: https://aws.amazon.com/autoscaling/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Performance, Stack Network, API Service Provider,
+    API Service Provider, API Provider, Deployments, Profiles, Relative Data, Service
+    API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-auto-scaling/actiondescribeautoscalinggroups-get-openapi.md
+- name: AWS Auto Scaling API - Describe Auto Scaling Groups
+  x-api-slug: actiondescribeautoscalinggroups-get
+  description: Describes one or more Auto Scaling groups.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2_AutoScaling.png
+  humanURL: https://aws.amazon.com/autoscaling/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Performance, Stack Network, API Service Provider,
+    API Service Provider, API Provider, Deployments, Profiles, Relative Data, Service
+    API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-auto-scaling/actiondescribeautoscalinggroups-get-openapi.md
+- name: AWS Auto Scaling API - Describe Auto Scaling Groups
+  x-api-slug: actiondescribeautoscalinggroups-get
+  description: Describes one or more Auto Scaling groups.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2_AutoScaling.png
+  humanURL: https://aws.amazon.com/autoscaling/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Performance, Stack Network, API Service Provider,
+    API Service Provider, API Provider, Deployments, Profiles, Relative Data, Service
+    API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-auto-scaling/actiondescribeautoscalinggroups-get-openapi.md
+- name: AWS Auto Scaling API - Describe Auto Scaling Groups
+  x-api-slug: actiondescribeautoscalinggroups-get
+  description: Describes one or more Auto Scaling groups.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2_AutoScaling.png
+  humanURL: https://aws.amazon.com/autoscaling/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Performance, Stack Network, API Service Provider,
+    API Service Provider, API Provider, Deployments, Profiles, Relative Data, Service
+    API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-auto-scaling/actiondescribeautoscalinggroups-get-openapi.md
+- name: AWS Auto Scaling API - Describe Auto Scaling Groups
+  x-api-slug: actiondescribeautoscalinggroups-get
+  description: Describes one or more Auto Scaling groups.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2_AutoScaling.png
+  humanURL: https://aws.amazon.com/autoscaling/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Performance, Stack Network, API Service Provider,
+    API Service Provider, API Provider, Deployments, Profiles, Relative Data, Service
+    API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-auto-scaling/actiondescribeautoscalinggroups-get-openapi.md
+- name: AWS Auto Scaling API - Describe Auto Scaling Groups
+  x-api-slug: actiondescribeautoscalinggroups-get
+  description: Describes one or more Auto Scaling groups.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2_AutoScaling.png
+  humanURL: https://aws.amazon.com/autoscaling/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Performance, Stack Network, API Service Provider,
+    API Service Provider, API Provider, Deployments, Profiles, Relative Data, Service
+    API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-auto-scaling/actiondescribeautoscalinggroups-get-openapi.md
+- name: AWS Auto Scaling API - Describe Auto Scaling Instances
+  x-api-slug: actiondescribeautoscalinginstances-get
+  description: Describes one or more Auto Scaling instances.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2_AutoScaling.png
+  humanURL: https://aws.amazon.com/autoscaling/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Performance, Stack Network, API Service Provider,
+    API Service Provider, API Provider, Deployments, Profiles, Relative Data, Service
+    API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-auto-scaling/actiondescribeautoscalinginstances-get-openapi.md
+- name: AWS Auto Scaling API - Describe Auto Scaling Instances
+  x-api-slug: actiondescribeautoscalinginstances-get
+  description: Describes one or more Auto Scaling instances.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2_AutoScaling.png
+  humanURL: https://aws.amazon.com/autoscaling/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Performance, Stack Network, API Service Provider,
+    API Service Provider, API Provider, Deployments, Profiles, Relative Data, Service
+    API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-auto-scaling/actiondescribeautoscalinginstances-get-openapi.md
+- name: AWS Auto Scaling API - Describe Auto Scaling Instances
+  x-api-slug: actiondescribeautoscalinginstances-get
+  description: Describes one or more Auto Scaling instances.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2_AutoScaling.png
+  humanURL: https://aws.amazon.com/autoscaling/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Performance, Stack Network, API Service Provider,
+    API Service Provider, API Provider, Deployments, Profiles, Relative Data, Service
+    API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-auto-scaling/actiondescribeautoscalinginstances-get-openapi.md
+- name: AWS Auto Scaling API - Describe Auto Scaling Instances
+  x-api-slug: actiondescribeautoscalinginstances-get
+  description: Describes one or more Auto Scaling instances.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2_AutoScaling.png
+  humanURL: https://aws.amazon.com/autoscaling/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Performance, Stack Network, API Service Provider,
+    API Service Provider, API Provider, Deployments, Profiles, Relative Data, Service
+    API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-auto-scaling/actiondescribeautoscalinginstances-get-openapi.md
+- name: AWS Auto Scaling API - Describe Auto Scaling Instances
+  x-api-slug: actiondescribeautoscalinginstances-get
+  description: Describes one or more Auto Scaling instances.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2_AutoScaling.png
+  humanURL: https://aws.amazon.com/autoscaling/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Performance, Stack Network, API Service Provider,
+    API Service Provider, API Provider, Deployments, Profiles, Relative Data, Service
+    API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-auto-scaling/actiondescribeautoscalinginstances-get-openapi.md
+- name: AWS Auto Scaling API - Describe Auto Scaling Instances
+  x-api-slug: actiondescribeautoscalinginstances-get
+  description: Describes one or more Auto Scaling instances.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2_AutoScaling.png
+  humanURL: https://aws.amazon.com/autoscaling/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Performance, Stack Network, API Service Provider,
+    API Service Provider, API Provider, Deployments, Profiles, Relative Data, Service
+    API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-auto-scaling/actiondescribeautoscalinginstances-get-openapi.md
+- name: AWS Auto Scaling API - Describe Auto Scaling Instances
+  x-api-slug: actiondescribeautoscalinginstances-get
+  description: Describes one or more Auto Scaling instances.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2_AutoScaling.png
+  humanURL: https://aws.amazon.com/autoscaling/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Performance, Stack Network, API Service Provider,
+    API Service Provider, API Provider, Deployments, Profiles, Relative Data, Service
+    API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-auto-scaling/actiondescribeautoscalinginstances-get-openapi.md
+- name: AWS Auto Scaling API - Describe Auto Scaling Notification Types
+  x-api-slug: actiondescribeautoscalingnotificationtypes-get
+  description: Describes the notification types that are supported by Auto Scaling.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2_AutoScaling.png
+  humanURL: https://aws.amazon.com/autoscaling/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Performance, Stack Network, API Service Provider,
+    API Service Provider, API Provider, Deployments, Profiles, Relative Data, Service
+    API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-auto-scaling/actiondescribeautoscalingnotificationtypes-get-openapi.md
+- name: AWS Auto Scaling API - Describe Auto Scaling Notification Types
+  x-api-slug: actiondescribeautoscalingnotificationtypes-get
+  description: Describes the notification types that are supported by Auto Scaling.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2_AutoScaling.png
+  humanURL: https://aws.amazon.com/autoscaling/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Performance, Stack Network, API Service Provider,
+    API Service Provider, API Provider, Deployments, Profiles, Relative Data, Service
+    API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-auto-scaling/actiondescribeautoscalingnotificationtypes-get-openapi.md
+- name: AWS Auto Scaling API - Describe Auto Scaling Notification Types
+  x-api-slug: actiondescribeautoscalingnotificationtypes-get
+  description: Describes the notification types that are supported by Auto Scaling.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2_AutoScaling.png
+  humanURL: https://aws.amazon.com/autoscaling/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Performance, Stack Network, API Service Provider,
+    API Service Provider, API Provider, Deployments, Profiles, Relative Data, Service
+    API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-auto-scaling/actiondescribeautoscalingnotificationtypes-get-openapi.md
+- name: AWS Auto Scaling API - Describe Auto Scaling Notification Types
+  x-api-slug: actiondescribeautoscalingnotificationtypes-get
+  description: Describes the notification types that are supported by Auto Scaling.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2_AutoScaling.png
+  humanURL: https://aws.amazon.com/autoscaling/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Performance, Stack Network, API Service Provider,
+    API Service Provider, API Provider, Deployments, Profiles, Relative Data, Service
+    API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-auto-scaling/actiondescribeautoscalingnotificationtypes-get-openapi.md
+- name: AWS Auto Scaling API - Describe Auto Scaling Notification Types
+  x-api-slug: actiondescribeautoscalingnotificationtypes-get
+  description: Describes the notification types that are supported by Auto Scaling.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2_AutoScaling.png
+  humanURL: https://aws.amazon.com/autoscaling/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Performance, Stack Network, API Service Provider,
+    API Service Provider, API Provider, Deployments, Profiles, Relative Data, Service
+    API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-auto-scaling/actiondescribeautoscalingnotificationtypes-get-openapi.md
+- name: AWS Auto Scaling API - Describe Auto Scaling Notification Types
+  x-api-slug: actiondescribeautoscalingnotificationtypes-get
+  description: Describes the notification types that are supported by Auto Scaling.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2_AutoScaling.png
+  humanURL: https://aws.amazon.com/autoscaling/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Performance, Stack Network, API Service Provider,
+    API Service Provider, API Provider, Deployments, Profiles, Relative Data, Service
+    API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-auto-scaling/actiondescribeautoscalingnotificationtypes-get-openapi.md
+- name: AWS Auto Scaling API - Describe Auto Scaling Notification Types
+  x-api-slug: actiondescribeautoscalingnotificationtypes-get
+  description: Describes the notification types that are supported by Auto Scaling.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2_AutoScaling.png
+  humanURL: https://aws.amazon.com/autoscaling/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Performance, Stack Network, API Service Provider,
+    API Service Provider, API Provider, Deployments, Profiles, Relative Data, Service
+    API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-auto-scaling/actiondescribeautoscalingnotificationtypes-get-openapi.md
 - name: AWS Auto Scaling API - Describe Launch Configurations
   x-api-slug: actiondescribelaunchconfigurations-get
   description: Describes one or more launch configurations.
@@ -636,6 +1192,198 @@ apis:
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-auto-scaling/actiondescribelifecyclehooktypes-get-postman.md
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-auto-scaling/actiondescribelifecyclehooktypes-get-openapi.md
+- name: AWS Auto Scaling API - Describe Load Balancers
+  x-api-slug: actiondescribeloadbalancers-get
+  description: Describes the load balancers for the specified Auto Scaling group.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2_AutoScaling.png
+  humanURL: https://aws.amazon.com/autoscaling/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Performance, Stack Network, API Service Provider,
+    API Service Provider, API Provider, Deployments, Profiles, Relative Data, Service
+    API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-auto-scaling/actiondescribeloadbalancers-get-openapi.md
+- name: AWS Auto Scaling API - Describe Load Balancers
+  x-api-slug: actiondescribeloadbalancers-get
+  description: Describes the load balancers for the specified Auto Scaling group.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2_AutoScaling.png
+  humanURL: https://aws.amazon.com/autoscaling/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Performance, Stack Network, API Service Provider,
+    API Service Provider, API Provider, Deployments, Profiles, Relative Data, Service
+    API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-auto-scaling/actiondescribeloadbalancers-get-openapi.md
+- name: AWS Auto Scaling API - Describe Load Balancers
+  x-api-slug: actiondescribeloadbalancers-get
+  description: Describes the load balancers for the specified Auto Scaling group.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2_AutoScaling.png
+  humanURL: https://aws.amazon.com/autoscaling/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Performance, Stack Network, API Service Provider,
+    API Service Provider, API Provider, Deployments, Profiles, Relative Data, Service
+    API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-auto-scaling/actiondescribeloadbalancers-get-openapi.md
+- name: AWS Auto Scaling API - Describe Load Balancers
+  x-api-slug: actiondescribeloadbalancers-get
+  description: Describes the load balancers for the specified Auto Scaling group.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2_AutoScaling.png
+  humanURL: https://aws.amazon.com/autoscaling/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Performance, Stack Network, API Service Provider,
+    API Service Provider, API Provider, Deployments, Profiles, Relative Data, Service
+    API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-auto-scaling/actiondescribeloadbalancers-get-openapi.md
+- name: AWS Auto Scaling API - Describe Load Balancers
+  x-api-slug: actiondescribeloadbalancers-get
+  description: Describes the load balancers for the specified Auto Scaling group.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2_AutoScaling.png
+  humanURL: https://aws.amazon.com/autoscaling/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Performance, Stack Network, API Service Provider,
+    API Service Provider, API Provider, Deployments, Profiles, Relative Data, Service
+    API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-auto-scaling/actiondescribeloadbalancers-get-openapi.md
+- name: AWS Auto Scaling API - Describe Load Balancers
+  x-api-slug: actiondescribeloadbalancers-get
+  description: Describes the load balancers for the specified Auto Scaling group.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2_AutoScaling.png
+  humanURL: https://aws.amazon.com/autoscaling/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Performance, Stack Network, API Service Provider,
+    API Service Provider, API Provider, Deployments, Profiles, Relative Data, Service
+    API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-auto-scaling/actiondescribeloadbalancers-get-openapi.md
+- name: AWS Auto Scaling API - Describe Load Balancers
+  x-api-slug: actiondescribeloadbalancers-get
+  description: Describes the load balancers for the specified Auto Scaling group.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2_AutoScaling.png
+  humanURL: https://aws.amazon.com/autoscaling/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Performance, Stack Network, API Service Provider,
+    API Service Provider, API Provider, Deployments, Profiles, Relative Data, Service
+    API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-auto-scaling/actiondescribeloadbalancers-get-openapi.md
+- name: AWS Auto Scaling API - Describe Load Balancers
+  x-api-slug: actiondescribeloadbalancers-get
+  description: Describes the load balancers for the specified Auto Scaling group.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2_AutoScaling.png
+  humanURL: https://aws.amazon.com/autoscaling/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Performance, Stack Network, API Service Provider,
+    API Service Provider, API Provider, Deployments, Profiles, Relative Data, Service
+    API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-auto-scaling/actiondescribeloadbalancers-get-openapi.md
+- name: AWS Auto Scaling API - Describe Load Balancer Target Groups
+  x-api-slug: actiondescribeloadbalancertargetgroups-get
+  description: Describes the target groups for the specified Auto Scaling group.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2_AutoScaling.png
+  humanURL: https://aws.amazon.com/autoscaling/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Performance, Stack Network, API Service Provider,
+    API Service Provider, API Provider, Deployments, Profiles, Relative Data, Service
+    API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-auto-scaling/actiondescribeloadbalancertargetgroups-get-openapi.md
+- name: AWS Auto Scaling API - Describe Load Balancer Target Groups
+  x-api-slug: actiondescribeloadbalancertargetgroups-get
+  description: Describes the target groups for the specified Auto Scaling group.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2_AutoScaling.png
+  humanURL: https://aws.amazon.com/autoscaling/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Performance, Stack Network, API Service Provider,
+    API Service Provider, API Provider, Deployments, Profiles, Relative Data, Service
+    API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-auto-scaling/actiondescribeloadbalancertargetgroups-get-openapi.md
+- name: AWS Auto Scaling API - Describe Load Balancer Target Groups
+  x-api-slug: actiondescribeloadbalancertargetgroups-get
+  description: Describes the target groups for the specified Auto Scaling group.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2_AutoScaling.png
+  humanURL: https://aws.amazon.com/autoscaling/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Performance, Stack Network, API Service Provider,
+    API Service Provider, API Provider, Deployments, Profiles, Relative Data, Service
+    API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-auto-scaling/actiondescribeloadbalancertargetgroups-get-openapi.md
+- name: AWS Auto Scaling API - Describe Load Balancer Target Groups
+  x-api-slug: actiondescribeloadbalancertargetgroups-get
+  description: Describes the target groups for the specified Auto Scaling group.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2_AutoScaling.png
+  humanURL: https://aws.amazon.com/autoscaling/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Performance, Stack Network, API Service Provider,
+    API Service Provider, API Provider, Deployments, Profiles, Relative Data, Service
+    API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-auto-scaling/actiondescribeloadbalancertargetgroups-get-openapi.md
+- name: AWS Auto Scaling API - Describe Load Balancer Target Groups
+  x-api-slug: actiondescribeloadbalancertargetgroups-get
+  description: Describes the target groups for the specified Auto Scaling group.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2_AutoScaling.png
+  humanURL: https://aws.amazon.com/autoscaling/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Performance, Stack Network, API Service Provider,
+    API Service Provider, API Provider, Deployments, Profiles, Relative Data, Service
+    API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-auto-scaling/actiondescribeloadbalancertargetgroups-get-openapi.md
+- name: AWS Auto Scaling API - Describe Load Balancer Target Groups
+  x-api-slug: actiondescribeloadbalancertargetgroups-get
+  description: Describes the target groups for the specified Auto Scaling group.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2_AutoScaling.png
+  humanURL: https://aws.amazon.com/autoscaling/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Performance, Stack Network, API Service Provider,
+    API Service Provider, API Provider, Deployments, Profiles, Relative Data, Service
+    API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-auto-scaling/actiondescribeloadbalancertargetgroups-get-openapi.md
+- name: AWS Auto Scaling API - Describe Load Balancer Target Groups
+  x-api-slug: actiondescribeloadbalancertargetgroups-get
+  description: Describes the target groups for the specified Auto Scaling group.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2_AutoScaling.png
+  humanURL: https://aws.amazon.com/autoscaling/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Performance, Stack Network, API Service Provider,
+    API Service Provider, API Provider, Deployments, Profiles, Relative Data, Service
+    API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-auto-scaling/actiondescribeloadbalancertargetgroups-get-openapi.md
+- name: AWS Auto Scaling API - Describe Load Balancer Target Groups
+  x-api-slug: actiondescribeloadbalancertargetgroups-get
+  description: Describes the target groups for the specified Auto Scaling group.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2_AutoScaling.png
+  humanURL: https://aws.amazon.com/autoscaling/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Performance, Stack Network, API Service Provider,
+    API Service Provider, API Provider, Deployments, Profiles, Relative Data, Service
+    API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-auto-scaling/actiondescribeloadbalancertargetgroups-get-openapi.md
 - name: AWS Auto Scaling API - Describe Metric Collection Types
   x-api-slug: actiondescribemetriccollectiontypes-get
   description: Describes the available CloudWatch metrics for Auto Scaling.
@@ -748,6 +1496,335 @@ apis:
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-auto-scaling/actiondescribemetriccollectiontypes-get-postman.md
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-auto-scaling/actiondescribemetriccollectiontypes-get-openapi.md
+- name: AWS Auto Scaling API - Describe Notification Configurations
+  x-api-slug: actiondescribenotificationconfigurations-get
+  description: Describes the notification actions associated with the specified Auto
+    Scaling group.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2_AutoScaling.png
+  humanURL: https://aws.amazon.com/autoscaling/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Performance, Stack Network, API Service Provider,
+    API Service Provider, API Provider, Deployments, Profiles, Relative Data, Service
+    API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-auto-scaling/actiondescribenotificationconfigurations-get-openapi.md
+- name: AWS Auto Scaling API - Describe Notification Configurations
+  x-api-slug: actiondescribenotificationconfigurations-get
+  description: Describes the notification actions associated with the specified Auto
+    Scaling group.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2_AutoScaling.png
+  humanURL: https://aws.amazon.com/autoscaling/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Performance, Stack Network, API Service Provider,
+    API Service Provider, API Provider, Deployments, Profiles, Relative Data, Service
+    API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-auto-scaling/actiondescribenotificationconfigurations-get-openapi.md
+- name: AWS Auto Scaling API - Describe Notification Configurations
+  x-api-slug: actiondescribenotificationconfigurations-get
+  description: Describes the notification actions associated with the specified Auto
+    Scaling group.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2_AutoScaling.png
+  humanURL: https://aws.amazon.com/autoscaling/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Performance, Stack Network, API Service Provider,
+    API Service Provider, API Provider, Deployments, Profiles, Relative Data, Service
+    API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-auto-scaling/actiondescribenotificationconfigurations-get-openapi.md
+- name: AWS Auto Scaling API - Describe Notification Configurations
+  x-api-slug: actiondescribenotificationconfigurations-get
+  description: Describes the notification actions associated with the specified Auto
+    Scaling group.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2_AutoScaling.png
+  humanURL: https://aws.amazon.com/autoscaling/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Performance, Stack Network, API Service Provider,
+    API Service Provider, API Provider, Deployments, Profiles, Relative Data, Service
+    API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-auto-scaling/actiondescribenotificationconfigurations-get-openapi.md
+- name: AWS Auto Scaling API - Describe Notification Configurations
+  x-api-slug: actiondescribenotificationconfigurations-get
+  description: Describes the notification actions associated with the specified Auto
+    Scaling group.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2_AutoScaling.png
+  humanURL: https://aws.amazon.com/autoscaling/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Performance, Stack Network, API Service Provider,
+    API Service Provider, API Provider, Deployments, Profiles, Relative Data, Service
+    API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-auto-scaling/actiondescribenotificationconfigurations-get-openapi.md
+- name: AWS Auto Scaling API - Describe Notification Configurations
+  x-api-slug: actiondescribenotificationconfigurations-get
+  description: Describes the notification actions associated with the specified Auto
+    Scaling group.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2_AutoScaling.png
+  humanURL: https://aws.amazon.com/autoscaling/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Performance, Stack Network, API Service Provider,
+    API Service Provider, API Provider, Deployments, Profiles, Relative Data, Service
+    API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-auto-scaling/actiondescribenotificationconfigurations-get-openapi.md
+- name: AWS Auto Scaling API - Describe Notification Configurations
+  x-api-slug: actiondescribenotificationconfigurations-get
+  description: Describes the notification actions associated with the specified Auto
+    Scaling group.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2_AutoScaling.png
+  humanURL: https://aws.amazon.com/autoscaling/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Performance, Stack Network, API Service Provider,
+    API Service Provider, API Provider, Deployments, Profiles, Relative Data, Service
+    API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-auto-scaling/actiondescribenotificationconfigurations-get-openapi.md
+- name: AWS Auto Scaling API - Describe Notification Configurations
+  x-api-slug: actiondescribenotificationconfigurations-get
+  description: Describes the notification actions associated with the specified Auto
+    Scaling group.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2_AutoScaling.png
+  humanURL: https://aws.amazon.com/autoscaling/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Performance, Stack Network, API Service Provider,
+    API Service Provider, API Provider, Deployments, Profiles, Relative Data, Service
+    API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-auto-scaling/actiondescribenotificationconfigurations-get-openapi.md
+- name: AWS Auto Scaling API - Describe Policies
+  x-api-slug: actiondescribepolicies-get
+  description: Describes the policies for the specified Auto Scaling group.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2_AutoScaling.png
+  humanURL: https://aws.amazon.com/autoscaling/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Performance, Stack Network, API Service Provider,
+    API Service Provider, API Provider, Deployments, Profiles, Relative Data, Service
+    API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-auto-scaling/actiondescribepolicies-get-openapi.md
+- name: AWS Auto Scaling API - Describe Policies
+  x-api-slug: actiondescribepolicies-get
+  description: Describes the policies for the specified Auto Scaling group.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2_AutoScaling.png
+  humanURL: https://aws.amazon.com/autoscaling/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Performance, Stack Network, API Service Provider,
+    API Service Provider, API Provider, Deployments, Profiles, Relative Data, Service
+    API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-auto-scaling/actiondescribepolicies-get-openapi.md
+- name: AWS Auto Scaling API - Describe Policies
+  x-api-slug: actiondescribepolicies-get
+  description: Describes the policies for the specified Auto Scaling group.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2_AutoScaling.png
+  humanURL: https://aws.amazon.com/autoscaling/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Performance, Stack Network, API Service Provider,
+    API Service Provider, API Provider, Deployments, Profiles, Relative Data, Service
+    API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-auto-scaling/actiondescribepolicies-get-openapi.md
+- name: AWS Auto Scaling API - Describe Policies
+  x-api-slug: actiondescribepolicies-get
+  description: Describes the policies for the specified Auto Scaling group.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2_AutoScaling.png
+  humanURL: https://aws.amazon.com/autoscaling/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Performance, Stack Network, API Service Provider,
+    API Service Provider, API Provider, Deployments, Profiles, Relative Data, Service
+    API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-auto-scaling/actiondescribepolicies-get-openapi.md
+- name: AWS Auto Scaling API - Describe Policies
+  x-api-slug: actiondescribepolicies-get
+  description: Describes the policies for the specified Auto Scaling group.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2_AutoScaling.png
+  humanURL: https://aws.amazon.com/autoscaling/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Performance, Stack Network, API Service Provider,
+    API Service Provider, API Provider, Deployments, Profiles, Relative Data, Service
+    API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-auto-scaling/actiondescribepolicies-get-openapi.md
+- name: AWS Auto Scaling API - Describe Policies
+  x-api-slug: actiondescribepolicies-get
+  description: Describes the policies for the specified Auto Scaling group.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2_AutoScaling.png
+  humanURL: https://aws.amazon.com/autoscaling/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Performance, Stack Network, API Service Provider,
+    API Service Provider, API Provider, Deployments, Profiles, Relative Data, Service
+    API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-auto-scaling/actiondescribepolicies-get-openapi.md
+- name: AWS Auto Scaling API - Describe Policies
+  x-api-slug: actiondescribepolicies-get
+  description: Describes the policies for the specified Auto Scaling group.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2_AutoScaling.png
+  humanURL: https://aws.amazon.com/autoscaling/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Performance, Stack Network, API Service Provider,
+    API Service Provider, API Provider, Deployments, Profiles, Relative Data, Service
+    API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-auto-scaling/actiondescribepolicies-get-openapi.md
+- name: AWS Auto Scaling API - Describe Policies
+  x-api-slug: actiondescribepolicies-get
+  description: Describes the policies for the specified Auto Scaling group.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2_AutoScaling.png
+  humanURL: https://aws.amazon.com/autoscaling/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Performance, Stack Network, API Service Provider,
+    API Service Provider, API Provider, Deployments, Profiles, Relative Data, Service
+    API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-auto-scaling/actiondescribepolicies-get-openapi.md
+- name: AWS Auto Scaling API - Describe Policies
+  x-api-slug: actiondescribepolicies-get
+  description: Describes the policies for the specified Auto Scaling group.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2_AutoScaling.png
+  humanURL: https://aws.amazon.com/autoscaling/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Performance, Stack Network, API Service Provider,
+    API Service Provider, API Provider, Deployments, Profiles, Relative Data, Service
+    API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-auto-scaling/actiondescribepolicies-get-openapi.md
+- name: AWS Auto Scaling API - Describe Scaling Activities
+  x-api-slug: actiondescribescalingactivities-get
+  description: Describes one or more scaling activities for the specified Auto Scaling
+    group.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2_AutoScaling.png
+  humanURL: https://aws.amazon.com/autoscaling/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Performance, Stack Network, API Service Provider,
+    API Service Provider, API Provider, Deployments, Profiles, Relative Data, Service
+    API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-auto-scaling/actiondescribescalingactivities-get-openapi.md
+- name: AWS Auto Scaling API - Describe Scaling Activities
+  x-api-slug: actiondescribescalingactivities-get
+  description: Describes one or more scaling activities for the specified Auto Scaling
+    group.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2_AutoScaling.png
+  humanURL: https://aws.amazon.com/autoscaling/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Performance, Stack Network, API Service Provider,
+    API Service Provider, API Provider, Deployments, Profiles, Relative Data, Service
+    API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-auto-scaling/actiondescribescalingactivities-get-openapi.md
+- name: AWS Auto Scaling API - Describe Scaling Activities
+  x-api-slug: actiondescribescalingactivities-get
+  description: Describes one or more scaling activities for the specified Auto Scaling
+    group.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2_AutoScaling.png
+  humanURL: https://aws.amazon.com/autoscaling/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Performance, Stack Network, API Service Provider,
+    API Service Provider, API Provider, Deployments, Profiles, Relative Data, Service
+    API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-auto-scaling/actiondescribescalingactivities-get-openapi.md
+- name: AWS Auto Scaling API - Describe Scaling Activities
+  x-api-slug: actiondescribescalingactivities-get
+  description: Describes one or more scaling activities for the specified Auto Scaling
+    group.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2_AutoScaling.png
+  humanURL: https://aws.amazon.com/autoscaling/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Performance, Stack Network, API Service Provider,
+    API Service Provider, API Provider, Deployments, Profiles, Relative Data, Service
+    API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-auto-scaling/actiondescribescalingactivities-get-openapi.md
+- name: AWS Auto Scaling API - Describe Scaling Activities
+  x-api-slug: actiondescribescalingactivities-get
+  description: Describes one or more scaling activities for the specified Auto Scaling
+    group.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2_AutoScaling.png
+  humanURL: https://aws.amazon.com/autoscaling/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Performance, Stack Network, API Service Provider,
+    API Service Provider, API Provider, Deployments, Profiles, Relative Data, Service
+    API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-auto-scaling/actiondescribescalingactivities-get-openapi.md
+- name: AWS Auto Scaling API - Describe Scaling Activities
+  x-api-slug: actiondescribescalingactivities-get
+  description: Describes one or more scaling activities for the specified Auto Scaling
+    group.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2_AutoScaling.png
+  humanURL: https://aws.amazon.com/autoscaling/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Performance, Stack Network, API Service Provider,
+    API Service Provider, API Provider, Deployments, Profiles, Relative Data, Service
+    API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-auto-scaling/actiondescribescalingactivities-get-openapi.md
+- name: AWS Auto Scaling API - Describe Scaling Activities
+  x-api-slug: actiondescribescalingactivities-get
+  description: Describes one or more scaling activities for the specified Auto Scaling
+    group.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2_AutoScaling.png
+  humanURL: https://aws.amazon.com/autoscaling/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Performance, Stack Network, API Service Provider,
+    API Service Provider, API Provider, Deployments, Profiles, Relative Data, Service
+    API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-auto-scaling/actiondescribescalingactivities-get-openapi.md
+- name: AWS Auto Scaling API - Describe Scaling Activities
+  x-api-slug: actiondescribescalingactivities-get
+  description: Describes one or more scaling activities for the specified Auto Scaling
+    group.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2_AutoScaling.png
+  humanURL: https://aws.amazon.com/autoscaling/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Performance, Stack Network, API Service Provider,
+    API Service Provider, API Provider, Deployments, Profiles, Relative Data, Service
+    API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-auto-scaling/actiondescribescalingactivities-get-openapi.md
+- name: AWS Auto Scaling API - Describe Scaling Activities
+  x-api-slug: actiondescribescalingactivities-get
+  description: Describes one or more scaling activities for the specified Auto Scaling
+    group.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2_AutoScaling.png
+  humanURL: https://aws.amazon.com/autoscaling/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Performance, Stack Network, API Service Provider,
+    API Service Provider, API Provider, Deployments, Profiles, Relative Data, Service
+    API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-auto-scaling/actiondescribescalingactivities-get-openapi.md
 - name: AWS Auto Scaling API - Describe Scaling Process Types
   x-api-slug: actiondescribescalingprocesstypes-get
   description: Describes the scaling process types for use with.
@@ -1009,6 +2086,234 @@ apis:
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-auto-scaling/actiondescribescheduledactions-get-postman.md
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-auto-scaling/actiondescribescheduledactions-get-openapi.md
+- name: AWS Auto Scaling API - Describe Tags
+  x-api-slug: actiondescribetags-get
+  description: Describes the specified tags.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2_AutoScaling.png
+  humanURL: https://aws.amazon.com/autoscaling/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Performance, Stack Network, API Service Provider,
+    API Service Provider, API Provider, Deployments, Profiles, Relative Data, Service
+    API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-auto-scaling/actiondescribetags-get-openapi.md
+- name: AWS Auto Scaling API - Describe Tags
+  x-api-slug: actiondescribetags-get
+  description: Describes the specified tags.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2_AutoScaling.png
+  humanURL: https://aws.amazon.com/autoscaling/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Performance, Stack Network, API Service Provider,
+    API Service Provider, API Provider, Deployments, Profiles, Relative Data, Service
+    API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-auto-scaling/actiondescribetags-get-openapi.md
+- name: AWS Auto Scaling API - Describe Tags
+  x-api-slug: actiondescribetags-get
+  description: Describes the specified tags.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2_AutoScaling.png
+  humanURL: https://aws.amazon.com/autoscaling/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Performance, Stack Network, API Service Provider,
+    API Service Provider, API Provider, Deployments, Profiles, Relative Data, Service
+    API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-auto-scaling/actiondescribetags-get-openapi.md
+- name: AWS Auto Scaling API - Describe Tags
+  x-api-slug: actiondescribetags-get
+  description: Describes the specified tags.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2_AutoScaling.png
+  humanURL: https://aws.amazon.com/autoscaling/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Performance, Stack Network, API Service Provider,
+    API Service Provider, API Provider, Deployments, Profiles, Relative Data, Service
+    API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-auto-scaling/actiondescribetags-get-openapi.md
+- name: AWS Auto Scaling API - Describe Tags
+  x-api-slug: actiondescribetags-get
+  description: Describes the specified tags.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2_AutoScaling.png
+  humanURL: https://aws.amazon.com/autoscaling/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Performance, Stack Network, API Service Provider,
+    API Service Provider, API Provider, Deployments, Profiles, Relative Data, Service
+    API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-auto-scaling/actiondescribetags-get-openapi.md
+- name: AWS Auto Scaling API - Describe Tags
+  x-api-slug: actiondescribetags-get
+  description: Describes the specified tags.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2_AutoScaling.png
+  humanURL: https://aws.amazon.com/autoscaling/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Performance, Stack Network, API Service Provider,
+    API Service Provider, API Provider, Deployments, Profiles, Relative Data, Service
+    API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-auto-scaling/actiondescribetags-get-openapi.md
+- name: AWS Auto Scaling API - Describe Tags
+  x-api-slug: actiondescribetags-get
+  description: Describes the specified tags.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2_AutoScaling.png
+  humanURL: https://aws.amazon.com/autoscaling/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Performance, Stack Network, API Service Provider,
+    API Service Provider, API Provider, Deployments, Profiles, Relative Data, Service
+    API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-auto-scaling/actiondescribetags-get-openapi.md
+- name: AWS Auto Scaling API - Describe Tags
+  x-api-slug: actiondescribetags-get
+  description: Describes the specified tags.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2_AutoScaling.png
+  humanURL: https://aws.amazon.com/autoscaling/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Performance, Stack Network, API Service Provider,
+    API Service Provider, API Provider, Deployments, Profiles, Relative Data, Service
+    API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-auto-scaling/actiondescribetags-get-openapi.md
+- name: AWS Auto Scaling API - Describe Tags
+  x-api-slug: actiondescribetags-get
+  description: Describes the specified tags.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2_AutoScaling.png
+  humanURL: https://aws.amazon.com/autoscaling/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Performance, Stack Network, API Service Provider,
+    API Service Provider, API Provider, Deployments, Profiles, Relative Data, Service
+    API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-auto-scaling/actiondescribetags-get-openapi.md
+- name: AWS Auto Scaling API - Describe Termination Policy Types
+  x-api-slug: actiondescribeterminationpolicytypes-get
+  description: Describes the termination policies supported by Auto Scaling.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2_AutoScaling.png
+  humanURL: https://aws.amazon.com/autoscaling/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Performance, Stack Network, API Service Provider,
+    API Service Provider, API Provider, Deployments, Profiles, Relative Data, Service
+    API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-auto-scaling/actiondescribeterminationpolicytypes-get-openapi.md
+- name: AWS Auto Scaling API - Describe Termination Policy Types
+  x-api-slug: actiondescribeterminationpolicytypes-get
+  description: Describes the termination policies supported by Auto Scaling.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2_AutoScaling.png
+  humanURL: https://aws.amazon.com/autoscaling/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Performance, Stack Network, API Service Provider,
+    API Service Provider, API Provider, Deployments, Profiles, Relative Data, Service
+    API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-auto-scaling/actiondescribeterminationpolicytypes-get-openapi.md
+- name: AWS Auto Scaling API - Describe Termination Policy Types
+  x-api-slug: actiondescribeterminationpolicytypes-get
+  description: Describes the termination policies supported by Auto Scaling.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2_AutoScaling.png
+  humanURL: https://aws.amazon.com/autoscaling/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Performance, Stack Network, API Service Provider,
+    API Service Provider, API Provider, Deployments, Profiles, Relative Data, Service
+    API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-auto-scaling/actiondescribeterminationpolicytypes-get-openapi.md
+- name: AWS Auto Scaling API - Describe Termination Policy Types
+  x-api-slug: actiondescribeterminationpolicytypes-get
+  description: Describes the termination policies supported by Auto Scaling.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2_AutoScaling.png
+  humanURL: https://aws.amazon.com/autoscaling/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Performance, Stack Network, API Service Provider,
+    API Service Provider, API Provider, Deployments, Profiles, Relative Data, Service
+    API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-auto-scaling/actiondescribeterminationpolicytypes-get-openapi.md
+- name: AWS Auto Scaling API - Describe Termination Policy Types
+  x-api-slug: actiondescribeterminationpolicytypes-get
+  description: Describes the termination policies supported by Auto Scaling.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2_AutoScaling.png
+  humanURL: https://aws.amazon.com/autoscaling/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Performance, Stack Network, API Service Provider,
+    API Service Provider, API Provider, Deployments, Profiles, Relative Data, Service
+    API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-auto-scaling/actiondescribeterminationpolicytypes-get-openapi.md
+- name: AWS Auto Scaling API - Describe Termination Policy Types
+  x-api-slug: actiondescribeterminationpolicytypes-get
+  description: Describes the termination policies supported by Auto Scaling.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2_AutoScaling.png
+  humanURL: https://aws.amazon.com/autoscaling/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Performance, Stack Network, API Service Provider,
+    API Service Provider, API Provider, Deployments, Profiles, Relative Data, Service
+    API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-auto-scaling/actiondescribeterminationpolicytypes-get-openapi.md
+- name: AWS Auto Scaling API - Describe Termination Policy Types
+  x-api-slug: actiondescribeterminationpolicytypes-get
+  description: Describes the termination policies supported by Auto Scaling.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2_AutoScaling.png
+  humanURL: https://aws.amazon.com/autoscaling/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Performance, Stack Network, API Service Provider,
+    API Service Provider, API Provider, Deployments, Profiles, Relative Data, Service
+    API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-auto-scaling/actiondescribeterminationpolicytypes-get-openapi.md
+- name: AWS Auto Scaling API - Describe Termination Policy Types
+  x-api-slug: actiondescribeterminationpolicytypes-get
+  description: Describes the termination policies supported by Auto Scaling.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2_AutoScaling.png
+  humanURL: https://aws.amazon.com/autoscaling/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Performance, Stack Network, API Service Provider,
+    API Service Provider, API Provider, Deployments, Profiles, Relative Data, Service
+    API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-auto-scaling/actiondescribeterminationpolicytypes-get-openapi.md
+- name: AWS Auto Scaling API - Describe Termination Policy Types
+  x-api-slug: actiondescribeterminationpolicytypes-get
+  description: Describes the termination policies supported by Auto Scaling.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2_AutoScaling.png
+  humanURL: https://aws.amazon.com/autoscaling/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Performance, Stack Network, API Service Provider,
+    API Service Provider, API Provider, Deployments, Profiles, Relative Data, Service
+    API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-auto-scaling/actiondescribeterminationpolicytypes-get-openapi.md
+- name: AWS Auto Scaling API - Describe Termination Policy Types
+  x-api-slug: actiondescribeterminationpolicytypes-get
+  description: Describes the termination policies supported by Auto Scaling.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2_AutoScaling.png
+  humanURL: https://aws.amazon.com/autoscaling/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Performance, Stack Network, API Service Provider,
+    API Service Provider, API Provider, Deployments, Profiles, Relative Data, Service
+    API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-auto-scaling/actiondescribeterminationpolicytypes-get-openapi.md
 - name: AWS Auto Scaling API - Describe Account Limits
   x-api-slug: actiondescribeaccountlimits-get
   description: Describes the current Auto Scaling resource limits for your AWS account.
@@ -1149,6 +2454,498 @@ apis:
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-auto-scaling/actiondescribeaccountlimits-get-postman.md
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-auto-scaling/actiondescribeaccountlimits-get-openapi.md
+- name: AWS Auto Scaling API - Describe Adjustment Types
+  x-api-slug: actiondescribeadjustmenttypes-get
+  description: Describes the policy adjustment types for use with.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2_AutoScaling.png
+  humanURL: https://aws.amazon.com/autoscaling/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Performance, Stack Network, API Service Provider,
+    API Service Provider, API Provider, Deployments, Profiles, Relative Data, Service
+    API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-auto-scaling/actiondescribeadjustmenttypes-get-openapi.md
+- name: AWS Auto Scaling API - Describe Adjustment Types
+  x-api-slug: actiondescribeadjustmenttypes-get
+  description: Describes the policy adjustment types for use with.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2_AutoScaling.png
+  humanURL: https://aws.amazon.com/autoscaling/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Performance, Stack Network, API Service Provider,
+    API Service Provider, API Provider, Deployments, Profiles, Relative Data, Service
+    API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-auto-scaling/actiondescribeadjustmenttypes-get-openapi.md
+- name: AWS Auto Scaling API - Describe Adjustment Types
+  x-api-slug: actiondescribeadjustmenttypes-get
+  description: Describes the policy adjustment types for use with.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2_AutoScaling.png
+  humanURL: https://aws.amazon.com/autoscaling/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Performance, Stack Network, API Service Provider,
+    API Service Provider, API Provider, Deployments, Profiles, Relative Data, Service
+    API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-auto-scaling/actiondescribeadjustmenttypes-get-openapi.md
+- name: AWS Auto Scaling API - Describe Adjustment Types
+  x-api-slug: actiondescribeadjustmenttypes-get
+  description: Describes the policy adjustment types for use with.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2_AutoScaling.png
+  humanURL: https://aws.amazon.com/autoscaling/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Performance, Stack Network, API Service Provider,
+    API Service Provider, API Provider, Deployments, Profiles, Relative Data, Service
+    API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-auto-scaling/actiondescribeadjustmenttypes-get-openapi.md
+- name: AWS Auto Scaling API - Describe Adjustment Types
+  x-api-slug: actiondescribeadjustmenttypes-get
+  description: Describes the policy adjustment types for use with.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2_AutoScaling.png
+  humanURL: https://aws.amazon.com/autoscaling/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Performance, Stack Network, API Service Provider,
+    API Service Provider, API Provider, Deployments, Profiles, Relative Data, Service
+    API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-auto-scaling/actiondescribeadjustmenttypes-get-openapi.md
+- name: AWS Auto Scaling API - Describe Adjustment Types
+  x-api-slug: actiondescribeadjustmenttypes-get
+  description: Describes the policy adjustment types for use with.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2_AutoScaling.png
+  humanURL: https://aws.amazon.com/autoscaling/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Performance, Stack Network, API Service Provider,
+    API Service Provider, API Provider, Deployments, Profiles, Relative Data, Service
+    API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-auto-scaling/actiondescribeadjustmenttypes-get-openapi.md
+- name: AWS Auto Scaling API - Describe Adjustment Types
+  x-api-slug: actiondescribeadjustmenttypes-get
+  description: Describes the policy adjustment types for use with.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2_AutoScaling.png
+  humanURL: https://aws.amazon.com/autoscaling/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Performance, Stack Network, API Service Provider,
+    API Service Provider, API Provider, Deployments, Profiles, Relative Data, Service
+    API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-auto-scaling/actiondescribeadjustmenttypes-get-openapi.md
+- name: AWS Auto Scaling API - Describe Adjustment Types
+  x-api-slug: actiondescribeadjustmenttypes-get
+  description: Describes the policy adjustment types for use with.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2_AutoScaling.png
+  humanURL: https://aws.amazon.com/autoscaling/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Performance, Stack Network, API Service Provider,
+    API Service Provider, API Provider, Deployments, Profiles, Relative Data, Service
+    API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-auto-scaling/actiondescribeadjustmenttypes-get-openapi.md
+- name: AWS Auto Scaling API - Describe Adjustment Types
+  x-api-slug: actiondescribeadjustmenttypes-get
+  description: Describes the policy adjustment types for use with.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2_AutoScaling.png
+  humanURL: https://aws.amazon.com/autoscaling/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Performance, Stack Network, API Service Provider,
+    API Service Provider, API Provider, Deployments, Profiles, Relative Data, Service
+    API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-auto-scaling/actiondescribeadjustmenttypes-get-openapi.md
+- name: AWS Auto Scaling API - Describe Adjustment Types
+  x-api-slug: actiondescribeadjustmenttypes-get
+  description: Describes the policy adjustment types for use with.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2_AutoScaling.png
+  humanURL: https://aws.amazon.com/autoscaling/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Performance, Stack Network, API Service Provider,
+    API Service Provider, API Provider, Deployments, Profiles, Relative Data, Service
+    API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-auto-scaling/actiondescribeadjustmenttypes-get-openapi.md
+- name: AWS Auto Scaling API - Describe Auto Scaling Groups
+  x-api-slug: actiondescribeautoscalinggroups-get
+  description: Describes one or more Auto Scaling groups.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2_AutoScaling.png
+  humanURL: https://aws.amazon.com/autoscaling/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Performance, Stack Network, API Service Provider,
+    API Service Provider, API Provider, Deployments, Profiles, Relative Data, Service
+    API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-auto-scaling/actiondescribeautoscalinggroups-get-openapi.md
+- name: AWS Auto Scaling API - Describe Auto Scaling Groups
+  x-api-slug: actiondescribeautoscalinggroups-get
+  description: Describes one or more Auto Scaling groups.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2_AutoScaling.png
+  humanURL: https://aws.amazon.com/autoscaling/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Performance, Stack Network, API Service Provider,
+    API Service Provider, API Provider, Deployments, Profiles, Relative Data, Service
+    API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-auto-scaling/actiondescribeautoscalinggroups-get-openapi.md
+- name: AWS Auto Scaling API - Describe Auto Scaling Groups
+  x-api-slug: actiondescribeautoscalinggroups-get
+  description: Describes one or more Auto Scaling groups.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2_AutoScaling.png
+  humanURL: https://aws.amazon.com/autoscaling/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Performance, Stack Network, API Service Provider,
+    API Service Provider, API Provider, Deployments, Profiles, Relative Data, Service
+    API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-auto-scaling/actiondescribeautoscalinggroups-get-openapi.md
+- name: AWS Auto Scaling API - Describe Auto Scaling Groups
+  x-api-slug: actiondescribeautoscalinggroups-get
+  description: Describes one or more Auto Scaling groups.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2_AutoScaling.png
+  humanURL: https://aws.amazon.com/autoscaling/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Performance, Stack Network, API Service Provider,
+    API Service Provider, API Provider, Deployments, Profiles, Relative Data, Service
+    API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-auto-scaling/actiondescribeautoscalinggroups-get-openapi.md
+- name: AWS Auto Scaling API - Describe Auto Scaling Groups
+  x-api-slug: actiondescribeautoscalinggroups-get
+  description: Describes one or more Auto Scaling groups.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2_AutoScaling.png
+  humanURL: https://aws.amazon.com/autoscaling/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Performance, Stack Network, API Service Provider,
+    API Service Provider, API Provider, Deployments, Profiles, Relative Data, Service
+    API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-auto-scaling/actiondescribeautoscalinggroups-get-openapi.md
+- name: AWS Auto Scaling API - Describe Auto Scaling Groups
+  x-api-slug: actiondescribeautoscalinggroups-get
+  description: Describes one or more Auto Scaling groups.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2_AutoScaling.png
+  humanURL: https://aws.amazon.com/autoscaling/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Performance, Stack Network, API Service Provider,
+    API Service Provider, API Provider, Deployments, Profiles, Relative Data, Service
+    API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-auto-scaling/actiondescribeautoscalinggroups-get-openapi.md
+- name: AWS Auto Scaling API - Describe Auto Scaling Groups
+  x-api-slug: actiondescribeautoscalinggroups-get
+  description: Describes one or more Auto Scaling groups.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2_AutoScaling.png
+  humanURL: https://aws.amazon.com/autoscaling/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Performance, Stack Network, API Service Provider,
+    API Service Provider, API Provider, Deployments, Profiles, Relative Data, Service
+    API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-auto-scaling/actiondescribeautoscalinggroups-get-openapi.md
+- name: AWS Auto Scaling API - Describe Auto Scaling Groups
+  x-api-slug: actiondescribeautoscalinggroups-get
+  description: Describes one or more Auto Scaling groups.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2_AutoScaling.png
+  humanURL: https://aws.amazon.com/autoscaling/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Performance, Stack Network, API Service Provider,
+    API Service Provider, API Provider, Deployments, Profiles, Relative Data, Service
+    API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-auto-scaling/actiondescribeautoscalinggroups-get-openapi.md
+- name: AWS Auto Scaling API - Describe Auto Scaling Groups
+  x-api-slug: actiondescribeautoscalinggroups-get
+  description: Describes one or more Auto Scaling groups.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2_AutoScaling.png
+  humanURL: https://aws.amazon.com/autoscaling/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Performance, Stack Network, API Service Provider,
+    API Service Provider, API Provider, Deployments, Profiles, Relative Data, Service
+    API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-auto-scaling/actiondescribeautoscalinggroups-get-openapi.md
+- name: AWS Auto Scaling API - Describe Auto Scaling Groups
+  x-api-slug: actiondescribeautoscalinggroups-get
+  description: Describes one or more Auto Scaling groups.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2_AutoScaling.png
+  humanURL: https://aws.amazon.com/autoscaling/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Performance, Stack Network, API Service Provider,
+    API Service Provider, API Provider, Deployments, Profiles, Relative Data, Service
+    API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-auto-scaling/actiondescribeautoscalinggroups-get-openapi.md
+- name: AWS Auto Scaling API - Describe Auto Scaling Instances
+  x-api-slug: actiondescribeautoscalinginstances-get
+  description: Describes one or more Auto Scaling instances.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2_AutoScaling.png
+  humanURL: https://aws.amazon.com/autoscaling/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Performance, Stack Network, API Service Provider,
+    API Service Provider, API Provider, Deployments, Profiles, Relative Data, Service
+    API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-auto-scaling/actiondescribeautoscalinginstances-get-openapi.md
+- name: AWS Auto Scaling API - Describe Auto Scaling Instances
+  x-api-slug: actiondescribeautoscalinginstances-get
+  description: Describes one or more Auto Scaling instances.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2_AutoScaling.png
+  humanURL: https://aws.amazon.com/autoscaling/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Performance, Stack Network, API Service Provider,
+    API Service Provider, API Provider, Deployments, Profiles, Relative Data, Service
+    API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-auto-scaling/actiondescribeautoscalinginstances-get-openapi.md
+- name: AWS Auto Scaling API - Describe Auto Scaling Instances
+  x-api-slug: actiondescribeautoscalinginstances-get
+  description: Describes one or more Auto Scaling instances.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2_AutoScaling.png
+  humanURL: https://aws.amazon.com/autoscaling/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Performance, Stack Network, API Service Provider,
+    API Service Provider, API Provider, Deployments, Profiles, Relative Data, Service
+    API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-auto-scaling/actiondescribeautoscalinginstances-get-openapi.md
+- name: AWS Auto Scaling API - Describe Auto Scaling Instances
+  x-api-slug: actiondescribeautoscalinginstances-get
+  description: Describes one or more Auto Scaling instances.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2_AutoScaling.png
+  humanURL: https://aws.amazon.com/autoscaling/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Performance, Stack Network, API Service Provider,
+    API Service Provider, API Provider, Deployments, Profiles, Relative Data, Service
+    API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-auto-scaling/actiondescribeautoscalinginstances-get-openapi.md
+- name: AWS Auto Scaling API - Describe Auto Scaling Instances
+  x-api-slug: actiondescribeautoscalinginstances-get
+  description: Describes one or more Auto Scaling instances.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2_AutoScaling.png
+  humanURL: https://aws.amazon.com/autoscaling/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Performance, Stack Network, API Service Provider,
+    API Service Provider, API Provider, Deployments, Profiles, Relative Data, Service
+    API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-auto-scaling/actiondescribeautoscalinginstances-get-openapi.md
+- name: AWS Auto Scaling API - Describe Auto Scaling Instances
+  x-api-slug: actiondescribeautoscalinginstances-get
+  description: Describes one or more Auto Scaling instances.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2_AutoScaling.png
+  humanURL: https://aws.amazon.com/autoscaling/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Performance, Stack Network, API Service Provider,
+    API Service Provider, API Provider, Deployments, Profiles, Relative Data, Service
+    API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-auto-scaling/actiondescribeautoscalinginstances-get-openapi.md
+- name: AWS Auto Scaling API - Describe Auto Scaling Instances
+  x-api-slug: actiondescribeautoscalinginstances-get
+  description: Describes one or more Auto Scaling instances.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2_AutoScaling.png
+  humanURL: https://aws.amazon.com/autoscaling/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Performance, Stack Network, API Service Provider,
+    API Service Provider, API Provider, Deployments, Profiles, Relative Data, Service
+    API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-auto-scaling/actiondescribeautoscalinginstances-get-openapi.md
+- name: AWS Auto Scaling API - Describe Auto Scaling Instances
+  x-api-slug: actiondescribeautoscalinginstances-get
+  description: Describes one or more Auto Scaling instances.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2_AutoScaling.png
+  humanURL: https://aws.amazon.com/autoscaling/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Performance, Stack Network, API Service Provider,
+    API Service Provider, API Provider, Deployments, Profiles, Relative Data, Service
+    API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-auto-scaling/actiondescribeautoscalinginstances-get-openapi.md
+- name: AWS Auto Scaling API - Describe Auto Scaling Instances
+  x-api-slug: actiondescribeautoscalinginstances-get
+  description: Describes one or more Auto Scaling instances.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2_AutoScaling.png
+  humanURL: https://aws.amazon.com/autoscaling/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Performance, Stack Network, API Service Provider,
+    API Service Provider, API Provider, Deployments, Profiles, Relative Data, Service
+    API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-auto-scaling/actiondescribeautoscalinginstances-get-openapi.md
+- name: AWS Auto Scaling API - Describe Auto Scaling Instances
+  x-api-slug: actiondescribeautoscalinginstances-get
+  description: Describes one or more Auto Scaling instances.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2_AutoScaling.png
+  humanURL: https://aws.amazon.com/autoscaling/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Performance, Stack Network, API Service Provider,
+    API Service Provider, API Provider, Deployments, Profiles, Relative Data, Service
+    API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-auto-scaling/actiondescribeautoscalinginstances-get-openapi.md
+- name: AWS Auto Scaling API - Describe Auto Scaling Notification Types
+  x-api-slug: actiondescribeautoscalingnotificationtypes-get
+  description: Describes the notification types that are supported by Auto Scaling.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2_AutoScaling.png
+  humanURL: https://aws.amazon.com/autoscaling/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Performance, Stack Network, API Service Provider,
+    API Service Provider, API Provider, Deployments, Profiles, Relative Data, Service
+    API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-auto-scaling/actiondescribeautoscalingnotificationtypes-get-openapi.md
+- name: AWS Auto Scaling API - Describe Auto Scaling Notification Types
+  x-api-slug: actiondescribeautoscalingnotificationtypes-get
+  description: Describes the notification types that are supported by Auto Scaling.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2_AutoScaling.png
+  humanURL: https://aws.amazon.com/autoscaling/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Performance, Stack Network, API Service Provider,
+    API Service Provider, API Provider, Deployments, Profiles, Relative Data, Service
+    API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-auto-scaling/actiondescribeautoscalingnotificationtypes-get-openapi.md
+- name: AWS Auto Scaling API - Describe Auto Scaling Notification Types
+  x-api-slug: actiondescribeautoscalingnotificationtypes-get
+  description: Describes the notification types that are supported by Auto Scaling.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2_AutoScaling.png
+  humanURL: https://aws.amazon.com/autoscaling/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Performance, Stack Network, API Service Provider,
+    API Service Provider, API Provider, Deployments, Profiles, Relative Data, Service
+    API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-auto-scaling/actiondescribeautoscalingnotificationtypes-get-openapi.md
+- name: AWS Auto Scaling API - Describe Auto Scaling Notification Types
+  x-api-slug: actiondescribeautoscalingnotificationtypes-get
+  description: Describes the notification types that are supported by Auto Scaling.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2_AutoScaling.png
+  humanURL: https://aws.amazon.com/autoscaling/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Performance, Stack Network, API Service Provider,
+    API Service Provider, API Provider, Deployments, Profiles, Relative Data, Service
+    API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-auto-scaling/actiondescribeautoscalingnotificationtypes-get-openapi.md
+- name: AWS Auto Scaling API - Describe Auto Scaling Notification Types
+  x-api-slug: actiondescribeautoscalingnotificationtypes-get
+  description: Describes the notification types that are supported by Auto Scaling.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2_AutoScaling.png
+  humanURL: https://aws.amazon.com/autoscaling/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Performance, Stack Network, API Service Provider,
+    API Service Provider, API Provider, Deployments, Profiles, Relative Data, Service
+    API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-auto-scaling/actiondescribeautoscalingnotificationtypes-get-openapi.md
+- name: AWS Auto Scaling API - Describe Auto Scaling Notification Types
+  x-api-slug: actiondescribeautoscalingnotificationtypes-get
+  description: Describes the notification types that are supported by Auto Scaling.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2_AutoScaling.png
+  humanURL: https://aws.amazon.com/autoscaling/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Performance, Stack Network, API Service Provider,
+    API Service Provider, API Provider, Deployments, Profiles, Relative Data, Service
+    API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-auto-scaling/actiondescribeautoscalingnotificationtypes-get-openapi.md
+- name: AWS Auto Scaling API - Describe Auto Scaling Notification Types
+  x-api-slug: actiondescribeautoscalingnotificationtypes-get
+  description: Describes the notification types that are supported by Auto Scaling.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2_AutoScaling.png
+  humanURL: https://aws.amazon.com/autoscaling/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Performance, Stack Network, API Service Provider,
+    API Service Provider, API Provider, Deployments, Profiles, Relative Data, Service
+    API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-auto-scaling/actiondescribeautoscalingnotificationtypes-get-openapi.md
+- name: AWS Auto Scaling API - Describe Auto Scaling Notification Types
+  x-api-slug: actiondescribeautoscalingnotificationtypes-get
+  description: Describes the notification types that are supported by Auto Scaling.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2_AutoScaling.png
+  humanURL: https://aws.amazon.com/autoscaling/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Performance, Stack Network, API Service Provider,
+    API Service Provider, API Provider, Deployments, Profiles, Relative Data, Service
+    API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-auto-scaling/actiondescribeautoscalingnotificationtypes-get-openapi.md
+- name: AWS Auto Scaling API - Describe Auto Scaling Notification Types
+  x-api-slug: actiondescribeautoscalingnotificationtypes-get
+  description: Describes the notification types that are supported by Auto Scaling.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2_AutoScaling.png
+  humanURL: https://aws.amazon.com/autoscaling/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Performance, Stack Network, API Service Provider,
+    API Service Provider, API Provider, Deployments, Profiles, Relative Data, Service
+    API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-auto-scaling/actiondescribeautoscalingnotificationtypes-get-openapi.md
+- name: AWS Auto Scaling API - Describe Auto Scaling Notification Types
+  x-api-slug: actiondescribeautoscalingnotificationtypes-get
+  description: Describes the notification types that are supported by Auto Scaling.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2_AutoScaling.png
+  humanURL: https://aws.amazon.com/autoscaling/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Performance, Stack Network, API Service Provider,
+    API Service Provider, API Provider, Deployments, Profiles, Relative Data, Service
+    API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-auto-scaling/actiondescribeautoscalingnotificationtypes-get-openapi.md
+- name: AWS Auto Scaling API - Describe Auto Scaling Notification Types
+  x-api-slug: actiondescribeautoscalingnotificationtypes-get
+  description: Describes the notification types that are supported by Auto Scaling.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2_AutoScaling.png
+  humanURL: https://aws.amazon.com/autoscaling/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Performance, Stack Network, API Service Provider,
+    API Service Provider, API Provider, Deployments, Profiles, Relative Data, Service
+    API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-auto-scaling/actiondescribeautoscalingnotificationtypes-get-openapi.md
 - name: AWS Auto Scaling API - Describe Launch Configurations
   x-api-slug: actiondescribelaunchconfigurations-get
   description: Describes one or more launch configurations.
@@ -1611,6 +3408,270 @@ apis:
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-auto-scaling/actiondescribelifecyclehooktypes-get-postman.md
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-auto-scaling/actiondescribelifecyclehooktypes-get-openapi.md
+- name: AWS Auto Scaling API - Describe Load Balancers
+  x-api-slug: actiondescribeloadbalancers-get
+  description: Describes the load balancers for the specified Auto Scaling group.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2_AutoScaling.png
+  humanURL: https://aws.amazon.com/autoscaling/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Performance, Stack Network, API Service Provider,
+    API Service Provider, API Provider, Deployments, Profiles, Relative Data, Service
+    API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-auto-scaling/actiondescribeloadbalancers-get-openapi.md
+- name: AWS Auto Scaling API - Describe Load Balancers
+  x-api-slug: actiondescribeloadbalancers-get
+  description: Describes the load balancers for the specified Auto Scaling group.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2_AutoScaling.png
+  humanURL: https://aws.amazon.com/autoscaling/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Performance, Stack Network, API Service Provider,
+    API Service Provider, API Provider, Deployments, Profiles, Relative Data, Service
+    API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-auto-scaling/actiondescribeloadbalancers-get-openapi.md
+- name: AWS Auto Scaling API - Describe Load Balancers
+  x-api-slug: actiondescribeloadbalancers-get
+  description: Describes the load balancers for the specified Auto Scaling group.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2_AutoScaling.png
+  humanURL: https://aws.amazon.com/autoscaling/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Performance, Stack Network, API Service Provider,
+    API Service Provider, API Provider, Deployments, Profiles, Relative Data, Service
+    API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-auto-scaling/actiondescribeloadbalancers-get-openapi.md
+- name: AWS Auto Scaling API - Describe Load Balancers
+  x-api-slug: actiondescribeloadbalancers-get
+  description: Describes the load balancers for the specified Auto Scaling group.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2_AutoScaling.png
+  humanURL: https://aws.amazon.com/autoscaling/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Performance, Stack Network, API Service Provider,
+    API Service Provider, API Provider, Deployments, Profiles, Relative Data, Service
+    API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-auto-scaling/actiondescribeloadbalancers-get-openapi.md
+- name: AWS Auto Scaling API - Describe Load Balancers
+  x-api-slug: actiondescribeloadbalancers-get
+  description: Describes the load balancers for the specified Auto Scaling group.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2_AutoScaling.png
+  humanURL: https://aws.amazon.com/autoscaling/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Performance, Stack Network, API Service Provider,
+    API Service Provider, API Provider, Deployments, Profiles, Relative Data, Service
+    API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-auto-scaling/actiondescribeloadbalancers-get-openapi.md
+- name: AWS Auto Scaling API - Describe Load Balancers
+  x-api-slug: actiondescribeloadbalancers-get
+  description: Describes the load balancers for the specified Auto Scaling group.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2_AutoScaling.png
+  humanURL: https://aws.amazon.com/autoscaling/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Performance, Stack Network, API Service Provider,
+    API Service Provider, API Provider, Deployments, Profiles, Relative Data, Service
+    API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-auto-scaling/actiondescribeloadbalancers-get-openapi.md
+- name: AWS Auto Scaling API - Describe Load Balancers
+  x-api-slug: actiondescribeloadbalancers-get
+  description: Describes the load balancers for the specified Auto Scaling group.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2_AutoScaling.png
+  humanURL: https://aws.amazon.com/autoscaling/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Performance, Stack Network, API Service Provider,
+    API Service Provider, API Provider, Deployments, Profiles, Relative Data, Service
+    API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-auto-scaling/actiondescribeloadbalancers-get-openapi.md
+- name: AWS Auto Scaling API - Describe Load Balancers
+  x-api-slug: actiondescribeloadbalancers-get
+  description: Describes the load balancers for the specified Auto Scaling group.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2_AutoScaling.png
+  humanURL: https://aws.amazon.com/autoscaling/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Performance, Stack Network, API Service Provider,
+    API Service Provider, API Provider, Deployments, Profiles, Relative Data, Service
+    API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-auto-scaling/actiondescribeloadbalancers-get-openapi.md
+- name: AWS Auto Scaling API - Describe Load Balancers
+  x-api-slug: actiondescribeloadbalancers-get
+  description: Describes the load balancers for the specified Auto Scaling group.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2_AutoScaling.png
+  humanURL: https://aws.amazon.com/autoscaling/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Performance, Stack Network, API Service Provider,
+    API Service Provider, API Provider, Deployments, Profiles, Relative Data, Service
+    API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-auto-scaling/actiondescribeloadbalancers-get-openapi.md
+- name: AWS Auto Scaling API - Describe Load Balancers
+  x-api-slug: actiondescribeloadbalancers-get
+  description: Describes the load balancers for the specified Auto Scaling group.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2_AutoScaling.png
+  humanURL: https://aws.amazon.com/autoscaling/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Performance, Stack Network, API Service Provider,
+    API Service Provider, API Provider, Deployments, Profiles, Relative Data, Service
+    API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-auto-scaling/actiondescribeloadbalancers-get-openapi.md
+- name: AWS Auto Scaling API - Describe Load Balancers
+  x-api-slug: actiondescribeloadbalancers-get
+  description: Describes the load balancers for the specified Auto Scaling group.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2_AutoScaling.png
+  humanURL: https://aws.amazon.com/autoscaling/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Performance, Stack Network, API Service Provider,
+    API Service Provider, API Provider, Deployments, Profiles, Relative Data, Service
+    API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-auto-scaling/actiondescribeloadbalancers-get-openapi.md
+- name: AWS Auto Scaling API - Describe Load Balancer Target Groups
+  x-api-slug: actiondescribeloadbalancertargetgroups-get
+  description: Describes the target groups for the specified Auto Scaling group.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2_AutoScaling.png
+  humanURL: https://aws.amazon.com/autoscaling/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Performance, Stack Network, API Service Provider,
+    API Service Provider, API Provider, Deployments, Profiles, Relative Data, Service
+    API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-auto-scaling/actiondescribeloadbalancertargetgroups-get-openapi.md
+- name: AWS Auto Scaling API - Describe Load Balancer Target Groups
+  x-api-slug: actiondescribeloadbalancertargetgroups-get
+  description: Describes the target groups for the specified Auto Scaling group.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2_AutoScaling.png
+  humanURL: https://aws.amazon.com/autoscaling/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Performance, Stack Network, API Service Provider,
+    API Service Provider, API Provider, Deployments, Profiles, Relative Data, Service
+    API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-auto-scaling/actiondescribeloadbalancertargetgroups-get-openapi.md
+- name: AWS Auto Scaling API - Describe Load Balancer Target Groups
+  x-api-slug: actiondescribeloadbalancertargetgroups-get
+  description: Describes the target groups for the specified Auto Scaling group.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2_AutoScaling.png
+  humanURL: https://aws.amazon.com/autoscaling/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Performance, Stack Network, API Service Provider,
+    API Service Provider, API Provider, Deployments, Profiles, Relative Data, Service
+    API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-auto-scaling/actiondescribeloadbalancertargetgroups-get-openapi.md
+- name: AWS Auto Scaling API - Describe Load Balancer Target Groups
+  x-api-slug: actiondescribeloadbalancertargetgroups-get
+  description: Describes the target groups for the specified Auto Scaling group.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2_AutoScaling.png
+  humanURL: https://aws.amazon.com/autoscaling/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Performance, Stack Network, API Service Provider,
+    API Service Provider, API Provider, Deployments, Profiles, Relative Data, Service
+    API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-auto-scaling/actiondescribeloadbalancertargetgroups-get-openapi.md
+- name: AWS Auto Scaling API - Describe Load Balancer Target Groups
+  x-api-slug: actiondescribeloadbalancertargetgroups-get
+  description: Describes the target groups for the specified Auto Scaling group.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2_AutoScaling.png
+  humanURL: https://aws.amazon.com/autoscaling/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Performance, Stack Network, API Service Provider,
+    API Service Provider, API Provider, Deployments, Profiles, Relative Data, Service
+    API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-auto-scaling/actiondescribeloadbalancertargetgroups-get-openapi.md
+- name: AWS Auto Scaling API - Describe Load Balancer Target Groups
+  x-api-slug: actiondescribeloadbalancertargetgroups-get
+  description: Describes the target groups for the specified Auto Scaling group.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2_AutoScaling.png
+  humanURL: https://aws.amazon.com/autoscaling/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Performance, Stack Network, API Service Provider,
+    API Service Provider, API Provider, Deployments, Profiles, Relative Data, Service
+    API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-auto-scaling/actiondescribeloadbalancertargetgroups-get-openapi.md
+- name: AWS Auto Scaling API - Describe Load Balancer Target Groups
+  x-api-slug: actiondescribeloadbalancertargetgroups-get
+  description: Describes the target groups for the specified Auto Scaling group.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2_AutoScaling.png
+  humanURL: https://aws.amazon.com/autoscaling/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Performance, Stack Network, API Service Provider,
+    API Service Provider, API Provider, Deployments, Profiles, Relative Data, Service
+    API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-auto-scaling/actiondescribeloadbalancertargetgroups-get-openapi.md
+- name: AWS Auto Scaling API - Describe Load Balancer Target Groups
+  x-api-slug: actiondescribeloadbalancertargetgroups-get
+  description: Describes the target groups for the specified Auto Scaling group.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2_AutoScaling.png
+  humanURL: https://aws.amazon.com/autoscaling/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Performance, Stack Network, API Service Provider,
+    API Service Provider, API Provider, Deployments, Profiles, Relative Data, Service
+    API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-auto-scaling/actiondescribeloadbalancertargetgroups-get-openapi.md
+- name: AWS Auto Scaling API - Describe Load Balancer Target Groups
+  x-api-slug: actiondescribeloadbalancertargetgroups-get
+  description: Describes the target groups for the specified Auto Scaling group.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2_AutoScaling.png
+  humanURL: https://aws.amazon.com/autoscaling/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Performance, Stack Network, API Service Provider,
+    API Service Provider, API Provider, Deployments, Profiles, Relative Data, Service
+    API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-auto-scaling/actiondescribeloadbalancertargetgroups-get-openapi.md
+- name: AWS Auto Scaling API - Describe Load Balancer Target Groups
+  x-api-slug: actiondescribeloadbalancertargetgroups-get
+  description: Describes the target groups for the specified Auto Scaling group.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2_AutoScaling.png
+  humanURL: https://aws.amazon.com/autoscaling/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Performance, Stack Network, API Service Provider,
+    API Service Provider, API Provider, Deployments, Profiles, Relative Data, Service
+    API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-auto-scaling/actiondescribeloadbalancertargetgroups-get-openapi.md
+- name: AWS Auto Scaling API - Describe Load Balancer Target Groups
+  x-api-slug: actiondescribeloadbalancertargetgroups-get
+  description: Describes the target groups for the specified Auto Scaling group.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2_AutoScaling.png
+  humanURL: https://aws.amazon.com/autoscaling/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Performance, Stack Network, API Service Provider,
+    API Service Provider, API Provider, Deployments, Profiles, Relative Data, Service
+    API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-auto-scaling/actiondescribeloadbalancertargetgroups-get-openapi.md
 - name: AWS Auto Scaling API - Describe Metric Collection Types
   x-api-slug: actiondescribemetriccollectiontypes-get
   description: Describes the available CloudWatch metrics for Auto Scaling.
@@ -1765,6 +3826,449 @@ apis:
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-auto-scaling/actiondescribemetriccollectiontypes-get-postman.md
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-auto-scaling/actiondescribemetriccollectiontypes-get-openapi.md
+- name: AWS Auto Scaling API - Describe Notification Configurations
+  x-api-slug: actiondescribenotificationconfigurations-get
+  description: Describes the notification actions associated with the specified Auto
+    Scaling group.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2_AutoScaling.png
+  humanURL: https://aws.amazon.com/autoscaling/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Performance, Stack Network, API Service Provider,
+    API Service Provider, API Provider, Deployments, Profiles, Relative Data, Service
+    API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-auto-scaling/actiondescribenotificationconfigurations-get-openapi.md
+- name: AWS Auto Scaling API - Describe Notification Configurations
+  x-api-slug: actiondescribenotificationconfigurations-get
+  description: Describes the notification actions associated with the specified Auto
+    Scaling group.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2_AutoScaling.png
+  humanURL: https://aws.amazon.com/autoscaling/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Performance, Stack Network, API Service Provider,
+    API Service Provider, API Provider, Deployments, Profiles, Relative Data, Service
+    API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-auto-scaling/actiondescribenotificationconfigurations-get-openapi.md
+- name: AWS Auto Scaling API - Describe Notification Configurations
+  x-api-slug: actiondescribenotificationconfigurations-get
+  description: Describes the notification actions associated with the specified Auto
+    Scaling group.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2_AutoScaling.png
+  humanURL: https://aws.amazon.com/autoscaling/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Performance, Stack Network, API Service Provider,
+    API Service Provider, API Provider, Deployments, Profiles, Relative Data, Service
+    API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-auto-scaling/actiondescribenotificationconfigurations-get-openapi.md
+- name: AWS Auto Scaling API - Describe Notification Configurations
+  x-api-slug: actiondescribenotificationconfigurations-get
+  description: Describes the notification actions associated with the specified Auto
+    Scaling group.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2_AutoScaling.png
+  humanURL: https://aws.amazon.com/autoscaling/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Performance, Stack Network, API Service Provider,
+    API Service Provider, API Provider, Deployments, Profiles, Relative Data, Service
+    API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-auto-scaling/actiondescribenotificationconfigurations-get-openapi.md
+- name: AWS Auto Scaling API - Describe Notification Configurations
+  x-api-slug: actiondescribenotificationconfigurations-get
+  description: Describes the notification actions associated with the specified Auto
+    Scaling group.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2_AutoScaling.png
+  humanURL: https://aws.amazon.com/autoscaling/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Performance, Stack Network, API Service Provider,
+    API Service Provider, API Provider, Deployments, Profiles, Relative Data, Service
+    API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-auto-scaling/actiondescribenotificationconfigurations-get-openapi.md
+- name: AWS Auto Scaling API - Describe Notification Configurations
+  x-api-slug: actiondescribenotificationconfigurations-get
+  description: Describes the notification actions associated with the specified Auto
+    Scaling group.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2_AutoScaling.png
+  humanURL: https://aws.amazon.com/autoscaling/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Performance, Stack Network, API Service Provider,
+    API Service Provider, API Provider, Deployments, Profiles, Relative Data, Service
+    API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-auto-scaling/actiondescribenotificationconfigurations-get-openapi.md
+- name: AWS Auto Scaling API - Describe Notification Configurations
+  x-api-slug: actiondescribenotificationconfigurations-get
+  description: Describes the notification actions associated with the specified Auto
+    Scaling group.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2_AutoScaling.png
+  humanURL: https://aws.amazon.com/autoscaling/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Performance, Stack Network, API Service Provider,
+    API Service Provider, API Provider, Deployments, Profiles, Relative Data, Service
+    API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-auto-scaling/actiondescribenotificationconfigurations-get-openapi.md
+- name: AWS Auto Scaling API - Describe Notification Configurations
+  x-api-slug: actiondescribenotificationconfigurations-get
+  description: Describes the notification actions associated with the specified Auto
+    Scaling group.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2_AutoScaling.png
+  humanURL: https://aws.amazon.com/autoscaling/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Performance, Stack Network, API Service Provider,
+    API Service Provider, API Provider, Deployments, Profiles, Relative Data, Service
+    API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-auto-scaling/actiondescribenotificationconfigurations-get-openapi.md
+- name: AWS Auto Scaling API - Describe Notification Configurations
+  x-api-slug: actiondescribenotificationconfigurations-get
+  description: Describes the notification actions associated with the specified Auto
+    Scaling group.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2_AutoScaling.png
+  humanURL: https://aws.amazon.com/autoscaling/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Performance, Stack Network, API Service Provider,
+    API Service Provider, API Provider, Deployments, Profiles, Relative Data, Service
+    API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-auto-scaling/actiondescribenotificationconfigurations-get-openapi.md
+- name: AWS Auto Scaling API - Describe Notification Configurations
+  x-api-slug: actiondescribenotificationconfigurations-get
+  description: Describes the notification actions associated with the specified Auto
+    Scaling group.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2_AutoScaling.png
+  humanURL: https://aws.amazon.com/autoscaling/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Performance, Stack Network, API Service Provider,
+    API Service Provider, API Provider, Deployments, Profiles, Relative Data, Service
+    API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-auto-scaling/actiondescribenotificationconfigurations-get-openapi.md
+- name: AWS Auto Scaling API - Describe Notification Configurations
+  x-api-slug: actiondescribenotificationconfigurations-get
+  description: Describes the notification actions associated with the specified Auto
+    Scaling group.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2_AutoScaling.png
+  humanURL: https://aws.amazon.com/autoscaling/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Performance, Stack Network, API Service Provider,
+    API Service Provider, API Provider, Deployments, Profiles, Relative Data, Service
+    API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-auto-scaling/actiondescribenotificationconfigurations-get-openapi.md
+- name: AWS Auto Scaling API - Describe Policies
+  x-api-slug: actiondescribepolicies-get
+  description: Describes the policies for the specified Auto Scaling group.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2_AutoScaling.png
+  humanURL: https://aws.amazon.com/autoscaling/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Performance, Stack Network, API Service Provider,
+    API Service Provider, API Provider, Deployments, Profiles, Relative Data, Service
+    API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-auto-scaling/actiondescribepolicies-get-openapi.md
+- name: AWS Auto Scaling API - Describe Policies
+  x-api-slug: actiondescribepolicies-get
+  description: Describes the policies for the specified Auto Scaling group.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2_AutoScaling.png
+  humanURL: https://aws.amazon.com/autoscaling/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Performance, Stack Network, API Service Provider,
+    API Service Provider, API Provider, Deployments, Profiles, Relative Data, Service
+    API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-auto-scaling/actiondescribepolicies-get-openapi.md
+- name: AWS Auto Scaling API - Describe Policies
+  x-api-slug: actiondescribepolicies-get
+  description: Describes the policies for the specified Auto Scaling group.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2_AutoScaling.png
+  humanURL: https://aws.amazon.com/autoscaling/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Performance, Stack Network, API Service Provider,
+    API Service Provider, API Provider, Deployments, Profiles, Relative Data, Service
+    API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-auto-scaling/actiondescribepolicies-get-openapi.md
+- name: AWS Auto Scaling API - Describe Policies
+  x-api-slug: actiondescribepolicies-get
+  description: Describes the policies for the specified Auto Scaling group.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2_AutoScaling.png
+  humanURL: https://aws.amazon.com/autoscaling/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Performance, Stack Network, API Service Provider,
+    API Service Provider, API Provider, Deployments, Profiles, Relative Data, Service
+    API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-auto-scaling/actiondescribepolicies-get-openapi.md
+- name: AWS Auto Scaling API - Describe Policies
+  x-api-slug: actiondescribepolicies-get
+  description: Describes the policies for the specified Auto Scaling group.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2_AutoScaling.png
+  humanURL: https://aws.amazon.com/autoscaling/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Performance, Stack Network, API Service Provider,
+    API Service Provider, API Provider, Deployments, Profiles, Relative Data, Service
+    API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-auto-scaling/actiondescribepolicies-get-openapi.md
+- name: AWS Auto Scaling API - Describe Policies
+  x-api-slug: actiondescribepolicies-get
+  description: Describes the policies for the specified Auto Scaling group.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2_AutoScaling.png
+  humanURL: https://aws.amazon.com/autoscaling/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Performance, Stack Network, API Service Provider,
+    API Service Provider, API Provider, Deployments, Profiles, Relative Data, Service
+    API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-auto-scaling/actiondescribepolicies-get-openapi.md
+- name: AWS Auto Scaling API - Describe Policies
+  x-api-slug: actiondescribepolicies-get
+  description: Describes the policies for the specified Auto Scaling group.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2_AutoScaling.png
+  humanURL: https://aws.amazon.com/autoscaling/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Performance, Stack Network, API Service Provider,
+    API Service Provider, API Provider, Deployments, Profiles, Relative Data, Service
+    API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-auto-scaling/actiondescribepolicies-get-openapi.md
+- name: AWS Auto Scaling API - Describe Policies
+  x-api-slug: actiondescribepolicies-get
+  description: Describes the policies for the specified Auto Scaling group.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2_AutoScaling.png
+  humanURL: https://aws.amazon.com/autoscaling/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Performance, Stack Network, API Service Provider,
+    API Service Provider, API Provider, Deployments, Profiles, Relative Data, Service
+    API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-auto-scaling/actiondescribepolicies-get-openapi.md
+- name: AWS Auto Scaling API - Describe Policies
+  x-api-slug: actiondescribepolicies-get
+  description: Describes the policies for the specified Auto Scaling group.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2_AutoScaling.png
+  humanURL: https://aws.amazon.com/autoscaling/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Performance, Stack Network, API Service Provider,
+    API Service Provider, API Provider, Deployments, Profiles, Relative Data, Service
+    API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-auto-scaling/actiondescribepolicies-get-openapi.md
+- name: AWS Auto Scaling API - Describe Policies
+  x-api-slug: actiondescribepolicies-get
+  description: Describes the policies for the specified Auto Scaling group.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2_AutoScaling.png
+  humanURL: https://aws.amazon.com/autoscaling/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Performance, Stack Network, API Service Provider,
+    API Service Provider, API Provider, Deployments, Profiles, Relative Data, Service
+    API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-auto-scaling/actiondescribepolicies-get-openapi.md
+- name: AWS Auto Scaling API - Describe Policies
+  x-api-slug: actiondescribepolicies-get
+  description: Describes the policies for the specified Auto Scaling group.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2_AutoScaling.png
+  humanURL: https://aws.amazon.com/autoscaling/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Performance, Stack Network, API Service Provider,
+    API Service Provider, API Provider, Deployments, Profiles, Relative Data, Service
+    API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-auto-scaling/actiondescribepolicies-get-openapi.md
+- name: AWS Auto Scaling API - Describe Policies
+  x-api-slug: actiondescribepolicies-get
+  description: Describes the policies for the specified Auto Scaling group.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2_AutoScaling.png
+  humanURL: https://aws.amazon.com/autoscaling/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Performance, Stack Network, API Service Provider,
+    API Service Provider, API Provider, Deployments, Profiles, Relative Data, Service
+    API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-auto-scaling/actiondescribepolicies-get-openapi.md
+- name: AWS Auto Scaling API - Describe Scaling Activities
+  x-api-slug: actiondescribescalingactivities-get
+  description: Describes one or more scaling activities for the specified Auto Scaling
+    group.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2_AutoScaling.png
+  humanURL: https://aws.amazon.com/autoscaling/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Performance, Stack Network, API Service Provider,
+    API Service Provider, API Provider, Deployments, Profiles, Relative Data, Service
+    API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-auto-scaling/actiondescribescalingactivities-get-openapi.md
+- name: AWS Auto Scaling API - Describe Scaling Activities
+  x-api-slug: actiondescribescalingactivities-get
+  description: Describes one or more scaling activities for the specified Auto Scaling
+    group.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2_AutoScaling.png
+  humanURL: https://aws.amazon.com/autoscaling/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Performance, Stack Network, API Service Provider,
+    API Service Provider, API Provider, Deployments, Profiles, Relative Data, Service
+    API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-auto-scaling/actiondescribescalingactivities-get-openapi.md
+- name: AWS Auto Scaling API - Describe Scaling Activities
+  x-api-slug: actiondescribescalingactivities-get
+  description: Describes one or more scaling activities for the specified Auto Scaling
+    group.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2_AutoScaling.png
+  humanURL: https://aws.amazon.com/autoscaling/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Performance, Stack Network, API Service Provider,
+    API Service Provider, API Provider, Deployments, Profiles, Relative Data, Service
+    API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-auto-scaling/actiondescribescalingactivities-get-openapi.md
+- name: AWS Auto Scaling API - Describe Scaling Activities
+  x-api-slug: actiondescribescalingactivities-get
+  description: Describes one or more scaling activities for the specified Auto Scaling
+    group.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2_AutoScaling.png
+  humanURL: https://aws.amazon.com/autoscaling/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Performance, Stack Network, API Service Provider,
+    API Service Provider, API Provider, Deployments, Profiles, Relative Data, Service
+    API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-auto-scaling/actiondescribescalingactivities-get-openapi.md
+- name: AWS Auto Scaling API - Describe Scaling Activities
+  x-api-slug: actiondescribescalingactivities-get
+  description: Describes one or more scaling activities for the specified Auto Scaling
+    group.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2_AutoScaling.png
+  humanURL: https://aws.amazon.com/autoscaling/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Performance, Stack Network, API Service Provider,
+    API Service Provider, API Provider, Deployments, Profiles, Relative Data, Service
+    API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-auto-scaling/actiondescribescalingactivities-get-openapi.md
+- name: AWS Auto Scaling API - Describe Scaling Activities
+  x-api-slug: actiondescribescalingactivities-get
+  description: Describes one or more scaling activities for the specified Auto Scaling
+    group.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2_AutoScaling.png
+  humanURL: https://aws.amazon.com/autoscaling/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Performance, Stack Network, API Service Provider,
+    API Service Provider, API Provider, Deployments, Profiles, Relative Data, Service
+    API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-auto-scaling/actiondescribescalingactivities-get-openapi.md
+- name: AWS Auto Scaling API - Describe Scaling Activities
+  x-api-slug: actiondescribescalingactivities-get
+  description: Describes one or more scaling activities for the specified Auto Scaling
+    group.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2_AutoScaling.png
+  humanURL: https://aws.amazon.com/autoscaling/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Performance, Stack Network, API Service Provider,
+    API Service Provider, API Provider, Deployments, Profiles, Relative Data, Service
+    API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-auto-scaling/actiondescribescalingactivities-get-openapi.md
+- name: AWS Auto Scaling API - Describe Scaling Activities
+  x-api-slug: actiondescribescalingactivities-get
+  description: Describes one or more scaling activities for the specified Auto Scaling
+    group.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2_AutoScaling.png
+  humanURL: https://aws.amazon.com/autoscaling/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Performance, Stack Network, API Service Provider,
+    API Service Provider, API Provider, Deployments, Profiles, Relative Data, Service
+    API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-auto-scaling/actiondescribescalingactivities-get-openapi.md
+- name: AWS Auto Scaling API - Describe Scaling Activities
+  x-api-slug: actiondescribescalingactivities-get
+  description: Describes one or more scaling activities for the specified Auto Scaling
+    group.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2_AutoScaling.png
+  humanURL: https://aws.amazon.com/autoscaling/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Performance, Stack Network, API Service Provider,
+    API Service Provider, API Provider, Deployments, Profiles, Relative Data, Service
+    API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-auto-scaling/actiondescribescalingactivities-get-openapi.md
+- name: AWS Auto Scaling API - Describe Scaling Activities
+  x-api-slug: actiondescribescalingactivities-get
+  description: Describes one or more scaling activities for the specified Auto Scaling
+    group.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2_AutoScaling.png
+  humanURL: https://aws.amazon.com/autoscaling/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Performance, Stack Network, API Service Provider,
+    API Service Provider, API Provider, Deployments, Profiles, Relative Data, Service
+    API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-auto-scaling/actiondescribescalingactivities-get-openapi.md
+- name: AWS Auto Scaling API - Describe Scaling Activities
+  x-api-slug: actiondescribescalingactivities-get
+  description: Describes one or more scaling activities for the specified Auto Scaling
+    group.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2_AutoScaling.png
+  humanURL: https://aws.amazon.com/autoscaling/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Performance, Stack Network, API Service Provider,
+    API Service Provider, API Provider, Deployments, Profiles, Relative Data, Service
+    API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-auto-scaling/actiondescribescalingactivities-get-openapi.md
+- name: AWS Auto Scaling API - Describe Scaling Activities
+  x-api-slug: actiondescribescalingactivities-get
+  description: Describes one or more scaling activities for the specified Auto Scaling
+    group.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2_AutoScaling.png
+  humanURL: https://aws.amazon.com/autoscaling/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Performance, Stack Network, API Service Provider,
+    API Service Provider, API Provider, Deployments, Profiles, Relative Data, Service
+    API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-auto-scaling/actiondescribescalingactivities-get-openapi.md
 - name: AWS Auto Scaling API - Describe Scaling Process Types
   x-api-slug: actiondescribescalingprocesstypes-get
   description: Describes the scaling process types for use with.
@@ -2113,6 +4617,294 @@ apis:
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-auto-scaling/actiondescribescheduledactions-get-postman.md
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-auto-scaling/actiondescribescheduledactions-get-openapi.md
+- name: AWS Auto Scaling API - Describe Tags
+  x-api-slug: actiondescribetags-get
+  description: Describes the specified tags.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2_AutoScaling.png
+  humanURL: https://aws.amazon.com/autoscaling/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Performance, Stack Network, API Service Provider,
+    API Service Provider, API Provider, Deployments, Profiles, Relative Data, Service
+    API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-auto-scaling/actiondescribetags-get-openapi.md
+- name: AWS Auto Scaling API - Describe Tags
+  x-api-slug: actiondescribetags-get
+  description: Describes the specified tags.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2_AutoScaling.png
+  humanURL: https://aws.amazon.com/autoscaling/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Performance, Stack Network, API Service Provider,
+    API Service Provider, API Provider, Deployments, Profiles, Relative Data, Service
+    API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-auto-scaling/actiondescribetags-get-openapi.md
+- name: AWS Auto Scaling API - Describe Tags
+  x-api-slug: actiondescribetags-get
+  description: Describes the specified tags.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2_AutoScaling.png
+  humanURL: https://aws.amazon.com/autoscaling/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Performance, Stack Network, API Service Provider,
+    API Service Provider, API Provider, Deployments, Profiles, Relative Data, Service
+    API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-auto-scaling/actiondescribetags-get-openapi.md
+- name: AWS Auto Scaling API - Describe Tags
+  x-api-slug: actiondescribetags-get
+  description: Describes the specified tags.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2_AutoScaling.png
+  humanURL: https://aws.amazon.com/autoscaling/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Performance, Stack Network, API Service Provider,
+    API Service Provider, API Provider, Deployments, Profiles, Relative Data, Service
+    API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-auto-scaling/actiondescribetags-get-openapi.md
+- name: AWS Auto Scaling API - Describe Tags
+  x-api-slug: actiondescribetags-get
+  description: Describes the specified tags.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2_AutoScaling.png
+  humanURL: https://aws.amazon.com/autoscaling/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Performance, Stack Network, API Service Provider,
+    API Service Provider, API Provider, Deployments, Profiles, Relative Data, Service
+    API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-auto-scaling/actiondescribetags-get-openapi.md
+- name: AWS Auto Scaling API - Describe Tags
+  x-api-slug: actiondescribetags-get
+  description: Describes the specified tags.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2_AutoScaling.png
+  humanURL: https://aws.amazon.com/autoscaling/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Performance, Stack Network, API Service Provider,
+    API Service Provider, API Provider, Deployments, Profiles, Relative Data, Service
+    API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-auto-scaling/actiondescribetags-get-openapi.md
+- name: AWS Auto Scaling API - Describe Tags
+  x-api-slug: actiondescribetags-get
+  description: Describes the specified tags.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2_AutoScaling.png
+  humanURL: https://aws.amazon.com/autoscaling/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Performance, Stack Network, API Service Provider,
+    API Service Provider, API Provider, Deployments, Profiles, Relative Data, Service
+    API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-auto-scaling/actiondescribetags-get-openapi.md
+- name: AWS Auto Scaling API - Describe Tags
+  x-api-slug: actiondescribetags-get
+  description: Describes the specified tags.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2_AutoScaling.png
+  humanURL: https://aws.amazon.com/autoscaling/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Performance, Stack Network, API Service Provider,
+    API Service Provider, API Provider, Deployments, Profiles, Relative Data, Service
+    API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-auto-scaling/actiondescribetags-get-openapi.md
+- name: AWS Auto Scaling API - Describe Tags
+  x-api-slug: actiondescribetags-get
+  description: Describes the specified tags.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2_AutoScaling.png
+  humanURL: https://aws.amazon.com/autoscaling/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Performance, Stack Network, API Service Provider,
+    API Service Provider, API Provider, Deployments, Profiles, Relative Data, Service
+    API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-auto-scaling/actiondescribetags-get-openapi.md
+- name: AWS Auto Scaling API - Describe Tags
+  x-api-slug: actiondescribetags-get
+  description: Describes the specified tags.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2_AutoScaling.png
+  humanURL: https://aws.amazon.com/autoscaling/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Performance, Stack Network, API Service Provider,
+    API Service Provider, API Provider, Deployments, Profiles, Relative Data, Service
+    API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-auto-scaling/actiondescribetags-get-openapi.md
+- name: AWS Auto Scaling API - Describe Tags
+  x-api-slug: actiondescribetags-get
+  description: Describes the specified tags.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2_AutoScaling.png
+  humanURL: https://aws.amazon.com/autoscaling/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Performance, Stack Network, API Service Provider,
+    API Service Provider, API Provider, Deployments, Profiles, Relative Data, Service
+    API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-auto-scaling/actiondescribetags-get-openapi.md
+- name: AWS Auto Scaling API - Describe Tags
+  x-api-slug: actiondescribetags-get
+  description: Describes the specified tags.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2_AutoScaling.png
+  humanURL: https://aws.amazon.com/autoscaling/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Performance, Stack Network, API Service Provider,
+    API Service Provider, API Provider, Deployments, Profiles, Relative Data, Service
+    API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-auto-scaling/actiondescribetags-get-openapi.md
+- name: AWS Auto Scaling API - Describe Termination Policy Types
+  x-api-slug: actiondescribeterminationpolicytypes-get
+  description: Describes the termination policies supported by Auto Scaling.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2_AutoScaling.png
+  humanURL: https://aws.amazon.com/autoscaling/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Performance, Stack Network, API Service Provider,
+    API Service Provider, API Provider, Deployments, Profiles, Relative Data, Service
+    API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-auto-scaling/actiondescribeterminationpolicytypes-get-openapi.md
+- name: AWS Auto Scaling API - Describe Termination Policy Types
+  x-api-slug: actiondescribeterminationpolicytypes-get
+  description: Describes the termination policies supported by Auto Scaling.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2_AutoScaling.png
+  humanURL: https://aws.amazon.com/autoscaling/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Performance, Stack Network, API Service Provider,
+    API Service Provider, API Provider, Deployments, Profiles, Relative Data, Service
+    API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-auto-scaling/actiondescribeterminationpolicytypes-get-openapi.md
+- name: AWS Auto Scaling API - Describe Termination Policy Types
+  x-api-slug: actiondescribeterminationpolicytypes-get
+  description: Describes the termination policies supported by Auto Scaling.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2_AutoScaling.png
+  humanURL: https://aws.amazon.com/autoscaling/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Performance, Stack Network, API Service Provider,
+    API Service Provider, API Provider, Deployments, Profiles, Relative Data, Service
+    API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-auto-scaling/actiondescribeterminationpolicytypes-get-openapi.md
+- name: AWS Auto Scaling API - Describe Termination Policy Types
+  x-api-slug: actiondescribeterminationpolicytypes-get
+  description: Describes the termination policies supported by Auto Scaling.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2_AutoScaling.png
+  humanURL: https://aws.amazon.com/autoscaling/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Performance, Stack Network, API Service Provider,
+    API Service Provider, API Provider, Deployments, Profiles, Relative Data, Service
+    API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-auto-scaling/actiondescribeterminationpolicytypes-get-openapi.md
+- name: AWS Auto Scaling API - Describe Termination Policy Types
+  x-api-slug: actiondescribeterminationpolicytypes-get
+  description: Describes the termination policies supported by Auto Scaling.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2_AutoScaling.png
+  humanURL: https://aws.amazon.com/autoscaling/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Performance, Stack Network, API Service Provider,
+    API Service Provider, API Provider, Deployments, Profiles, Relative Data, Service
+    API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-auto-scaling/actiondescribeterminationpolicytypes-get-openapi.md
+- name: AWS Auto Scaling API - Describe Termination Policy Types
+  x-api-slug: actiondescribeterminationpolicytypes-get
+  description: Describes the termination policies supported by Auto Scaling.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2_AutoScaling.png
+  humanURL: https://aws.amazon.com/autoscaling/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Performance, Stack Network, API Service Provider,
+    API Service Provider, API Provider, Deployments, Profiles, Relative Data, Service
+    API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-auto-scaling/actiondescribeterminationpolicytypes-get-openapi.md
+- name: AWS Auto Scaling API - Describe Termination Policy Types
+  x-api-slug: actiondescribeterminationpolicytypes-get
+  description: Describes the termination policies supported by Auto Scaling.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2_AutoScaling.png
+  humanURL: https://aws.amazon.com/autoscaling/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Performance, Stack Network, API Service Provider,
+    API Service Provider, API Provider, Deployments, Profiles, Relative Data, Service
+    API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-auto-scaling/actiondescribeterminationpolicytypes-get-openapi.md
+- name: AWS Auto Scaling API - Describe Termination Policy Types
+  x-api-slug: actiondescribeterminationpolicytypes-get
+  description: Describes the termination policies supported by Auto Scaling.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2_AutoScaling.png
+  humanURL: https://aws.amazon.com/autoscaling/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Performance, Stack Network, API Service Provider,
+    API Service Provider, API Provider, Deployments, Profiles, Relative Data, Service
+    API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-auto-scaling/actiondescribeterminationpolicytypes-get-openapi.md
+- name: AWS Auto Scaling API - Describe Termination Policy Types
+  x-api-slug: actiondescribeterminationpolicytypes-get
+  description: Describes the termination policies supported by Auto Scaling.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2_AutoScaling.png
+  humanURL: https://aws.amazon.com/autoscaling/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Performance, Stack Network, API Service Provider,
+    API Service Provider, API Provider, Deployments, Profiles, Relative Data, Service
+    API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-auto-scaling/actiondescribeterminationpolicytypes-get-openapi.md
+- name: AWS Auto Scaling API - Describe Termination Policy Types
+  x-api-slug: actiondescribeterminationpolicytypes-get
+  description: Describes the termination policies supported by Auto Scaling.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2_AutoScaling.png
+  humanURL: https://aws.amazon.com/autoscaling/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Performance, Stack Network, API Service Provider,
+    API Service Provider, API Provider, Deployments, Profiles, Relative Data, Service
+    API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-auto-scaling/actiondescribeterminationpolicytypes-get-openapi.md
+- name: AWS Auto Scaling API - Describe Termination Policy Types
+  x-api-slug: actiondescribeterminationpolicytypes-get
+  description: Describes the termination policies supported by Auto Scaling.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2_AutoScaling.png
+  humanURL: https://aws.amazon.com/autoscaling/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Performance, Stack Network, API Service Provider,
+    API Service Provider, API Provider, Deployments, Profiles, Relative Data, Service
+    API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-auto-scaling/actiondescribeterminationpolicytypes-get-openapi.md
+- name: AWS Auto Scaling API - Describe Termination Policy Types
+  x-api-slug: actiondescribeterminationpolicytypes-get
+  description: Describes the termination policies supported by Auto Scaling.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2_AutoScaling.png
+  humanURL: https://aws.amazon.com/autoscaling/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Performance, Stack Network, API Service Provider,
+    API Service Provider, API Provider, Deployments, Profiles, Relative Data, Service
+    API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-auto-scaling/actiondescribeterminationpolicytypes-get-openapi.md
 x-common:
 - type: x-api-gallery
   url: http://aws.appstream.api.gallery.streamdata.io

@@ -8,11 +8,319 @@ image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28873-www-
 x-kinRank: "7"
 x-alexaRank: "7271"
 tags: Descriptions
-created: "2018-08-26"
-modified: "2018-08-26"
+created: "2018-08-27"
+modified: "2018-08-27"
 url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/logmein/apis.md
 specificationVersion: "0.14"
-apis: []
+apis:
+- name: GoToTraining API - Update Training Name and Description
+  x-api-slug: organizersorganizerkeytrainingstrainingkeynamedescription-put
+  description: Update training name and description.
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28873-www-logmeininc-com.jpg
+  humanURL: http://www.LogMeInInc.com
+  baseURL: https://api.getgo.com//G2T/rest
+  tags: SaaS, Technology, Enterprise, Voice, Videoconferencing, Audio, Webinars, Relative
+    Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/logmein/organizersorganizerkeytrainingstrainingkeynamedescription-put-openapi.md
+- name: GoToTraining API - Update Training Name and Description
+  x-api-slug: organizersorganizerkeytrainingstrainingkeynamedescription-put
+  description: Update training name and description.
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28873-www-logmeininc-com.jpg
+  humanURL: http://www.LogMeInInc.com
+  baseURL: https://api.getgo.com//G2T/rest
+  tags: SaaS, Technology, Enterprise, Voice, Videoconferencing, Audio, Webinars, Relative
+    Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/logmein/organizersorganizerkeytrainingstrainingkeynamedescription-put-openapi.md
+- name: GoToTraining API - Update Training Name and Description
+  x-api-slug: organizersorganizerkeytrainingstrainingkeynamedescription-put
+  description: Update training name and description.
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28873-www-logmeininc-com.jpg
+  humanURL: http://www.LogMeInInc.com
+  baseURL: https://api.getgo.com//G2T/rest
+  tags: SaaS, Technology, Enterprise, Voice, Videoconferencing, Audio, Webinars, Relative
+    Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/logmein/organizersorganizerkeytrainingstrainingkeynamedescription-put-openapi.md
+- name: GoToTraining API - Update Training Name and Description
+  x-api-slug: organizersorganizerkeytrainingstrainingkeynamedescription-put
+  description: Update training name and description.
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28873-www-logmeininc-com.jpg
+  humanURL: http://www.LogMeInInc.com
+  baseURL: https://api.getgo.com//G2T/rest
+  tags: SaaS, Technology, Enterprise, Voice, Videoconferencing, Audio, Webinars, Relative
+    Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/logmein/organizersorganizerkeytrainingstrainingkeynamedescription-put-openapi.md
+- name: GoToTraining API - Update Training Name and Description
+  x-api-slug: organizersorganizerkeytrainingstrainingkeynamedescription-put
+  description: Update training name and description.
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28873-www-logmeininc-com.jpg
+  humanURL: http://www.LogMeInInc.com
+  baseURL: https://api.getgo.com//G2T/rest
+  tags: SaaS, Technology, Enterprise, Voice, Videoconferencing, Audio, Webinars, Relative
+    Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/logmein/organizersorganizerkeytrainingstrainingkeynamedescription-put-openapi.md
+- name: GoToTraining API - Update Training Name and Description
+  x-api-slug: organizersorganizerkeytrainingstrainingkeynamedescription-put
+  description: Update training name and description.
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28873-www-logmeininc-com.jpg
+  humanURL: http://www.LogMeInInc.com
+  baseURL: https://api.getgo.com//G2T/rest
+  tags: SaaS, Technology, Enterprise, Voice, Videoconferencing, Audio, Webinars, Relative
+    Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/logmein/organizersorganizerkeytrainingstrainingkeynamedescription-put-openapi.md
+- name: GoToTraining API - Update Training Name and Description
+  x-api-slug: organizersorganizerkeytrainingstrainingkeynamedescription-put
+  description: Update training name and description.
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28873-www-logmeininc-com.jpg
+  humanURL: http://www.LogMeInInc.com
+  baseURL: https://api.getgo.com//G2T/rest
+  tags: SaaS, Technology, Enterprise, Voice, Videoconferencing, Audio, Webinars, Relative
+    Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/logmein/organizersorganizerkeytrainingstrainingkeynamedescription-put-openapi.md
+- name: GoToTraining API - Update Training Name and Description
+  x-api-slug: organizersorganizerkeytrainingstrainingkeynamedescription-put
+  description: Update training name and description.
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28873-www-logmeininc-com.jpg
+  humanURL: http://www.LogMeInInc.com
+  baseURL: https://api.getgo.com//G2T/rest
+  tags: SaaS, Technology, Enterprise, Voice, Videoconferencing, Audio, Webinars, Relative
+    Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/logmein/organizersorganizerkeytrainingstrainingkeynamedescription-put-openapi.md
+- name: GoToTraining API - Update Training Name and Description
+  x-api-slug: organizersorganizerkeytrainingstrainingkeynamedescription-put
+  description: Update training name and description.
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28873-www-logmeininc-com.jpg
+  humanURL: http://www.LogMeInInc.com
+  baseURL: https://api.getgo.com//G2T/rest
+  tags: SaaS, Technology, Enterprise, Voice, Videoconferencing, Audio, Webinars, Relative
+    Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/logmein/organizersorganizerkeytrainingstrainingkeynamedescription-put-openapi.md
+- name: GoToTraining API - Update Training Name and Description
+  x-api-slug: organizersorganizerkeytrainingstrainingkeynamedescription-put
+  description: Update training name and description.
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28873-www-logmeininc-com.jpg
+  humanURL: http://www.LogMeInInc.com
+  baseURL: https://api.getgo.com//G2T/rest
+  tags: SaaS, Technology, Enterprise, Voice, Videoconferencing, Audio, Webinars, Relative
+    Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/logmein/organizersorganizerkeytrainingstrainingkeynamedescription-put-openapi.md
+- name: GoToTraining API - Update Training Name and Description
+  x-api-slug: organizersorganizerkeytrainingstrainingkeynamedescription-put
+  description: Update training name and description.
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28873-www-logmeininc-com.jpg
+  humanURL: http://www.LogMeInInc.com
+  baseURL: https://api.getgo.com//G2T/rest
+  tags: SaaS, Technology, Enterprise, Voice, Videoconferencing, Audio, Webinars, Relative
+    Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/logmein/organizersorganizerkeytrainingstrainingkeynamedescription-put-openapi.md
+- name: GoToTraining API - Update Training Name and Description
+  x-api-slug: organizersorganizerkeytrainingstrainingkeynamedescription-put
+  description: Update training name and description.
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28873-www-logmeininc-com.jpg
+  humanURL: http://www.LogMeInInc.com
+  baseURL: https://api.getgo.com//G2T/rest
+  tags: SaaS, Technology, Enterprise, Voice, Videoconferencing, Audio, Webinars, Relative
+    Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/logmein/organizersorganizerkeytrainingstrainingkeynamedescription-put-openapi.md
+- name: GoToTraining API - Update Training Name and Description
+  x-api-slug: organizersorganizerkeytrainingstrainingkeynamedescription-put
+  description: Update training name and description.
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28873-www-logmeininc-com.jpg
+  humanURL: http://www.LogMeInInc.com
+  baseURL: https://api.getgo.com//G2T/rest
+  tags: SaaS, Technology, Enterprise, Voice, Videoconferencing, Audio, Webinars, Relative
+    Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/logmein/organizersorganizerkeytrainingstrainingkeynamedescription-put-openapi.md
+- name: GoToTraining API - Update Training Name and Description
+  x-api-slug: organizersorganizerkeytrainingstrainingkeynamedescription-put
+  description: Update training name and description.
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28873-www-logmeininc-com.jpg
+  humanURL: http://www.LogMeInInc.com
+  baseURL: https://api.getgo.com//G2T/rest
+  tags: SaaS, Technology, Enterprise, Voice, Videoconferencing, Audio, Webinars, Relative
+    Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/logmein/organizersorganizerkeytrainingstrainingkeynamedescription-put-openapi.md
+- name: GoToTraining API - Update Training Name and Description
+  x-api-slug: organizersorganizerkeytrainingstrainingkeynamedescription-put
+  description: Update training name and description.
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28873-www-logmeininc-com.jpg
+  humanURL: http://www.LogMeInInc.com
+  baseURL: https://api.getgo.com//G2T/rest
+  tags: SaaS, Technology, Enterprise, Voice, Videoconferencing, Audio, Webinars, Relative
+    Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/logmein/organizersorganizerkeytrainingstrainingkeynamedescription-put-openapi.md
+- name: GoToTraining API - Update Training Name and Description
+  x-api-slug: organizersorganizerkeytrainingstrainingkeynamedescription-put
+  description: Update training name and description.
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28873-www-logmeininc-com.jpg
+  humanURL: http://www.LogMeInInc.com
+  baseURL: https://api.getgo.com//G2T/rest
+  tags: SaaS, Technology, Enterprise, Voice, Videoconferencing, Audio, Webinars, Relative
+    Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/logmein/organizersorganizerkeytrainingstrainingkeynamedescription-put-openapi.md
+- name: GoToTraining API - Update Training Name and Description
+  x-api-slug: organizersorganizerkeytrainingstrainingkeynamedescription-put
+  description: Update training name and description.
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28873-www-logmeininc-com.jpg
+  humanURL: http://www.LogMeInInc.com
+  baseURL: https://api.getgo.com//G2T/rest
+  tags: SaaS, Technology, Enterprise, Voice, Videoconferencing, Audio, Webinars, Relative
+    Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/logmein/organizersorganizerkeytrainingstrainingkeynamedescription-put-openapi.md
+- name: GoToTraining API - Update Training Name and Description
+  x-api-slug: organizersorganizerkeytrainingstrainingkeynamedescription-put
+  description: Update training name and description.
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28873-www-logmeininc-com.jpg
+  humanURL: http://www.LogMeInInc.com
+  baseURL: https://api.getgo.com//G2T/rest
+  tags: SaaS, Technology, Enterprise, Voice, Videoconferencing, Audio, Webinars, Relative
+    Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/logmein/organizersorganizerkeytrainingstrainingkeynamedescription-put-openapi.md
+- name: GoToTraining API - Update Training Name and Description
+  x-api-slug: organizersorganizerkeytrainingstrainingkeynamedescription-put
+  description: Update training name and description.
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28873-www-logmeininc-com.jpg
+  humanURL: http://www.LogMeInInc.com
+  baseURL: https://api.getgo.com//G2T/rest
+  tags: SaaS, Technology, Enterprise, Voice, Videoconferencing, Audio, Webinars, Relative
+    Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/logmein/organizersorganizerkeytrainingstrainingkeynamedescription-put-openapi.md
+- name: GoToTraining API - Update Training Name and Description
+  x-api-slug: organizersorganizerkeytrainingstrainingkeynamedescription-put
+  description: Update training name and description.
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28873-www-logmeininc-com.jpg
+  humanURL: http://www.LogMeInInc.com
+  baseURL: https://api.getgo.com//G2T/rest
+  tags: SaaS, Technology, Enterprise, Voice, Videoconferencing, Audio, Webinars, Relative
+    Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/logmein/organizersorganizerkeytrainingstrainingkeynamedescription-put-openapi.md
+- name: GoToTraining API - Update Training Name and Description
+  x-api-slug: organizersorganizerkeytrainingstrainingkeynamedescription-put
+  description: Update training name and description.
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28873-www-logmeininc-com.jpg
+  humanURL: http://www.LogMeInInc.com
+  baseURL: https://api.getgo.com//G2T/rest
+  tags: SaaS, Technology, Enterprise, Voice, Videoconferencing, Audio, Webinars, Relative
+    Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/logmein/organizersorganizerkeytrainingstrainingkeynamedescription-put-openapi.md
+- name: GoToTraining API - Update Training Name and Description
+  x-api-slug: organizersorganizerkeytrainingstrainingkeynamedescription-put
+  description: Update training name and description.
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28873-www-logmeininc-com.jpg
+  humanURL: http://www.LogMeInInc.com
+  baseURL: https://api.getgo.com//G2T/rest
+  tags: SaaS, Technology, Enterprise, Voice, Videoconferencing, Audio, Webinars, Relative
+    Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/logmein/organizersorganizerkeytrainingstrainingkeynamedescription-put-openapi.md
+- name: GoToTraining API - Update Training Name and Description
+  x-api-slug: organizersorganizerkeytrainingstrainingkeynamedescription-put
+  description: Update training name and description.
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28873-www-logmeininc-com.jpg
+  humanURL: http://www.LogMeInInc.com
+  baseURL: https://api.getgo.com//G2T/rest
+  tags: SaaS, Technology, Enterprise, Voice, Videoconferencing, Audio, Webinars, Relative
+    Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/logmein/organizersorganizerkeytrainingstrainingkeynamedescription-put-openapi.md
+- name: GoToTraining API - Update Training Name and Description
+  x-api-slug: organizersorganizerkeytrainingstrainingkeynamedescription-put
+  description: Update training name and description.
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28873-www-logmeininc-com.jpg
+  humanURL: http://www.LogMeInInc.com
+  baseURL: https://api.getgo.com//G2T/rest
+  tags: SaaS, Technology, Enterprise, Voice, Videoconferencing, Audio, Webinars, Relative
+    Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/logmein/organizersorganizerkeytrainingstrainingkeynamedescription-put-openapi.md
+- name: GoToTraining API - Update Training Name and Description
+  x-api-slug: organizersorganizerkeytrainingstrainingkeynamedescription-put
+  description: Update training name and description.
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28873-www-logmeininc-com.jpg
+  humanURL: http://www.LogMeInInc.com
+  baseURL: https://api.getgo.com//G2T/rest
+  tags: SaaS, Technology, Enterprise, Voice, Videoconferencing, Audio, Webinars, Relative
+    Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/logmein/organizersorganizerkeytrainingstrainingkeynamedescription-put-openapi.md
+- name: GoToTraining API - Update Training Name and Description
+  x-api-slug: organizersorganizerkeytrainingstrainingkeynamedescription-put
+  description: Update training name and description.
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28873-www-logmeininc-com.jpg
+  humanURL: http://www.LogMeInInc.com
+  baseURL: https://api.getgo.com//G2T/rest
+  tags: SaaS, Technology, Enterprise, Voice, Videoconferencing, Audio, Webinars, Relative
+    Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/logmein/organizersorganizerkeytrainingstrainingkeynamedescription-put-openapi.md
+- name: GoToTraining API - Update Training Name and Description
+  x-api-slug: organizersorganizerkeytrainingstrainingkeynamedescription-put
+  description: Update training name and description.
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28873-www-logmeininc-com.jpg
+  humanURL: http://www.LogMeInInc.com
+  baseURL: https://api.getgo.com//G2T/rest
+  tags: SaaS, Technology, Enterprise, Voice, Videoconferencing, Audio, Webinars, Relative
+    Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/logmein/organizersorganizerkeytrainingstrainingkeynamedescription-put-openapi.md
+- name: GoToTraining API - Update Training Name and Description
+  x-api-slug: organizersorganizerkeytrainingstrainingkeynamedescription-put
+  description: Update training name and description.
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28873-www-logmeininc-com.jpg
+  humanURL: http://www.LogMeInInc.com
+  baseURL: https://api.getgo.com//G2T/rest
+  tags: SaaS, Technology, Enterprise, Voice, Videoconferencing, Audio, Webinars, Relative
+    Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/logmein/organizersorganizerkeytrainingstrainingkeynamedescription-put-openapi.md
 x-common:
 - type: x-github
   url: https://github.com/logmein

@@ -16,11 +16,35 @@ image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/l
 x-kinRank: "10"
 x-alexaRank: "0"
 tags: Descriptions
-created: "2018-08-26"
-modified: "2018-08-26"
+created: "2018-08-27"
+modified: "2018-08-27"
 url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-data-pipeline/apis.md
 specificationVersion: "0.14"
 apis:
+- name: AWS Data Pipeline API - Describe Objects
+  x-api-slug: actiondescribeobjects-get
+  description: Gets the object definitions for a set of objects associated with the
+    pipeline.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Analytics_AWSDataPipeline.png
+  humanURL: https://aws.amazon.com/datapipeline/
+  baseURL: :///
+  tags: Amazon Web Services, Stack Network, Data, API Service Provider, API Service
+    Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-data-pipeline/actiondescribeobjects-get-openapi.md
+- name: AWS Data Pipeline API - Describe Objects
+  x-api-slug: actiondescribeobjects-get
+  description: Gets the object definitions for a set of objects associated with the
+    pipeline.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Analytics_AWSDataPipeline.png
+  humanURL: https://aws.amazon.com/datapipeline/
+  baseURL: :///
+  tags: Amazon Web Services, Stack Network, Data, API Service Provider, API Service
+    Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-data-pipeline/actiondescribeobjects-get-openapi.md
 - name: AWS Data Pipeline API - Describe Pipelines
   x-api-slug: actiondescribepipelines-get
   description: Retrieves metadata about one or more pipelines.
@@ -47,6 +71,114 @@ apis:
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-data-pipeline/actiondescribepipelines-get-postman.md
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-data-pipeline/actiondescribepipelines-get-openapi.md
+- name: AWS Data Pipeline API - Describe Objects
+  x-api-slug: actiondescribeobjects-get
+  description: Gets the object definitions for a set of objects associated with the
+    pipeline.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Analytics_AWSDataPipeline.png
+  humanURL: https://aws.amazon.com/datapipeline/
+  baseURL: :///
+  tags: Amazon Web Services, Stack Network, Data, API Service Provider, API Service
+    Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-data-pipeline/actiondescribeobjects-get-openapi.md
+- name: AWS Data Pipeline API - Describe Objects
+  x-api-slug: actiondescribeobjects-get
+  description: Gets the object definitions for a set of objects associated with the
+    pipeline.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Analytics_AWSDataPipeline.png
+  humanURL: https://aws.amazon.com/datapipeline/
+  baseURL: :///
+  tags: Amazon Web Services, Stack Network, Data, API Service Provider, API Service
+    Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-data-pipeline/actiondescribeobjects-get-openapi.md
+- name: AWS Data Pipeline API - Describe Objects
+  x-api-slug: actiondescribeobjects-get
+  description: Gets the object definitions for a set of objects associated with the
+    pipeline.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Analytics_AWSDataPipeline.png
+  humanURL: https://aws.amazon.com/datapipeline/
+  baseURL: :///
+  tags: Amazon Web Services, Stack Network, Data, API Service Provider, API Service
+    Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-data-pipeline/actiondescribeobjects-get-openapi.md
+- name: AWS Data Pipeline API - Describe Objects
+  x-api-slug: actiondescribeobjects-get
+  description: Gets the object definitions for a set of objects associated with the
+    pipeline.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Analytics_AWSDataPipeline.png
+  humanURL: https://aws.amazon.com/datapipeline/
+  baseURL: :///
+  tags: Amazon Web Services, Stack Network, Data, API Service Provider, API Service
+    Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-data-pipeline/actiondescribeobjects-get-openapi.md
+- name: AWS Data Pipeline API - Describe Objects
+  x-api-slug: actiondescribeobjects-get
+  description: Gets the object definitions for a set of objects associated with the
+    pipeline.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Analytics_AWSDataPipeline.png
+  humanURL: https://aws.amazon.com/datapipeline/
+  baseURL: :///
+  tags: Amazon Web Services, Stack Network, Data, API Service Provider, API Service
+    Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-data-pipeline/actiondescribeobjects-get-openapi.md
+- name: AWS Data Pipeline API - Describe Objects
+  x-api-slug: actiondescribeobjects-get
+  description: Gets the object definitions for a set of objects associated with the
+    pipeline.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Analytics_AWSDataPipeline.png
+  humanURL: https://aws.amazon.com/datapipeline/
+  baseURL: :///
+  tags: Amazon Web Services, Stack Network, Data, API Service Provider, API Service
+    Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-data-pipeline/actiondescribeobjects-get-openapi.md
+- name: AWS Data Pipeline API - Describe Objects
+  x-api-slug: actiondescribeobjects-get
+  description: Gets the object definitions for a set of objects associated with the
+    pipeline.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Analytics_AWSDataPipeline.png
+  humanURL: https://aws.amazon.com/datapipeline/
+  baseURL: :///
+  tags: Amazon Web Services, Stack Network, Data, API Service Provider, API Service
+    Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-data-pipeline/actiondescribeobjects-get-openapi.md
+- name: AWS Data Pipeline API - Describe Objects
+  x-api-slug: actiondescribeobjects-get
+  description: Gets the object definitions for a set of objects associated with the
+    pipeline.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Analytics_AWSDataPipeline.png
+  humanURL: https://aws.amazon.com/datapipeline/
+  baseURL: :///
+  tags: Amazon Web Services, Stack Network, Data, API Service Provider, API Service
+    Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-data-pipeline/actiondescribeobjects-get-openapi.md
+- name: AWS Data Pipeline API - Describe Objects
+  x-api-slug: actiondescribeobjects-get
+  description: Gets the object definitions for a set of objects associated with the
+    pipeline.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Analytics_AWSDataPipeline.png
+  humanURL: https://aws.amazon.com/datapipeline/
+  baseURL: :///
+  tags: Amazon Web Services, Stack Network, Data, API Service Provider, API Service
+    Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-data-pipeline/actiondescribeobjects-get-openapi.md
 - name: AWS Data Pipeline API - Describe Pipelines
   x-api-slug: actiondescribepipelines-get
   description: Retrieves metadata about one or more pipelines.

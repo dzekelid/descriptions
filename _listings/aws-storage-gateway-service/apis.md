@@ -15,8 +15,8 @@ image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/l
 x-kinRank: "10"
 x-alexaRank: "0"
 tags: Descriptions
-created: "2018-08-26"
-modified: "2018-08-26"
+created: "2018-08-27"
+modified: "2018-08-27"
 url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-storage-gateway-service/apis.md
 specificationVersion: "0.14"
 apis:
@@ -48,6 +48,18 @@ apis:
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-storage-gateway-service/actiondescribecache-get-postman.md
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-storage-gateway-service/actiondescribecache-get-openapi.md
+- name: AWS Storage Gateway Service API - Describe Cached SCSI Volumes
+  x-api-slug: actiondescribecachediscsivolumes-get
+  description: Returns a description of the gateway volumes specified in the request.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Storage-Content-Delivery_AWSStorageGateway.png
+  humanURL: https://aws.amazon.com/storagegateway/
+  baseURL: :///
+  tags: Amazon Web Services, Gateway, Data, Stack Network, API Service Provider, API
+    Service Provider, API Provider, Databases, Deployments, Profiles, Relative Data,
+    Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-storage-gateway-service/actiondescribecachediscsivolumes-get-openapi.md
 - name: AWS Storage Gateway Service API - Describe Chap Credentials
   x-api-slug: actiondescribechapcredentials-get
   description: |-
@@ -156,6 +168,136 @@ apis:
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-storage-gateway-service/actiondescribenfsfileshares-get-postman.md
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-storage-gateway-service/actiondescribenfsfileshares-get-openapi.md
+- name: AWS Storage Gateway Service API - Describe Snapshot Schedule
+  x-api-slug: actiondescribesnapshotschedule-get
+  description: Describes the snapshot schedule for the specified gateway volume.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Storage-Content-Delivery_AWSStorageGateway.png
+  humanURL: https://aws.amazon.com/storagegateway/
+  baseURL: :///
+  tags: Amazon Web Services, Gateway, Data, Stack Network, API Service Provider, API
+    Service Provider, API Provider, Databases, Deployments, Profiles, Relative Data,
+    Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-storage-gateway-service/actiondescribesnapshotschedule-get-openapi.md
+- name: AWS Storage Gateway Service API - Describe Snapshot Schedule
+  x-api-slug: actiondescribesnapshotschedule-get
+  description: Describes the snapshot schedule for the specified gateway volume.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Storage-Content-Delivery_AWSStorageGateway.png
+  humanURL: https://aws.amazon.com/storagegateway/
+  baseURL: :///
+  tags: Amazon Web Services, Gateway, Data, Stack Network, API Service Provider, API
+    Service Provider, API Provider, Databases, Deployments, Profiles, Relative Data,
+    Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-storage-gateway-service/actiondescribesnapshotschedule-get-openapi.md
+- name: AWS Storage Gateway Service API - Describe Stored SCSI Volumes
+  x-api-slug: actiondescribestorediscsivolumes-get
+  description: Returns the description of the gateway volumes specified in the request.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Storage-Content-Delivery_AWSStorageGateway.png
+  humanURL: https://aws.amazon.com/storagegateway/
+  baseURL: :///
+  tags: Amazon Web Services, Gateway, Data, Stack Network, API Service Provider, API
+    Service Provider, API Provider, Databases, Deployments, Profiles, Relative Data,
+    Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-storage-gateway-service/actiondescribestorediscsivolumes-get-openapi.md
+- name: AWS Storage Gateway Service API - Describe Stored SCSI Volumes
+  x-api-slug: actiondescribestorediscsivolumes-get
+  description: Returns the description of the gateway volumes specified in the request.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Storage-Content-Delivery_AWSStorageGateway.png
+  humanURL: https://aws.amazon.com/storagegateway/
+  baseURL: :///
+  tags: Amazon Web Services, Gateway, Data, Stack Network, API Service Provider, API
+    Service Provider, API Provider, Databases, Deployments, Profiles, Relative Data,
+    Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-storage-gateway-service/actiondescribestorediscsivolumes-get-openapi.md
+- name: AWS Storage Gateway Service API - Describe Tape Archives
+  x-api-slug: actiondescribetapearchives-get
+  description: |-
+    Returns a description of specified virtual tapes in the virtual tape shelf
+             (VTS).
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Storage-Content-Delivery_AWSStorageGateway.png
+  humanURL: https://aws.amazon.com/storagegateway/
+  baseURL: :///
+  tags: Amazon Web Services, Gateway, Data, Stack Network, API Service Provider, API
+    Service Provider, API Provider, Databases, Deployments, Profiles, Relative Data,
+    Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-storage-gateway-service/actiondescribetapearchives-get-openapi.md
+- name: AWS Storage Gateway Service API - Describe Tape Archives
+  x-api-slug: actiondescribetapearchives-get
+  description: |-
+    Returns a description of specified virtual tapes in the virtual tape shelf
+             (VTS).
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Storage-Content-Delivery_AWSStorageGateway.png
+  humanURL: https://aws.amazon.com/storagegateway/
+  baseURL: :///
+  tags: Amazon Web Services, Gateway, Data, Stack Network, API Service Provider, API
+    Service Provider, API Provider, Databases, Deployments, Profiles, Relative Data,
+    Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-storage-gateway-service/actiondescribetapearchives-get-openapi.md
+- name: AWS Storage Gateway Service API - Describe Tape Recovery Points
+  x-api-slug: actiondescribetaperecoverypoints-get
+  description: |-
+    Returns a list of virtual tape recovery points that are available for the specified
+             gateway-VTL.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Storage-Content-Delivery_AWSStorageGateway.png
+  humanURL: https://aws.amazon.com/storagegateway/
+  baseURL: :///
+  tags: Amazon Web Services, Gateway, Data, Stack Network, API Service Provider, API
+    Service Provider, API Provider, Databases, Deployments, Profiles, Relative Data,
+    Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-storage-gateway-service/actiondescribetaperecoverypoints-get-openapi.md
+- name: AWS Storage Gateway Service API - Describe Tape Recovery Points
+  x-api-slug: actiondescribetaperecoverypoints-get
+  description: |-
+    Returns a list of virtual tape recovery points that are available for the specified
+             gateway-VTL.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Storage-Content-Delivery_AWSStorageGateway.png
+  humanURL: https://aws.amazon.com/storagegateway/
+  baseURL: :///
+  tags: Amazon Web Services, Gateway, Data, Stack Network, API Service Provider, API
+    Service Provider, API Provider, Databases, Deployments, Profiles, Relative Data,
+    Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-storage-gateway-service/actiondescribetaperecoverypoints-get-openapi.md
+- name: AWS Storage Gateway Service API - Describe Tapes
+  x-api-slug: actiondescribetapes-get
+  description: Returns a description of the specified Amazon Resource Name (ARN) of
+    virtual tapes.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Storage-Content-Delivery_AWSStorageGateway.png
+  humanURL: https://aws.amazon.com/storagegateway/
+  baseURL: :///
+  tags: Amazon Web Services, Gateway, Data, Stack Network, API Service Provider, API
+    Service Provider, API Provider, Databases, Deployments, Profiles, Relative Data,
+    Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-storage-gateway-service/actiondescribetapes-get-openapi.md
+- name: AWS Storage Gateway Service API - Describe Tapes
+  x-api-slug: actiondescribetapes-get
+  description: Returns a description of the specified Amazon Resource Name (ARN) of
+    virtual tapes.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Storage-Content-Delivery_AWSStorageGateway.png
+  humanURL: https://aws.amazon.com/storagegateway/
+  baseURL: :///
+  tags: Amazon Web Services, Gateway, Data, Stack Network, API Service Provider, API
+    Service Provider, API Provider, Databases, Deployments, Profiles, Relative Data,
+    Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-storage-gateway-service/actiondescribetapes-get-openapi.md
 - name: AWS Storage Gateway Service API - Describe Upload Buffer
   x-api-slug: actiondescribeuploadbuffer-get
   description: Returns information about the upload buffer of a gateway.
@@ -184,6 +326,58 @@ apis:
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-storage-gateway-service/actiondescribeuploadbuffer-get-postman.md
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-storage-gateway-service/actiondescribeuploadbuffer-get-openapi.md
+- name: AWS Storage Gateway Service API - Describe VTL Devices
+  x-api-slug: actiondescribevtldevices-get
+  description: |-
+    Returns a description of virtual tape library (VTL) devices for the specified
+             gateway.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Storage-Content-Delivery_AWSStorageGateway.png
+  humanURL: https://aws.amazon.com/storagegateway/
+  baseURL: :///
+  tags: Amazon Web Services, Gateway, Data, Stack Network, API Service Provider, API
+    Service Provider, API Provider, Databases, Deployments, Profiles, Relative Data,
+    Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-storage-gateway-service/actiondescribevtldevices-get-openapi.md
+- name: AWS Storage Gateway Service API - Describe VTL Devices
+  x-api-slug: actiondescribevtldevices-get
+  description: |-
+    Returns a description of virtual tape library (VTL) devices for the specified
+             gateway.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Storage-Content-Delivery_AWSStorageGateway.png
+  humanURL: https://aws.amazon.com/storagegateway/
+  baseURL: :///
+  tags: Amazon Web Services, Gateway, Data, Stack Network, API Service Provider, API
+    Service Provider, API Provider, Databases, Deployments, Profiles, Relative Data,
+    Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-storage-gateway-service/actiondescribevtldevices-get-openapi.md
+- name: AWS Storage Gateway Service API - Describe Working Storage
+  x-api-slug: actiondescribeworkingstorage-get
+  description: Returns information about the working storage of a gateway.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Storage-Content-Delivery_AWSStorageGateway.png
+  humanURL: https://aws.amazon.com/storagegateway/
+  baseURL: :///
+  tags: Amazon Web Services, Gateway, Data, Stack Network, API Service Provider, API
+    Service Provider, API Provider, Databases, Deployments, Profiles, Relative Data,
+    Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-storage-gateway-service/actiondescribeworkingstorage-get-openapi.md
+- name: AWS Storage Gateway Service API - Describe Working Storage
+  x-api-slug: actiondescribeworkingstorage-get
+  description: Returns information about the working storage of a gateway.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Storage-Content-Delivery_AWSStorageGateway.png
+  humanURL: https://aws.amazon.com/storagegateway/
+  baseURL: :///
+  tags: Amazon Web Services, Gateway, Data, Stack Network, API Service Provider, API
+    Service Provider, API Provider, Databases, Deployments, Profiles, Relative Data,
+    Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-storage-gateway-service/actiondescribeworkingstorage-get-openapi.md
 - name: AWS Storage Gateway Service API - Describe Bandwidth Rate Limit
   x-api-slug: actiondescribebandwidthratelimit-get
   description: Returns the bandwidth rate limits of a gateway.
@@ -380,6 +574,90 @@ apis:
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-storage-gateway-service/actiondescribecache-get-postman.md
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-storage-gateway-service/actiondescribecache-get-openapi.md
+- name: AWS Storage Gateway Service API - Describe Cached SCSI Volumes
+  x-api-slug: actiondescribecachediscsivolumes-get
+  description: Returns a description of the gateway volumes specified in the request.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Storage-Content-Delivery_AWSStorageGateway.png
+  humanURL: https://aws.amazon.com/storagegateway/
+  baseURL: :///
+  tags: Amazon Web Services, Gateway, Data, Stack Network, API Service Provider, API
+    Service Provider, API Provider, Databases, Deployments, Profiles, Relative Data,
+    Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-storage-gateway-service/actiondescribecachediscsivolumes-get-openapi.md
+- name: AWS Storage Gateway Service API - Describe Cached SCSI Volumes
+  x-api-slug: actiondescribecachediscsivolumes-get
+  description: Returns a description of the gateway volumes specified in the request.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Storage-Content-Delivery_AWSStorageGateway.png
+  humanURL: https://aws.amazon.com/storagegateway/
+  baseURL: :///
+  tags: Amazon Web Services, Gateway, Data, Stack Network, API Service Provider, API
+    Service Provider, API Provider, Databases, Deployments, Profiles, Relative Data,
+    Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-storage-gateway-service/actiondescribecachediscsivolumes-get-openapi.md
+- name: AWS Storage Gateway Service API - Describe Cached SCSI Volumes
+  x-api-slug: actiondescribecachediscsivolumes-get
+  description: Returns a description of the gateway volumes specified in the request.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Storage-Content-Delivery_AWSStorageGateway.png
+  humanURL: https://aws.amazon.com/storagegateway/
+  baseURL: :///
+  tags: Amazon Web Services, Gateway, Data, Stack Network, API Service Provider, API
+    Service Provider, API Provider, Databases, Deployments, Profiles, Relative Data,
+    Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-storage-gateway-service/actiondescribecachediscsivolumes-get-openapi.md
+- name: AWS Storage Gateway Service API - Describe Cached SCSI Volumes
+  x-api-slug: actiondescribecachediscsivolumes-get
+  description: Returns a description of the gateway volumes specified in the request.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Storage-Content-Delivery_AWSStorageGateway.png
+  humanURL: https://aws.amazon.com/storagegateway/
+  baseURL: :///
+  tags: Amazon Web Services, Gateway, Data, Stack Network, API Service Provider, API
+    Service Provider, API Provider, Databases, Deployments, Profiles, Relative Data,
+    Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-storage-gateway-service/actiondescribecachediscsivolumes-get-openapi.md
+- name: AWS Storage Gateway Service API - Describe Cached SCSI Volumes
+  x-api-slug: actiondescribecachediscsivolumes-get
+  description: Returns a description of the gateway volumes specified in the request.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Storage-Content-Delivery_AWSStorageGateway.png
+  humanURL: https://aws.amazon.com/storagegateway/
+  baseURL: :///
+  tags: Amazon Web Services, Gateway, Data, Stack Network, API Service Provider, API
+    Service Provider, API Provider, Databases, Deployments, Profiles, Relative Data,
+    Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-storage-gateway-service/actiondescribecachediscsivolumes-get-openapi.md
+- name: AWS Storage Gateway Service API - Describe Cached SCSI Volumes
+  x-api-slug: actiondescribecachediscsivolumes-get
+  description: Returns a description of the gateway volumes specified in the request.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Storage-Content-Delivery_AWSStorageGateway.png
+  humanURL: https://aws.amazon.com/storagegateway/
+  baseURL: :///
+  tags: Amazon Web Services, Gateway, Data, Stack Network, API Service Provider, API
+    Service Provider, API Provider, Databases, Deployments, Profiles, Relative Data,
+    Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-storage-gateway-service/actiondescribecachediscsivolumes-get-openapi.md
+- name: AWS Storage Gateway Service API - Describe Cached SCSI Volumes
+  x-api-slug: actiondescribecachediscsivolumes-get
+  description: Returns a description of the gateway volumes specified in the request.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Storage-Content-Delivery_AWSStorageGateway.png
+  humanURL: https://aws.amazon.com/storagegateway/
+  baseURL: :///
+  tags: Amazon Web Services, Gateway, Data, Stack Network, API Service Provider, API
+    Service Provider, API Provider, Databases, Deployments, Profiles, Relative Data,
+    Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-storage-gateway-service/actiondescribecachediscsivolumes-get-openapi.md
 - name: AWS Storage Gateway Service API - Describe Chap Credentials
   x-api-slug: actiondescribechapcredentials-get
   description: |-
@@ -860,6 +1138,632 @@ apis:
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-storage-gateway-service/actiondescribenfsfileshares-get-postman.md
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-storage-gateway-service/actiondescribenfsfileshares-get-openapi.md
+- name: AWS Storage Gateway Service API - Describe Snapshot Schedule
+  x-api-slug: actiondescribesnapshotschedule-get
+  description: Describes the snapshot schedule for the specified gateway volume.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Storage-Content-Delivery_AWSStorageGateway.png
+  humanURL: https://aws.amazon.com/storagegateway/
+  baseURL: :///
+  tags: Amazon Web Services, Gateway, Data, Stack Network, API Service Provider, API
+    Service Provider, API Provider, Databases, Deployments, Profiles, Relative Data,
+    Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-storage-gateway-service/actiondescribesnapshotschedule-get-openapi.md
+- name: AWS Storage Gateway Service API - Describe Snapshot Schedule
+  x-api-slug: actiondescribesnapshotschedule-get
+  description: Describes the snapshot schedule for the specified gateway volume.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Storage-Content-Delivery_AWSStorageGateway.png
+  humanURL: https://aws.amazon.com/storagegateway/
+  baseURL: :///
+  tags: Amazon Web Services, Gateway, Data, Stack Network, API Service Provider, API
+    Service Provider, API Provider, Databases, Deployments, Profiles, Relative Data,
+    Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-storage-gateway-service/actiondescribesnapshotschedule-get-openapi.md
+- name: AWS Storage Gateway Service API - Describe Snapshot Schedule
+  x-api-slug: actiondescribesnapshotschedule-get
+  description: Describes the snapshot schedule for the specified gateway volume.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Storage-Content-Delivery_AWSStorageGateway.png
+  humanURL: https://aws.amazon.com/storagegateway/
+  baseURL: :///
+  tags: Amazon Web Services, Gateway, Data, Stack Network, API Service Provider, API
+    Service Provider, API Provider, Databases, Deployments, Profiles, Relative Data,
+    Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-storage-gateway-service/actiondescribesnapshotschedule-get-openapi.md
+- name: AWS Storage Gateway Service API - Describe Snapshot Schedule
+  x-api-slug: actiondescribesnapshotschedule-get
+  description: Describes the snapshot schedule for the specified gateway volume.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Storage-Content-Delivery_AWSStorageGateway.png
+  humanURL: https://aws.amazon.com/storagegateway/
+  baseURL: :///
+  tags: Amazon Web Services, Gateway, Data, Stack Network, API Service Provider, API
+    Service Provider, API Provider, Databases, Deployments, Profiles, Relative Data,
+    Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-storage-gateway-service/actiondescribesnapshotschedule-get-openapi.md
+- name: AWS Storage Gateway Service API - Describe Snapshot Schedule
+  x-api-slug: actiondescribesnapshotschedule-get
+  description: Describes the snapshot schedule for the specified gateway volume.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Storage-Content-Delivery_AWSStorageGateway.png
+  humanURL: https://aws.amazon.com/storagegateway/
+  baseURL: :///
+  tags: Amazon Web Services, Gateway, Data, Stack Network, API Service Provider, API
+    Service Provider, API Provider, Databases, Deployments, Profiles, Relative Data,
+    Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-storage-gateway-service/actiondescribesnapshotschedule-get-openapi.md
+- name: AWS Storage Gateway Service API - Describe Snapshot Schedule
+  x-api-slug: actiondescribesnapshotschedule-get
+  description: Describes the snapshot schedule for the specified gateway volume.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Storage-Content-Delivery_AWSStorageGateway.png
+  humanURL: https://aws.amazon.com/storagegateway/
+  baseURL: :///
+  tags: Amazon Web Services, Gateway, Data, Stack Network, API Service Provider, API
+    Service Provider, API Provider, Databases, Deployments, Profiles, Relative Data,
+    Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-storage-gateway-service/actiondescribesnapshotschedule-get-openapi.md
+- name: AWS Storage Gateway Service API - Describe Snapshot Schedule
+  x-api-slug: actiondescribesnapshotschedule-get
+  description: Describes the snapshot schedule for the specified gateway volume.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Storage-Content-Delivery_AWSStorageGateway.png
+  humanURL: https://aws.amazon.com/storagegateway/
+  baseURL: :///
+  tags: Amazon Web Services, Gateway, Data, Stack Network, API Service Provider, API
+    Service Provider, API Provider, Databases, Deployments, Profiles, Relative Data,
+    Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-storage-gateway-service/actiondescribesnapshotschedule-get-openapi.md
+- name: AWS Storage Gateway Service API - Describe Snapshot Schedule
+  x-api-slug: actiondescribesnapshotschedule-get
+  description: Describes the snapshot schedule for the specified gateway volume.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Storage-Content-Delivery_AWSStorageGateway.png
+  humanURL: https://aws.amazon.com/storagegateway/
+  baseURL: :///
+  tags: Amazon Web Services, Gateway, Data, Stack Network, API Service Provider, API
+    Service Provider, API Provider, Databases, Deployments, Profiles, Relative Data,
+    Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-storage-gateway-service/actiondescribesnapshotschedule-get-openapi.md
+- name: AWS Storage Gateway Service API - Describe Snapshot Schedule
+  x-api-slug: actiondescribesnapshotschedule-get
+  description: Describes the snapshot schedule for the specified gateway volume.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Storage-Content-Delivery_AWSStorageGateway.png
+  humanURL: https://aws.amazon.com/storagegateway/
+  baseURL: :///
+  tags: Amazon Web Services, Gateway, Data, Stack Network, API Service Provider, API
+    Service Provider, API Provider, Databases, Deployments, Profiles, Relative Data,
+    Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-storage-gateway-service/actiondescribesnapshotschedule-get-openapi.md
+- name: AWS Storage Gateway Service API - Describe Stored SCSI Volumes
+  x-api-slug: actiondescribestorediscsivolumes-get
+  description: Returns the description of the gateway volumes specified in the request.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Storage-Content-Delivery_AWSStorageGateway.png
+  humanURL: https://aws.amazon.com/storagegateway/
+  baseURL: :///
+  tags: Amazon Web Services, Gateway, Data, Stack Network, API Service Provider, API
+    Service Provider, API Provider, Databases, Deployments, Profiles, Relative Data,
+    Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-storage-gateway-service/actiondescribestorediscsivolumes-get-openapi.md
+- name: AWS Storage Gateway Service API - Describe Stored SCSI Volumes
+  x-api-slug: actiondescribestorediscsivolumes-get
+  description: Returns the description of the gateway volumes specified in the request.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Storage-Content-Delivery_AWSStorageGateway.png
+  humanURL: https://aws.amazon.com/storagegateway/
+  baseURL: :///
+  tags: Amazon Web Services, Gateway, Data, Stack Network, API Service Provider, API
+    Service Provider, API Provider, Databases, Deployments, Profiles, Relative Data,
+    Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-storage-gateway-service/actiondescribestorediscsivolumes-get-openapi.md
+- name: AWS Storage Gateway Service API - Describe Stored SCSI Volumes
+  x-api-slug: actiondescribestorediscsivolumes-get
+  description: Returns the description of the gateway volumes specified in the request.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Storage-Content-Delivery_AWSStorageGateway.png
+  humanURL: https://aws.amazon.com/storagegateway/
+  baseURL: :///
+  tags: Amazon Web Services, Gateway, Data, Stack Network, API Service Provider, API
+    Service Provider, API Provider, Databases, Deployments, Profiles, Relative Data,
+    Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-storage-gateway-service/actiondescribestorediscsivolumes-get-openapi.md
+- name: AWS Storage Gateway Service API - Describe Stored SCSI Volumes
+  x-api-slug: actiondescribestorediscsivolumes-get
+  description: Returns the description of the gateway volumes specified in the request.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Storage-Content-Delivery_AWSStorageGateway.png
+  humanURL: https://aws.amazon.com/storagegateway/
+  baseURL: :///
+  tags: Amazon Web Services, Gateway, Data, Stack Network, API Service Provider, API
+    Service Provider, API Provider, Databases, Deployments, Profiles, Relative Data,
+    Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-storage-gateway-service/actiondescribestorediscsivolumes-get-openapi.md
+- name: AWS Storage Gateway Service API - Describe Stored SCSI Volumes
+  x-api-slug: actiondescribestorediscsivolumes-get
+  description: Returns the description of the gateway volumes specified in the request.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Storage-Content-Delivery_AWSStorageGateway.png
+  humanURL: https://aws.amazon.com/storagegateway/
+  baseURL: :///
+  tags: Amazon Web Services, Gateway, Data, Stack Network, API Service Provider, API
+    Service Provider, API Provider, Databases, Deployments, Profiles, Relative Data,
+    Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-storage-gateway-service/actiondescribestorediscsivolumes-get-openapi.md
+- name: AWS Storage Gateway Service API - Describe Stored SCSI Volumes
+  x-api-slug: actiondescribestorediscsivolumes-get
+  description: Returns the description of the gateway volumes specified in the request.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Storage-Content-Delivery_AWSStorageGateway.png
+  humanURL: https://aws.amazon.com/storagegateway/
+  baseURL: :///
+  tags: Amazon Web Services, Gateway, Data, Stack Network, API Service Provider, API
+    Service Provider, API Provider, Databases, Deployments, Profiles, Relative Data,
+    Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-storage-gateway-service/actiondescribestorediscsivolumes-get-openapi.md
+- name: AWS Storage Gateway Service API - Describe Stored SCSI Volumes
+  x-api-slug: actiondescribestorediscsivolumes-get
+  description: Returns the description of the gateway volumes specified in the request.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Storage-Content-Delivery_AWSStorageGateway.png
+  humanURL: https://aws.amazon.com/storagegateway/
+  baseURL: :///
+  tags: Amazon Web Services, Gateway, Data, Stack Network, API Service Provider, API
+    Service Provider, API Provider, Databases, Deployments, Profiles, Relative Data,
+    Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-storage-gateway-service/actiondescribestorediscsivolumes-get-openapi.md
+- name: AWS Storage Gateway Service API - Describe Stored SCSI Volumes
+  x-api-slug: actiondescribestorediscsivolumes-get
+  description: Returns the description of the gateway volumes specified in the request.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Storage-Content-Delivery_AWSStorageGateway.png
+  humanURL: https://aws.amazon.com/storagegateway/
+  baseURL: :///
+  tags: Amazon Web Services, Gateway, Data, Stack Network, API Service Provider, API
+    Service Provider, API Provider, Databases, Deployments, Profiles, Relative Data,
+    Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-storage-gateway-service/actiondescribestorediscsivolumes-get-openapi.md
+- name: AWS Storage Gateway Service API - Describe Stored SCSI Volumes
+  x-api-slug: actiondescribestorediscsivolumes-get
+  description: Returns the description of the gateway volumes specified in the request.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Storage-Content-Delivery_AWSStorageGateway.png
+  humanURL: https://aws.amazon.com/storagegateway/
+  baseURL: :///
+  tags: Amazon Web Services, Gateway, Data, Stack Network, API Service Provider, API
+    Service Provider, API Provider, Databases, Deployments, Profiles, Relative Data,
+    Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-storage-gateway-service/actiondescribestorediscsivolumes-get-openapi.md
+- name: AWS Storage Gateway Service API - Describe Tape Archives
+  x-api-slug: actiondescribetapearchives-get
+  description: |-
+    Returns a description of specified virtual tapes in the virtual tape shelf
+             (VTS).
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Storage-Content-Delivery_AWSStorageGateway.png
+  humanURL: https://aws.amazon.com/storagegateway/
+  baseURL: :///
+  tags: Amazon Web Services, Gateway, Data, Stack Network, API Service Provider, API
+    Service Provider, API Provider, Databases, Deployments, Profiles, Relative Data,
+    Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-storage-gateway-service/actiondescribetapearchives-get-openapi.md
+- name: AWS Storage Gateway Service API - Describe Tape Archives
+  x-api-slug: actiondescribetapearchives-get
+  description: |-
+    Returns a description of specified virtual tapes in the virtual tape shelf
+             (VTS).
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Storage-Content-Delivery_AWSStorageGateway.png
+  humanURL: https://aws.amazon.com/storagegateway/
+  baseURL: :///
+  tags: Amazon Web Services, Gateway, Data, Stack Network, API Service Provider, API
+    Service Provider, API Provider, Databases, Deployments, Profiles, Relative Data,
+    Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-storage-gateway-service/actiondescribetapearchives-get-openapi.md
+- name: AWS Storage Gateway Service API - Describe Tape Archives
+  x-api-slug: actiondescribetapearchives-get
+  description: |-
+    Returns a description of specified virtual tapes in the virtual tape shelf
+             (VTS).
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Storage-Content-Delivery_AWSStorageGateway.png
+  humanURL: https://aws.amazon.com/storagegateway/
+  baseURL: :///
+  tags: Amazon Web Services, Gateway, Data, Stack Network, API Service Provider, API
+    Service Provider, API Provider, Databases, Deployments, Profiles, Relative Data,
+    Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-storage-gateway-service/actiondescribetapearchives-get-openapi.md
+- name: AWS Storage Gateway Service API - Describe Tape Archives
+  x-api-slug: actiondescribetapearchives-get
+  description: |-
+    Returns a description of specified virtual tapes in the virtual tape shelf
+             (VTS).
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Storage-Content-Delivery_AWSStorageGateway.png
+  humanURL: https://aws.amazon.com/storagegateway/
+  baseURL: :///
+  tags: Amazon Web Services, Gateway, Data, Stack Network, API Service Provider, API
+    Service Provider, API Provider, Databases, Deployments, Profiles, Relative Data,
+    Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-storage-gateway-service/actiondescribetapearchives-get-openapi.md
+- name: AWS Storage Gateway Service API - Describe Tape Archives
+  x-api-slug: actiondescribetapearchives-get
+  description: |-
+    Returns a description of specified virtual tapes in the virtual tape shelf
+             (VTS).
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Storage-Content-Delivery_AWSStorageGateway.png
+  humanURL: https://aws.amazon.com/storagegateway/
+  baseURL: :///
+  tags: Amazon Web Services, Gateway, Data, Stack Network, API Service Provider, API
+    Service Provider, API Provider, Databases, Deployments, Profiles, Relative Data,
+    Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-storage-gateway-service/actiondescribetapearchives-get-openapi.md
+- name: AWS Storage Gateway Service API - Describe Tape Archives
+  x-api-slug: actiondescribetapearchives-get
+  description: |-
+    Returns a description of specified virtual tapes in the virtual tape shelf
+             (VTS).
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Storage-Content-Delivery_AWSStorageGateway.png
+  humanURL: https://aws.amazon.com/storagegateway/
+  baseURL: :///
+  tags: Amazon Web Services, Gateway, Data, Stack Network, API Service Provider, API
+    Service Provider, API Provider, Databases, Deployments, Profiles, Relative Data,
+    Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-storage-gateway-service/actiondescribetapearchives-get-openapi.md
+- name: AWS Storage Gateway Service API - Describe Tape Archives
+  x-api-slug: actiondescribetapearchives-get
+  description: |-
+    Returns a description of specified virtual tapes in the virtual tape shelf
+             (VTS).
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Storage-Content-Delivery_AWSStorageGateway.png
+  humanURL: https://aws.amazon.com/storagegateway/
+  baseURL: :///
+  tags: Amazon Web Services, Gateway, Data, Stack Network, API Service Provider, API
+    Service Provider, API Provider, Databases, Deployments, Profiles, Relative Data,
+    Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-storage-gateway-service/actiondescribetapearchives-get-openapi.md
+- name: AWS Storage Gateway Service API - Describe Tape Archives
+  x-api-slug: actiondescribetapearchives-get
+  description: |-
+    Returns a description of specified virtual tapes in the virtual tape shelf
+             (VTS).
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Storage-Content-Delivery_AWSStorageGateway.png
+  humanURL: https://aws.amazon.com/storagegateway/
+  baseURL: :///
+  tags: Amazon Web Services, Gateway, Data, Stack Network, API Service Provider, API
+    Service Provider, API Provider, Databases, Deployments, Profiles, Relative Data,
+    Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-storage-gateway-service/actiondescribetapearchives-get-openapi.md
+- name: AWS Storage Gateway Service API - Describe Tape Archives
+  x-api-slug: actiondescribetapearchives-get
+  description: |-
+    Returns a description of specified virtual tapes in the virtual tape shelf
+             (VTS).
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Storage-Content-Delivery_AWSStorageGateway.png
+  humanURL: https://aws.amazon.com/storagegateway/
+  baseURL: :///
+  tags: Amazon Web Services, Gateway, Data, Stack Network, API Service Provider, API
+    Service Provider, API Provider, Databases, Deployments, Profiles, Relative Data,
+    Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-storage-gateway-service/actiondescribetapearchives-get-openapi.md
+- name: AWS Storage Gateway Service API - Describe Tape Archives
+  x-api-slug: actiondescribetapearchives-get
+  description: |-
+    Returns a description of specified virtual tapes in the virtual tape shelf
+             (VTS).
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Storage-Content-Delivery_AWSStorageGateway.png
+  humanURL: https://aws.amazon.com/storagegateway/
+  baseURL: :///
+  tags: Amazon Web Services, Gateway, Data, Stack Network, API Service Provider, API
+    Service Provider, API Provider, Databases, Deployments, Profiles, Relative Data,
+    Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-storage-gateway-service/actiondescribetapearchives-get-openapi.md
+- name: AWS Storage Gateway Service API - Describe Tape Recovery Points
+  x-api-slug: actiondescribetaperecoverypoints-get
+  description: |-
+    Returns a list of virtual tape recovery points that are available for the specified
+             gateway-VTL.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Storage-Content-Delivery_AWSStorageGateway.png
+  humanURL: https://aws.amazon.com/storagegateway/
+  baseURL: :///
+  tags: Amazon Web Services, Gateway, Data, Stack Network, API Service Provider, API
+    Service Provider, API Provider, Databases, Deployments, Profiles, Relative Data,
+    Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-storage-gateway-service/actiondescribetaperecoverypoints-get-openapi.md
+- name: AWS Storage Gateway Service API - Describe Tape Recovery Points
+  x-api-slug: actiondescribetaperecoverypoints-get
+  description: |-
+    Returns a list of virtual tape recovery points that are available for the specified
+             gateway-VTL.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Storage-Content-Delivery_AWSStorageGateway.png
+  humanURL: https://aws.amazon.com/storagegateway/
+  baseURL: :///
+  tags: Amazon Web Services, Gateway, Data, Stack Network, API Service Provider, API
+    Service Provider, API Provider, Databases, Deployments, Profiles, Relative Data,
+    Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-storage-gateway-service/actiondescribetaperecoverypoints-get-openapi.md
+- name: AWS Storage Gateway Service API - Describe Tape Recovery Points
+  x-api-slug: actiondescribetaperecoverypoints-get
+  description: |-
+    Returns a list of virtual tape recovery points that are available for the specified
+             gateway-VTL.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Storage-Content-Delivery_AWSStorageGateway.png
+  humanURL: https://aws.amazon.com/storagegateway/
+  baseURL: :///
+  tags: Amazon Web Services, Gateway, Data, Stack Network, API Service Provider, API
+    Service Provider, API Provider, Databases, Deployments, Profiles, Relative Data,
+    Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-storage-gateway-service/actiondescribetaperecoverypoints-get-openapi.md
+- name: AWS Storage Gateway Service API - Describe Tape Recovery Points
+  x-api-slug: actiondescribetaperecoverypoints-get
+  description: |-
+    Returns a list of virtual tape recovery points that are available for the specified
+             gateway-VTL.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Storage-Content-Delivery_AWSStorageGateway.png
+  humanURL: https://aws.amazon.com/storagegateway/
+  baseURL: :///
+  tags: Amazon Web Services, Gateway, Data, Stack Network, API Service Provider, API
+    Service Provider, API Provider, Databases, Deployments, Profiles, Relative Data,
+    Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-storage-gateway-service/actiondescribetaperecoverypoints-get-openapi.md
+- name: AWS Storage Gateway Service API - Describe Tape Recovery Points
+  x-api-slug: actiondescribetaperecoverypoints-get
+  description: |-
+    Returns a list of virtual tape recovery points that are available for the specified
+             gateway-VTL.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Storage-Content-Delivery_AWSStorageGateway.png
+  humanURL: https://aws.amazon.com/storagegateway/
+  baseURL: :///
+  tags: Amazon Web Services, Gateway, Data, Stack Network, API Service Provider, API
+    Service Provider, API Provider, Databases, Deployments, Profiles, Relative Data,
+    Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-storage-gateway-service/actiondescribetaperecoverypoints-get-openapi.md
+- name: AWS Storage Gateway Service API - Describe Tape Recovery Points
+  x-api-slug: actiondescribetaperecoverypoints-get
+  description: |-
+    Returns a list of virtual tape recovery points that are available for the specified
+             gateway-VTL.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Storage-Content-Delivery_AWSStorageGateway.png
+  humanURL: https://aws.amazon.com/storagegateway/
+  baseURL: :///
+  tags: Amazon Web Services, Gateway, Data, Stack Network, API Service Provider, API
+    Service Provider, API Provider, Databases, Deployments, Profiles, Relative Data,
+    Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-storage-gateway-service/actiondescribetaperecoverypoints-get-openapi.md
+- name: AWS Storage Gateway Service API - Describe Tape Recovery Points
+  x-api-slug: actiondescribetaperecoverypoints-get
+  description: |-
+    Returns a list of virtual tape recovery points that are available for the specified
+             gateway-VTL.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Storage-Content-Delivery_AWSStorageGateway.png
+  humanURL: https://aws.amazon.com/storagegateway/
+  baseURL: :///
+  tags: Amazon Web Services, Gateway, Data, Stack Network, API Service Provider, API
+    Service Provider, API Provider, Databases, Deployments, Profiles, Relative Data,
+    Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-storage-gateway-service/actiondescribetaperecoverypoints-get-openapi.md
+- name: AWS Storage Gateway Service API - Describe Tape Recovery Points
+  x-api-slug: actiondescribetaperecoverypoints-get
+  description: |-
+    Returns a list of virtual tape recovery points that are available for the specified
+             gateway-VTL.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Storage-Content-Delivery_AWSStorageGateway.png
+  humanURL: https://aws.amazon.com/storagegateway/
+  baseURL: :///
+  tags: Amazon Web Services, Gateway, Data, Stack Network, API Service Provider, API
+    Service Provider, API Provider, Databases, Deployments, Profiles, Relative Data,
+    Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-storage-gateway-service/actiondescribetaperecoverypoints-get-openapi.md
+- name: AWS Storage Gateway Service API - Describe Tape Recovery Points
+  x-api-slug: actiondescribetaperecoverypoints-get
+  description: |-
+    Returns a list of virtual tape recovery points that are available for the specified
+             gateway-VTL.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Storage-Content-Delivery_AWSStorageGateway.png
+  humanURL: https://aws.amazon.com/storagegateway/
+  baseURL: :///
+  tags: Amazon Web Services, Gateway, Data, Stack Network, API Service Provider, API
+    Service Provider, API Provider, Databases, Deployments, Profiles, Relative Data,
+    Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-storage-gateway-service/actiondescribetaperecoverypoints-get-openapi.md
+- name: AWS Storage Gateway Service API - Describe Tape Recovery Points
+  x-api-slug: actiondescribetaperecoverypoints-get
+  description: |-
+    Returns a list of virtual tape recovery points that are available for the specified
+             gateway-VTL.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Storage-Content-Delivery_AWSStorageGateway.png
+  humanURL: https://aws.amazon.com/storagegateway/
+  baseURL: :///
+  tags: Amazon Web Services, Gateway, Data, Stack Network, API Service Provider, API
+    Service Provider, API Provider, Databases, Deployments, Profiles, Relative Data,
+    Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-storage-gateway-service/actiondescribetaperecoverypoints-get-openapi.md
+- name: AWS Storage Gateway Service API - Describe Tapes
+  x-api-slug: actiondescribetapes-get
+  description: Returns a description of the specified Amazon Resource Name (ARN) of
+    virtual tapes.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Storage-Content-Delivery_AWSStorageGateway.png
+  humanURL: https://aws.amazon.com/storagegateway/
+  baseURL: :///
+  tags: Amazon Web Services, Gateway, Data, Stack Network, API Service Provider, API
+    Service Provider, API Provider, Databases, Deployments, Profiles, Relative Data,
+    Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-storage-gateway-service/actiondescribetapes-get-openapi.md
+- name: AWS Storage Gateway Service API - Describe Tapes
+  x-api-slug: actiondescribetapes-get
+  description: Returns a description of the specified Amazon Resource Name (ARN) of
+    virtual tapes.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Storage-Content-Delivery_AWSStorageGateway.png
+  humanURL: https://aws.amazon.com/storagegateway/
+  baseURL: :///
+  tags: Amazon Web Services, Gateway, Data, Stack Network, API Service Provider, API
+    Service Provider, API Provider, Databases, Deployments, Profiles, Relative Data,
+    Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-storage-gateway-service/actiondescribetapes-get-openapi.md
+- name: AWS Storage Gateway Service API - Describe Tapes
+  x-api-slug: actiondescribetapes-get
+  description: Returns a description of the specified Amazon Resource Name (ARN) of
+    virtual tapes.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Storage-Content-Delivery_AWSStorageGateway.png
+  humanURL: https://aws.amazon.com/storagegateway/
+  baseURL: :///
+  tags: Amazon Web Services, Gateway, Data, Stack Network, API Service Provider, API
+    Service Provider, API Provider, Databases, Deployments, Profiles, Relative Data,
+    Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-storage-gateway-service/actiondescribetapes-get-openapi.md
+- name: AWS Storage Gateway Service API - Describe Tapes
+  x-api-slug: actiondescribetapes-get
+  description: Returns a description of the specified Amazon Resource Name (ARN) of
+    virtual tapes.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Storage-Content-Delivery_AWSStorageGateway.png
+  humanURL: https://aws.amazon.com/storagegateway/
+  baseURL: :///
+  tags: Amazon Web Services, Gateway, Data, Stack Network, API Service Provider, API
+    Service Provider, API Provider, Databases, Deployments, Profiles, Relative Data,
+    Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-storage-gateway-service/actiondescribetapes-get-openapi.md
+- name: AWS Storage Gateway Service API - Describe Tapes
+  x-api-slug: actiondescribetapes-get
+  description: Returns a description of the specified Amazon Resource Name (ARN) of
+    virtual tapes.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Storage-Content-Delivery_AWSStorageGateway.png
+  humanURL: https://aws.amazon.com/storagegateway/
+  baseURL: :///
+  tags: Amazon Web Services, Gateway, Data, Stack Network, API Service Provider, API
+    Service Provider, API Provider, Databases, Deployments, Profiles, Relative Data,
+    Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-storage-gateway-service/actiondescribetapes-get-openapi.md
+- name: AWS Storage Gateway Service API - Describe Tapes
+  x-api-slug: actiondescribetapes-get
+  description: Returns a description of the specified Amazon Resource Name (ARN) of
+    virtual tapes.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Storage-Content-Delivery_AWSStorageGateway.png
+  humanURL: https://aws.amazon.com/storagegateway/
+  baseURL: :///
+  tags: Amazon Web Services, Gateway, Data, Stack Network, API Service Provider, API
+    Service Provider, API Provider, Databases, Deployments, Profiles, Relative Data,
+    Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-storage-gateway-service/actiondescribetapes-get-openapi.md
+- name: AWS Storage Gateway Service API - Describe Tapes
+  x-api-slug: actiondescribetapes-get
+  description: Returns a description of the specified Amazon Resource Name (ARN) of
+    virtual tapes.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Storage-Content-Delivery_AWSStorageGateway.png
+  humanURL: https://aws.amazon.com/storagegateway/
+  baseURL: :///
+  tags: Amazon Web Services, Gateway, Data, Stack Network, API Service Provider, API
+    Service Provider, API Provider, Databases, Deployments, Profiles, Relative Data,
+    Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-storage-gateway-service/actiondescribetapes-get-openapi.md
+- name: AWS Storage Gateway Service API - Describe Tapes
+  x-api-slug: actiondescribetapes-get
+  description: Returns a description of the specified Amazon Resource Name (ARN) of
+    virtual tapes.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Storage-Content-Delivery_AWSStorageGateway.png
+  humanURL: https://aws.amazon.com/storagegateway/
+  baseURL: :///
+  tags: Amazon Web Services, Gateway, Data, Stack Network, API Service Provider, API
+    Service Provider, API Provider, Databases, Deployments, Profiles, Relative Data,
+    Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-storage-gateway-service/actiondescribetapes-get-openapi.md
+- name: AWS Storage Gateway Service API - Describe Tapes
+  x-api-slug: actiondescribetapes-get
+  description: Returns a description of the specified Amazon Resource Name (ARN) of
+    virtual tapes.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Storage-Content-Delivery_AWSStorageGateway.png
+  humanURL: https://aws.amazon.com/storagegateway/
+  baseURL: :///
+  tags: Amazon Web Services, Gateway, Data, Stack Network, API Service Provider, API
+    Service Provider, API Provider, Databases, Deployments, Profiles, Relative Data,
+    Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-storage-gateway-service/actiondescribetapes-get-openapi.md
+- name: AWS Storage Gateway Service API - Describe Tapes
+  x-api-slug: actiondescribetapes-get
+  description: Returns a description of the specified Amazon Resource Name (ARN) of
+    virtual tapes.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Storage-Content-Delivery_AWSStorageGateway.png
+  humanURL: https://aws.amazon.com/storagegateway/
+  baseURL: :///
+  tags: Amazon Web Services, Gateway, Data, Stack Network, API Service Provider, API
+    Service Provider, API Provider, Databases, Deployments, Profiles, Relative Data,
+    Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-storage-gateway-service/actiondescribetapes-get-openapi.md
 - name: AWS Storage Gateway Service API - Describe Upload Buffer
   x-api-slug: actiondescribeuploadbuffer-get
   description: Returns information about the upload buffer of a gateway.
@@ -1000,6 +1904,410 @@ apis:
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-storage-gateway-service/actiondescribeuploadbuffer-get-postman.md
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-storage-gateway-service/actiondescribeuploadbuffer-get-openapi.md
+- name: AWS Storage Gateway Service API - Describe VTL Devices
+  x-api-slug: actiondescribevtldevices-get
+  description: |-
+    Returns a description of virtual tape library (VTL) devices for the specified
+             gateway.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Storage-Content-Delivery_AWSStorageGateway.png
+  humanURL: https://aws.amazon.com/storagegateway/
+  baseURL: :///
+  tags: Amazon Web Services, Gateway, Data, Stack Network, API Service Provider, API
+    Service Provider, API Provider, Databases, Deployments, Profiles, Relative Data,
+    Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-storage-gateway-service/actiondescribevtldevices-get-openapi.md
+- name: AWS Storage Gateway Service API - Describe VTL Devices
+  x-api-slug: actiondescribevtldevices-get
+  description: |-
+    Returns a description of virtual tape library (VTL) devices for the specified
+             gateway.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Storage-Content-Delivery_AWSStorageGateway.png
+  humanURL: https://aws.amazon.com/storagegateway/
+  baseURL: :///
+  tags: Amazon Web Services, Gateway, Data, Stack Network, API Service Provider, API
+    Service Provider, API Provider, Databases, Deployments, Profiles, Relative Data,
+    Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-storage-gateway-service/actiondescribevtldevices-get-openapi.md
+- name: AWS Storage Gateway Service API - Describe VTL Devices
+  x-api-slug: actiondescribevtldevices-get
+  description: |-
+    Returns a description of virtual tape library (VTL) devices for the specified
+             gateway.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Storage-Content-Delivery_AWSStorageGateway.png
+  humanURL: https://aws.amazon.com/storagegateway/
+  baseURL: :///
+  tags: Amazon Web Services, Gateway, Data, Stack Network, API Service Provider, API
+    Service Provider, API Provider, Databases, Deployments, Profiles, Relative Data,
+    Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-storage-gateway-service/actiondescribevtldevices-get-openapi.md
+- name: AWS Storage Gateway Service API - Describe VTL Devices
+  x-api-slug: actiondescribevtldevices-get
+  description: |-
+    Returns a description of virtual tape library (VTL) devices for the specified
+             gateway.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Storage-Content-Delivery_AWSStorageGateway.png
+  humanURL: https://aws.amazon.com/storagegateway/
+  baseURL: :///
+  tags: Amazon Web Services, Gateway, Data, Stack Network, API Service Provider, API
+    Service Provider, API Provider, Databases, Deployments, Profiles, Relative Data,
+    Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-storage-gateway-service/actiondescribevtldevices-get-openapi.md
+- name: AWS Storage Gateway Service API - Describe VTL Devices
+  x-api-slug: actiondescribevtldevices-get
+  description: |-
+    Returns a description of virtual tape library (VTL) devices for the specified
+             gateway.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Storage-Content-Delivery_AWSStorageGateway.png
+  humanURL: https://aws.amazon.com/storagegateway/
+  baseURL: :///
+  tags: Amazon Web Services, Gateway, Data, Stack Network, API Service Provider, API
+    Service Provider, API Provider, Databases, Deployments, Profiles, Relative Data,
+    Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-storage-gateway-service/actiondescribevtldevices-get-openapi.md
+- name: AWS Storage Gateway Service API - Describe VTL Devices
+  x-api-slug: actiondescribevtldevices-get
+  description: |-
+    Returns a description of virtual tape library (VTL) devices for the specified
+             gateway.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Storage-Content-Delivery_AWSStorageGateway.png
+  humanURL: https://aws.amazon.com/storagegateway/
+  baseURL: :///
+  tags: Amazon Web Services, Gateway, Data, Stack Network, API Service Provider, API
+    Service Provider, API Provider, Databases, Deployments, Profiles, Relative Data,
+    Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-storage-gateway-service/actiondescribevtldevices-get-openapi.md
+- name: AWS Storage Gateway Service API - Describe VTL Devices
+  x-api-slug: actiondescribevtldevices-get
+  description: |-
+    Returns a description of virtual tape library (VTL) devices for the specified
+             gateway.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Storage-Content-Delivery_AWSStorageGateway.png
+  humanURL: https://aws.amazon.com/storagegateway/
+  baseURL: :///
+  tags: Amazon Web Services, Gateway, Data, Stack Network, API Service Provider, API
+    Service Provider, API Provider, Databases, Deployments, Profiles, Relative Data,
+    Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-storage-gateway-service/actiondescribevtldevices-get-openapi.md
+- name: AWS Storage Gateway Service API - Describe VTL Devices
+  x-api-slug: actiondescribevtldevices-get
+  description: |-
+    Returns a description of virtual tape library (VTL) devices for the specified
+             gateway.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Storage-Content-Delivery_AWSStorageGateway.png
+  humanURL: https://aws.amazon.com/storagegateway/
+  baseURL: :///
+  tags: Amazon Web Services, Gateway, Data, Stack Network, API Service Provider, API
+    Service Provider, API Provider, Databases, Deployments, Profiles, Relative Data,
+    Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-storage-gateway-service/actiondescribevtldevices-get-openapi.md
+- name: AWS Storage Gateway Service API - Describe VTL Devices
+  x-api-slug: actiondescribevtldevices-get
+  description: |-
+    Returns a description of virtual tape library (VTL) devices for the specified
+             gateway.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Storage-Content-Delivery_AWSStorageGateway.png
+  humanURL: https://aws.amazon.com/storagegateway/
+  baseURL: :///
+  tags: Amazon Web Services, Gateway, Data, Stack Network, API Service Provider, API
+    Service Provider, API Provider, Databases, Deployments, Profiles, Relative Data,
+    Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-storage-gateway-service/actiondescribevtldevices-get-openapi.md
+- name: AWS Storage Gateway Service API - Describe VTL Devices
+  x-api-slug: actiondescribevtldevices-get
+  description: |-
+    Returns a description of virtual tape library (VTL) devices for the specified
+             gateway.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Storage-Content-Delivery_AWSStorageGateway.png
+  humanURL: https://aws.amazon.com/storagegateway/
+  baseURL: :///
+  tags: Amazon Web Services, Gateway, Data, Stack Network, API Service Provider, API
+    Service Provider, API Provider, Databases, Deployments, Profiles, Relative Data,
+    Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-storage-gateway-service/actiondescribevtldevices-get-openapi.md
+- name: AWS Storage Gateway Service API - Describe Working Storage
+  x-api-slug: actiondescribeworkingstorage-get
+  description: Returns information about the working storage of a gateway.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Storage-Content-Delivery_AWSStorageGateway.png
+  humanURL: https://aws.amazon.com/storagegateway/
+  baseURL: :///
+  tags: Amazon Web Services, Gateway, Data, Stack Network, API Service Provider, API
+    Service Provider, API Provider, Databases, Deployments, Profiles, Relative Data,
+    Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-storage-gateway-service/actiondescribeworkingstorage-get-openapi.md
+- name: AWS Storage Gateway Service API - Describe Working Storage
+  x-api-slug: actiondescribeworkingstorage-get
+  description: Returns information about the working storage of a gateway.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Storage-Content-Delivery_AWSStorageGateway.png
+  humanURL: https://aws.amazon.com/storagegateway/
+  baseURL: :///
+  tags: Amazon Web Services, Gateway, Data, Stack Network, API Service Provider, API
+    Service Provider, API Provider, Databases, Deployments, Profiles, Relative Data,
+    Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-storage-gateway-service/actiondescribeworkingstorage-get-openapi.md
+- name: AWS Storage Gateway Service API - Describe Working Storage
+  x-api-slug: actiondescribeworkingstorage-get
+  description: Returns information about the working storage of a gateway.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Storage-Content-Delivery_AWSStorageGateway.png
+  humanURL: https://aws.amazon.com/storagegateway/
+  baseURL: :///
+  tags: Amazon Web Services, Gateway, Data, Stack Network, API Service Provider, API
+    Service Provider, API Provider, Databases, Deployments, Profiles, Relative Data,
+    Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-storage-gateway-service/actiondescribeworkingstorage-get-openapi.md
+- name: AWS Storage Gateway Service API - Describe Working Storage
+  x-api-slug: actiondescribeworkingstorage-get
+  description: Returns information about the working storage of a gateway.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Storage-Content-Delivery_AWSStorageGateway.png
+  humanURL: https://aws.amazon.com/storagegateway/
+  baseURL: :///
+  tags: Amazon Web Services, Gateway, Data, Stack Network, API Service Provider, API
+    Service Provider, API Provider, Databases, Deployments, Profiles, Relative Data,
+    Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-storage-gateway-service/actiondescribeworkingstorage-get-openapi.md
+- name: AWS Storage Gateway Service API - Describe Working Storage
+  x-api-slug: actiondescribeworkingstorage-get
+  description: Returns information about the working storage of a gateway.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Storage-Content-Delivery_AWSStorageGateway.png
+  humanURL: https://aws.amazon.com/storagegateway/
+  baseURL: :///
+  tags: Amazon Web Services, Gateway, Data, Stack Network, API Service Provider, API
+    Service Provider, API Provider, Databases, Deployments, Profiles, Relative Data,
+    Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-storage-gateway-service/actiondescribeworkingstorage-get-openapi.md
+- name: AWS Storage Gateway Service API - Describe Working Storage
+  x-api-slug: actiondescribeworkingstorage-get
+  description: Returns information about the working storage of a gateway.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Storage-Content-Delivery_AWSStorageGateway.png
+  humanURL: https://aws.amazon.com/storagegateway/
+  baseURL: :///
+  tags: Amazon Web Services, Gateway, Data, Stack Network, API Service Provider, API
+    Service Provider, API Provider, Databases, Deployments, Profiles, Relative Data,
+    Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-storage-gateway-service/actiondescribeworkingstorage-get-openapi.md
+- name: AWS Storage Gateway Service API - Describe Working Storage
+  x-api-slug: actiondescribeworkingstorage-get
+  description: Returns information about the working storage of a gateway.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Storage-Content-Delivery_AWSStorageGateway.png
+  humanURL: https://aws.amazon.com/storagegateway/
+  baseURL: :///
+  tags: Amazon Web Services, Gateway, Data, Stack Network, API Service Provider, API
+    Service Provider, API Provider, Databases, Deployments, Profiles, Relative Data,
+    Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-storage-gateway-service/actiondescribeworkingstorage-get-openapi.md
+- name: AWS Storage Gateway Service API - Describe Working Storage
+  x-api-slug: actiondescribeworkingstorage-get
+  description: Returns information about the working storage of a gateway.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Storage-Content-Delivery_AWSStorageGateway.png
+  humanURL: https://aws.amazon.com/storagegateway/
+  baseURL: :///
+  tags: Amazon Web Services, Gateway, Data, Stack Network, API Service Provider, API
+    Service Provider, API Provider, Databases, Deployments, Profiles, Relative Data,
+    Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-storage-gateway-service/actiondescribeworkingstorage-get-openapi.md
+- name: AWS Storage Gateway Service API - Describe Working Storage
+  x-api-slug: actiondescribeworkingstorage-get
+  description: Returns information about the working storage of a gateway.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Storage-Content-Delivery_AWSStorageGateway.png
+  humanURL: https://aws.amazon.com/storagegateway/
+  baseURL: :///
+  tags: Amazon Web Services, Gateway, Data, Stack Network, API Service Provider, API
+    Service Provider, API Provider, Databases, Deployments, Profiles, Relative Data,
+    Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-storage-gateway-service/actiondescribeworkingstorage-get-openapi.md
+- name: AWS Storage Gateway Service API - Describe Working Storage
+  x-api-slug: actiondescribeworkingstorage-get
+  description: Returns information about the working storage of a gateway.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Storage-Content-Delivery_AWSStorageGateway.png
+  humanURL: https://aws.amazon.com/storagegateway/
+  baseURL: :///
+  tags: Amazon Web Services, Gateway, Data, Stack Network, API Service Provider, API
+    Service Provider, API Provider, Databases, Deployments, Profiles, Relative Data,
+    Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-storage-gateway-service/actiondescribeworkingstorage-get-openapi.md
+- name: AWS Storage Gateway Service API - Describe Snapshot Schedule
+  x-api-slug: actiondescribesnapshotschedule-get
+  description: Describes the snapshot schedule for the specified gateway volume.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Storage-Content-Delivery_AWSStorageGateway.png
+  humanURL: https://aws.amazon.com/storagegateway/
+  baseURL: :///
+  tags: Amazon Web Services, Gateway, Data, Stack Network, API Service Provider, API
+    Service Provider, API Provider, Databases, Deployments, Profiles, Relative Data,
+    Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-storage-gateway-service/actiondescribesnapshotschedule-get-openapi.md
+- name: AWS Storage Gateway Service API - Describe Snapshot Schedule
+  x-api-slug: actiondescribesnapshotschedule-get
+  description: Describes the snapshot schedule for the specified gateway volume.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Storage-Content-Delivery_AWSStorageGateway.png
+  humanURL: https://aws.amazon.com/storagegateway/
+  baseURL: :///
+  tags: Amazon Web Services, Gateway, Data, Stack Network, API Service Provider, API
+    Service Provider, API Provider, Databases, Deployments, Profiles, Relative Data,
+    Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-storage-gateway-service/actiondescribesnapshotschedule-get-openapi.md
+- name: AWS Storage Gateway Service API - Describe Snapshot Schedule
+  x-api-slug: actiondescribesnapshotschedule-get
+  description: Describes the snapshot schedule for the specified gateway volume.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Storage-Content-Delivery_AWSStorageGateway.png
+  humanURL: https://aws.amazon.com/storagegateway/
+  baseURL: :///
+  tags: Amazon Web Services, Gateway, Data, Stack Network, API Service Provider, API
+    Service Provider, API Provider, Databases, Deployments, Profiles, Relative Data,
+    Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-storage-gateway-service/actiondescribesnapshotschedule-get-openapi.md
+- name: AWS Storage Gateway Service API - Describe Snapshot Schedule
+  x-api-slug: actiondescribesnapshotschedule-get
+  description: Describes the snapshot schedule for the specified gateway volume.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Storage-Content-Delivery_AWSStorageGateway.png
+  humanURL: https://aws.amazon.com/storagegateway/
+  baseURL: :///
+  tags: Amazon Web Services, Gateway, Data, Stack Network, API Service Provider, API
+    Service Provider, API Provider, Databases, Deployments, Profiles, Relative Data,
+    Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-storage-gateway-service/actiondescribesnapshotschedule-get-openapi.md
+- name: AWS Storage Gateway Service API - Describe Snapshot Schedule
+  x-api-slug: actiondescribesnapshotschedule-get
+  description: Describes the snapshot schedule for the specified gateway volume.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Storage-Content-Delivery_AWSStorageGateway.png
+  humanURL: https://aws.amazon.com/storagegateway/
+  baseURL: :///
+  tags: Amazon Web Services, Gateway, Data, Stack Network, API Service Provider, API
+    Service Provider, API Provider, Databases, Deployments, Profiles, Relative Data,
+    Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-storage-gateway-service/actiondescribesnapshotschedule-get-openapi.md
+- name: AWS Storage Gateway Service API - Describe Snapshot Schedule
+  x-api-slug: actiondescribesnapshotschedule-get
+  description: Describes the snapshot schedule for the specified gateway volume.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Storage-Content-Delivery_AWSStorageGateway.png
+  humanURL: https://aws.amazon.com/storagegateway/
+  baseURL: :///
+  tags: Amazon Web Services, Gateway, Data, Stack Network, API Service Provider, API
+    Service Provider, API Provider, Databases, Deployments, Profiles, Relative Data,
+    Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-storage-gateway-service/actiondescribesnapshotschedule-get-openapi.md
+- name: AWS Storage Gateway Service API - Describe Snapshot Schedule
+  x-api-slug: actiondescribesnapshotschedule-get
+  description: Describes the snapshot schedule for the specified gateway volume.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Storage-Content-Delivery_AWSStorageGateway.png
+  humanURL: https://aws.amazon.com/storagegateway/
+  baseURL: :///
+  tags: Amazon Web Services, Gateway, Data, Stack Network, API Service Provider, API
+    Service Provider, API Provider, Databases, Deployments, Profiles, Relative Data,
+    Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-storage-gateway-service/actiondescribesnapshotschedule-get-openapi.md
+- name: AWS Storage Gateway Service API - Describe Snapshot Schedule
+  x-api-slug: actiondescribesnapshotschedule-get
+  description: Describes the snapshot schedule for the specified gateway volume.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Storage-Content-Delivery_AWSStorageGateway.png
+  humanURL: https://aws.amazon.com/storagegateway/
+  baseURL: :///
+  tags: Amazon Web Services, Gateway, Data, Stack Network, API Service Provider, API
+    Service Provider, API Provider, Databases, Deployments, Profiles, Relative Data,
+    Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-storage-gateway-service/actiondescribesnapshotschedule-get-openapi.md
+- name: AWS Storage Gateway Service API - Describe Snapshot Schedule
+  x-api-slug: actiondescribesnapshotschedule-get
+  description: Describes the snapshot schedule for the specified gateway volume.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Storage-Content-Delivery_AWSStorageGateway.png
+  humanURL: https://aws.amazon.com/storagegateway/
+  baseURL: :///
+  tags: Amazon Web Services, Gateway, Data, Stack Network, API Service Provider, API
+    Service Provider, API Provider, Databases, Deployments, Profiles, Relative Data,
+    Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-storage-gateway-service/actiondescribesnapshotschedule-get-openapi.md
+- name: AWS Storage Gateway Service API - Describe Snapshot Schedule
+  x-api-slug: actiondescribesnapshotschedule-get
+  description: Describes the snapshot schedule for the specified gateway volume.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Storage-Content-Delivery_AWSStorageGateway.png
+  humanURL: https://aws.amazon.com/storagegateway/
+  baseURL: :///
+  tags: Amazon Web Services, Gateway, Data, Stack Network, API Service Provider, API
+    Service Provider, API Provider, Databases, Deployments, Profiles, Relative Data,
+    Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-storage-gateway-service/actiondescribesnapshotschedule-get-openapi.md
+- name: AWS Storage Gateway Service API - Describe Snapshot Schedule
+  x-api-slug: actiondescribesnapshotschedule-get
+  description: Describes the snapshot schedule for the specified gateway volume.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Storage-Content-Delivery_AWSStorageGateway.png
+  humanURL: https://aws.amazon.com/storagegateway/
+  baseURL: :///
+  tags: Amazon Web Services, Gateway, Data, Stack Network, API Service Provider, API
+    Service Provider, API Provider, Databases, Deployments, Profiles, Relative Data,
+    Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-storage-gateway-service/actiondescribesnapshotschedule-get-openapi.md
+- name: AWS Storage Gateway Service API - Describe Snapshot Schedule
+  x-api-slug: actiondescribesnapshotschedule-get
+  description: Describes the snapshot schedule for the specified gateway volume.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Storage-Content-Delivery_AWSStorageGateway.png
+  humanURL: https://aws.amazon.com/storagegateway/
+  baseURL: :///
+  tags: Amazon Web Services, Gateway, Data, Stack Network, API Service Provider, API
+    Service Provider, API Provider, Databases, Deployments, Profiles, Relative Data,
+    Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-storage-gateway-service/actiondescribesnapshotschedule-get-openapi.md
 x-common:
 - type: x-api-gallery
   url: http://aws.step.functions.api.gallery.streamdata.io

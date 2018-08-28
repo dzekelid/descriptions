@@ -10,11 +10,119 @@ image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/l
 x-kinRank: "10"
 x-alexaRank: "0"
 tags: Descriptions
-created: "2018-08-26"
-modified: "2018-08-26"
+created: "2018-08-27"
+modified: "2018-08-27"
 url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-kinesis/apis.md
 specificationVersion: "0.14"
-apis: []
+apis:
+- name: AWS Kinesis Firehose API - Describe Delivery Stream
+  x-api-slug: actiondescribedeliverystream-get
+  description: describes the specified delivery stream and gets the status.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Analytics_AmazonKinesis_AmazonKinesisFirehose.png
+  humanURL: https://aws.amazon.com/kinesis/
+  baseURL: :///
+  tags: Amazon Web Services, Real Time, Data, Stack Network, Streaming, API Service
+    Provider, API Service Provider, API Provider, SDIO Competition, Databases, Profiles,
+    Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-kinesis/actiondescribedeliverystream-get-openapi.md
+- name: AWS Kinesis Firehose API - Describe Delivery Stream
+  x-api-slug: actiondescribedeliverystream-get
+  description: describes the specified delivery stream and gets the status.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Analytics_AmazonKinesis_AmazonKinesisFirehose.png
+  humanURL: https://aws.amazon.com/kinesis/
+  baseURL: :///
+  tags: Amazon Web Services, Real Time, Data, Stack Network, Streaming, API Service
+    Provider, API Service Provider, API Provider, SDIO Competition, Databases, Profiles,
+    Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-kinesis/actiondescribedeliverystream-get-openapi.md
+- name: AWS Kinesis Firehose API - Describe Delivery Stream
+  x-api-slug: actiondescribedeliverystream-get
+  description: describes the specified delivery stream and gets the status.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Analytics_AmazonKinesis_AmazonKinesisFirehose.png
+  humanURL: https://aws.amazon.com/kinesis/
+  baseURL: :///
+  tags: Amazon Web Services, Real Time, Data, Stack Network, Streaming, API Service
+    Provider, API Service Provider, API Provider, SDIO Competition, Databases, Profiles,
+    Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-kinesis/actiondescribedeliverystream-get-openapi.md
+- name: AWS Kinesis Firehose API - Describe Delivery Stream
+  x-api-slug: actiondescribedeliverystream-get
+  description: describes the specified delivery stream and gets the status.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Analytics_AmazonKinesis_AmazonKinesisFirehose.png
+  humanURL: https://aws.amazon.com/kinesis/
+  baseURL: :///
+  tags: Amazon Web Services, Real Time, Data, Stack Network, Streaming, API Service
+    Provider, API Service Provider, API Provider, SDIO Competition, Databases, Profiles,
+    Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-kinesis/actiondescribedeliverystream-get-openapi.md
+- name: AWS Kinesis Firehose API - Describe Delivery Stream
+  x-api-slug: actiondescribedeliverystream-get
+  description: describes the specified delivery stream and gets the status.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Analytics_AmazonKinesis_AmazonKinesisFirehose.png
+  humanURL: https://aws.amazon.com/kinesis/
+  baseURL: :///
+  tags: Amazon Web Services, Real Time, Data, Stack Network, Streaming, API Service
+    Provider, API Service Provider, API Provider, SDIO Competition, Databases, Profiles,
+    Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-kinesis/actiondescribedeliverystream-get-openapi.md
+- name: AWS Kinesis Firehose API - Describe Delivery Stream
+  x-api-slug: actiondescribedeliverystream-get
+  description: describes the specified delivery stream and gets the status.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Analytics_AmazonKinesis_AmazonKinesisFirehose.png
+  humanURL: https://aws.amazon.com/kinesis/
+  baseURL: :///
+  tags: Amazon Web Services, Real Time, Data, Stack Network, Streaming, API Service
+    Provider, API Service Provider, API Provider, SDIO Competition, Databases, Profiles,
+    Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-kinesis/actiondescribedeliverystream-get-openapi.md
+- name: AWS Kinesis Firehose API - Describe Delivery Stream
+  x-api-slug: actiondescribedeliverystream-get
+  description: describes the specified delivery stream and gets the status.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Analytics_AmazonKinesis_AmazonKinesisFirehose.png
+  humanURL: https://aws.amazon.com/kinesis/
+  baseURL: :///
+  tags: Amazon Web Services, Real Time, Data, Stack Network, Streaming, API Service
+    Provider, API Service Provider, API Provider, SDIO Competition, Databases, Profiles,
+    Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-kinesis/actiondescribedeliverystream-get-openapi.md
+- name: AWS Kinesis Firehose API - Describe Delivery Stream
+  x-api-slug: actiondescribedeliverystream-get
+  description: describes the specified delivery stream and gets the status.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Analytics_AmazonKinesis_AmazonKinesisFirehose.png
+  humanURL: https://aws.amazon.com/kinesis/
+  baseURL: :///
+  tags: Amazon Web Services, Real Time, Data, Stack Network, Streaming, API Service
+    Provider, API Service Provider, API Provider, SDIO Competition, Databases, Profiles,
+    Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-kinesis/actiondescribedeliverystream-get-openapi.md
+- name: AWS Kinesis Firehose API - Describe Delivery Stream
+  x-api-slug: actiondescribedeliverystream-get
+  description: describes the specified delivery stream and gets the status.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Analytics_AmazonKinesis_AmazonKinesisFirehose.png
+  humanURL: https://aws.amazon.com/kinesis/
+  baseURL: :///
+  tags: Amazon Web Services, Real Time, Data, Stack Network, Streaming, API Service
+    Provider, API Service Provider, API Provider, SDIO Competition, Databases, Profiles,
+    Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-kinesis/actiondescribedeliverystream-get-openapi.md
 x-common:
 - type: x-hacker-news-search
   url: Amazon Kinesis

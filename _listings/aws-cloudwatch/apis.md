@@ -14,8 +14,8 @@ image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/l
 x-kinRank: "10"
 x-alexaRank: "0"
 tags: Descriptions
-created: "2018-08-26"
-modified: "2018-08-26"
+created: "2018-08-27"
+modified: "2018-08-27"
 url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-cloudwatch/apis.md
 specificationVersion: "0.14"
 apis:
@@ -33,6 +33,30 @@ apis:
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-cloudwatch/actiondescribealarmhistory--postman.md
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-cloudwatch/actiondescribealarmhistory--openapi.md
+- name: AWS CloudWatch API - Describe Alarms
+  x-api-slug: actiondescribealarms-
+  description: Retrieves the specified alarms.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Management-Tools_AmazonCloudWatch.png
+  humanURL: https://aws.amazon.com/cloudwatch/
+  baseURL: :///
+  tags: Monitoring, Amazon Web Services, Analysis, Logging, Management, Stack Network,
+    API Service Provider, API Service Provider, API Provider, Profiles, Relative Data,
+    Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-cloudwatch/actiondescribealarms--openapi.md
+- name: AWS CloudWatch API - Describe Alarms For Metric
+  x-api-slug: actiondescribealarmsformetric-
+  description: Retrieves the alarms for the specified metric.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Management-Tools_AmazonCloudWatch.png
+  humanURL: https://aws.amazon.com/cloudwatch/
+  baseURL: :///
+  tags: Monitoring, Amazon Web Services, Analysis, Logging, Management, Stack Network,
+    API Service Provider, API Service Provider, API Provider, Profiles, Relative Data,
+    Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-cloudwatch/actiondescribealarmsformetric--openapi.md
 - name: AWS CloudWatch API - Describe Alarm History
   x-api-slug: actiondescribealarmhistory-
   description: Retrieves the history for the specified alarm.
@@ -131,6 +155,174 @@ apis:
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-cloudwatch/actiondescribealarmhistory--postman.md
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-cloudwatch/actiondescribealarmhistory--openapi.md
+- name: AWS CloudWatch API - Describe Alarms
+  x-api-slug: actiondescribealarms-
+  description: Retrieves the specified alarms.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Management-Tools_AmazonCloudWatch.png
+  humanURL: https://aws.amazon.com/cloudwatch/
+  baseURL: :///
+  tags: Monitoring, Amazon Web Services, Analysis, Logging, Management, Stack Network,
+    API Service Provider, API Service Provider, API Provider, Profiles, Relative Data,
+    Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-cloudwatch/actiondescribealarms--openapi.md
+- name: AWS CloudWatch API - Describe Alarms
+  x-api-slug: actiondescribealarms-
+  description: Retrieves the specified alarms.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Management-Tools_AmazonCloudWatch.png
+  humanURL: https://aws.amazon.com/cloudwatch/
+  baseURL: :///
+  tags: Monitoring, Amazon Web Services, Analysis, Logging, Management, Stack Network,
+    API Service Provider, API Service Provider, API Provider, Profiles, Relative Data,
+    Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-cloudwatch/actiondescribealarms--openapi.md
+- name: AWS CloudWatch API - Describe Alarms
+  x-api-slug: actiondescribealarms-
+  description: Retrieves the specified alarms.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Management-Tools_AmazonCloudWatch.png
+  humanURL: https://aws.amazon.com/cloudwatch/
+  baseURL: :///
+  tags: Monitoring, Amazon Web Services, Analysis, Logging, Management, Stack Network,
+    API Service Provider, API Service Provider, API Provider, Profiles, Relative Data,
+    Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-cloudwatch/actiondescribealarms--openapi.md
+- name: AWS CloudWatch API - Describe Alarms
+  x-api-slug: actiondescribealarms-
+  description: Retrieves the specified alarms.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Management-Tools_AmazonCloudWatch.png
+  humanURL: https://aws.amazon.com/cloudwatch/
+  baseURL: :///
+  tags: Monitoring, Amazon Web Services, Analysis, Logging, Management, Stack Network,
+    API Service Provider, API Service Provider, API Provider, Profiles, Relative Data,
+    Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-cloudwatch/actiondescribealarms--openapi.md
+- name: AWS CloudWatch API - Describe Alarms
+  x-api-slug: actiondescribealarms-
+  description: Retrieves the specified alarms.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Management-Tools_AmazonCloudWatch.png
+  humanURL: https://aws.amazon.com/cloudwatch/
+  baseURL: :///
+  tags: Monitoring, Amazon Web Services, Analysis, Logging, Management, Stack Network,
+    API Service Provider, API Service Provider, API Provider, Profiles, Relative Data,
+    Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-cloudwatch/actiondescribealarms--openapi.md
+- name: AWS CloudWatch API - Describe Alarms
+  x-api-slug: actiondescribealarms-
+  description: Retrieves the specified alarms.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Management-Tools_AmazonCloudWatch.png
+  humanURL: https://aws.amazon.com/cloudwatch/
+  baseURL: :///
+  tags: Monitoring, Amazon Web Services, Analysis, Logging, Management, Stack Network,
+    API Service Provider, API Service Provider, API Provider, Profiles, Relative Data,
+    Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-cloudwatch/actiondescribealarms--openapi.md
+- name: AWS CloudWatch API - Describe Alarms
+  x-api-slug: actiondescribealarms-
+  description: Retrieves the specified alarms.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Management-Tools_AmazonCloudWatch.png
+  humanURL: https://aws.amazon.com/cloudwatch/
+  baseURL: :///
+  tags: Monitoring, Amazon Web Services, Analysis, Logging, Management, Stack Network,
+    API Service Provider, API Service Provider, API Provider, Profiles, Relative Data,
+    Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-cloudwatch/actiondescribealarms--openapi.md
+- name: AWS CloudWatch API - Describe Alarms For Metric
+  x-api-slug: actiondescribealarmsformetric-
+  description: Retrieves the alarms for the specified metric.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Management-Tools_AmazonCloudWatch.png
+  humanURL: https://aws.amazon.com/cloudwatch/
+  baseURL: :///
+  tags: Monitoring, Amazon Web Services, Analysis, Logging, Management, Stack Network,
+    API Service Provider, API Service Provider, API Provider, Profiles, Relative Data,
+    Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-cloudwatch/actiondescribealarmsformetric--openapi.md
+- name: AWS CloudWatch API - Describe Alarms For Metric
+  x-api-slug: actiondescribealarmsformetric-
+  description: Retrieves the alarms for the specified metric.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Management-Tools_AmazonCloudWatch.png
+  humanURL: https://aws.amazon.com/cloudwatch/
+  baseURL: :///
+  tags: Monitoring, Amazon Web Services, Analysis, Logging, Management, Stack Network,
+    API Service Provider, API Service Provider, API Provider, Profiles, Relative Data,
+    Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-cloudwatch/actiondescribealarmsformetric--openapi.md
+- name: AWS CloudWatch API - Describe Alarms For Metric
+  x-api-slug: actiondescribealarmsformetric-
+  description: Retrieves the alarms for the specified metric.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Management-Tools_AmazonCloudWatch.png
+  humanURL: https://aws.amazon.com/cloudwatch/
+  baseURL: :///
+  tags: Monitoring, Amazon Web Services, Analysis, Logging, Management, Stack Network,
+    API Service Provider, API Service Provider, API Provider, Profiles, Relative Data,
+    Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-cloudwatch/actiondescribealarmsformetric--openapi.md
+- name: AWS CloudWatch API - Describe Alarms For Metric
+  x-api-slug: actiondescribealarmsformetric-
+  description: Retrieves the alarms for the specified metric.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Management-Tools_AmazonCloudWatch.png
+  humanURL: https://aws.amazon.com/cloudwatch/
+  baseURL: :///
+  tags: Monitoring, Amazon Web Services, Analysis, Logging, Management, Stack Network,
+    API Service Provider, API Service Provider, API Provider, Profiles, Relative Data,
+    Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-cloudwatch/actiondescribealarmsformetric--openapi.md
+- name: AWS CloudWatch API - Describe Alarms For Metric
+  x-api-slug: actiondescribealarmsformetric-
+  description: Retrieves the alarms for the specified metric.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Management-Tools_AmazonCloudWatch.png
+  humanURL: https://aws.amazon.com/cloudwatch/
+  baseURL: :///
+  tags: Monitoring, Amazon Web Services, Analysis, Logging, Management, Stack Network,
+    API Service Provider, API Service Provider, API Provider, Profiles, Relative Data,
+    Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-cloudwatch/actiondescribealarmsformetric--openapi.md
+- name: AWS CloudWatch API - Describe Alarms For Metric
+  x-api-slug: actiondescribealarmsformetric-
+  description: Retrieves the alarms for the specified metric.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Management-Tools_AmazonCloudWatch.png
+  humanURL: https://aws.amazon.com/cloudwatch/
+  baseURL: :///
+  tags: Monitoring, Amazon Web Services, Analysis, Logging, Management, Stack Network,
+    API Service Provider, API Service Provider, API Provider, Profiles, Relative Data,
+    Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-cloudwatch/actiondescribealarmsformetric--openapi.md
+- name: AWS CloudWatch API - Describe Alarms For Metric
+  x-api-slug: actiondescribealarmsformetric-
+  description: Retrieves the alarms for the specified metric.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Management-Tools_AmazonCloudWatch.png
+  humanURL: https://aws.amazon.com/cloudwatch/
+  baseURL: :///
+  tags: Monitoring, Amazon Web Services, Analysis, Logging, Management, Stack Network,
+    API Service Provider, API Service Provider, API Provider, Profiles, Relative Data,
+    Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-cloudwatch/actiondescribealarmsformetric--openapi.md
 x-common:
 - type: x-api-gallery
   url: http://aws.cloudsearch.api.gallery.streamdata.io

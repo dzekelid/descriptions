@@ -21,11 +21,155 @@ image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/l
 x-kinRank: "10"
 x-alexaRank: "0"
 tags: Descriptions
-created: "2018-08-26"
-modified: "2018-08-26"
+created: "2018-08-27"
+modified: "2018-08-27"
 url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-polly/apis.md
 specificationVersion: "0.14"
-apis: []
+apis:
+- name: AWS Polly API - Describe Voices
+  x-api-slug: actiondescribevoices-get
+  description: Returns the list of voices that are available for use when requesting
+    speech synthesis.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/aws-polly.jpg
+  humanURL: https://aws.amazon.com/polly/
+  baseURL: :///
+  tags: Amazon Web Services, Speech, Voice, Stack Network, API Service Provider, API
+    Service Provider, API Provider, Texts, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-polly/actiondescribevoices-get-openapi.md
+- name: AWS Polly API - Describe Voices
+  x-api-slug: actiondescribevoices-get
+  description: Returns the list of voices that are available for use when requesting
+    speech synthesis.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/aws-polly.jpg
+  humanURL: https://aws.amazon.com/polly/
+  baseURL: :///
+  tags: Amazon Web Services, Speech, Voice, Stack Network, API Service Provider, API
+    Service Provider, API Provider, Texts, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-polly/actiondescribevoices-get-openapi.md
+- name: AWS Polly API - Describe Voices
+  x-api-slug: actiondescribevoices-get
+  description: Returns the list of voices that are available for use when requesting
+    speech synthesis.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/aws-polly.jpg
+  humanURL: https://aws.amazon.com/polly/
+  baseURL: :///
+  tags: Amazon Web Services, Speech, Voice, Stack Network, API Service Provider, API
+    Service Provider, API Provider, Texts, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-polly/actiondescribevoices-get-openapi.md
+- name: AWS Polly API - Describe Voices
+  x-api-slug: actiondescribevoices-get
+  description: Returns the list of voices that are available for use when requesting
+    speech synthesis.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/aws-polly.jpg
+  humanURL: https://aws.amazon.com/polly/
+  baseURL: :///
+  tags: Amazon Web Services, Speech, Voice, Stack Network, API Service Provider, API
+    Service Provider, API Provider, Texts, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-polly/actiondescribevoices-get-openapi.md
+- name: AWS Polly API - Describe Voices
+  x-api-slug: actiondescribevoices-get
+  description: Returns the list of voices that are available for use when requesting
+    speech synthesis.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/aws-polly.jpg
+  humanURL: https://aws.amazon.com/polly/
+  baseURL: :///
+  tags: Amazon Web Services, Speech, Voice, Stack Network, API Service Provider, API
+    Service Provider, API Provider, Texts, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-polly/actiondescribevoices-get-openapi.md
+- name: AWS Polly API - Describe Voices
+  x-api-slug: actiondescribevoices-get
+  description: Returns the list of voices that are available for use when requesting
+    speech synthesis.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/aws-polly.jpg
+  humanURL: https://aws.amazon.com/polly/
+  baseURL: :///
+  tags: Amazon Web Services, Speech, Voice, Stack Network, API Service Provider, API
+    Service Provider, API Provider, Texts, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-polly/actiondescribevoices-get-openapi.md
+- name: AWS Polly API - Describe Voices
+  x-api-slug: actiondescribevoices-get
+  description: Returns the list of voices that are available for use when requesting
+    speech synthesis.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/aws-polly.jpg
+  humanURL: https://aws.amazon.com/polly/
+  baseURL: :///
+  tags: Amazon Web Services, Speech, Voice, Stack Network, API Service Provider, API
+    Service Provider, API Provider, Texts, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-polly/actiondescribevoices-get-openapi.md
+- name: AWS Polly API - Describe Voices
+  x-api-slug: actiondescribevoices-get
+  description: Returns the list of voices that are available for use when requesting
+    speech synthesis.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/aws-polly.jpg
+  humanURL: https://aws.amazon.com/polly/
+  baseURL: :///
+  tags: Amazon Web Services, Speech, Voice, Stack Network, API Service Provider, API
+    Service Provider, API Provider, Texts, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-polly/actiondescribevoices-get-openapi.md
+- name: AWS Polly API - Describe Voices
+  x-api-slug: actiondescribevoices-get
+  description: Returns the list of voices that are available for use when requesting
+    speech synthesis.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/aws-polly.jpg
+  humanURL: https://aws.amazon.com/polly/
+  baseURL: :///
+  tags: Amazon Web Services, Speech, Voice, Stack Network, API Service Provider, API
+    Service Provider, API Provider, Texts, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-polly/actiondescribevoices-get-openapi.md
+- name: AWS Polly API - Describe Voices
+  x-api-slug: actiondescribevoices-get
+  description: Returns the list of voices that are available for use when requesting
+    speech synthesis.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/aws-polly.jpg
+  humanURL: https://aws.amazon.com/polly/
+  baseURL: :///
+  tags: Amazon Web Services, Speech, Voice, Stack Network, API Service Provider, API
+    Service Provider, API Provider, Texts, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-polly/actiondescribevoices-get-openapi.md
+- name: AWS Polly API - Describe Voices
+  x-api-slug: actiondescribevoices-get
+  description: Returns the list of voices that are available for use when requesting
+    speech synthesis.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/aws-polly.jpg
+  humanURL: https://aws.amazon.com/polly/
+  baseURL: :///
+  tags: Amazon Web Services, Speech, Voice, Stack Network, API Service Provider, API
+    Service Provider, API Provider, Texts, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-polly/actiondescribevoices-get-openapi.md
+- name: AWS Polly API - Describe Voices
+  x-api-slug: actiondescribevoices-get
+  description: Returns the list of voices that are available for use when requesting
+    speech synthesis.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/aws-polly.jpg
+  humanURL: https://aws.amazon.com/polly/
+  baseURL: :///
+  tags: Amazon Web Services, Speech, Voice, Stack Network, API Service Provider, API
+    Service Provider, API Provider, Texts, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-polly/actiondescribevoices-get-openapi.md
 x-common:
 - type: x-api-gallery
   url: http://aws.pinpoint.api.gallery.streamdata.io

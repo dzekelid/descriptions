@@ -1,4 +1,3 @@
----
 swagger: "2.0"
 x-collection-name: AWS Step Functions
 x-complete: 1
@@ -60,4 +59,3 @@ paths:
           description: OK
       tags:
       - State Machine
----

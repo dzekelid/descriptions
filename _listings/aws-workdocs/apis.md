@@ -19,11 +19,1000 @@ image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/l
 x-kinRank: "10"
 x-alexaRank: "0"
 tags: Descriptions
-created: "2018-08-26"
-modified: "2018-08-26"
+created: "2018-08-27"
+modified: "2018-08-27"
 url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-workdocs/apis.md
 specificationVersion: "0.14"
-apis: []
+apis:
+- name: AWS WorkDocs API - Describe Document Versions
+  x-api-slug: actiondescribedocumentversions-get
+  description: Retrieves the document versions for the specified document.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Enterprise-Applications_AmazonWorkDocs.png
+  humanURL: https://aws.amazon.com/workdocs/
+  baseURL: :///
+  tags: Amazon Web Services, Storage, Documents, Stack Network, API Service Provider,
+    API Service Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-workdocs/actiondescribedocumentversions-get-openapi.md
+- name: AWS WorkDocs API - Describe Folder Contents
+  x-api-slug: actiondescribefoldercontents-get
+  description: Describes the contents of the specified folder, including its documents
+    and sub-folders.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Enterprise-Applications_AmazonWorkDocs.png
+  humanURL: https://aws.amazon.com/workdocs/
+  baseURL: :///
+  tags: Amazon Web Services, Storage, Documents, Stack Network, API Service Provider,
+    API Service Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-workdocs/actiondescribefoldercontents-get-openapi.md
+- name: AWS WorkDocs API - Describe Folder Contents
+  x-api-slug: actiondescribefoldercontents-get
+  description: Describes the contents of the specified folder, including its documents
+    and sub-folders.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Enterprise-Applications_AmazonWorkDocs.png
+  humanURL: https://aws.amazon.com/workdocs/
+  baseURL: :///
+  tags: Amazon Web Services, Storage, Documents, Stack Network, API Service Provider,
+    API Service Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-workdocs/actiondescribefoldercontents-get-openapi.md
+- name: AWS WorkDocs API - Describe Notification Subscriptions
+  x-api-slug: actiondescribenotificationsubscriptions-get
+  description: Lists the specified notification subscriptions.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Enterprise-Applications_AmazonWorkDocs.png
+  humanURL: https://aws.amazon.com/workdocs/
+  baseURL: :///
+  tags: Amazon Web Services, Storage, Documents, Stack Network, API Service Provider,
+    API Service Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-workdocs/actiondescribenotificationsubscriptions-get-openapi.md
+- name: AWS WorkDocs API - Describe Notification Subscriptions
+  x-api-slug: actiondescribenotificationsubscriptions-get
+  description: Lists the specified notification subscriptions.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Enterprise-Applications_AmazonWorkDocs.png
+  humanURL: https://aws.amazon.com/workdocs/
+  baseURL: :///
+  tags: Amazon Web Services, Storage, Documents, Stack Network, API Service Provider,
+    API Service Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-workdocs/actiondescribenotificationsubscriptions-get-openapi.md
+- name: AWS WorkDocs API - Describe Resource Permissions
+  x-api-slug: actiondescriberesourcepermissions-get
+  description: Describes the permissions of a specified resource.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Enterprise-Applications_AmazonWorkDocs.png
+  humanURL: https://aws.amazon.com/workdocs/
+  baseURL: :///
+  tags: Amazon Web Services, Storage, Documents, Stack Network, API Service Provider,
+    API Service Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-workdocs/actiondescriberesourcepermissions-get-openapi.md
+- name: AWS WorkDocs API - Describe Resource Permissions
+  x-api-slug: actiondescriberesourcepermissions-get
+  description: Describes the permissions of a specified resource.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Enterprise-Applications_AmazonWorkDocs.png
+  humanURL: https://aws.amazon.com/workdocs/
+  baseURL: :///
+  tags: Amazon Web Services, Storage, Documents, Stack Network, API Service Provider,
+    API Service Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-workdocs/actiondescriberesourcepermissions-get-openapi.md
+- name: AWS WorkDocs API - Describe Users
+  x-api-slug: actiondescribeusers-get
+  description: Describes the specified users.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Enterprise-Applications_AmazonWorkDocs.png
+  humanURL: https://aws.amazon.com/workdocs/
+  baseURL: :///
+  tags: Amazon Web Services, Storage, Documents, Stack Network, API Service Provider,
+    API Service Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-workdocs/actiondescribeusers-get-openapi.md
+- name: AWS WorkDocs API - Describe Users
+  x-api-slug: actiondescribeusers-get
+  description: Describes the specified users.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Enterprise-Applications_AmazonWorkDocs.png
+  humanURL: https://aws.amazon.com/workdocs/
+  baseURL: :///
+  tags: Amazon Web Services, Storage, Documents, Stack Network, API Service Provider,
+    API Service Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-workdocs/actiondescribeusers-get-openapi.md
+- name: AWS WorkDocs API - Describe Document Versions
+  x-api-slug: actiondescribedocumentversions-get
+  description: Retrieves the document versions for the specified document.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Enterprise-Applications_AmazonWorkDocs.png
+  humanURL: https://aws.amazon.com/workdocs/
+  baseURL: :///
+  tags: Amazon Web Services, Storage, Documents, Stack Network, API Service Provider,
+    API Service Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-workdocs/actiondescribedocumentversions-get-openapi.md
+- name: AWS WorkDocs API - Describe Document Versions
+  x-api-slug: actiondescribedocumentversions-get
+  description: Retrieves the document versions for the specified document.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Enterprise-Applications_AmazonWorkDocs.png
+  humanURL: https://aws.amazon.com/workdocs/
+  baseURL: :///
+  tags: Amazon Web Services, Storage, Documents, Stack Network, API Service Provider,
+    API Service Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-workdocs/actiondescribedocumentversions-get-openapi.md
+- name: AWS WorkDocs API - Describe Document Versions
+  x-api-slug: actiondescribedocumentversions-get
+  description: Retrieves the document versions for the specified document.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Enterprise-Applications_AmazonWorkDocs.png
+  humanURL: https://aws.amazon.com/workdocs/
+  baseURL: :///
+  tags: Amazon Web Services, Storage, Documents, Stack Network, API Service Provider,
+    API Service Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-workdocs/actiondescribedocumentversions-get-openapi.md
+- name: AWS WorkDocs API - Describe Document Versions
+  x-api-slug: actiondescribedocumentversions-get
+  description: Retrieves the document versions for the specified document.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Enterprise-Applications_AmazonWorkDocs.png
+  humanURL: https://aws.amazon.com/workdocs/
+  baseURL: :///
+  tags: Amazon Web Services, Storage, Documents, Stack Network, API Service Provider,
+    API Service Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-workdocs/actiondescribedocumentversions-get-openapi.md
+- name: AWS WorkDocs API - Describe Document Versions
+  x-api-slug: actiondescribedocumentversions-get
+  description: Retrieves the document versions for the specified document.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Enterprise-Applications_AmazonWorkDocs.png
+  humanURL: https://aws.amazon.com/workdocs/
+  baseURL: :///
+  tags: Amazon Web Services, Storage, Documents, Stack Network, API Service Provider,
+    API Service Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-workdocs/actiondescribedocumentversions-get-openapi.md
+- name: AWS WorkDocs API - Describe Document Versions
+  x-api-slug: actiondescribedocumentversions-get
+  description: Retrieves the document versions for the specified document.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Enterprise-Applications_AmazonWorkDocs.png
+  humanURL: https://aws.amazon.com/workdocs/
+  baseURL: :///
+  tags: Amazon Web Services, Storage, Documents, Stack Network, API Service Provider,
+    API Service Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-workdocs/actiondescribedocumentversions-get-openapi.md
+- name: AWS WorkDocs API - Describe Document Versions
+  x-api-slug: actiondescribedocumentversions-get
+  description: Retrieves the document versions for the specified document.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Enterprise-Applications_AmazonWorkDocs.png
+  humanURL: https://aws.amazon.com/workdocs/
+  baseURL: :///
+  tags: Amazon Web Services, Storage, Documents, Stack Network, API Service Provider,
+    API Service Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-workdocs/actiondescribedocumentversions-get-openapi.md
+- name: AWS WorkDocs API - Describe Document Versions
+  x-api-slug: actiondescribedocumentversions-get
+  description: Retrieves the document versions for the specified document.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Enterprise-Applications_AmazonWorkDocs.png
+  humanURL: https://aws.amazon.com/workdocs/
+  baseURL: :///
+  tags: Amazon Web Services, Storage, Documents, Stack Network, API Service Provider,
+    API Service Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-workdocs/actiondescribedocumentversions-get-openapi.md
+- name: AWS WorkDocs API - Describe Folder Contents
+  x-api-slug: actiondescribefoldercontents-get
+  description: Describes the contents of the specified folder, including its documents
+    and sub-folders.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Enterprise-Applications_AmazonWorkDocs.png
+  humanURL: https://aws.amazon.com/workdocs/
+  baseURL: :///
+  tags: Amazon Web Services, Storage, Documents, Stack Network, API Service Provider,
+    API Service Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-workdocs/actiondescribefoldercontents-get-openapi.md
+- name: AWS WorkDocs API - Describe Folder Contents
+  x-api-slug: actiondescribefoldercontents-get
+  description: Describes the contents of the specified folder, including its documents
+    and sub-folders.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Enterprise-Applications_AmazonWorkDocs.png
+  humanURL: https://aws.amazon.com/workdocs/
+  baseURL: :///
+  tags: Amazon Web Services, Storage, Documents, Stack Network, API Service Provider,
+    API Service Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-workdocs/actiondescribefoldercontents-get-openapi.md
+- name: AWS WorkDocs API - Describe Folder Contents
+  x-api-slug: actiondescribefoldercontents-get
+  description: Describes the contents of the specified folder, including its documents
+    and sub-folders.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Enterprise-Applications_AmazonWorkDocs.png
+  humanURL: https://aws.amazon.com/workdocs/
+  baseURL: :///
+  tags: Amazon Web Services, Storage, Documents, Stack Network, API Service Provider,
+    API Service Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-workdocs/actiondescribefoldercontents-get-openapi.md
+- name: AWS WorkDocs API - Describe Folder Contents
+  x-api-slug: actiondescribefoldercontents-get
+  description: Describes the contents of the specified folder, including its documents
+    and sub-folders.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Enterprise-Applications_AmazonWorkDocs.png
+  humanURL: https://aws.amazon.com/workdocs/
+  baseURL: :///
+  tags: Amazon Web Services, Storage, Documents, Stack Network, API Service Provider,
+    API Service Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-workdocs/actiondescribefoldercontents-get-openapi.md
+- name: AWS WorkDocs API - Describe Folder Contents
+  x-api-slug: actiondescribefoldercontents-get
+  description: Describes the contents of the specified folder, including its documents
+    and sub-folders.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Enterprise-Applications_AmazonWorkDocs.png
+  humanURL: https://aws.amazon.com/workdocs/
+  baseURL: :///
+  tags: Amazon Web Services, Storage, Documents, Stack Network, API Service Provider,
+    API Service Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-workdocs/actiondescribefoldercontents-get-openapi.md
+- name: AWS WorkDocs API - Describe Folder Contents
+  x-api-slug: actiondescribefoldercontents-get
+  description: Describes the contents of the specified folder, including its documents
+    and sub-folders.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Enterprise-Applications_AmazonWorkDocs.png
+  humanURL: https://aws.amazon.com/workdocs/
+  baseURL: :///
+  tags: Amazon Web Services, Storage, Documents, Stack Network, API Service Provider,
+    API Service Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-workdocs/actiondescribefoldercontents-get-openapi.md
+- name: AWS WorkDocs API - Describe Folder Contents
+  x-api-slug: actiondescribefoldercontents-get
+  description: Describes the contents of the specified folder, including its documents
+    and sub-folders.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Enterprise-Applications_AmazonWorkDocs.png
+  humanURL: https://aws.amazon.com/workdocs/
+  baseURL: :///
+  tags: Amazon Web Services, Storage, Documents, Stack Network, API Service Provider,
+    API Service Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-workdocs/actiondescribefoldercontents-get-openapi.md
+- name: AWS WorkDocs API - Describe Folder Contents
+  x-api-slug: actiondescribefoldercontents-get
+  description: Describes the contents of the specified folder, including its documents
+    and sub-folders.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Enterprise-Applications_AmazonWorkDocs.png
+  humanURL: https://aws.amazon.com/workdocs/
+  baseURL: :///
+  tags: Amazon Web Services, Storage, Documents, Stack Network, API Service Provider,
+    API Service Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-workdocs/actiondescribefoldercontents-get-openapi.md
+- name: AWS WorkDocs API - Describe Notification Subscriptions
+  x-api-slug: actiondescribenotificationsubscriptions-get
+  description: Lists the specified notification subscriptions.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Enterprise-Applications_AmazonWorkDocs.png
+  humanURL: https://aws.amazon.com/workdocs/
+  baseURL: :///
+  tags: Amazon Web Services, Storage, Documents, Stack Network, API Service Provider,
+    API Service Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-workdocs/actiondescribenotificationsubscriptions-get-openapi.md
+- name: AWS WorkDocs API - Describe Notification Subscriptions
+  x-api-slug: actiondescribenotificationsubscriptions-get
+  description: Lists the specified notification subscriptions.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Enterprise-Applications_AmazonWorkDocs.png
+  humanURL: https://aws.amazon.com/workdocs/
+  baseURL: :///
+  tags: Amazon Web Services, Storage, Documents, Stack Network, API Service Provider,
+    API Service Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-workdocs/actiondescribenotificationsubscriptions-get-openapi.md
+- name: AWS WorkDocs API - Describe Notification Subscriptions
+  x-api-slug: actiondescribenotificationsubscriptions-get
+  description: Lists the specified notification subscriptions.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Enterprise-Applications_AmazonWorkDocs.png
+  humanURL: https://aws.amazon.com/workdocs/
+  baseURL: :///
+  tags: Amazon Web Services, Storage, Documents, Stack Network, API Service Provider,
+    API Service Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-workdocs/actiondescribenotificationsubscriptions-get-openapi.md
+- name: AWS WorkDocs API - Describe Notification Subscriptions
+  x-api-slug: actiondescribenotificationsubscriptions-get
+  description: Lists the specified notification subscriptions.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Enterprise-Applications_AmazonWorkDocs.png
+  humanURL: https://aws.amazon.com/workdocs/
+  baseURL: :///
+  tags: Amazon Web Services, Storage, Documents, Stack Network, API Service Provider,
+    API Service Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-workdocs/actiondescribenotificationsubscriptions-get-openapi.md
+- name: AWS WorkDocs API - Describe Notification Subscriptions
+  x-api-slug: actiondescribenotificationsubscriptions-get
+  description: Lists the specified notification subscriptions.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Enterprise-Applications_AmazonWorkDocs.png
+  humanURL: https://aws.amazon.com/workdocs/
+  baseURL: :///
+  tags: Amazon Web Services, Storage, Documents, Stack Network, API Service Provider,
+    API Service Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-workdocs/actiondescribenotificationsubscriptions-get-openapi.md
+- name: AWS WorkDocs API - Describe Notification Subscriptions
+  x-api-slug: actiondescribenotificationsubscriptions-get
+  description: Lists the specified notification subscriptions.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Enterprise-Applications_AmazonWorkDocs.png
+  humanURL: https://aws.amazon.com/workdocs/
+  baseURL: :///
+  tags: Amazon Web Services, Storage, Documents, Stack Network, API Service Provider,
+    API Service Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-workdocs/actiondescribenotificationsubscriptions-get-openapi.md
+- name: AWS WorkDocs API - Describe Notification Subscriptions
+  x-api-slug: actiondescribenotificationsubscriptions-get
+  description: Lists the specified notification subscriptions.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Enterprise-Applications_AmazonWorkDocs.png
+  humanURL: https://aws.amazon.com/workdocs/
+  baseURL: :///
+  tags: Amazon Web Services, Storage, Documents, Stack Network, API Service Provider,
+    API Service Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-workdocs/actiondescribenotificationsubscriptions-get-openapi.md
+- name: AWS WorkDocs API - Describe Notification Subscriptions
+  x-api-slug: actiondescribenotificationsubscriptions-get
+  description: Lists the specified notification subscriptions.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Enterprise-Applications_AmazonWorkDocs.png
+  humanURL: https://aws.amazon.com/workdocs/
+  baseURL: :///
+  tags: Amazon Web Services, Storage, Documents, Stack Network, API Service Provider,
+    API Service Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-workdocs/actiondescribenotificationsubscriptions-get-openapi.md
+- name: AWS WorkDocs API - Describe Notification Subscriptions
+  x-api-slug: actiondescribenotificationsubscriptions-get
+  description: Lists the specified notification subscriptions.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Enterprise-Applications_AmazonWorkDocs.png
+  humanURL: https://aws.amazon.com/workdocs/
+  baseURL: :///
+  tags: Amazon Web Services, Storage, Documents, Stack Network, API Service Provider,
+    API Service Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-workdocs/actiondescribenotificationsubscriptions-get-openapi.md
+- name: AWS WorkDocs API - Describe Resource Permissions
+  x-api-slug: actiondescriberesourcepermissions-get
+  description: Describes the permissions of a specified resource.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Enterprise-Applications_AmazonWorkDocs.png
+  humanURL: https://aws.amazon.com/workdocs/
+  baseURL: :///
+  tags: Amazon Web Services, Storage, Documents, Stack Network, API Service Provider,
+    API Service Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-workdocs/actiondescriberesourcepermissions-get-openapi.md
+- name: AWS WorkDocs API - Describe Resource Permissions
+  x-api-slug: actiondescriberesourcepermissions-get
+  description: Describes the permissions of a specified resource.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Enterprise-Applications_AmazonWorkDocs.png
+  humanURL: https://aws.amazon.com/workdocs/
+  baseURL: :///
+  tags: Amazon Web Services, Storage, Documents, Stack Network, API Service Provider,
+    API Service Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-workdocs/actiondescriberesourcepermissions-get-openapi.md
+- name: AWS WorkDocs API - Describe Resource Permissions
+  x-api-slug: actiondescriberesourcepermissions-get
+  description: Describes the permissions of a specified resource.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Enterprise-Applications_AmazonWorkDocs.png
+  humanURL: https://aws.amazon.com/workdocs/
+  baseURL: :///
+  tags: Amazon Web Services, Storage, Documents, Stack Network, API Service Provider,
+    API Service Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-workdocs/actiondescriberesourcepermissions-get-openapi.md
+- name: AWS WorkDocs API - Describe Resource Permissions
+  x-api-slug: actiondescriberesourcepermissions-get
+  description: Describes the permissions of a specified resource.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Enterprise-Applications_AmazonWorkDocs.png
+  humanURL: https://aws.amazon.com/workdocs/
+  baseURL: :///
+  tags: Amazon Web Services, Storage, Documents, Stack Network, API Service Provider,
+    API Service Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-workdocs/actiondescriberesourcepermissions-get-openapi.md
+- name: AWS WorkDocs API - Describe Resource Permissions
+  x-api-slug: actiondescriberesourcepermissions-get
+  description: Describes the permissions of a specified resource.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Enterprise-Applications_AmazonWorkDocs.png
+  humanURL: https://aws.amazon.com/workdocs/
+  baseURL: :///
+  tags: Amazon Web Services, Storage, Documents, Stack Network, API Service Provider,
+    API Service Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-workdocs/actiondescriberesourcepermissions-get-openapi.md
+- name: AWS WorkDocs API - Describe Resource Permissions
+  x-api-slug: actiondescriberesourcepermissions-get
+  description: Describes the permissions of a specified resource.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Enterprise-Applications_AmazonWorkDocs.png
+  humanURL: https://aws.amazon.com/workdocs/
+  baseURL: :///
+  tags: Amazon Web Services, Storage, Documents, Stack Network, API Service Provider,
+    API Service Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-workdocs/actiondescriberesourcepermissions-get-openapi.md
+- name: AWS WorkDocs API - Describe Resource Permissions
+  x-api-slug: actiondescriberesourcepermissions-get
+  description: Describes the permissions of a specified resource.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Enterprise-Applications_AmazonWorkDocs.png
+  humanURL: https://aws.amazon.com/workdocs/
+  baseURL: :///
+  tags: Amazon Web Services, Storage, Documents, Stack Network, API Service Provider,
+    API Service Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-workdocs/actiondescriberesourcepermissions-get-openapi.md
+- name: AWS WorkDocs API - Describe Resource Permissions
+  x-api-slug: actiondescriberesourcepermissions-get
+  description: Describes the permissions of a specified resource.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Enterprise-Applications_AmazonWorkDocs.png
+  humanURL: https://aws.amazon.com/workdocs/
+  baseURL: :///
+  tags: Amazon Web Services, Storage, Documents, Stack Network, API Service Provider,
+    API Service Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-workdocs/actiondescriberesourcepermissions-get-openapi.md
+- name: AWS WorkDocs API - Describe Resource Permissions
+  x-api-slug: actiondescriberesourcepermissions-get
+  description: Describes the permissions of a specified resource.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Enterprise-Applications_AmazonWorkDocs.png
+  humanURL: https://aws.amazon.com/workdocs/
+  baseURL: :///
+  tags: Amazon Web Services, Storage, Documents, Stack Network, API Service Provider,
+    API Service Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-workdocs/actiondescriberesourcepermissions-get-openapi.md
+- name: AWS WorkDocs API - Describe Users
+  x-api-slug: actiondescribeusers-get
+  description: Describes the specified users.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Enterprise-Applications_AmazonWorkDocs.png
+  humanURL: https://aws.amazon.com/workdocs/
+  baseURL: :///
+  tags: Amazon Web Services, Storage, Documents, Stack Network, API Service Provider,
+    API Service Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-workdocs/actiondescribeusers-get-openapi.md
+- name: AWS WorkDocs API - Describe Users
+  x-api-slug: actiondescribeusers-get
+  description: Describes the specified users.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Enterprise-Applications_AmazonWorkDocs.png
+  humanURL: https://aws.amazon.com/workdocs/
+  baseURL: :///
+  tags: Amazon Web Services, Storage, Documents, Stack Network, API Service Provider,
+    API Service Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-workdocs/actiondescribeusers-get-openapi.md
+- name: AWS WorkDocs API - Describe Users
+  x-api-slug: actiondescribeusers-get
+  description: Describes the specified users.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Enterprise-Applications_AmazonWorkDocs.png
+  humanURL: https://aws.amazon.com/workdocs/
+  baseURL: :///
+  tags: Amazon Web Services, Storage, Documents, Stack Network, API Service Provider,
+    API Service Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-workdocs/actiondescribeusers-get-openapi.md
+- name: AWS WorkDocs API - Describe Users
+  x-api-slug: actiondescribeusers-get
+  description: Describes the specified users.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Enterprise-Applications_AmazonWorkDocs.png
+  humanURL: https://aws.amazon.com/workdocs/
+  baseURL: :///
+  tags: Amazon Web Services, Storage, Documents, Stack Network, API Service Provider,
+    API Service Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-workdocs/actiondescribeusers-get-openapi.md
+- name: AWS WorkDocs API - Describe Users
+  x-api-slug: actiondescribeusers-get
+  description: Describes the specified users.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Enterprise-Applications_AmazonWorkDocs.png
+  humanURL: https://aws.amazon.com/workdocs/
+  baseURL: :///
+  tags: Amazon Web Services, Storage, Documents, Stack Network, API Service Provider,
+    API Service Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-workdocs/actiondescribeusers-get-openapi.md
+- name: AWS WorkDocs API - Describe Users
+  x-api-slug: actiondescribeusers-get
+  description: Describes the specified users.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Enterprise-Applications_AmazonWorkDocs.png
+  humanURL: https://aws.amazon.com/workdocs/
+  baseURL: :///
+  tags: Amazon Web Services, Storage, Documents, Stack Network, API Service Provider,
+    API Service Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-workdocs/actiondescribeusers-get-openapi.md
+- name: AWS WorkDocs API - Describe Users
+  x-api-slug: actiondescribeusers-get
+  description: Describes the specified users.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Enterprise-Applications_AmazonWorkDocs.png
+  humanURL: https://aws.amazon.com/workdocs/
+  baseURL: :///
+  tags: Amazon Web Services, Storage, Documents, Stack Network, API Service Provider,
+    API Service Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-workdocs/actiondescribeusers-get-openapi.md
+- name: AWS WorkDocs API - Describe Users
+  x-api-slug: actiondescribeusers-get
+  description: Describes the specified users.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Enterprise-Applications_AmazonWorkDocs.png
+  humanURL: https://aws.amazon.com/workdocs/
+  baseURL: :///
+  tags: Amazon Web Services, Storage, Documents, Stack Network, API Service Provider,
+    API Service Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-workdocs/actiondescribeusers-get-openapi.md
+- name: AWS WorkDocs API - Describe Users
+  x-api-slug: actiondescribeusers-get
+  description: Describes the specified users.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Enterprise-Applications_AmazonWorkDocs.png
+  humanURL: https://aws.amazon.com/workdocs/
+  baseURL: :///
+  tags: Amazon Web Services, Storage, Documents, Stack Network, API Service Provider,
+    API Service Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-workdocs/actiondescribeusers-get-openapi.md
+- name: AWS WorkDocs API - Describe Users
+  x-api-slug: actiondescribeusers-get
+  description: Describes the specified users.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Enterprise-Applications_AmazonWorkDocs.png
+  humanURL: https://aws.amazon.com/workdocs/
+  baseURL: :///
+  tags: Amazon Web Services, Storage, Documents, Stack Network, API Service Provider,
+    API Service Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-workdocs/actiondescribeusers-get-openapi.md
+- name: AWS WorkDocs API - Describe Folder Contents
+  x-api-slug: actiondescribefoldercontents-get
+  description: Describes the contents of the specified folder, including its documents
+    and sub-folders.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Enterprise-Applications_AmazonWorkDocs.png
+  humanURL: https://aws.amazon.com/workdocs/
+  baseURL: :///
+  tags: Amazon Web Services, Storage, Documents, Stack Network, API Service Provider,
+    API Service Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-workdocs/actiondescribefoldercontents-get-openapi.md
+- name: AWS WorkDocs API - Describe Folder Contents
+  x-api-slug: actiondescribefoldercontents-get
+  description: Describes the contents of the specified folder, including its documents
+    and sub-folders.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Enterprise-Applications_AmazonWorkDocs.png
+  humanURL: https://aws.amazon.com/workdocs/
+  baseURL: :///
+  tags: Amazon Web Services, Storage, Documents, Stack Network, API Service Provider,
+    API Service Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-workdocs/actiondescribefoldercontents-get-openapi.md
+- name: AWS WorkDocs API - Describe Folder Contents
+  x-api-slug: actiondescribefoldercontents-get
+  description: Describes the contents of the specified folder, including its documents
+    and sub-folders.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Enterprise-Applications_AmazonWorkDocs.png
+  humanURL: https://aws.amazon.com/workdocs/
+  baseURL: :///
+  tags: Amazon Web Services, Storage, Documents, Stack Network, API Service Provider,
+    API Service Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-workdocs/actiondescribefoldercontents-get-openapi.md
+- name: AWS WorkDocs API - Describe Folder Contents
+  x-api-slug: actiondescribefoldercontents-get
+  description: Describes the contents of the specified folder, including its documents
+    and sub-folders.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Enterprise-Applications_AmazonWorkDocs.png
+  humanURL: https://aws.amazon.com/workdocs/
+  baseURL: :///
+  tags: Amazon Web Services, Storage, Documents, Stack Network, API Service Provider,
+    API Service Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-workdocs/actiondescribefoldercontents-get-openapi.md
+- name: AWS WorkDocs API - Describe Folder Contents
+  x-api-slug: actiondescribefoldercontents-get
+  description: Describes the contents of the specified folder, including its documents
+    and sub-folders.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Enterprise-Applications_AmazonWorkDocs.png
+  humanURL: https://aws.amazon.com/workdocs/
+  baseURL: :///
+  tags: Amazon Web Services, Storage, Documents, Stack Network, API Service Provider,
+    API Service Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-workdocs/actiondescribefoldercontents-get-openapi.md
+- name: AWS WorkDocs API - Describe Folder Contents
+  x-api-slug: actiondescribefoldercontents-get
+  description: Describes the contents of the specified folder, including its documents
+    and sub-folders.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Enterprise-Applications_AmazonWorkDocs.png
+  humanURL: https://aws.amazon.com/workdocs/
+  baseURL: :///
+  tags: Amazon Web Services, Storage, Documents, Stack Network, API Service Provider,
+    API Service Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-workdocs/actiondescribefoldercontents-get-openapi.md
+- name: AWS WorkDocs API - Describe Folder Contents
+  x-api-slug: actiondescribefoldercontents-get
+  description: Describes the contents of the specified folder, including its documents
+    and sub-folders.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Enterprise-Applications_AmazonWorkDocs.png
+  humanURL: https://aws.amazon.com/workdocs/
+  baseURL: :///
+  tags: Amazon Web Services, Storage, Documents, Stack Network, API Service Provider,
+    API Service Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-workdocs/actiondescribefoldercontents-get-openapi.md
+- name: AWS WorkDocs API - Describe Folder Contents
+  x-api-slug: actiondescribefoldercontents-get
+  description: Describes the contents of the specified folder, including its documents
+    and sub-folders.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Enterprise-Applications_AmazonWorkDocs.png
+  humanURL: https://aws.amazon.com/workdocs/
+  baseURL: :///
+  tags: Amazon Web Services, Storage, Documents, Stack Network, API Service Provider,
+    API Service Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-workdocs/actiondescribefoldercontents-get-openapi.md
+- name: AWS WorkDocs API - Describe Folder Contents
+  x-api-slug: actiondescribefoldercontents-get
+  description: Describes the contents of the specified folder, including its documents
+    and sub-folders.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Enterprise-Applications_AmazonWorkDocs.png
+  humanURL: https://aws.amazon.com/workdocs/
+  baseURL: :///
+  tags: Amazon Web Services, Storage, Documents, Stack Network, API Service Provider,
+    API Service Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-workdocs/actiondescribefoldercontents-get-openapi.md
+- name: AWS WorkDocs API - Describe Folder Contents
+  x-api-slug: actiondescribefoldercontents-get
+  description: Describes the contents of the specified folder, including its documents
+    and sub-folders.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Enterprise-Applications_AmazonWorkDocs.png
+  humanURL: https://aws.amazon.com/workdocs/
+  baseURL: :///
+  tags: Amazon Web Services, Storage, Documents, Stack Network, API Service Provider,
+    API Service Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-workdocs/actiondescribefoldercontents-get-openapi.md
+- name: AWS WorkDocs API - Describe Folder Contents
+  x-api-slug: actiondescribefoldercontents-get
+  description: Describes the contents of the specified folder, including its documents
+    and sub-folders.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Enterprise-Applications_AmazonWorkDocs.png
+  humanURL: https://aws.amazon.com/workdocs/
+  baseURL: :///
+  tags: Amazon Web Services, Storage, Documents, Stack Network, API Service Provider,
+    API Service Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-workdocs/actiondescribefoldercontents-get-openapi.md
+- name: AWS WorkDocs API - Describe Resource Permissions
+  x-api-slug: actiondescriberesourcepermissions-get
+  description: Describes the permissions of a specified resource.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Enterprise-Applications_AmazonWorkDocs.png
+  humanURL: https://aws.amazon.com/workdocs/
+  baseURL: :///
+  tags: Amazon Web Services, Storage, Documents, Stack Network, API Service Provider,
+    API Service Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-workdocs/actiondescriberesourcepermissions-get-openapi.md
+- name: AWS WorkDocs API - Describe Resource Permissions
+  x-api-slug: actiondescriberesourcepermissions-get
+  description: Describes the permissions of a specified resource.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Enterprise-Applications_AmazonWorkDocs.png
+  humanURL: https://aws.amazon.com/workdocs/
+  baseURL: :///
+  tags: Amazon Web Services, Storage, Documents, Stack Network, API Service Provider,
+    API Service Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-workdocs/actiondescriberesourcepermissions-get-openapi.md
+- name: AWS WorkDocs API - Describe Resource Permissions
+  x-api-slug: actiondescriberesourcepermissions-get
+  description: Describes the permissions of a specified resource.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Enterprise-Applications_AmazonWorkDocs.png
+  humanURL: https://aws.amazon.com/workdocs/
+  baseURL: :///
+  tags: Amazon Web Services, Storage, Documents, Stack Network, API Service Provider,
+    API Service Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-workdocs/actiondescriberesourcepermissions-get-openapi.md
+- name: AWS WorkDocs API - Describe Resource Permissions
+  x-api-slug: actiondescriberesourcepermissions-get
+  description: Describes the permissions of a specified resource.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Enterprise-Applications_AmazonWorkDocs.png
+  humanURL: https://aws.amazon.com/workdocs/
+  baseURL: :///
+  tags: Amazon Web Services, Storage, Documents, Stack Network, API Service Provider,
+    API Service Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-workdocs/actiondescriberesourcepermissions-get-openapi.md
+- name: AWS WorkDocs API - Describe Resource Permissions
+  x-api-slug: actiondescriberesourcepermissions-get
+  description: Describes the permissions of a specified resource.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Enterprise-Applications_AmazonWorkDocs.png
+  humanURL: https://aws.amazon.com/workdocs/
+  baseURL: :///
+  tags: Amazon Web Services, Storage, Documents, Stack Network, API Service Provider,
+    API Service Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-workdocs/actiondescriberesourcepermissions-get-openapi.md
+- name: AWS WorkDocs API - Describe Resource Permissions
+  x-api-slug: actiondescriberesourcepermissions-get
+  description: Describes the permissions of a specified resource.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Enterprise-Applications_AmazonWorkDocs.png
+  humanURL: https://aws.amazon.com/workdocs/
+  baseURL: :///
+  tags: Amazon Web Services, Storage, Documents, Stack Network, API Service Provider,
+    API Service Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-workdocs/actiondescriberesourcepermissions-get-openapi.md
+- name: AWS WorkDocs API - Describe Resource Permissions
+  x-api-slug: actiondescriberesourcepermissions-get
+  description: Describes the permissions of a specified resource.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Enterprise-Applications_AmazonWorkDocs.png
+  humanURL: https://aws.amazon.com/workdocs/
+  baseURL: :///
+  tags: Amazon Web Services, Storage, Documents, Stack Network, API Service Provider,
+    API Service Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-workdocs/actiondescriberesourcepermissions-get-openapi.md
+- name: AWS WorkDocs API - Describe Resource Permissions
+  x-api-slug: actiondescriberesourcepermissions-get
+  description: Describes the permissions of a specified resource.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Enterprise-Applications_AmazonWorkDocs.png
+  humanURL: https://aws.amazon.com/workdocs/
+  baseURL: :///
+  tags: Amazon Web Services, Storage, Documents, Stack Network, API Service Provider,
+    API Service Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-workdocs/actiondescriberesourcepermissions-get-openapi.md
+- name: AWS WorkDocs API - Describe Resource Permissions
+  x-api-slug: actiondescriberesourcepermissions-get
+  description: Describes the permissions of a specified resource.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Enterprise-Applications_AmazonWorkDocs.png
+  humanURL: https://aws.amazon.com/workdocs/
+  baseURL: :///
+  tags: Amazon Web Services, Storage, Documents, Stack Network, API Service Provider,
+    API Service Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-workdocs/actiondescriberesourcepermissions-get-openapi.md
+- name: AWS WorkDocs API - Describe Resource Permissions
+  x-api-slug: actiondescriberesourcepermissions-get
+  description: Describes the permissions of a specified resource.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Enterprise-Applications_AmazonWorkDocs.png
+  humanURL: https://aws.amazon.com/workdocs/
+  baseURL: :///
+  tags: Amazon Web Services, Storage, Documents, Stack Network, API Service Provider,
+    API Service Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-workdocs/actiondescriberesourcepermissions-get-openapi.md
+- name: AWS WorkDocs API - Describe Resource Permissions
+  x-api-slug: actiondescriberesourcepermissions-get
+  description: Describes the permissions of a specified resource.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Enterprise-Applications_AmazonWorkDocs.png
+  humanURL: https://aws.amazon.com/workdocs/
+  baseURL: :///
+  tags: Amazon Web Services, Storage, Documents, Stack Network, API Service Provider,
+    API Service Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-workdocs/actiondescriberesourcepermissions-get-openapi.md
+- name: AWS WorkDocs API - Describe Resource Permissions
+  x-api-slug: actiondescriberesourcepermissions-get
+  description: Describes the permissions of a specified resource.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Enterprise-Applications_AmazonWorkDocs.png
+  humanURL: https://aws.amazon.com/workdocs/
+  baseURL: :///
+  tags: Amazon Web Services, Storage, Documents, Stack Network, API Service Provider,
+    API Service Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-workdocs/actiondescriberesourcepermissions-get-openapi.md
+- name: AWS WorkDocs API - Describe Users
+  x-api-slug: actiondescribeusers-get
+  description: Describes the specified users.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Enterprise-Applications_AmazonWorkDocs.png
+  humanURL: https://aws.amazon.com/workdocs/
+  baseURL: :///
+  tags: Amazon Web Services, Storage, Documents, Stack Network, API Service Provider,
+    API Service Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-workdocs/actiondescribeusers-get-openapi.md
+- name: AWS WorkDocs API - Describe Users
+  x-api-slug: actiondescribeusers-get
+  description: Describes the specified users.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Enterprise-Applications_AmazonWorkDocs.png
+  humanURL: https://aws.amazon.com/workdocs/
+  baseURL: :///
+  tags: Amazon Web Services, Storage, Documents, Stack Network, API Service Provider,
+    API Service Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-workdocs/actiondescribeusers-get-openapi.md
+- name: AWS WorkDocs API - Describe Users
+  x-api-slug: actiondescribeusers-get
+  description: Describes the specified users.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Enterprise-Applications_AmazonWorkDocs.png
+  humanURL: https://aws.amazon.com/workdocs/
+  baseURL: :///
+  tags: Amazon Web Services, Storage, Documents, Stack Network, API Service Provider,
+    API Service Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-workdocs/actiondescribeusers-get-openapi.md
+- name: AWS WorkDocs API - Describe Users
+  x-api-slug: actiondescribeusers-get
+  description: Describes the specified users.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Enterprise-Applications_AmazonWorkDocs.png
+  humanURL: https://aws.amazon.com/workdocs/
+  baseURL: :///
+  tags: Amazon Web Services, Storage, Documents, Stack Network, API Service Provider,
+    API Service Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-workdocs/actiondescribeusers-get-openapi.md
+- name: AWS WorkDocs API - Describe Users
+  x-api-slug: actiondescribeusers-get
+  description: Describes the specified users.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Enterprise-Applications_AmazonWorkDocs.png
+  humanURL: https://aws.amazon.com/workdocs/
+  baseURL: :///
+  tags: Amazon Web Services, Storage, Documents, Stack Network, API Service Provider,
+    API Service Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-workdocs/actiondescribeusers-get-openapi.md
+- name: AWS WorkDocs API - Describe Users
+  x-api-slug: actiondescribeusers-get
+  description: Describes the specified users.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Enterprise-Applications_AmazonWorkDocs.png
+  humanURL: https://aws.amazon.com/workdocs/
+  baseURL: :///
+  tags: Amazon Web Services, Storage, Documents, Stack Network, API Service Provider,
+    API Service Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-workdocs/actiondescribeusers-get-openapi.md
+- name: AWS WorkDocs API - Describe Users
+  x-api-slug: actiondescribeusers-get
+  description: Describes the specified users.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Enterprise-Applications_AmazonWorkDocs.png
+  humanURL: https://aws.amazon.com/workdocs/
+  baseURL: :///
+  tags: Amazon Web Services, Storage, Documents, Stack Network, API Service Provider,
+    API Service Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-workdocs/actiondescribeusers-get-openapi.md
+- name: AWS WorkDocs API - Describe Users
+  x-api-slug: actiondescribeusers-get
+  description: Describes the specified users.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Enterprise-Applications_AmazonWorkDocs.png
+  humanURL: https://aws.amazon.com/workdocs/
+  baseURL: :///
+  tags: Amazon Web Services, Storage, Documents, Stack Network, API Service Provider,
+    API Service Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-workdocs/actiondescribeusers-get-openapi.md
+- name: AWS WorkDocs API - Describe Users
+  x-api-slug: actiondescribeusers-get
+  description: Describes the specified users.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Enterprise-Applications_AmazonWorkDocs.png
+  humanURL: https://aws.amazon.com/workdocs/
+  baseURL: :///
+  tags: Amazon Web Services, Storage, Documents, Stack Network, API Service Provider,
+    API Service Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-workdocs/actiondescribeusers-get-openapi.md
+- name: AWS WorkDocs API - Describe Users
+  x-api-slug: actiondescribeusers-get
+  description: Describes the specified users.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Enterprise-Applications_AmazonWorkDocs.png
+  humanURL: https://aws.amazon.com/workdocs/
+  baseURL: :///
+  tags: Amazon Web Services, Storage, Documents, Stack Network, API Service Provider,
+    API Service Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-workdocs/actiondescribeusers-get-openapi.md
+- name: AWS WorkDocs API - Describe Users
+  x-api-slug: actiondescribeusers-get
+  description: Describes the specified users.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Enterprise-Applications_AmazonWorkDocs.png
+  humanURL: https://aws.amazon.com/workdocs/
+  baseURL: :///
+  tags: Amazon Web Services, Storage, Documents, Stack Network, API Service Provider,
+    API Service Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-workdocs/actiondescribeusers-get-openapi.md
+- name: AWS WorkDocs API - Describe Users
+  x-api-slug: actiondescribeusers-get
+  description: Describes the specified users.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Enterprise-Applications_AmazonWorkDocs.png
+  humanURL: https://aws.amazon.com/workdocs/
+  baseURL: :///
+  tags: Amazon Web Services, Storage, Documents, Stack Network, API Service Provider,
+    API Service Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-workdocs/actiondescribeusers-get-openapi.md
 x-common:
 - type: x-api-gallery
   url: http://aws.waf.api.gallery.streamdata.io

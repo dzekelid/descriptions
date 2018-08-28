@@ -1,4 +1,3 @@
----
 swagger: "2.0"
 x-collection-name: AWS Machine Learning
 x-complete: 1
@@ -274,4 +273,3 @@ paths:
       tags:
       - Machine Learning
       - Real Time
----

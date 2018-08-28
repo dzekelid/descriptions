@@ -28,11 +28,371 @@ image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/l
 x-kinRank: "10"
 x-alexaRank: "0"
 tags: Descriptions
-created: "2018-08-26"
-modified: "2018-08-26"
+created: "2018-08-27"
+modified: "2018-08-27"
 url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-cloudhsm/apis.md
 specificationVersion: "0.14"
-apis: []
+apis:
+- name: AWS CloudHSM API - Describe HAPG
+  x-api-slug: actiondescribehapg-get
+  description: Retrieves information about a high-availability partition group.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Security-Identity_AWSCloudHSM.png
+  humanURL: https://aws.amazon.com/cloudhsm/
+  baseURL: :///
+  tags: Amazon Web Services, Contracts, Regulations, Management, Encryption, Stack
+    Network, API Service Provider, API Service Provider, API Provider, Profiles, Relative
+    Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-cloudhsm/actiondescribehapg-get-openapi.md
+- name: AWS CloudHSM API - Describe HAPG
+  x-api-slug: actiondescribehapg-get
+  description: Retrieves information about a high-availability partition group.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Security-Identity_AWSCloudHSM.png
+  humanURL: https://aws.amazon.com/cloudhsm/
+  baseURL: :///
+  tags: Amazon Web Services, Contracts, Regulations, Management, Encryption, Stack
+    Network, API Service Provider, API Service Provider, API Provider, Profiles, Relative
+    Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-cloudhsm/actiondescribehapg-get-openapi.md
+- name: AWS CloudHSM API - Describe HSM
+  x-api-slug: actiondescribehsm-get
+  description: Retrieves information about an HSM.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Security-Identity_AWSCloudHSM.png
+  humanURL: https://aws.amazon.com/cloudhsm/
+  baseURL: :///
+  tags: Amazon Web Services, Contracts, Regulations, Management, Encryption, Stack
+    Network, API Service Provider, API Service Provider, API Provider, Profiles, Relative
+    Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-cloudhsm/actiondescribehsm-get-openapi.md
+- name: AWS CloudHSM API - Describe HSM
+  x-api-slug: actiondescribehsm-get
+  description: Retrieves information about an HSM.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Security-Identity_AWSCloudHSM.png
+  humanURL: https://aws.amazon.com/cloudhsm/
+  baseURL: :///
+  tags: Amazon Web Services, Contracts, Regulations, Management, Encryption, Stack
+    Network, API Service Provider, API Service Provider, API Provider, Profiles, Relative
+    Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-cloudhsm/actiondescribehsm-get-openapi.md
+- name: AWS CloudHSM API - Describe Luna Client
+  x-api-slug: actiondescribelunaclient-get
+  description: Retrieves information about an HSM client.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Security-Identity_AWSCloudHSM.png
+  humanURL: https://aws.amazon.com/cloudhsm/
+  baseURL: :///
+  tags: Amazon Web Services, Contracts, Regulations, Management, Encryption, Stack
+    Network, API Service Provider, API Service Provider, API Provider, Profiles, Relative
+    Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-cloudhsm/actiondescribelunaclient-get-openapi.md
+- name: AWS CloudHSM API - Describe Luna Client
+  x-api-slug: actiondescribelunaclient-get
+  description: Retrieves information about an HSM client.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Security-Identity_AWSCloudHSM.png
+  humanURL: https://aws.amazon.com/cloudhsm/
+  baseURL: :///
+  tags: Amazon Web Services, Contracts, Regulations, Management, Encryption, Stack
+    Network, API Service Provider, API Service Provider, API Provider, Profiles, Relative
+    Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-cloudhsm/actiondescribelunaclient-get-openapi.md
+- name: AWS CloudHSM API - Describe HAPG
+  x-api-slug: actiondescribehapg-get
+  description: Retrieves information about a high-availability partition group.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Security-Identity_AWSCloudHSM.png
+  humanURL: https://aws.amazon.com/cloudhsm/
+  baseURL: :///
+  tags: Amazon Web Services, Contracts, Regulations, Management, Encryption, Stack
+    Network, API Service Provider, API Service Provider, API Provider, Profiles, Relative
+    Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-cloudhsm/actiondescribehapg-get-openapi.md
+- name: AWS CloudHSM API - Describe HAPG
+  x-api-slug: actiondescribehapg-get
+  description: Retrieves information about a high-availability partition group.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Security-Identity_AWSCloudHSM.png
+  humanURL: https://aws.amazon.com/cloudhsm/
+  baseURL: :///
+  tags: Amazon Web Services, Contracts, Regulations, Management, Encryption, Stack
+    Network, API Service Provider, API Service Provider, API Provider, Profiles, Relative
+    Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-cloudhsm/actiondescribehapg-get-openapi.md
+- name: AWS CloudHSM API - Describe HAPG
+  x-api-slug: actiondescribehapg-get
+  description: Retrieves information about a high-availability partition group.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Security-Identity_AWSCloudHSM.png
+  humanURL: https://aws.amazon.com/cloudhsm/
+  baseURL: :///
+  tags: Amazon Web Services, Contracts, Regulations, Management, Encryption, Stack
+    Network, API Service Provider, API Service Provider, API Provider, Profiles, Relative
+    Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-cloudhsm/actiondescribehapg-get-openapi.md
+- name: AWS CloudHSM API - Describe HAPG
+  x-api-slug: actiondescribehapg-get
+  description: Retrieves information about a high-availability partition group.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Security-Identity_AWSCloudHSM.png
+  humanURL: https://aws.amazon.com/cloudhsm/
+  baseURL: :///
+  tags: Amazon Web Services, Contracts, Regulations, Management, Encryption, Stack
+    Network, API Service Provider, API Service Provider, API Provider, Profiles, Relative
+    Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-cloudhsm/actiondescribehapg-get-openapi.md
+- name: AWS CloudHSM API - Describe HAPG
+  x-api-slug: actiondescribehapg-get
+  description: Retrieves information about a high-availability partition group.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Security-Identity_AWSCloudHSM.png
+  humanURL: https://aws.amazon.com/cloudhsm/
+  baseURL: :///
+  tags: Amazon Web Services, Contracts, Regulations, Management, Encryption, Stack
+    Network, API Service Provider, API Service Provider, API Provider, Profiles, Relative
+    Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-cloudhsm/actiondescribehapg-get-openapi.md
+- name: AWS CloudHSM API - Describe HAPG
+  x-api-slug: actiondescribehapg-get
+  description: Retrieves information about a high-availability partition group.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Security-Identity_AWSCloudHSM.png
+  humanURL: https://aws.amazon.com/cloudhsm/
+  baseURL: :///
+  tags: Amazon Web Services, Contracts, Regulations, Management, Encryption, Stack
+    Network, API Service Provider, API Service Provider, API Provider, Profiles, Relative
+    Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-cloudhsm/actiondescribehapg-get-openapi.md
+- name: AWS CloudHSM API - Describe HAPG
+  x-api-slug: actiondescribehapg-get
+  description: Retrieves information about a high-availability partition group.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Security-Identity_AWSCloudHSM.png
+  humanURL: https://aws.amazon.com/cloudhsm/
+  baseURL: :///
+  tags: Amazon Web Services, Contracts, Regulations, Management, Encryption, Stack
+    Network, API Service Provider, API Service Provider, API Provider, Profiles, Relative
+    Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-cloudhsm/actiondescribehapg-get-openapi.md
+- name: AWS CloudHSM API - Describe HAPG
+  x-api-slug: actiondescribehapg-get
+  description: Retrieves information about a high-availability partition group.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Security-Identity_AWSCloudHSM.png
+  humanURL: https://aws.amazon.com/cloudhsm/
+  baseURL: :///
+  tags: Amazon Web Services, Contracts, Regulations, Management, Encryption, Stack
+    Network, API Service Provider, API Service Provider, API Provider, Profiles, Relative
+    Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-cloudhsm/actiondescribehapg-get-openapi.md
+- name: AWS CloudHSM API - Describe HSM
+  x-api-slug: actiondescribehsm-get
+  description: Retrieves information about an HSM.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Security-Identity_AWSCloudHSM.png
+  humanURL: https://aws.amazon.com/cloudhsm/
+  baseURL: :///
+  tags: Amazon Web Services, Contracts, Regulations, Management, Encryption, Stack
+    Network, API Service Provider, API Service Provider, API Provider, Profiles, Relative
+    Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-cloudhsm/actiondescribehsm-get-openapi.md
+- name: AWS CloudHSM API - Describe HSM
+  x-api-slug: actiondescribehsm-get
+  description: Retrieves information about an HSM.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Security-Identity_AWSCloudHSM.png
+  humanURL: https://aws.amazon.com/cloudhsm/
+  baseURL: :///
+  tags: Amazon Web Services, Contracts, Regulations, Management, Encryption, Stack
+    Network, API Service Provider, API Service Provider, API Provider, Profiles, Relative
+    Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-cloudhsm/actiondescribehsm-get-openapi.md
+- name: AWS CloudHSM API - Describe HSM
+  x-api-slug: actiondescribehsm-get
+  description: Retrieves information about an HSM.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Security-Identity_AWSCloudHSM.png
+  humanURL: https://aws.amazon.com/cloudhsm/
+  baseURL: :///
+  tags: Amazon Web Services, Contracts, Regulations, Management, Encryption, Stack
+    Network, API Service Provider, API Service Provider, API Provider, Profiles, Relative
+    Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-cloudhsm/actiondescribehsm-get-openapi.md
+- name: AWS CloudHSM API - Describe HSM
+  x-api-slug: actiondescribehsm-get
+  description: Retrieves information about an HSM.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Security-Identity_AWSCloudHSM.png
+  humanURL: https://aws.amazon.com/cloudhsm/
+  baseURL: :///
+  tags: Amazon Web Services, Contracts, Regulations, Management, Encryption, Stack
+    Network, API Service Provider, API Service Provider, API Provider, Profiles, Relative
+    Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-cloudhsm/actiondescribehsm-get-openapi.md
+- name: AWS CloudHSM API - Describe HSM
+  x-api-slug: actiondescribehsm-get
+  description: Retrieves information about an HSM.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Security-Identity_AWSCloudHSM.png
+  humanURL: https://aws.amazon.com/cloudhsm/
+  baseURL: :///
+  tags: Amazon Web Services, Contracts, Regulations, Management, Encryption, Stack
+    Network, API Service Provider, API Service Provider, API Provider, Profiles, Relative
+    Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-cloudhsm/actiondescribehsm-get-openapi.md
+- name: AWS CloudHSM API - Describe HSM
+  x-api-slug: actiondescribehsm-get
+  description: Retrieves information about an HSM.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Security-Identity_AWSCloudHSM.png
+  humanURL: https://aws.amazon.com/cloudhsm/
+  baseURL: :///
+  tags: Amazon Web Services, Contracts, Regulations, Management, Encryption, Stack
+    Network, API Service Provider, API Service Provider, API Provider, Profiles, Relative
+    Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-cloudhsm/actiondescribehsm-get-openapi.md
+- name: AWS CloudHSM API - Describe HSM
+  x-api-slug: actiondescribehsm-get
+  description: Retrieves information about an HSM.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Security-Identity_AWSCloudHSM.png
+  humanURL: https://aws.amazon.com/cloudhsm/
+  baseURL: :///
+  tags: Amazon Web Services, Contracts, Regulations, Management, Encryption, Stack
+    Network, API Service Provider, API Service Provider, API Provider, Profiles, Relative
+    Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-cloudhsm/actiondescribehsm-get-openapi.md
+- name: AWS CloudHSM API - Describe HSM
+  x-api-slug: actiondescribehsm-get
+  description: Retrieves information about an HSM.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Security-Identity_AWSCloudHSM.png
+  humanURL: https://aws.amazon.com/cloudhsm/
+  baseURL: :///
+  tags: Amazon Web Services, Contracts, Regulations, Management, Encryption, Stack
+    Network, API Service Provider, API Service Provider, API Provider, Profiles, Relative
+    Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-cloudhsm/actiondescribehsm-get-openapi.md
+- name: AWS CloudHSM API - Describe Luna Client
+  x-api-slug: actiondescribelunaclient-get
+  description: Retrieves information about an HSM client.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Security-Identity_AWSCloudHSM.png
+  humanURL: https://aws.amazon.com/cloudhsm/
+  baseURL: :///
+  tags: Amazon Web Services, Contracts, Regulations, Management, Encryption, Stack
+    Network, API Service Provider, API Service Provider, API Provider, Profiles, Relative
+    Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-cloudhsm/actiondescribelunaclient-get-openapi.md
+- name: AWS CloudHSM API - Describe Luna Client
+  x-api-slug: actiondescribelunaclient-get
+  description: Retrieves information about an HSM client.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Security-Identity_AWSCloudHSM.png
+  humanURL: https://aws.amazon.com/cloudhsm/
+  baseURL: :///
+  tags: Amazon Web Services, Contracts, Regulations, Management, Encryption, Stack
+    Network, API Service Provider, API Service Provider, API Provider, Profiles, Relative
+    Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-cloudhsm/actiondescribelunaclient-get-openapi.md
+- name: AWS CloudHSM API - Describe Luna Client
+  x-api-slug: actiondescribelunaclient-get
+  description: Retrieves information about an HSM client.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Security-Identity_AWSCloudHSM.png
+  humanURL: https://aws.amazon.com/cloudhsm/
+  baseURL: :///
+  tags: Amazon Web Services, Contracts, Regulations, Management, Encryption, Stack
+    Network, API Service Provider, API Service Provider, API Provider, Profiles, Relative
+    Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-cloudhsm/actiondescribelunaclient-get-openapi.md
+- name: AWS CloudHSM API - Describe Luna Client
+  x-api-slug: actiondescribelunaclient-get
+  description: Retrieves information about an HSM client.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Security-Identity_AWSCloudHSM.png
+  humanURL: https://aws.amazon.com/cloudhsm/
+  baseURL: :///
+  tags: Amazon Web Services, Contracts, Regulations, Management, Encryption, Stack
+    Network, API Service Provider, API Service Provider, API Provider, Profiles, Relative
+    Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-cloudhsm/actiondescribelunaclient-get-openapi.md
+- name: AWS CloudHSM API - Describe Luna Client
+  x-api-slug: actiondescribelunaclient-get
+  description: Retrieves information about an HSM client.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Security-Identity_AWSCloudHSM.png
+  humanURL: https://aws.amazon.com/cloudhsm/
+  baseURL: :///
+  tags: Amazon Web Services, Contracts, Regulations, Management, Encryption, Stack
+    Network, API Service Provider, API Service Provider, API Provider, Profiles, Relative
+    Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-cloudhsm/actiondescribelunaclient-get-openapi.md
+- name: AWS CloudHSM API - Describe Luna Client
+  x-api-slug: actiondescribelunaclient-get
+  description: Retrieves information about an HSM client.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Security-Identity_AWSCloudHSM.png
+  humanURL: https://aws.amazon.com/cloudhsm/
+  baseURL: :///
+  tags: Amazon Web Services, Contracts, Regulations, Management, Encryption, Stack
+    Network, API Service Provider, API Service Provider, API Provider, Profiles, Relative
+    Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-cloudhsm/actiondescribelunaclient-get-openapi.md
+- name: AWS CloudHSM API - Describe Luna Client
+  x-api-slug: actiondescribelunaclient-get
+  description: Retrieves information about an HSM client.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Security-Identity_AWSCloudHSM.png
+  humanURL: https://aws.amazon.com/cloudhsm/
+  baseURL: :///
+  tags: Amazon Web Services, Contracts, Regulations, Management, Encryption, Stack
+    Network, API Service Provider, API Service Provider, API Provider, Profiles, Relative
+    Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-cloudhsm/actiondescribelunaclient-get-openapi.md
+- name: AWS CloudHSM API - Describe Luna Client
+  x-api-slug: actiondescribelunaclient-get
+  description: Retrieves information about an HSM client.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Security-Identity_AWSCloudHSM.png
+  humanURL: https://aws.amazon.com/cloudhsm/
+  baseURL: :///
+  tags: Amazon Web Services, Contracts, Regulations, Management, Encryption, Stack
+    Network, API Service Provider, API Service Provider, API Provider, Profiles, Relative
+    Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-cloudhsm/actiondescribelunaclient-get-openapi.md
 x-common:
 - type: x-api-gallery
   url: http://aws.cloudfront.api.gallery.streamdata.io

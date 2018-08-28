@@ -15,8 +15,8 @@ image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/l
 x-kinRank: "10"
 x-alexaRank: "0"
 tags: Descriptions
-created: "2018-08-26"
-modified: "2018-08-26"
+created: "2018-08-27"
+modified: "2018-08-27"
 url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-directory-service/apis.md
 specificationVersion: "0.14"
 apis:
@@ -34,6 +34,70 @@ apis:
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-directory-service/actiondescribeconditionalforwarders-get-postman.md
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-directory-service/actiondescribeconditionalforwarders-get-openapi.md
+- name: AWS Directory Service API - Describe Directories
+  x-api-slug: actiondescribedirectories-get
+  description: Obtains information about the directories that belong to this account.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Security-Identity_AWSDirectoryService.png
+  humanURL: https://aws.amazon.com/directoryservice/
+  baseURL: :///
+  tags: Amazon Web Services, Discovery, Authentication, Security, Stack Network, API
+    Service Provider, API Service Provider, API Provider, Profiles, Relative Data,
+    Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-directory-service/actiondescribedirectories-get-openapi.md
+- name: AWS Directory Service API - Describe Event Topics
+  x-api-slug: actiondescribeeventtopics-get
+  description: Obtains information about which SNS topics receive status messages
+    from the specified directory.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Security-Identity_AWSDirectoryService.png
+  humanURL: https://aws.amazon.com/directoryservice/
+  baseURL: :///
+  tags: Amazon Web Services, Discovery, Authentication, Security, Stack Network, API
+    Service Provider, API Service Provider, API Provider, Profiles, Relative Data,
+    Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-directory-service/actiondescribeeventtopics-get-openapi.md
+- name: AWS Directory Service API - Describe Event Topics
+  x-api-slug: actiondescribeeventtopics-get
+  description: Obtains information about which SNS topics receive status messages
+    from the specified directory.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Security-Identity_AWSDirectoryService.png
+  humanURL: https://aws.amazon.com/directoryservice/
+  baseURL: :///
+  tags: Amazon Web Services, Discovery, Authentication, Security, Stack Network, API
+    Service Provider, API Service Provider, API Provider, Profiles, Relative Data,
+    Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-directory-service/actiondescribeeventtopics-get-openapi.md
+- name: AWS Directory Service API - Describe Snapshots
+  x-api-slug: actiondescribesnapshots-get
+  description: Obtains information about the directory snapshots that belong to this
+    account.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Security-Identity_AWSDirectoryService.png
+  humanURL: https://aws.amazon.com/directoryservice/
+  baseURL: :///
+  tags: Amazon Web Services, Discovery, Authentication, Security, Stack Network, API
+    Service Provider, API Service Provider, API Provider, Profiles, Relative Data,
+    Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-directory-service/actiondescribesnapshots-get-openapi.md
+- name: AWS Directory Service API - Describe Snapshots
+  x-api-slug: actiondescribesnapshots-get
+  description: Obtains information about the directory snapshots that belong to this
+    account.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Security-Identity_AWSDirectoryService.png
+  humanURL: https://aws.amazon.com/directoryservice/
+  baseURL: :///
+  tags: Amazon Web Services, Discovery, Authentication, Security, Stack Network, API
+    Service Provider, API Service Provider, API Provider, Profiles, Relative Data,
+    Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-directory-service/actiondescribesnapshots-get-openapi.md
 - name: AWS Directory Service API - Describe Trusts
   x-api-slug: actiondescribetrusts-get
   description: Obtains information about the trust relationships for this account.
@@ -160,6 +224,323 @@ apis:
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-directory-service/actiondescribeconditionalforwarders-get-postman.md
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-directory-service/actiondescribeconditionalforwarders-get-openapi.md
+- name: AWS Directory Service API - Describe Directories
+  x-api-slug: actiondescribedirectories-get
+  description: Obtains information about the directories that belong to this account.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Security-Identity_AWSDirectoryService.png
+  humanURL: https://aws.amazon.com/directoryservice/
+  baseURL: :///
+  tags: Amazon Web Services, Discovery, Authentication, Security, Stack Network, API
+    Service Provider, API Service Provider, API Provider, Profiles, Relative Data,
+    Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-directory-service/actiondescribedirectories-get-openapi.md
+- name: AWS Directory Service API - Describe Directories
+  x-api-slug: actiondescribedirectories-get
+  description: Obtains information about the directories that belong to this account.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Security-Identity_AWSDirectoryService.png
+  humanURL: https://aws.amazon.com/directoryservice/
+  baseURL: :///
+  tags: Amazon Web Services, Discovery, Authentication, Security, Stack Network, API
+    Service Provider, API Service Provider, API Provider, Profiles, Relative Data,
+    Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-directory-service/actiondescribedirectories-get-openapi.md
+- name: AWS Directory Service API - Describe Directories
+  x-api-slug: actiondescribedirectories-get
+  description: Obtains information about the directories that belong to this account.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Security-Identity_AWSDirectoryService.png
+  humanURL: https://aws.amazon.com/directoryservice/
+  baseURL: :///
+  tags: Amazon Web Services, Discovery, Authentication, Security, Stack Network, API
+    Service Provider, API Service Provider, API Provider, Profiles, Relative Data,
+    Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-directory-service/actiondescribedirectories-get-openapi.md
+- name: AWS Directory Service API - Describe Directories
+  x-api-slug: actiondescribedirectories-get
+  description: Obtains information about the directories that belong to this account.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Security-Identity_AWSDirectoryService.png
+  humanURL: https://aws.amazon.com/directoryservice/
+  baseURL: :///
+  tags: Amazon Web Services, Discovery, Authentication, Security, Stack Network, API
+    Service Provider, API Service Provider, API Provider, Profiles, Relative Data,
+    Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-directory-service/actiondescribedirectories-get-openapi.md
+- name: AWS Directory Service API - Describe Directories
+  x-api-slug: actiondescribedirectories-get
+  description: Obtains information about the directories that belong to this account.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Security-Identity_AWSDirectoryService.png
+  humanURL: https://aws.amazon.com/directoryservice/
+  baseURL: :///
+  tags: Amazon Web Services, Discovery, Authentication, Security, Stack Network, API
+    Service Provider, API Service Provider, API Provider, Profiles, Relative Data,
+    Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-directory-service/actiondescribedirectories-get-openapi.md
+- name: AWS Directory Service API - Describe Directories
+  x-api-slug: actiondescribedirectories-get
+  description: Obtains information about the directories that belong to this account.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Security-Identity_AWSDirectoryService.png
+  humanURL: https://aws.amazon.com/directoryservice/
+  baseURL: :///
+  tags: Amazon Web Services, Discovery, Authentication, Security, Stack Network, API
+    Service Provider, API Service Provider, API Provider, Profiles, Relative Data,
+    Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-directory-service/actiondescribedirectories-get-openapi.md
+- name: AWS Directory Service API - Describe Directories
+  x-api-slug: actiondescribedirectories-get
+  description: Obtains information about the directories that belong to this account.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Security-Identity_AWSDirectoryService.png
+  humanURL: https://aws.amazon.com/directoryservice/
+  baseURL: :///
+  tags: Amazon Web Services, Discovery, Authentication, Security, Stack Network, API
+    Service Provider, API Service Provider, API Provider, Profiles, Relative Data,
+    Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-directory-service/actiondescribedirectories-get-openapi.md
+- name: AWS Directory Service API - Describe Directories
+  x-api-slug: actiondescribedirectories-get
+  description: Obtains information about the directories that belong to this account.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Security-Identity_AWSDirectoryService.png
+  humanURL: https://aws.amazon.com/directoryservice/
+  baseURL: :///
+  tags: Amazon Web Services, Discovery, Authentication, Security, Stack Network, API
+    Service Provider, API Service Provider, API Provider, Profiles, Relative Data,
+    Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-directory-service/actiondescribedirectories-get-openapi.md
+- name: AWS Directory Service API - Describe Event Topics
+  x-api-slug: actiondescribeeventtopics-get
+  description: Obtains information about which SNS topics receive status messages
+    from the specified directory.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Security-Identity_AWSDirectoryService.png
+  humanURL: https://aws.amazon.com/directoryservice/
+  baseURL: :///
+  tags: Amazon Web Services, Discovery, Authentication, Security, Stack Network, API
+    Service Provider, API Service Provider, API Provider, Profiles, Relative Data,
+    Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-directory-service/actiondescribeeventtopics-get-openapi.md
+- name: AWS Directory Service API - Describe Event Topics
+  x-api-slug: actiondescribeeventtopics-get
+  description: Obtains information about which SNS topics receive status messages
+    from the specified directory.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Security-Identity_AWSDirectoryService.png
+  humanURL: https://aws.amazon.com/directoryservice/
+  baseURL: :///
+  tags: Amazon Web Services, Discovery, Authentication, Security, Stack Network, API
+    Service Provider, API Service Provider, API Provider, Profiles, Relative Data,
+    Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-directory-service/actiondescribeeventtopics-get-openapi.md
+- name: AWS Directory Service API - Describe Event Topics
+  x-api-slug: actiondescribeeventtopics-get
+  description: Obtains information about which SNS topics receive status messages
+    from the specified directory.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Security-Identity_AWSDirectoryService.png
+  humanURL: https://aws.amazon.com/directoryservice/
+  baseURL: :///
+  tags: Amazon Web Services, Discovery, Authentication, Security, Stack Network, API
+    Service Provider, API Service Provider, API Provider, Profiles, Relative Data,
+    Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-directory-service/actiondescribeeventtopics-get-openapi.md
+- name: AWS Directory Service API - Describe Event Topics
+  x-api-slug: actiondescribeeventtopics-get
+  description: Obtains information about which SNS topics receive status messages
+    from the specified directory.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Security-Identity_AWSDirectoryService.png
+  humanURL: https://aws.amazon.com/directoryservice/
+  baseURL: :///
+  tags: Amazon Web Services, Discovery, Authentication, Security, Stack Network, API
+    Service Provider, API Service Provider, API Provider, Profiles, Relative Data,
+    Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-directory-service/actiondescribeeventtopics-get-openapi.md
+- name: AWS Directory Service API - Describe Event Topics
+  x-api-slug: actiondescribeeventtopics-get
+  description: Obtains information about which SNS topics receive status messages
+    from the specified directory.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Security-Identity_AWSDirectoryService.png
+  humanURL: https://aws.amazon.com/directoryservice/
+  baseURL: :///
+  tags: Amazon Web Services, Discovery, Authentication, Security, Stack Network, API
+    Service Provider, API Service Provider, API Provider, Profiles, Relative Data,
+    Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-directory-service/actiondescribeeventtopics-get-openapi.md
+- name: AWS Directory Service API - Describe Event Topics
+  x-api-slug: actiondescribeeventtopics-get
+  description: Obtains information about which SNS topics receive status messages
+    from the specified directory.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Security-Identity_AWSDirectoryService.png
+  humanURL: https://aws.amazon.com/directoryservice/
+  baseURL: :///
+  tags: Amazon Web Services, Discovery, Authentication, Security, Stack Network, API
+    Service Provider, API Service Provider, API Provider, Profiles, Relative Data,
+    Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-directory-service/actiondescribeeventtopics-get-openapi.md
+- name: AWS Directory Service API - Describe Event Topics
+  x-api-slug: actiondescribeeventtopics-get
+  description: Obtains information about which SNS topics receive status messages
+    from the specified directory.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Security-Identity_AWSDirectoryService.png
+  humanURL: https://aws.amazon.com/directoryservice/
+  baseURL: :///
+  tags: Amazon Web Services, Discovery, Authentication, Security, Stack Network, API
+    Service Provider, API Service Provider, API Provider, Profiles, Relative Data,
+    Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-directory-service/actiondescribeeventtopics-get-openapi.md
+- name: AWS Directory Service API - Describe Event Topics
+  x-api-slug: actiondescribeeventtopics-get
+  description: Obtains information about which SNS topics receive status messages
+    from the specified directory.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Security-Identity_AWSDirectoryService.png
+  humanURL: https://aws.amazon.com/directoryservice/
+  baseURL: :///
+  tags: Amazon Web Services, Discovery, Authentication, Security, Stack Network, API
+    Service Provider, API Service Provider, API Provider, Profiles, Relative Data,
+    Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-directory-service/actiondescribeeventtopics-get-openapi.md
+- name: AWS Directory Service API - Describe Snapshots
+  x-api-slug: actiondescribesnapshots-get
+  description: Obtains information about the directory snapshots that belong to this
+    account.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Security-Identity_AWSDirectoryService.png
+  humanURL: https://aws.amazon.com/directoryservice/
+  baseURL: :///
+  tags: Amazon Web Services, Discovery, Authentication, Security, Stack Network, API
+    Service Provider, API Service Provider, API Provider, Profiles, Relative Data,
+    Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-directory-service/actiondescribesnapshots-get-openapi.md
+- name: AWS Directory Service API - Describe Snapshots
+  x-api-slug: actiondescribesnapshots-get
+  description: Obtains information about the directory snapshots that belong to this
+    account.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Security-Identity_AWSDirectoryService.png
+  humanURL: https://aws.amazon.com/directoryservice/
+  baseURL: :///
+  tags: Amazon Web Services, Discovery, Authentication, Security, Stack Network, API
+    Service Provider, API Service Provider, API Provider, Profiles, Relative Data,
+    Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-directory-service/actiondescribesnapshots-get-openapi.md
+- name: AWS Directory Service API - Describe Snapshots
+  x-api-slug: actiondescribesnapshots-get
+  description: Obtains information about the directory snapshots that belong to this
+    account.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Security-Identity_AWSDirectoryService.png
+  humanURL: https://aws.amazon.com/directoryservice/
+  baseURL: :///
+  tags: Amazon Web Services, Discovery, Authentication, Security, Stack Network, API
+    Service Provider, API Service Provider, API Provider, Profiles, Relative Data,
+    Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-directory-service/actiondescribesnapshots-get-openapi.md
+- name: AWS Directory Service API - Describe Snapshots
+  x-api-slug: actiondescribesnapshots-get
+  description: Obtains information about the directory snapshots that belong to this
+    account.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Security-Identity_AWSDirectoryService.png
+  humanURL: https://aws.amazon.com/directoryservice/
+  baseURL: :///
+  tags: Amazon Web Services, Discovery, Authentication, Security, Stack Network, API
+    Service Provider, API Service Provider, API Provider, Profiles, Relative Data,
+    Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-directory-service/actiondescribesnapshots-get-openapi.md
+- name: AWS Directory Service API - Describe Snapshots
+  x-api-slug: actiondescribesnapshots-get
+  description: Obtains information about the directory snapshots that belong to this
+    account.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Security-Identity_AWSDirectoryService.png
+  humanURL: https://aws.amazon.com/directoryservice/
+  baseURL: :///
+  tags: Amazon Web Services, Discovery, Authentication, Security, Stack Network, API
+    Service Provider, API Service Provider, API Provider, Profiles, Relative Data,
+    Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-directory-service/actiondescribesnapshots-get-openapi.md
+- name: AWS Directory Service API - Describe Snapshots
+  x-api-slug: actiondescribesnapshots-get
+  description: Obtains information about the directory snapshots that belong to this
+    account.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Security-Identity_AWSDirectoryService.png
+  humanURL: https://aws.amazon.com/directoryservice/
+  baseURL: :///
+  tags: Amazon Web Services, Discovery, Authentication, Security, Stack Network, API
+    Service Provider, API Service Provider, API Provider, Profiles, Relative Data,
+    Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-directory-service/actiondescribesnapshots-get-openapi.md
+- name: AWS Directory Service API - Describe Snapshots
+  x-api-slug: actiondescribesnapshots-get
+  description: Obtains information about the directory snapshots that belong to this
+    account.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Security-Identity_AWSDirectoryService.png
+  humanURL: https://aws.amazon.com/directoryservice/
+  baseURL: :///
+  tags: Amazon Web Services, Discovery, Authentication, Security, Stack Network, API
+    Service Provider, API Service Provider, API Provider, Profiles, Relative Data,
+    Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-directory-service/actiondescribesnapshots-get-openapi.md
+- name: AWS Directory Service API - Describe Snapshots
+  x-api-slug: actiondescribesnapshots-get
+  description: Obtains information about the directory snapshots that belong to this
+    account.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Security-Identity_AWSDirectoryService.png
+  humanURL: https://aws.amazon.com/directoryservice/
+  baseURL: :///
+  tags: Amazon Web Services, Discovery, Authentication, Security, Stack Network, API
+    Service Provider, API Service Provider, API Provider, Profiles, Relative Data,
+    Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-directory-service/actiondescribesnapshots-get-openapi.md
+- name: AWS Directory Service API - Describe Snapshots
+  x-api-slug: actiondescribesnapshots-get
+  description: Obtains information about the directory snapshots that belong to this
+    account.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Security-Identity_AWSDirectoryService.png
+  humanURL: https://aws.amazon.com/directoryservice/
+  baseURL: :///
+  tags: Amazon Web Services, Discovery, Authentication, Security, Stack Network, API
+    Service Provider, API Service Provider, API Provider, Profiles, Relative Data,
+    Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-directory-service/actiondescribesnapshots-get-openapi.md
 - name: AWS Directory Service API - Describe Trusts
   x-api-slug: actiondescribetrusts-get
   description: Obtains information about the trust relationships for this account.

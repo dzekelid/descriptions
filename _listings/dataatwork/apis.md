@@ -7,8 +7,8 @@ image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/l
 x-kinRank: "8"
 x-alexaRank: "0"
 tags: Descriptions
-created: "2018-08-26"
-modified: "2018-08-26"
+created: "2018-08-27"
+modified: "2018-08-27"
 url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/dataatwork/apis.md
 specificationVersion: "0.14"
 apis:
@@ -355,6 +355,216 @@ apis:
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/dataatwork/skillsid-get-postman.md
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/dataatwork/skillsid-get-openapi.md
+- name: Open Skills API - Skill Name and Description
+  x-api-slug: skillsid-get
+  description: Retrieves the name, description, and UUID of a job by specifying its
+    UUID.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Screen
+    Shot 2016-10-12 at 11.19.25 PM.png
+  humanURL: http://www.dataatwork.org/
+  baseURL: ://api.dataatwork.org//v1
+  tags: Federal Government, Careers, Skills, API Service Provider, Profiles, General
+    Data
+  properties:
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/dataatwork/skillsid-get-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/dataatwork/skillsid-get-openapi.md
+- name: Open Skills API - Skill Name and Description
+  x-api-slug: skillsid-get
+  description: Retrieves the name, description, and UUID of a job by specifying its
+    UUID.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Screen
+    Shot 2016-10-12 at 11.19.25 PM.png
+  humanURL: http://www.dataatwork.org/
+  baseURL: ://api.dataatwork.org//v1
+  tags: Federal Government, Careers, Skills, API Service Provider, Profiles, General
+    Data
+  properties:
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/dataatwork/skillsid-get-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/dataatwork/skillsid-get-openapi.md
+- name: Open Skills API - Skill Name and Description
+  x-api-slug: skillsid-get
+  description: Retrieves the name, description, and UUID of a job by specifying its
+    UUID.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Screen
+    Shot 2016-10-12 at 11.19.25 PM.png
+  humanURL: http://www.dataatwork.org/
+  baseURL: ://api.dataatwork.org//v1
+  tags: Federal Government, Careers, Skills, API Service Provider, Profiles, General
+    Data
+  properties:
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/dataatwork/skillsid-get-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/dataatwork/skillsid-get-openapi.md
+- name: Open Skills API - Skill Name and Description
+  x-api-slug: skillsid-get
+  description: Retrieves the name, description, and UUID of a job by specifying its
+    UUID.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Screen
+    Shot 2016-10-12 at 11.19.25 PM.png
+  humanURL: http://www.dataatwork.org/
+  baseURL: ://api.dataatwork.org//v1
+  tags: Federal Government, Careers, Skills, API Service Provider, Profiles, General
+    Data
+  properties:
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/dataatwork/skillsid-get-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/dataatwork/skillsid-get-openapi.md
+- name: Open Skills API - Skill Name and Description
+  x-api-slug: skillsid-get
+  description: Retrieves the name, description, and UUID of a job by specifying its
+    UUID.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Screen
+    Shot 2016-10-12 at 11.19.25 PM.png
+  humanURL: http://www.dataatwork.org/
+  baseURL: ://api.dataatwork.org//v1
+  tags: Federal Government, Careers, Skills, API Service Provider, Profiles, General
+    Data
+  properties:
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/dataatwork/skillsid-get-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/dataatwork/skillsid-get-openapi.md
+- name: Open Skills API - Skill Name and Description
+  x-api-slug: skillsid-get
+  description: Retrieves the name, description, and UUID of a job by specifying its
+    UUID.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Screen
+    Shot 2016-10-12 at 11.19.25 PM.png
+  humanURL: http://www.dataatwork.org/
+  baseURL: ://api.dataatwork.org//v1
+  tags: Federal Government, Careers, Skills, API Service Provider, Profiles, General
+    Data
+  properties:
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/dataatwork/skillsid-get-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/dataatwork/skillsid-get-openapi.md
+- name: Open Skills API - Skill Name and Description
+  x-api-slug: skillsid-get
+  description: Retrieves the name, description, and UUID of a job by specifying its
+    UUID.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Screen
+    Shot 2016-10-12 at 11.19.25 PM.png
+  humanURL: http://www.dataatwork.org/
+  baseURL: ://api.dataatwork.org//v1
+  tags: Federal Government, Careers, Skills, API Service Provider, Profiles, General
+    Data
+  properties:
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/dataatwork/skillsid-get-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/dataatwork/skillsid-get-openapi.md
+- name: Open Skills API - Job Title and Description
+  x-api-slug: jobsid-get
+  description: Retrieves the name, description, and UUID of a job by specifying its
+    O*NET SOC Code or UUID.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Screen
+    Shot 2016-10-12 at 11.19.25 PM.png
+  humanURL: http://www.dataatwork.org/
+  baseURL: ://api.dataatwork.org//v1
+  tags: Federal Government, Careers, Skills, API Service Provider, Profiles, General
+    Data
+  properties:
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/dataatwork/jobsid-get-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/dataatwork/jobsid-get-openapi.md
+- name: Open Skills API - Job Title and Description
+  x-api-slug: jobsid-get
+  description: Retrieves the name, description, and UUID of a job by specifying its
+    O*NET SOC Code or UUID.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Screen
+    Shot 2016-10-12 at 11.19.25 PM.png
+  humanURL: http://www.dataatwork.org/
+  baseURL: ://api.dataatwork.org//v1
+  tags: Federal Government, Careers, Skills, API Service Provider, Profiles, General
+    Data
+  properties:
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/dataatwork/jobsid-get-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/dataatwork/jobsid-get-openapi.md
+- name: Open Skills API - Job Title and Description
+  x-api-slug: jobsid-get
+  description: Retrieves the name, description, and UUID of a job by specifying its
+    O*NET SOC Code or UUID.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Screen
+    Shot 2016-10-12 at 11.19.25 PM.png
+  humanURL: http://www.dataatwork.org/
+  baseURL: ://api.dataatwork.org//v1
+  tags: Federal Government, Careers, Skills, API Service Provider, Profiles, General
+    Data
+  properties:
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/dataatwork/jobsid-get-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/dataatwork/jobsid-get-openapi.md
+- name: Open Skills API - Job Title and Description
+  x-api-slug: jobsid-get
+  description: Retrieves the name, description, and UUID of a job by specifying its
+    O*NET SOC Code or UUID.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Screen
+    Shot 2016-10-12 at 11.19.25 PM.png
+  humanURL: http://www.dataatwork.org/
+  baseURL: ://api.dataatwork.org//v1
+  tags: Federal Government, Careers, Skills, API Service Provider, Profiles, General
+    Data
+  properties:
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/dataatwork/jobsid-get-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/dataatwork/jobsid-get-openapi.md
+- name: Open Skills API - Job Title and Description
+  x-api-slug: jobsid-get
+  description: Retrieves the name, description, and UUID of a job by specifying its
+    O*NET SOC Code or UUID.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Screen
+    Shot 2016-10-12 at 11.19.25 PM.png
+  humanURL: http://www.dataatwork.org/
+  baseURL: ://api.dataatwork.org//v1
+  tags: Federal Government, Careers, Skills, API Service Provider, Profiles, General
+    Data
+  properties:
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/dataatwork/jobsid-get-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/dataatwork/jobsid-get-openapi.md
+- name: Open Skills API - Job Title and Description
+  x-api-slug: jobsid-get
+  description: Retrieves the name, description, and UUID of a job by specifying its
+    O*NET SOC Code or UUID.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Screen
+    Shot 2016-10-12 at 11.19.25 PM.png
+  humanURL: http://www.dataatwork.org/
+  baseURL: ://api.dataatwork.org//v1
+  tags: Federal Government, Careers, Skills, API Service Provider, Profiles, General
+    Data
+  properties:
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/dataatwork/jobsid-get-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/dataatwork/jobsid-get-openapi.md
+- name: Open Skills API - Job Title and Description
+  x-api-slug: jobsid-get
+  description: Retrieves the name, description, and UUID of a job by specifying its
+    O*NET SOC Code or UUID.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Screen
+    Shot 2016-10-12 at 11.19.25 PM.png
+  humanURL: http://www.dataatwork.org/
+  baseURL: ://api.dataatwork.org//v1
+  tags: Federal Government, Careers, Skills, API Service Provider, Profiles, General
+    Data
+  properties:
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/dataatwork/jobsid-get-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/dataatwork/jobsid-get-openapi.md
 - name: Open Skills API - Skill Name and Description
   x-api-slug: skillsid-get
   description: Retrieves the name, description, and UUID of a job by specifying its

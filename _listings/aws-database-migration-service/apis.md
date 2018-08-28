@@ -17,8 +17,8 @@ image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/l
 x-kinRank: "10"
 x-alexaRank: "0"
 tags: Descriptions
-created: "2018-08-26"
-modified: "2018-08-26"
+created: "2018-08-27"
+modified: "2018-08-27"
 url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-database-migration-service/apis.md
 specificationVersion: "0.14"
 apis:
@@ -35,6 +35,190 @@ apis:
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-database-migration-service/actiondescribeaccountattributes-get-postman.md
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-database-migration-service/actiondescribeaccountattributes-get-openapi.md
+- name: AWS Database Migration Service API - Describe Certificates
+  x-api-slug: actiondescribecertificates-get
+  description: Provides a description of the certificate.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Database_AWSDatabaseMigrationService.png
+  humanURL: https://aws.amazon.com/dms/
+  baseURL: :///
+  tags: Amazon Web Services, Stack Network, API Service Provider, API Service Provider,
+    API Provider, Databases, Migrations, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-database-migration-service/actiondescribecertificates-get-openapi.md
+- name: AWS Database Migration Service API - Describe Connections
+  x-api-slug: actiondescribeconnections-get
+  description: Describes the status of the connections that have been made between
+    the replication instance and an endpoint.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Database_AWSDatabaseMigrationService.png
+  humanURL: https://aws.amazon.com/dms/
+  baseURL: :///
+  tags: Amazon Web Services, Stack Network, API Service Provider, API Service Provider,
+    API Provider, Databases, Migrations, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-database-migration-service/actiondescribeconnections-get-openapi.md
+- name: AWS Database Migration Service API - Describe Endpoints
+  x-api-slug: actiondescribeendpoints-get
+  description: Returns information about the endpoints for your account in the current
+    region.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Database_AWSDatabaseMigrationService.png
+  humanURL: https://aws.amazon.com/dms/
+  baseURL: :///
+  tags: Amazon Web Services, Stack Network, API Service Provider, API Service Provider,
+    API Provider, Databases, Migrations, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-database-migration-service/actiondescribeendpoints-get-openapi.md
+- name: AWS Database Migration Service API - Describe Endpoint Types
+  x-api-slug: actiondescribeendpointtypes-get
+  description: Returns information about the type of endpoints available.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Database_AWSDatabaseMigrationService.png
+  humanURL: https://aws.amazon.com/dms/
+  baseURL: :///
+  tags: Amazon Web Services, Stack Network, API Service Provider, API Service Provider,
+    API Provider, Databases, Migrations, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-database-migration-service/actiondescribeendpointtypes-get-openapi.md
+- name: AWS Database Migration Service API - Describe Orderable Replication Instances
+  x-api-slug: actiondescribeorderablereplicationinstances-get
+  description: Returns information about the replication instance types that can be
+    created in the specified region.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Database_AWSDatabaseMigrationService.png
+  humanURL: https://aws.amazon.com/dms/
+  baseURL: :///
+  tags: Amazon Web Services, Stack Network, API Service Provider, API Service Provider,
+    API Provider, Databases, Migrations, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-database-migration-service/actiondescribeorderablereplicationinstances-get-openapi.md
+- name: AWS Database Migration Service API - Describe Orderable Replication Instances
+  x-api-slug: actiondescribeorderablereplicationinstances-get
+  description: Returns information about the replication instance types that can be
+    created in the specified region.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Database_AWSDatabaseMigrationService.png
+  humanURL: https://aws.amazon.com/dms/
+  baseURL: :///
+  tags: Amazon Web Services, Stack Network, API Service Provider, API Service Provider,
+    API Provider, Databases, Migrations, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-database-migration-service/actiondescribeorderablereplicationinstances-get-openapi.md
+- name: AWS Database Migration Service API - Describe Refresh Schemas Status
+  x-api-slug: actiondescriberefreshschemasstatus-get
+  description: Returns the status of the RefreshSchemas operation.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Database_AWSDatabaseMigrationService.png
+  humanURL: https://aws.amazon.com/dms/
+  baseURL: :///
+  tags: Amazon Web Services, Stack Network, API Service Provider, API Service Provider,
+    API Provider, Databases, Migrations, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-database-migration-service/actiondescriberefreshschemasstatus-get-openapi.md
+- name: AWS Database Migration Service API - Describe Refresh Schemas Status
+  x-api-slug: actiondescriberefreshschemasstatus-get
+  description: Returns the status of the RefreshSchemas operation.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Database_AWSDatabaseMigrationService.png
+  humanURL: https://aws.amazon.com/dms/
+  baseURL: :///
+  tags: Amazon Web Services, Stack Network, API Service Provider, API Service Provider,
+    API Provider, Databases, Migrations, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-database-migration-service/actiondescriberefreshschemasstatus-get-openapi.md
+- name: AWS Database Migration Service API - Describe Replication Instances
+  x-api-slug: actiondescribereplicationinstances-get
+  description: Returns information about replication instances for your account in
+    the current region.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Database_AWSDatabaseMigrationService.png
+  humanURL: https://aws.amazon.com/dms/
+  baseURL: :///
+  tags: Amazon Web Services, Stack Network, API Service Provider, API Service Provider,
+    API Provider, Databases, Migrations, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-database-migration-service/actiondescribereplicationinstances-get-openapi.md
+- name: AWS Database Migration Service API - Describe Replication Instances
+  x-api-slug: actiondescribereplicationinstances-get
+  description: Returns information about replication instances for your account in
+    the current region.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Database_AWSDatabaseMigrationService.png
+  humanURL: https://aws.amazon.com/dms/
+  baseURL: :///
+  tags: Amazon Web Services, Stack Network, API Service Provider, API Service Provider,
+    API Provider, Databases, Migrations, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-database-migration-service/actiondescribereplicationinstances-get-openapi.md
+- name: AWS Database Migration Service API - Describe Replication Subnet Groups
+  x-api-slug: actiondescribereplicationsubnetgroups-get
+  description: Returns information about the replication subnet groups.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Database_AWSDatabaseMigrationService.png
+  humanURL: https://aws.amazon.com/dms/
+  baseURL: :///
+  tags: Amazon Web Services, Stack Network, API Service Provider, API Service Provider,
+    API Provider, Databases, Migrations, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-database-migration-service/actiondescribereplicationsubnetgroups-get-openapi.md
+- name: AWS Database Migration Service API - Describe Replication Subnet Groups
+  x-api-slug: actiondescribereplicationsubnetgroups-get
+  description: Returns information about the replication subnet groups.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Database_AWSDatabaseMigrationService.png
+  humanURL: https://aws.amazon.com/dms/
+  baseURL: :///
+  tags: Amazon Web Services, Stack Network, API Service Provider, API Service Provider,
+    API Provider, Databases, Migrations, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-database-migration-service/actiondescribereplicationsubnetgroups-get-openapi.md
+- name: AWS Database Migration Service API - Describe Replication Tasks
+  x-api-slug: actiondescribereplicationtasks-get
+  description: Returns information about replication tasks for your account in the
+    current region.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Database_AWSDatabaseMigrationService.png
+  humanURL: https://aws.amazon.com/dms/
+  baseURL: :///
+  tags: Amazon Web Services, Stack Network, API Service Provider, API Service Provider,
+    API Provider, Databases, Migrations, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-database-migration-service/actiondescribereplicationtasks-get-openapi.md
+- name: AWS Database Migration Service API - Describe Replication Tasks
+  x-api-slug: actiondescribereplicationtasks-get
+  description: Returns information about replication tasks for your account in the
+    current region.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Database_AWSDatabaseMigrationService.png
+  humanURL: https://aws.amazon.com/dms/
+  baseURL: :///
+  tags: Amazon Web Services, Stack Network, API Service Provider, API Service Provider,
+    API Provider, Databases, Migrations, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-database-migration-service/actiondescribereplicationtasks-get-openapi.md
+- name: AWS Database Migration Service API - Describe Schemas
+  x-api-slug: actiondescribeschemas-get
+  description: Returns information about the schema for the specified endpoint.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Database_AWSDatabaseMigrationService.png
+  humanURL: https://aws.amazon.com/dms/
+  baseURL: :///
+  tags: Amazon Web Services, Stack Network, API Service Provider, API Service Provider,
+    API Provider, Databases, Migrations, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-database-migration-service/actiondescribeschemas-get-openapi.md
+- name: AWS Database Migration Service API - Describe Schemas
+  x-api-slug: actiondescribeschemas-get
+  description: Returns information about the schema for the specified endpoint.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Database_AWSDatabaseMigrationService.png
+  humanURL: https://aws.amazon.com/dms/
+  baseURL: :///
+  tags: Amazon Web Services, Stack Network, API Service Provider, API Service Provider,
+    API Provider, Databases, Migrations, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-database-migration-service/actiondescribeschemas-get-openapi.md
 - name: AWS Database Migration Service API - Describe Table Statistics
   x-api-slug: actiondescribetablestatistics-get
   description: Returns table statistics on the database migration task, including
@@ -154,6 +338,972 @@ apis:
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-database-migration-service/actiondescribeaccountattributes-get-postman.md
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-database-migration-service/actiondescribeaccountattributes-get-openapi.md
+- name: AWS Database Migration Service API - Describe Certificates
+  x-api-slug: actiondescribecertificates-get
+  description: Provides a description of the certificate.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Database_AWSDatabaseMigrationService.png
+  humanURL: https://aws.amazon.com/dms/
+  baseURL: :///
+  tags: Amazon Web Services, Stack Network, API Service Provider, API Service Provider,
+    API Provider, Databases, Migrations, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-database-migration-service/actiondescribecertificates-get-openapi.md
+- name: AWS Database Migration Service API - Describe Certificates
+  x-api-slug: actiondescribecertificates-get
+  description: Provides a description of the certificate.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Database_AWSDatabaseMigrationService.png
+  humanURL: https://aws.amazon.com/dms/
+  baseURL: :///
+  tags: Amazon Web Services, Stack Network, API Service Provider, API Service Provider,
+    API Provider, Databases, Migrations, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-database-migration-service/actiondescribecertificates-get-openapi.md
+- name: AWS Database Migration Service API - Describe Certificates
+  x-api-slug: actiondescribecertificates-get
+  description: Provides a description of the certificate.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Database_AWSDatabaseMigrationService.png
+  humanURL: https://aws.amazon.com/dms/
+  baseURL: :///
+  tags: Amazon Web Services, Stack Network, API Service Provider, API Service Provider,
+    API Provider, Databases, Migrations, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-database-migration-service/actiondescribecertificates-get-openapi.md
+- name: AWS Database Migration Service API - Describe Certificates
+  x-api-slug: actiondescribecertificates-get
+  description: Provides a description of the certificate.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Database_AWSDatabaseMigrationService.png
+  humanURL: https://aws.amazon.com/dms/
+  baseURL: :///
+  tags: Amazon Web Services, Stack Network, API Service Provider, API Service Provider,
+    API Provider, Databases, Migrations, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-database-migration-service/actiondescribecertificates-get-openapi.md
+- name: AWS Database Migration Service API - Describe Certificates
+  x-api-slug: actiondescribecertificates-get
+  description: Provides a description of the certificate.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Database_AWSDatabaseMigrationService.png
+  humanURL: https://aws.amazon.com/dms/
+  baseURL: :///
+  tags: Amazon Web Services, Stack Network, API Service Provider, API Service Provider,
+    API Provider, Databases, Migrations, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-database-migration-service/actiondescribecertificates-get-openapi.md
+- name: AWS Database Migration Service API - Describe Certificates
+  x-api-slug: actiondescribecertificates-get
+  description: Provides a description of the certificate.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Database_AWSDatabaseMigrationService.png
+  humanURL: https://aws.amazon.com/dms/
+  baseURL: :///
+  tags: Amazon Web Services, Stack Network, API Service Provider, API Service Provider,
+    API Provider, Databases, Migrations, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-database-migration-service/actiondescribecertificates-get-openapi.md
+- name: AWS Database Migration Service API - Describe Certificates
+  x-api-slug: actiondescribecertificates-get
+  description: Provides a description of the certificate.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Database_AWSDatabaseMigrationService.png
+  humanURL: https://aws.amazon.com/dms/
+  baseURL: :///
+  tags: Amazon Web Services, Stack Network, API Service Provider, API Service Provider,
+    API Provider, Databases, Migrations, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-database-migration-service/actiondescribecertificates-get-openapi.md
+- name: AWS Database Migration Service API - Describe Connections
+  x-api-slug: actiondescribeconnections-get
+  description: Describes the status of the connections that have been made between
+    the replication instance and an endpoint.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Database_AWSDatabaseMigrationService.png
+  humanURL: https://aws.amazon.com/dms/
+  baseURL: :///
+  tags: Amazon Web Services, Stack Network, API Service Provider, API Service Provider,
+    API Provider, Databases, Migrations, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-database-migration-service/actiondescribeconnections-get-openapi.md
+- name: AWS Database Migration Service API - Describe Connections
+  x-api-slug: actiondescribeconnections-get
+  description: Describes the status of the connections that have been made between
+    the replication instance and an endpoint.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Database_AWSDatabaseMigrationService.png
+  humanURL: https://aws.amazon.com/dms/
+  baseURL: :///
+  tags: Amazon Web Services, Stack Network, API Service Provider, API Service Provider,
+    API Provider, Databases, Migrations, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-database-migration-service/actiondescribeconnections-get-openapi.md
+- name: AWS Database Migration Service API - Describe Connections
+  x-api-slug: actiondescribeconnections-get
+  description: Describes the status of the connections that have been made between
+    the replication instance and an endpoint.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Database_AWSDatabaseMigrationService.png
+  humanURL: https://aws.amazon.com/dms/
+  baseURL: :///
+  tags: Amazon Web Services, Stack Network, API Service Provider, API Service Provider,
+    API Provider, Databases, Migrations, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-database-migration-service/actiondescribeconnections-get-openapi.md
+- name: AWS Database Migration Service API - Describe Connections
+  x-api-slug: actiondescribeconnections-get
+  description: Describes the status of the connections that have been made between
+    the replication instance and an endpoint.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Database_AWSDatabaseMigrationService.png
+  humanURL: https://aws.amazon.com/dms/
+  baseURL: :///
+  tags: Amazon Web Services, Stack Network, API Service Provider, API Service Provider,
+    API Provider, Databases, Migrations, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-database-migration-service/actiondescribeconnections-get-openapi.md
+- name: AWS Database Migration Service API - Describe Connections
+  x-api-slug: actiondescribeconnections-get
+  description: Describes the status of the connections that have been made between
+    the replication instance and an endpoint.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Database_AWSDatabaseMigrationService.png
+  humanURL: https://aws.amazon.com/dms/
+  baseURL: :///
+  tags: Amazon Web Services, Stack Network, API Service Provider, API Service Provider,
+    API Provider, Databases, Migrations, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-database-migration-service/actiondescribeconnections-get-openapi.md
+- name: AWS Database Migration Service API - Describe Connections
+  x-api-slug: actiondescribeconnections-get
+  description: Describes the status of the connections that have been made between
+    the replication instance and an endpoint.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Database_AWSDatabaseMigrationService.png
+  humanURL: https://aws.amazon.com/dms/
+  baseURL: :///
+  tags: Amazon Web Services, Stack Network, API Service Provider, API Service Provider,
+    API Provider, Databases, Migrations, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-database-migration-service/actiondescribeconnections-get-openapi.md
+- name: AWS Database Migration Service API - Describe Connections
+  x-api-slug: actiondescribeconnections-get
+  description: Describes the status of the connections that have been made between
+    the replication instance and an endpoint.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Database_AWSDatabaseMigrationService.png
+  humanURL: https://aws.amazon.com/dms/
+  baseURL: :///
+  tags: Amazon Web Services, Stack Network, API Service Provider, API Service Provider,
+    API Provider, Databases, Migrations, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-database-migration-service/actiondescribeconnections-get-openapi.md
+- name: AWS Database Migration Service API - Describe Endpoints
+  x-api-slug: actiondescribeendpoints-get
+  description: Returns information about the endpoints for your account in the current
+    region.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Database_AWSDatabaseMigrationService.png
+  humanURL: https://aws.amazon.com/dms/
+  baseURL: :///
+  tags: Amazon Web Services, Stack Network, API Service Provider, API Service Provider,
+    API Provider, Databases, Migrations, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-database-migration-service/actiondescribeendpoints-get-openapi.md
+- name: AWS Database Migration Service API - Describe Endpoints
+  x-api-slug: actiondescribeendpoints-get
+  description: Returns information about the endpoints for your account in the current
+    region.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Database_AWSDatabaseMigrationService.png
+  humanURL: https://aws.amazon.com/dms/
+  baseURL: :///
+  tags: Amazon Web Services, Stack Network, API Service Provider, API Service Provider,
+    API Provider, Databases, Migrations, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-database-migration-service/actiondescribeendpoints-get-openapi.md
+- name: AWS Database Migration Service API - Describe Endpoints
+  x-api-slug: actiondescribeendpoints-get
+  description: Returns information about the endpoints for your account in the current
+    region.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Database_AWSDatabaseMigrationService.png
+  humanURL: https://aws.amazon.com/dms/
+  baseURL: :///
+  tags: Amazon Web Services, Stack Network, API Service Provider, API Service Provider,
+    API Provider, Databases, Migrations, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-database-migration-service/actiondescribeendpoints-get-openapi.md
+- name: AWS Database Migration Service API - Describe Endpoints
+  x-api-slug: actiondescribeendpoints-get
+  description: Returns information about the endpoints for your account in the current
+    region.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Database_AWSDatabaseMigrationService.png
+  humanURL: https://aws.amazon.com/dms/
+  baseURL: :///
+  tags: Amazon Web Services, Stack Network, API Service Provider, API Service Provider,
+    API Provider, Databases, Migrations, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-database-migration-service/actiondescribeendpoints-get-openapi.md
+- name: AWS Database Migration Service API - Describe Endpoints
+  x-api-slug: actiondescribeendpoints-get
+  description: Returns information about the endpoints for your account in the current
+    region.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Database_AWSDatabaseMigrationService.png
+  humanURL: https://aws.amazon.com/dms/
+  baseURL: :///
+  tags: Amazon Web Services, Stack Network, API Service Provider, API Service Provider,
+    API Provider, Databases, Migrations, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-database-migration-service/actiondescribeendpoints-get-openapi.md
+- name: AWS Database Migration Service API - Describe Endpoints
+  x-api-slug: actiondescribeendpoints-get
+  description: Returns information about the endpoints for your account in the current
+    region.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Database_AWSDatabaseMigrationService.png
+  humanURL: https://aws.amazon.com/dms/
+  baseURL: :///
+  tags: Amazon Web Services, Stack Network, API Service Provider, API Service Provider,
+    API Provider, Databases, Migrations, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-database-migration-service/actiondescribeendpoints-get-openapi.md
+- name: AWS Database Migration Service API - Describe Endpoints
+  x-api-slug: actiondescribeendpoints-get
+  description: Returns information about the endpoints for your account in the current
+    region.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Database_AWSDatabaseMigrationService.png
+  humanURL: https://aws.amazon.com/dms/
+  baseURL: :///
+  tags: Amazon Web Services, Stack Network, API Service Provider, API Service Provider,
+    API Provider, Databases, Migrations, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-database-migration-service/actiondescribeendpoints-get-openapi.md
+- name: AWS Database Migration Service API - Describe Endpoints
+  x-api-slug: actiondescribeendpoints-get
+  description: Returns information about the endpoints for your account in the current
+    region.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Database_AWSDatabaseMigrationService.png
+  humanURL: https://aws.amazon.com/dms/
+  baseURL: :///
+  tags: Amazon Web Services, Stack Network, API Service Provider, API Service Provider,
+    API Provider, Databases, Migrations, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-database-migration-service/actiondescribeendpoints-get-openapi.md
+- name: AWS Database Migration Service API - Describe Endpoint Types
+  x-api-slug: actiondescribeendpointtypes-get
+  description: Returns information about the type of endpoints available.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Database_AWSDatabaseMigrationService.png
+  humanURL: https://aws.amazon.com/dms/
+  baseURL: :///
+  tags: Amazon Web Services, Stack Network, API Service Provider, API Service Provider,
+    API Provider, Databases, Migrations, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-database-migration-service/actiondescribeendpointtypes-get-openapi.md
+- name: AWS Database Migration Service API - Describe Endpoint Types
+  x-api-slug: actiondescribeendpointtypes-get
+  description: Returns information about the type of endpoints available.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Database_AWSDatabaseMigrationService.png
+  humanURL: https://aws.amazon.com/dms/
+  baseURL: :///
+  tags: Amazon Web Services, Stack Network, API Service Provider, API Service Provider,
+    API Provider, Databases, Migrations, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-database-migration-service/actiondescribeendpointtypes-get-openapi.md
+- name: AWS Database Migration Service API - Describe Endpoint Types
+  x-api-slug: actiondescribeendpointtypes-get
+  description: Returns information about the type of endpoints available.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Database_AWSDatabaseMigrationService.png
+  humanURL: https://aws.amazon.com/dms/
+  baseURL: :///
+  tags: Amazon Web Services, Stack Network, API Service Provider, API Service Provider,
+    API Provider, Databases, Migrations, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-database-migration-service/actiondescribeendpointtypes-get-openapi.md
+- name: AWS Database Migration Service API - Describe Endpoint Types
+  x-api-slug: actiondescribeendpointtypes-get
+  description: Returns information about the type of endpoints available.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Database_AWSDatabaseMigrationService.png
+  humanURL: https://aws.amazon.com/dms/
+  baseURL: :///
+  tags: Amazon Web Services, Stack Network, API Service Provider, API Service Provider,
+    API Provider, Databases, Migrations, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-database-migration-service/actiondescribeendpointtypes-get-openapi.md
+- name: AWS Database Migration Service API - Describe Endpoint Types
+  x-api-slug: actiondescribeendpointtypes-get
+  description: Returns information about the type of endpoints available.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Database_AWSDatabaseMigrationService.png
+  humanURL: https://aws.amazon.com/dms/
+  baseURL: :///
+  tags: Amazon Web Services, Stack Network, API Service Provider, API Service Provider,
+    API Provider, Databases, Migrations, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-database-migration-service/actiondescribeendpointtypes-get-openapi.md
+- name: AWS Database Migration Service API - Describe Endpoint Types
+  x-api-slug: actiondescribeendpointtypes-get
+  description: Returns information about the type of endpoints available.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Database_AWSDatabaseMigrationService.png
+  humanURL: https://aws.amazon.com/dms/
+  baseURL: :///
+  tags: Amazon Web Services, Stack Network, API Service Provider, API Service Provider,
+    API Provider, Databases, Migrations, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-database-migration-service/actiondescribeendpointtypes-get-openapi.md
+- name: AWS Database Migration Service API - Describe Endpoint Types
+  x-api-slug: actiondescribeendpointtypes-get
+  description: Returns information about the type of endpoints available.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Database_AWSDatabaseMigrationService.png
+  humanURL: https://aws.amazon.com/dms/
+  baseURL: :///
+  tags: Amazon Web Services, Stack Network, API Service Provider, API Service Provider,
+    API Provider, Databases, Migrations, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-database-migration-service/actiondescribeendpointtypes-get-openapi.md
+- name: AWS Database Migration Service API - Describe Endpoint Types
+  x-api-slug: actiondescribeendpointtypes-get
+  description: Returns information about the type of endpoints available.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Database_AWSDatabaseMigrationService.png
+  humanURL: https://aws.amazon.com/dms/
+  baseURL: :///
+  tags: Amazon Web Services, Stack Network, API Service Provider, API Service Provider,
+    API Provider, Databases, Migrations, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-database-migration-service/actiondescribeendpointtypes-get-openapi.md
+- name: AWS Database Migration Service API - Describe Orderable Replication Instances
+  x-api-slug: actiondescribeorderablereplicationinstances-get
+  description: Returns information about the replication instance types that can be
+    created in the specified region.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Database_AWSDatabaseMigrationService.png
+  humanURL: https://aws.amazon.com/dms/
+  baseURL: :///
+  tags: Amazon Web Services, Stack Network, API Service Provider, API Service Provider,
+    API Provider, Databases, Migrations, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-database-migration-service/actiondescribeorderablereplicationinstances-get-openapi.md
+- name: AWS Database Migration Service API - Describe Orderable Replication Instances
+  x-api-slug: actiondescribeorderablereplicationinstances-get
+  description: Returns information about the replication instance types that can be
+    created in the specified region.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Database_AWSDatabaseMigrationService.png
+  humanURL: https://aws.amazon.com/dms/
+  baseURL: :///
+  tags: Amazon Web Services, Stack Network, API Service Provider, API Service Provider,
+    API Provider, Databases, Migrations, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-database-migration-service/actiondescribeorderablereplicationinstances-get-openapi.md
+- name: AWS Database Migration Service API - Describe Orderable Replication Instances
+  x-api-slug: actiondescribeorderablereplicationinstances-get
+  description: Returns information about the replication instance types that can be
+    created in the specified region.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Database_AWSDatabaseMigrationService.png
+  humanURL: https://aws.amazon.com/dms/
+  baseURL: :///
+  tags: Amazon Web Services, Stack Network, API Service Provider, API Service Provider,
+    API Provider, Databases, Migrations, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-database-migration-service/actiondescribeorderablereplicationinstances-get-openapi.md
+- name: AWS Database Migration Service API - Describe Orderable Replication Instances
+  x-api-slug: actiondescribeorderablereplicationinstances-get
+  description: Returns information about the replication instance types that can be
+    created in the specified region.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Database_AWSDatabaseMigrationService.png
+  humanURL: https://aws.amazon.com/dms/
+  baseURL: :///
+  tags: Amazon Web Services, Stack Network, API Service Provider, API Service Provider,
+    API Provider, Databases, Migrations, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-database-migration-service/actiondescribeorderablereplicationinstances-get-openapi.md
+- name: AWS Database Migration Service API - Describe Orderable Replication Instances
+  x-api-slug: actiondescribeorderablereplicationinstances-get
+  description: Returns information about the replication instance types that can be
+    created in the specified region.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Database_AWSDatabaseMigrationService.png
+  humanURL: https://aws.amazon.com/dms/
+  baseURL: :///
+  tags: Amazon Web Services, Stack Network, API Service Provider, API Service Provider,
+    API Provider, Databases, Migrations, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-database-migration-service/actiondescribeorderablereplicationinstances-get-openapi.md
+- name: AWS Database Migration Service API - Describe Orderable Replication Instances
+  x-api-slug: actiondescribeorderablereplicationinstances-get
+  description: Returns information about the replication instance types that can be
+    created in the specified region.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Database_AWSDatabaseMigrationService.png
+  humanURL: https://aws.amazon.com/dms/
+  baseURL: :///
+  tags: Amazon Web Services, Stack Network, API Service Provider, API Service Provider,
+    API Provider, Databases, Migrations, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-database-migration-service/actiondescribeorderablereplicationinstances-get-openapi.md
+- name: AWS Database Migration Service API - Describe Orderable Replication Instances
+  x-api-slug: actiondescribeorderablereplicationinstances-get
+  description: Returns information about the replication instance types that can be
+    created in the specified region.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Database_AWSDatabaseMigrationService.png
+  humanURL: https://aws.amazon.com/dms/
+  baseURL: :///
+  tags: Amazon Web Services, Stack Network, API Service Provider, API Service Provider,
+    API Provider, Databases, Migrations, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-database-migration-service/actiondescribeorderablereplicationinstances-get-openapi.md
+- name: AWS Database Migration Service API - Describe Orderable Replication Instances
+  x-api-slug: actiondescribeorderablereplicationinstances-get
+  description: Returns information about the replication instance types that can be
+    created in the specified region.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Database_AWSDatabaseMigrationService.png
+  humanURL: https://aws.amazon.com/dms/
+  baseURL: :///
+  tags: Amazon Web Services, Stack Network, API Service Provider, API Service Provider,
+    API Provider, Databases, Migrations, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-database-migration-service/actiondescribeorderablereplicationinstances-get-openapi.md
+- name: AWS Database Migration Service API - Describe Orderable Replication Instances
+  x-api-slug: actiondescribeorderablereplicationinstances-get
+  description: Returns information about the replication instance types that can be
+    created in the specified region.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Database_AWSDatabaseMigrationService.png
+  humanURL: https://aws.amazon.com/dms/
+  baseURL: :///
+  tags: Amazon Web Services, Stack Network, API Service Provider, API Service Provider,
+    API Provider, Databases, Migrations, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-database-migration-service/actiondescribeorderablereplicationinstances-get-openapi.md
+- name: AWS Database Migration Service API - Describe Refresh Schemas Status
+  x-api-slug: actiondescriberefreshschemasstatus-get
+  description: Returns the status of the RefreshSchemas operation.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Database_AWSDatabaseMigrationService.png
+  humanURL: https://aws.amazon.com/dms/
+  baseURL: :///
+  tags: Amazon Web Services, Stack Network, API Service Provider, API Service Provider,
+    API Provider, Databases, Migrations, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-database-migration-service/actiondescriberefreshschemasstatus-get-openapi.md
+- name: AWS Database Migration Service API - Describe Refresh Schemas Status
+  x-api-slug: actiondescriberefreshschemasstatus-get
+  description: Returns the status of the RefreshSchemas operation.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Database_AWSDatabaseMigrationService.png
+  humanURL: https://aws.amazon.com/dms/
+  baseURL: :///
+  tags: Amazon Web Services, Stack Network, API Service Provider, API Service Provider,
+    API Provider, Databases, Migrations, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-database-migration-service/actiondescriberefreshschemasstatus-get-openapi.md
+- name: AWS Database Migration Service API - Describe Refresh Schemas Status
+  x-api-slug: actiondescriberefreshschemasstatus-get
+  description: Returns the status of the RefreshSchemas operation.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Database_AWSDatabaseMigrationService.png
+  humanURL: https://aws.amazon.com/dms/
+  baseURL: :///
+  tags: Amazon Web Services, Stack Network, API Service Provider, API Service Provider,
+    API Provider, Databases, Migrations, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-database-migration-service/actiondescriberefreshschemasstatus-get-openapi.md
+- name: AWS Database Migration Service API - Describe Refresh Schemas Status
+  x-api-slug: actiondescriberefreshschemasstatus-get
+  description: Returns the status of the RefreshSchemas operation.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Database_AWSDatabaseMigrationService.png
+  humanURL: https://aws.amazon.com/dms/
+  baseURL: :///
+  tags: Amazon Web Services, Stack Network, API Service Provider, API Service Provider,
+    API Provider, Databases, Migrations, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-database-migration-service/actiondescriberefreshschemasstatus-get-openapi.md
+- name: AWS Database Migration Service API - Describe Refresh Schemas Status
+  x-api-slug: actiondescriberefreshschemasstatus-get
+  description: Returns the status of the RefreshSchemas operation.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Database_AWSDatabaseMigrationService.png
+  humanURL: https://aws.amazon.com/dms/
+  baseURL: :///
+  tags: Amazon Web Services, Stack Network, API Service Provider, API Service Provider,
+    API Provider, Databases, Migrations, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-database-migration-service/actiondescriberefreshschemasstatus-get-openapi.md
+- name: AWS Database Migration Service API - Describe Refresh Schemas Status
+  x-api-slug: actiondescriberefreshschemasstatus-get
+  description: Returns the status of the RefreshSchemas operation.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Database_AWSDatabaseMigrationService.png
+  humanURL: https://aws.amazon.com/dms/
+  baseURL: :///
+  tags: Amazon Web Services, Stack Network, API Service Provider, API Service Provider,
+    API Provider, Databases, Migrations, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-database-migration-service/actiondescriberefreshschemasstatus-get-openapi.md
+- name: AWS Database Migration Service API - Describe Refresh Schemas Status
+  x-api-slug: actiondescriberefreshschemasstatus-get
+  description: Returns the status of the RefreshSchemas operation.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Database_AWSDatabaseMigrationService.png
+  humanURL: https://aws.amazon.com/dms/
+  baseURL: :///
+  tags: Amazon Web Services, Stack Network, API Service Provider, API Service Provider,
+    API Provider, Databases, Migrations, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-database-migration-service/actiondescriberefreshschemasstatus-get-openapi.md
+- name: AWS Database Migration Service API - Describe Refresh Schemas Status
+  x-api-slug: actiondescriberefreshschemasstatus-get
+  description: Returns the status of the RefreshSchemas operation.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Database_AWSDatabaseMigrationService.png
+  humanURL: https://aws.amazon.com/dms/
+  baseURL: :///
+  tags: Amazon Web Services, Stack Network, API Service Provider, API Service Provider,
+    API Provider, Databases, Migrations, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-database-migration-service/actiondescriberefreshschemasstatus-get-openapi.md
+- name: AWS Database Migration Service API - Describe Refresh Schemas Status
+  x-api-slug: actiondescriberefreshschemasstatus-get
+  description: Returns the status of the RefreshSchemas operation.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Database_AWSDatabaseMigrationService.png
+  humanURL: https://aws.amazon.com/dms/
+  baseURL: :///
+  tags: Amazon Web Services, Stack Network, API Service Provider, API Service Provider,
+    API Provider, Databases, Migrations, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-database-migration-service/actiondescriberefreshschemasstatus-get-openapi.md
+- name: AWS Database Migration Service API - Describe Replication Instances
+  x-api-slug: actiondescribereplicationinstances-get
+  description: Returns information about replication instances for your account in
+    the current region.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Database_AWSDatabaseMigrationService.png
+  humanURL: https://aws.amazon.com/dms/
+  baseURL: :///
+  tags: Amazon Web Services, Stack Network, API Service Provider, API Service Provider,
+    API Provider, Databases, Migrations, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-database-migration-service/actiondescribereplicationinstances-get-openapi.md
+- name: AWS Database Migration Service API - Describe Replication Instances
+  x-api-slug: actiondescribereplicationinstances-get
+  description: Returns information about replication instances for your account in
+    the current region.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Database_AWSDatabaseMigrationService.png
+  humanURL: https://aws.amazon.com/dms/
+  baseURL: :///
+  tags: Amazon Web Services, Stack Network, API Service Provider, API Service Provider,
+    API Provider, Databases, Migrations, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-database-migration-service/actiondescribereplicationinstances-get-openapi.md
+- name: AWS Database Migration Service API - Describe Replication Instances
+  x-api-slug: actiondescribereplicationinstances-get
+  description: Returns information about replication instances for your account in
+    the current region.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Database_AWSDatabaseMigrationService.png
+  humanURL: https://aws.amazon.com/dms/
+  baseURL: :///
+  tags: Amazon Web Services, Stack Network, API Service Provider, API Service Provider,
+    API Provider, Databases, Migrations, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-database-migration-service/actiondescribereplicationinstances-get-openapi.md
+- name: AWS Database Migration Service API - Describe Replication Instances
+  x-api-slug: actiondescribereplicationinstances-get
+  description: Returns information about replication instances for your account in
+    the current region.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Database_AWSDatabaseMigrationService.png
+  humanURL: https://aws.amazon.com/dms/
+  baseURL: :///
+  tags: Amazon Web Services, Stack Network, API Service Provider, API Service Provider,
+    API Provider, Databases, Migrations, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-database-migration-service/actiondescribereplicationinstances-get-openapi.md
+- name: AWS Database Migration Service API - Describe Replication Instances
+  x-api-slug: actiondescribereplicationinstances-get
+  description: Returns information about replication instances for your account in
+    the current region.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Database_AWSDatabaseMigrationService.png
+  humanURL: https://aws.amazon.com/dms/
+  baseURL: :///
+  tags: Amazon Web Services, Stack Network, API Service Provider, API Service Provider,
+    API Provider, Databases, Migrations, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-database-migration-service/actiondescribereplicationinstances-get-openapi.md
+- name: AWS Database Migration Service API - Describe Replication Instances
+  x-api-slug: actiondescribereplicationinstances-get
+  description: Returns information about replication instances for your account in
+    the current region.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Database_AWSDatabaseMigrationService.png
+  humanURL: https://aws.amazon.com/dms/
+  baseURL: :///
+  tags: Amazon Web Services, Stack Network, API Service Provider, API Service Provider,
+    API Provider, Databases, Migrations, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-database-migration-service/actiondescribereplicationinstances-get-openapi.md
+- name: AWS Database Migration Service API - Describe Replication Instances
+  x-api-slug: actiondescribereplicationinstances-get
+  description: Returns information about replication instances for your account in
+    the current region.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Database_AWSDatabaseMigrationService.png
+  humanURL: https://aws.amazon.com/dms/
+  baseURL: :///
+  tags: Amazon Web Services, Stack Network, API Service Provider, API Service Provider,
+    API Provider, Databases, Migrations, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-database-migration-service/actiondescribereplicationinstances-get-openapi.md
+- name: AWS Database Migration Service API - Describe Replication Instances
+  x-api-slug: actiondescribereplicationinstances-get
+  description: Returns information about replication instances for your account in
+    the current region.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Database_AWSDatabaseMigrationService.png
+  humanURL: https://aws.amazon.com/dms/
+  baseURL: :///
+  tags: Amazon Web Services, Stack Network, API Service Provider, API Service Provider,
+    API Provider, Databases, Migrations, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-database-migration-service/actiondescribereplicationinstances-get-openapi.md
+- name: AWS Database Migration Service API - Describe Replication Instances
+  x-api-slug: actiondescribereplicationinstances-get
+  description: Returns information about replication instances for your account in
+    the current region.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Database_AWSDatabaseMigrationService.png
+  humanURL: https://aws.amazon.com/dms/
+  baseURL: :///
+  tags: Amazon Web Services, Stack Network, API Service Provider, API Service Provider,
+    API Provider, Databases, Migrations, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-database-migration-service/actiondescribereplicationinstances-get-openapi.md
+- name: AWS Database Migration Service API - Describe Replication Subnet Groups
+  x-api-slug: actiondescribereplicationsubnetgroups-get
+  description: Returns information about the replication subnet groups.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Database_AWSDatabaseMigrationService.png
+  humanURL: https://aws.amazon.com/dms/
+  baseURL: :///
+  tags: Amazon Web Services, Stack Network, API Service Provider, API Service Provider,
+    API Provider, Databases, Migrations, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-database-migration-service/actiondescribereplicationsubnetgroups-get-openapi.md
+- name: AWS Database Migration Service API - Describe Replication Subnet Groups
+  x-api-slug: actiondescribereplicationsubnetgroups-get
+  description: Returns information about the replication subnet groups.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Database_AWSDatabaseMigrationService.png
+  humanURL: https://aws.amazon.com/dms/
+  baseURL: :///
+  tags: Amazon Web Services, Stack Network, API Service Provider, API Service Provider,
+    API Provider, Databases, Migrations, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-database-migration-service/actiondescribereplicationsubnetgroups-get-openapi.md
+- name: AWS Database Migration Service API - Describe Replication Subnet Groups
+  x-api-slug: actiondescribereplicationsubnetgroups-get
+  description: Returns information about the replication subnet groups.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Database_AWSDatabaseMigrationService.png
+  humanURL: https://aws.amazon.com/dms/
+  baseURL: :///
+  tags: Amazon Web Services, Stack Network, API Service Provider, API Service Provider,
+    API Provider, Databases, Migrations, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-database-migration-service/actiondescribereplicationsubnetgroups-get-openapi.md
+- name: AWS Database Migration Service API - Describe Replication Subnet Groups
+  x-api-slug: actiondescribereplicationsubnetgroups-get
+  description: Returns information about the replication subnet groups.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Database_AWSDatabaseMigrationService.png
+  humanURL: https://aws.amazon.com/dms/
+  baseURL: :///
+  tags: Amazon Web Services, Stack Network, API Service Provider, API Service Provider,
+    API Provider, Databases, Migrations, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-database-migration-service/actiondescribereplicationsubnetgroups-get-openapi.md
+- name: AWS Database Migration Service API - Describe Replication Subnet Groups
+  x-api-slug: actiondescribereplicationsubnetgroups-get
+  description: Returns information about the replication subnet groups.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Database_AWSDatabaseMigrationService.png
+  humanURL: https://aws.amazon.com/dms/
+  baseURL: :///
+  tags: Amazon Web Services, Stack Network, API Service Provider, API Service Provider,
+    API Provider, Databases, Migrations, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-database-migration-service/actiondescribereplicationsubnetgroups-get-openapi.md
+- name: AWS Database Migration Service API - Describe Replication Subnet Groups
+  x-api-slug: actiondescribereplicationsubnetgroups-get
+  description: Returns information about the replication subnet groups.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Database_AWSDatabaseMigrationService.png
+  humanURL: https://aws.amazon.com/dms/
+  baseURL: :///
+  tags: Amazon Web Services, Stack Network, API Service Provider, API Service Provider,
+    API Provider, Databases, Migrations, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-database-migration-service/actiondescribereplicationsubnetgroups-get-openapi.md
+- name: AWS Database Migration Service API - Describe Replication Subnet Groups
+  x-api-slug: actiondescribereplicationsubnetgroups-get
+  description: Returns information about the replication subnet groups.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Database_AWSDatabaseMigrationService.png
+  humanURL: https://aws.amazon.com/dms/
+  baseURL: :///
+  tags: Amazon Web Services, Stack Network, API Service Provider, API Service Provider,
+    API Provider, Databases, Migrations, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-database-migration-service/actiondescribereplicationsubnetgroups-get-openapi.md
+- name: AWS Database Migration Service API - Describe Replication Subnet Groups
+  x-api-slug: actiondescribereplicationsubnetgroups-get
+  description: Returns information about the replication subnet groups.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Database_AWSDatabaseMigrationService.png
+  humanURL: https://aws.amazon.com/dms/
+  baseURL: :///
+  tags: Amazon Web Services, Stack Network, API Service Provider, API Service Provider,
+    API Provider, Databases, Migrations, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-database-migration-service/actiondescribereplicationsubnetgroups-get-openapi.md
+- name: AWS Database Migration Service API - Describe Replication Subnet Groups
+  x-api-slug: actiondescribereplicationsubnetgroups-get
+  description: Returns information about the replication subnet groups.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Database_AWSDatabaseMigrationService.png
+  humanURL: https://aws.amazon.com/dms/
+  baseURL: :///
+  tags: Amazon Web Services, Stack Network, API Service Provider, API Service Provider,
+    API Provider, Databases, Migrations, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-database-migration-service/actiondescribereplicationsubnetgroups-get-openapi.md
+- name: AWS Database Migration Service API - Describe Replication Tasks
+  x-api-slug: actiondescribereplicationtasks-get
+  description: Returns information about replication tasks for your account in the
+    current region.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Database_AWSDatabaseMigrationService.png
+  humanURL: https://aws.amazon.com/dms/
+  baseURL: :///
+  tags: Amazon Web Services, Stack Network, API Service Provider, API Service Provider,
+    API Provider, Databases, Migrations, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-database-migration-service/actiondescribereplicationtasks-get-openapi.md
+- name: AWS Database Migration Service API - Describe Replication Tasks
+  x-api-slug: actiondescribereplicationtasks-get
+  description: Returns information about replication tasks for your account in the
+    current region.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Database_AWSDatabaseMigrationService.png
+  humanURL: https://aws.amazon.com/dms/
+  baseURL: :///
+  tags: Amazon Web Services, Stack Network, API Service Provider, API Service Provider,
+    API Provider, Databases, Migrations, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-database-migration-service/actiondescribereplicationtasks-get-openapi.md
+- name: AWS Database Migration Service API - Describe Replication Tasks
+  x-api-slug: actiondescribereplicationtasks-get
+  description: Returns information about replication tasks for your account in the
+    current region.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Database_AWSDatabaseMigrationService.png
+  humanURL: https://aws.amazon.com/dms/
+  baseURL: :///
+  tags: Amazon Web Services, Stack Network, API Service Provider, API Service Provider,
+    API Provider, Databases, Migrations, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-database-migration-service/actiondescribereplicationtasks-get-openapi.md
+- name: AWS Database Migration Service API - Describe Replication Tasks
+  x-api-slug: actiondescribereplicationtasks-get
+  description: Returns information about replication tasks for your account in the
+    current region.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Database_AWSDatabaseMigrationService.png
+  humanURL: https://aws.amazon.com/dms/
+  baseURL: :///
+  tags: Amazon Web Services, Stack Network, API Service Provider, API Service Provider,
+    API Provider, Databases, Migrations, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-database-migration-service/actiondescribereplicationtasks-get-openapi.md
+- name: AWS Database Migration Service API - Describe Replication Tasks
+  x-api-slug: actiondescribereplicationtasks-get
+  description: Returns information about replication tasks for your account in the
+    current region.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Database_AWSDatabaseMigrationService.png
+  humanURL: https://aws.amazon.com/dms/
+  baseURL: :///
+  tags: Amazon Web Services, Stack Network, API Service Provider, API Service Provider,
+    API Provider, Databases, Migrations, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-database-migration-service/actiondescribereplicationtasks-get-openapi.md
+- name: AWS Database Migration Service API - Describe Replication Tasks
+  x-api-slug: actiondescribereplicationtasks-get
+  description: Returns information about replication tasks for your account in the
+    current region.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Database_AWSDatabaseMigrationService.png
+  humanURL: https://aws.amazon.com/dms/
+  baseURL: :///
+  tags: Amazon Web Services, Stack Network, API Service Provider, API Service Provider,
+    API Provider, Databases, Migrations, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-database-migration-service/actiondescribereplicationtasks-get-openapi.md
+- name: AWS Database Migration Service API - Describe Replication Tasks
+  x-api-slug: actiondescribereplicationtasks-get
+  description: Returns information about replication tasks for your account in the
+    current region.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Database_AWSDatabaseMigrationService.png
+  humanURL: https://aws.amazon.com/dms/
+  baseURL: :///
+  tags: Amazon Web Services, Stack Network, API Service Provider, API Service Provider,
+    API Provider, Databases, Migrations, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-database-migration-service/actiondescribereplicationtasks-get-openapi.md
+- name: AWS Database Migration Service API - Describe Replication Tasks
+  x-api-slug: actiondescribereplicationtasks-get
+  description: Returns information about replication tasks for your account in the
+    current region.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Database_AWSDatabaseMigrationService.png
+  humanURL: https://aws.amazon.com/dms/
+  baseURL: :///
+  tags: Amazon Web Services, Stack Network, API Service Provider, API Service Provider,
+    API Provider, Databases, Migrations, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-database-migration-service/actiondescribereplicationtasks-get-openapi.md
+- name: AWS Database Migration Service API - Describe Replication Tasks
+  x-api-slug: actiondescribereplicationtasks-get
+  description: Returns information about replication tasks for your account in the
+    current region.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Database_AWSDatabaseMigrationService.png
+  humanURL: https://aws.amazon.com/dms/
+  baseURL: :///
+  tags: Amazon Web Services, Stack Network, API Service Provider, API Service Provider,
+    API Provider, Databases, Migrations, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-database-migration-service/actiondescribereplicationtasks-get-openapi.md
+- name: AWS Database Migration Service API - Describe Schemas
+  x-api-slug: actiondescribeschemas-get
+  description: Returns information about the schema for the specified endpoint.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Database_AWSDatabaseMigrationService.png
+  humanURL: https://aws.amazon.com/dms/
+  baseURL: :///
+  tags: Amazon Web Services, Stack Network, API Service Provider, API Service Provider,
+    API Provider, Databases, Migrations, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-database-migration-service/actiondescribeschemas-get-openapi.md
+- name: AWS Database Migration Service API - Describe Schemas
+  x-api-slug: actiondescribeschemas-get
+  description: Returns information about the schema for the specified endpoint.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Database_AWSDatabaseMigrationService.png
+  humanURL: https://aws.amazon.com/dms/
+  baseURL: :///
+  tags: Amazon Web Services, Stack Network, API Service Provider, API Service Provider,
+    API Provider, Databases, Migrations, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-database-migration-service/actiondescribeschemas-get-openapi.md
+- name: AWS Database Migration Service API - Describe Schemas
+  x-api-slug: actiondescribeschemas-get
+  description: Returns information about the schema for the specified endpoint.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Database_AWSDatabaseMigrationService.png
+  humanURL: https://aws.amazon.com/dms/
+  baseURL: :///
+  tags: Amazon Web Services, Stack Network, API Service Provider, API Service Provider,
+    API Provider, Databases, Migrations, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-database-migration-service/actiondescribeschemas-get-openapi.md
+- name: AWS Database Migration Service API - Describe Schemas
+  x-api-slug: actiondescribeschemas-get
+  description: Returns information about the schema for the specified endpoint.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Database_AWSDatabaseMigrationService.png
+  humanURL: https://aws.amazon.com/dms/
+  baseURL: :///
+  tags: Amazon Web Services, Stack Network, API Service Provider, API Service Provider,
+    API Provider, Databases, Migrations, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-database-migration-service/actiondescribeschemas-get-openapi.md
+- name: AWS Database Migration Service API - Describe Schemas
+  x-api-slug: actiondescribeschemas-get
+  description: Returns information about the schema for the specified endpoint.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Database_AWSDatabaseMigrationService.png
+  humanURL: https://aws.amazon.com/dms/
+  baseURL: :///
+  tags: Amazon Web Services, Stack Network, API Service Provider, API Service Provider,
+    API Provider, Databases, Migrations, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-database-migration-service/actiondescribeschemas-get-openapi.md
+- name: AWS Database Migration Service API - Describe Schemas
+  x-api-slug: actiondescribeschemas-get
+  description: Returns information about the schema for the specified endpoint.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Database_AWSDatabaseMigrationService.png
+  humanURL: https://aws.amazon.com/dms/
+  baseURL: :///
+  tags: Amazon Web Services, Stack Network, API Service Provider, API Service Provider,
+    API Provider, Databases, Migrations, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-database-migration-service/actiondescribeschemas-get-openapi.md
+- name: AWS Database Migration Service API - Describe Schemas
+  x-api-slug: actiondescribeschemas-get
+  description: Returns information about the schema for the specified endpoint.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Database_AWSDatabaseMigrationService.png
+  humanURL: https://aws.amazon.com/dms/
+  baseURL: :///
+  tags: Amazon Web Services, Stack Network, API Service Provider, API Service Provider,
+    API Provider, Databases, Migrations, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-database-migration-service/actiondescribeschemas-get-openapi.md
+- name: AWS Database Migration Service API - Describe Schemas
+  x-api-slug: actiondescribeschemas-get
+  description: Returns information about the schema for the specified endpoint.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Database_AWSDatabaseMigrationService.png
+  humanURL: https://aws.amazon.com/dms/
+  baseURL: :///
+  tags: Amazon Web Services, Stack Network, API Service Provider, API Service Provider,
+    API Provider, Databases, Migrations, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-database-migration-service/actiondescribeschemas-get-openapi.md
+- name: AWS Database Migration Service API - Describe Schemas
+  x-api-slug: actiondescribeschemas-get
+  description: Returns information about the schema for the specified endpoint.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Database_AWSDatabaseMigrationService.png
+  humanURL: https://aws.amazon.com/dms/
+  baseURL: :///
+  tags: Amazon Web Services, Stack Network, API Service Provider, API Service Provider,
+    API Provider, Databases, Migrations, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-database-migration-service/actiondescribeschemas-get-openapi.md
 - name: AWS Database Migration Service API - Describe Table Statistics
   x-api-slug: actiondescribetablestatistics-get
   description: Returns table statistics on the database migration task, including
@@ -280,6 +1430,138 @@ apis:
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-database-migration-service/actiondescribetablestatistics-get-postman.md
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-database-migration-service/actiondescribetablestatistics-get-openapi.md
+- name: AWS Database Migration Service API - Describe Connections
+  x-api-slug: actiondescribeconnections-get
+  description: Describes the status of the connections that have been made between
+    the replication instance and an endpoint.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Database_AWSDatabaseMigrationService.png
+  humanURL: https://aws.amazon.com/dms/
+  baseURL: :///
+  tags: Amazon Web Services, Stack Network, API Service Provider, API Service Provider,
+    API Provider, Databases, Migrations, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-database-migration-service/actiondescribeconnections-get-openapi.md
+- name: AWS Database Migration Service API - Describe Connections
+  x-api-slug: actiondescribeconnections-get
+  description: Describes the status of the connections that have been made between
+    the replication instance and an endpoint.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Database_AWSDatabaseMigrationService.png
+  humanURL: https://aws.amazon.com/dms/
+  baseURL: :///
+  tags: Amazon Web Services, Stack Network, API Service Provider, API Service Provider,
+    API Provider, Databases, Migrations, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-database-migration-service/actiondescribeconnections-get-openapi.md
+- name: AWS Database Migration Service API - Describe Connections
+  x-api-slug: actiondescribeconnections-get
+  description: Describes the status of the connections that have been made between
+    the replication instance and an endpoint.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Database_AWSDatabaseMigrationService.png
+  humanURL: https://aws.amazon.com/dms/
+  baseURL: :///
+  tags: Amazon Web Services, Stack Network, API Service Provider, API Service Provider,
+    API Provider, Databases, Migrations, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-database-migration-service/actiondescribeconnections-get-openapi.md
+- name: AWS Database Migration Service API - Describe Connections
+  x-api-slug: actiondescribeconnections-get
+  description: Describes the status of the connections that have been made between
+    the replication instance and an endpoint.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Database_AWSDatabaseMigrationService.png
+  humanURL: https://aws.amazon.com/dms/
+  baseURL: :///
+  tags: Amazon Web Services, Stack Network, API Service Provider, API Service Provider,
+    API Provider, Databases, Migrations, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-database-migration-service/actiondescribeconnections-get-openapi.md
+- name: AWS Database Migration Service API - Describe Connections
+  x-api-slug: actiondescribeconnections-get
+  description: Describes the status of the connections that have been made between
+    the replication instance and an endpoint.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Database_AWSDatabaseMigrationService.png
+  humanURL: https://aws.amazon.com/dms/
+  baseURL: :///
+  tags: Amazon Web Services, Stack Network, API Service Provider, API Service Provider,
+    API Provider, Databases, Migrations, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-database-migration-service/actiondescribeconnections-get-openapi.md
+- name: AWS Database Migration Service API - Describe Connections
+  x-api-slug: actiondescribeconnections-get
+  description: Describes the status of the connections that have been made between
+    the replication instance and an endpoint.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Database_AWSDatabaseMigrationService.png
+  humanURL: https://aws.amazon.com/dms/
+  baseURL: :///
+  tags: Amazon Web Services, Stack Network, API Service Provider, API Service Provider,
+    API Provider, Databases, Migrations, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-database-migration-service/actiondescribeconnections-get-openapi.md
+- name: AWS Database Migration Service API - Describe Connections
+  x-api-slug: actiondescribeconnections-get
+  description: Describes the status of the connections that have been made between
+    the replication instance and an endpoint.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Database_AWSDatabaseMigrationService.png
+  humanURL: https://aws.amazon.com/dms/
+  baseURL: :///
+  tags: Amazon Web Services, Stack Network, API Service Provider, API Service Provider,
+    API Provider, Databases, Migrations, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-database-migration-service/actiondescribeconnections-get-openapi.md
+- name: AWS Database Migration Service API - Describe Connections
+  x-api-slug: actiondescribeconnections-get
+  description: Describes the status of the connections that have been made between
+    the replication instance and an endpoint.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Database_AWSDatabaseMigrationService.png
+  humanURL: https://aws.amazon.com/dms/
+  baseURL: :///
+  tags: Amazon Web Services, Stack Network, API Service Provider, API Service Provider,
+    API Provider, Databases, Migrations, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-database-migration-service/actiondescribeconnections-get-openapi.md
+- name: AWS Database Migration Service API - Describe Connections
+  x-api-slug: actiondescribeconnections-get
+  description: Describes the status of the connections that have been made between
+    the replication instance and an endpoint.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Database_AWSDatabaseMigrationService.png
+  humanURL: https://aws.amazon.com/dms/
+  baseURL: :///
+  tags: Amazon Web Services, Stack Network, API Service Provider, API Service Provider,
+    API Provider, Databases, Migrations, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-database-migration-service/actiondescribeconnections-get-openapi.md
+- name: AWS Database Migration Service API - Describe Connections
+  x-api-slug: actiondescribeconnections-get
+  description: Describes the status of the connections that have been made between
+    the replication instance and an endpoint.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Database_AWSDatabaseMigrationService.png
+  humanURL: https://aws.amazon.com/dms/
+  baseURL: :///
+  tags: Amazon Web Services, Stack Network, API Service Provider, API Service Provider,
+    API Provider, Databases, Migrations, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-database-migration-service/actiondescribeconnections-get-openapi.md
+- name: AWS Database Migration Service API - Describe Connections
+  x-api-slug: actiondescribeconnections-get
+  description: Describes the status of the connections that have been made between
+    the replication instance and an endpoint.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Database_AWSDatabaseMigrationService.png
+  humanURL: https://aws.amazon.com/dms/
+  baseURL: :///
+  tags: Amazon Web Services, Stack Network, API Service Provider, API Service Provider,
+    API Provider, Databases, Migrations, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-database-migration-service/actiondescribeconnections-get-openapi.md
 x-common:
 - type: x-api-gallery
   url: http://aws.data.pipeline.api.gallery.streamdata.io

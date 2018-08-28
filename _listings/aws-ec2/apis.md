@@ -16,8 +16,8 @@ image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/l
 x-kinRank: "10"
 x-alexaRank: "0"
 tags: Descriptions
-created: "2018-08-26"
-modified: "2018-08-26"
+created: "2018-08-27"
+modified: "2018-08-27"
 url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-ec2/apis.md
 specificationVersion: "0.14"
 apis:
@@ -47,6 +47,18 @@ apis:
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-ec2/actiondescribeaddresses-get-postman.md
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-ec2/actiondescribeaddresses-get-openapi.md
+- name: AWS EC2 API - Describe Availability Zones
+  x-api-slug: actiondescribeavailabilityzones-get
+  description: Describes one or more of the Availability Zones that are available
+    to you.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2.png
+  humanURL: https://aws.amazon.com/ec2/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Stack Network, Stack, API Service Provider,
+    API Service Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-ec2/actiondescribeavailabilityzones-get-openapi.md
 - name: AWS EC2 API - Describe Bundle Tasks
   x-api-slug: actiondescribebundletasks-get
   description: Describes one or more of your bundling tasks.
@@ -86,6 +98,17 @@ apis:
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-ec2/actiondescribeconversiontasks-get-postman.md
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-ec2/actiondescribeconversiontasks-get-openapi.md
+- name: AWS EC2 API - Describe Customer Gateways
+  x-api-slug: actiondescribecustomergateways-get
+  description: Describes one or more of your VPN customer gateways.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2.png
+  humanURL: https://aws.amazon.com/ec2/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Stack Network, Stack, API Service Provider,
+    API Service Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-ec2/actiondescribecustomergateways-get-openapi.md
 - name: AWS EC2 API - Describe Dhcp Options
   x-api-slug: actiondescribedhcpoptions-get
   description: Describes one or more of your DHCP options sets.
@@ -220,6 +243,28 @@ apis:
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-ec2/actiondescribehostreservations-get-postman.md
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-ec2/actiondescribehostreservations-get-openapi.md
+- name: AWS EC2 API - Describe Hosts
+  x-api-slug: actiondescribehosts-get
+  description: Describes one or more of your Dedicated Hosts.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2.png
+  humanURL: https://aws.amazon.com/ec2/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Stack Network, Stack, API Service Provider,
+    API Service Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-ec2/actiondescribehosts-get-openapi.md
+- name: AWS EC2 API - Describe Hosts
+  x-api-slug: actiondescribehosts-get
+  description: Describes one or more of your Dedicated Hosts.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2.png
+  humanURL: https://aws.amazon.com/ec2/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Stack Network, Stack, API Service Provider,
+    API Service Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-ec2/actiondescribehosts-get-openapi.md
 - name: AWS EC2 API - Describe Identity Id Format
   x-api-slug: actiondescribeidentityidformat-get
   description: |-
@@ -332,6 +377,30 @@ apis:
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-ec2/actiondescribeimages-get-postman.md
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-ec2/actiondescribeimages-get-openapi.md
+- name: AWS EC2 API - Describe Import Image Tasks
+  x-api-slug: actiondescribeimportimagetasks-get
+  description: Displays details about an import virtual machine or import snapshot
+    tasks that are already created.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2.png
+  humanURL: https://aws.amazon.com/ec2/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Stack Network, Stack, API Service Provider,
+    API Service Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-ec2/actiondescribeimportimagetasks-get-openapi.md
+- name: AWS EC2 API - Describe Import Image Tasks
+  x-api-slug: actiondescribeimportimagetasks-get
+  description: Displays details about an import virtual machine or import snapshot
+    tasks that are already created.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2.png
+  humanURL: https://aws.amazon.com/ec2/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Stack Network, Stack, API Service Provider,
+    API Service Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-ec2/actiondescribeimportimagetasks-get-openapi.md
 - name: AWS EC2 API - Describe Import Snapshot Tasks
   x-api-slug: actiondescribeimportsnapshottasks-get
   description: Describes your import snapshot tasks.
@@ -436,6 +505,28 @@ apis:
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-ec2/actiondescribeinstancestatus-get-postman.md
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-ec2/actiondescribeinstancestatus-get-openapi.md
+- name: AWS EC2 API - Describe Internet Gateways
+  x-api-slug: actiondescribeinternetgateways-get
+  description: Describes one or more of your Internet gateways.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2.png
+  humanURL: https://aws.amazon.com/ec2/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Stack Network, Stack, API Service Provider,
+    API Service Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-ec2/actiondescribeinternetgateways-get-openapi.md
+- name: AWS EC2 API - Describe Internet Gateways
+  x-api-slug: actiondescribeinternetgateways-get
+  description: Describes one or more of your Internet gateways.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2.png
+  humanURL: https://aws.amazon.com/ec2/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Stack Network, Stack, API Service Provider,
+    API Service Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-ec2/actiondescribeinternetgateways-get-openapi.md
 - name: AWS EC2 API - Describe Key Pairs
   x-api-slug: actiondescribekeypairs-get
   description: Describes one or more of your key pairs.
@@ -490,6 +581,28 @@ apis:
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-ec2/actiondescribemovingaddresses-get-postman.md
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-ec2/actiondescribemovingaddresses-get-openapi.md
+- name: AWS EC2 API - Describe Nat Gateways
+  x-api-slug: actiondescribenatgateways-get
+  description: Describes one or more of the your NAT gateways.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2.png
+  humanURL: https://aws.amazon.com/ec2/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Stack Network, Stack, API Service Provider,
+    API Service Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-ec2/actiondescribenatgateways-get-openapi.md
+- name: AWS EC2 API - Describe Nat Gateways
+  x-api-slug: actiondescribenatgateways-get
+  description: Describes one or more of the your NAT gateways.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2.png
+  humanURL: https://aws.amazon.com/ec2/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Stack Network, Stack, API Service Provider,
+    API Service Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-ec2/actiondescribenatgateways-get-openapi.md
 - name: AWS EC2 API - Describe Network Acls
   x-api-slug: actiondescribenetworkacls-get
   description: Describes one or more of your network ACLs.
@@ -568,6 +681,28 @@ apis:
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-ec2/actiondescribenetworkinterfaces-get-postman.md
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-ec2/actiondescribenetworkinterfaces-get-openapi.md
+- name: AWS EC2 API - Describe Placement Groups
+  x-api-slug: actiondescribeplacementgroups-get
+  description: Describes one or more of your placement groups.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2.png
+  humanURL: https://aws.amazon.com/ec2/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Stack Network, Stack, API Service Provider,
+    API Service Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-ec2/actiondescribeplacementgroups-get-openapi.md
+- name: AWS EC2 API - Describe Placement Groups
+  x-api-slug: actiondescribeplacementgroups-get
+  description: Describes one or more of your placement groups.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2.png
+  humanURL: https://aws.amazon.com/ec2/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Stack Network, Stack, API Service Provider,
+    API Service Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-ec2/actiondescribeplacementgroups-get-openapi.md
 - name: AWS EC2 API - Describe Prefix Lists
   x-api-slug: actiondescribeprefixlists-get
   description: Describes available AWS services in a prefix list format, which includes
@@ -624,6 +759,96 @@ apis:
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-ec2/actiondescriberegions-get-postman.md
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-ec2/actiondescriberegions-get-openapi.md
+- name: AWS EC2 API - Describe Reserved Instances
+  x-api-slug: actiondescribereservedinstances-get
+  description: Describes one or more of the Reserved Instances that you purchased.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2.png
+  humanURL: https://aws.amazon.com/ec2/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Stack Network, Stack, API Service Provider,
+    API Service Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-ec2/actiondescribereservedinstances-get-openapi.md
+- name: AWS EC2 API - Describe Reserved Instances
+  x-api-slug: actiondescribereservedinstances-get
+  description: Describes one or more of the Reserved Instances that you purchased.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2.png
+  humanURL: https://aws.amazon.com/ec2/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Stack Network, Stack, API Service Provider,
+    API Service Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-ec2/actiondescribereservedinstances-get-openapi.md
+- name: AWS EC2 API - Describe Reserved Instances Listings
+  x-api-slug: actiondescribereservedinstanceslistings-get
+  description: Describes your account's Reserved Instance listings in the Reserved
+    Instance Marketplace.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2.png
+  humanURL: https://aws.amazon.com/ec2/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Stack Network, Stack, API Service Provider,
+    API Service Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-ec2/actiondescribereservedinstanceslistings-get-openapi.md
+- name: AWS EC2 API - Describe Reserved Instances Listings
+  x-api-slug: actiondescribereservedinstanceslistings-get
+  description: Describes your account's Reserved Instance listings in the Reserved
+    Instance Marketplace.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2.png
+  humanURL: https://aws.amazon.com/ec2/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Stack Network, Stack, API Service Provider,
+    API Service Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-ec2/actiondescribereservedinstanceslistings-get-openapi.md
+- name: AWS EC2 API - Describe Reserved Instances Modifications
+  x-api-slug: actiondescribereservedinstancesmodifications-get
+  description: Describes the modifications made to your Reserved Instances.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2.png
+  humanURL: https://aws.amazon.com/ec2/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Stack Network, Stack, API Service Provider,
+    API Service Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-ec2/actiondescribereservedinstancesmodifications-get-openapi.md
+- name: AWS EC2 API - Describe Reserved Instances Modifications
+  x-api-slug: actiondescribereservedinstancesmodifications-get
+  description: Describes the modifications made to your Reserved Instances.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2.png
+  humanURL: https://aws.amazon.com/ec2/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Stack Network, Stack, API Service Provider,
+    API Service Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-ec2/actiondescribereservedinstancesmodifications-get-openapi.md
+- name: AWS EC2 API - Describe Reserved Instances Offerings
+  x-api-slug: actiondescribereservedinstancesofferings-get
+  description: Describes Reserved Instance offerings that are available for purchase.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2.png
+  humanURL: https://aws.amazon.com/ec2/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Stack Network, Stack, API Service Provider,
+    API Service Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-ec2/actiondescribereservedinstancesofferings-get-openapi.md
+- name: AWS EC2 API - Describe Reserved Instances Offerings
+  x-api-slug: actiondescribereservedinstancesofferings-get
+  description: Describes Reserved Instance offerings that are available for purchase.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2.png
+  humanURL: https://aws.amazon.com/ec2/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Stack Network, Stack, API Service Provider,
+    API Service Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-ec2/actiondescribereservedinstancesofferings-get-openapi.md
 - name: AWS EC2 API - Describe Route Tables
   x-api-slug: actiondescriberoutetables-get
   description: Describes one or more of your route tables.
@@ -650,6 +875,28 @@ apis:
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-ec2/actiondescriberoutetables-get-postman.md
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-ec2/actiondescriberoutetables-get-openapi.md
+- name: AWS EC2 API - Describe Scheduled Instance Availability
+  x-api-slug: actiondescribescheduledinstanceavailability-get
+  description: Finds available schedules that meet the specified criteria.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2.png
+  humanURL: https://aws.amazon.com/ec2/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Stack Network, Stack, API Service Provider,
+    API Service Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-ec2/actiondescribescheduledinstanceavailability-get-openapi.md
+- name: AWS EC2 API - Describe Scheduled Instance Availability
+  x-api-slug: actiondescribescheduledinstanceavailability-get
+  description: Finds available schedules that meet the specified criteria.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2.png
+  humanURL: https://aws.amazon.com/ec2/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Stack Network, Stack, API Service Provider,
+    API Service Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-ec2/actiondescribescheduledinstanceavailability-get-openapi.md
 - name: AWS EC2 API - Describe Scheduled Instances
   x-api-slug: actiondescribescheduledinstances-get
   description: Describes one or more of your Scheduled Instances.
@@ -676,6 +923,54 @@ apis:
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-ec2/actiondescribescheduledinstances-get-postman.md
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-ec2/actiondescribescheduledinstances-get-openapi.md
+- name: AWS EC2 API - Describe Security Group References ( E C2- V P C only)
+  x-api-slug: actiondescribesecuritygroupreferences-ec2vpc-only-get
+  description: '[EC2-VPC only] Describes the VPCs on the other side of a VPC peering
+    connection that are referencing the security groups you''ve specified in this
+    request.'
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2.png
+  humanURL: https://aws.amazon.com/ec2/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Stack Network, Stack, API Service Provider,
+    API Service Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-ec2/actiondescribesecuritygroupreferences-ec2vpc-only-get-openapi.md
+- name: AWS EC2 API - Describe Security Group References ( E C2- V P C only)
+  x-api-slug: actiondescribesecuritygroupreferences-ec2vpc-only-get
+  description: '[EC2-VPC only] Describes the VPCs on the other side of a VPC peering
+    connection that are referencing the security groups you''ve specified in this
+    request.'
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2.png
+  humanURL: https://aws.amazon.com/ec2/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Stack Network, Stack, API Service Provider,
+    API Service Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-ec2/actiondescribesecuritygroupreferences-ec2vpc-only-get-openapi.md
+- name: AWS EC2 API - Describe Security Groups
+  x-api-slug: actiondescribesecuritygroups-get
+  description: Describes one or more of your security groups.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2.png
+  humanURL: https://aws.amazon.com/ec2/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Stack Network, Stack, API Service Provider,
+    API Service Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-ec2/actiondescribesecuritygroups-get-openapi.md
+- name: AWS EC2 API - Describe Security Groups
+  x-api-slug: actiondescribesecuritygroups-get
+  description: Describes one or more of your security groups.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2.png
+  humanURL: https://aws.amazon.com/ec2/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Stack Network, Stack, API Service Provider,
+    API Service Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-ec2/actiondescribesecuritygroups-get-openapi.md
 - name: AWS EC2 API - Describe Snapshot Attribute
   x-api-slug: actiondescribesnapshotattribute-get
   description: Describes the specified attribute of the specified snapshot.
@@ -728,6 +1023,28 @@ apis:
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-ec2/actiondescribesnapshots-get-postman.md
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-ec2/actiondescribesnapshots-get-openapi.md
+- name: AWS EC2 API - Describe Spot Datafeed Subscription
+  x-api-slug: actiondescribespotdatafeedsubscription-get
+  description: Describes the data feed for Spot instances.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2.png
+  humanURL: https://aws.amazon.com/ec2/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Stack Network, Stack, API Service Provider,
+    API Service Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-ec2/actiondescribespotdatafeedsubscription-get-openapi.md
+- name: AWS EC2 API - Describe Spot Datafeed Subscription
+  x-api-slug: actiondescribespotdatafeedsubscription-get
+  description: Describes the data feed for Spot instances.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2.png
+  humanURL: https://aws.amazon.com/ec2/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Stack Network, Stack, API Service Provider,
+    API Service Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-ec2/actiondescribespotdatafeedsubscription-get-openapi.md
 - name: AWS EC2 API - Describe Spot Fleet Instances
   x-api-slug: actiondescribespotfleetinstances-get
   description: Describes the running instances for the specified Spot fleet.
@@ -860,6 +1177,30 @@ apis:
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-ec2/actiondescribespotpricehistory-get-postman.md
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-ec2/actiondescribespotpricehistory-get-openapi.md
+- name: AWS EC2 API - Describe Stale Security Groups ( E C2- V P C only)
+  x-api-slug: actiondescribestalesecuritygroups-ec2vpc-only-get
+  description: '[EC2-VPC only] Describes the stale security group rules for security
+    groups in a specified VPC.'
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2.png
+  humanURL: https://aws.amazon.com/ec2/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Stack Network, Stack, API Service Provider,
+    API Service Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-ec2/actiondescribestalesecuritygroups-ec2vpc-only-get-openapi.md
+- name: AWS EC2 API - Describe Stale Security Groups ( E C2- V P C only)
+  x-api-slug: actiondescribestalesecuritygroups-ec2vpc-only-get
+  description: '[EC2-VPC only] Describes the stale security group rules for security
+    groups in a specified VPC.'
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2.png
+  humanURL: https://aws.amazon.com/ec2/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Stack Network, Stack, API Service Provider,
+    API Service Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-ec2/actiondescribestalesecuritygroups-ec2vpc-only-get-openapi.md
 - name: AWS EC2 API - Describe Subnets
   x-api-slug: actiondescribesubnets-get
   description: Describes one or more of your subnets.
@@ -886,6 +1227,72 @@ apis:
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-ec2/actiondescribesubnets-get-postman.md
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-ec2/actiondescribesubnets-get-openapi.md
+- name: AWS EC2 API - Describe Tags
+  x-api-slug: actiondescribetags-get
+  description: Describes one or more of the tags for your EC2 resources.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2.png
+  humanURL: https://aws.amazon.com/ec2/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Stack Network, Stack, API Service Provider,
+    API Service Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-ec2/actiondescribetags-get-openapi.md
+- name: AWS EC2 API - Describe Tags
+  x-api-slug: actiondescribetags-get
+  description: Describes one or more of the tags for your EC2 resources.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2.png
+  humanURL: https://aws.amazon.com/ec2/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Stack Network, Stack, API Service Provider,
+    API Service Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-ec2/actiondescribetags-get-openapi.md
+- name: AWS EC2 API - Describe Volume Attribute
+  x-api-slug: actiondescribevolumeattribute-get
+  description: Describes the specified attribute of the specified volume.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2.png
+  humanURL: https://aws.amazon.com/ec2/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Stack Network, Stack, API Service Provider,
+    API Service Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-ec2/actiondescribevolumeattribute-get-openapi.md
+- name: AWS EC2 API - Describe Volume Attribute
+  x-api-slug: actiondescribevolumeattribute-get
+  description: Describes the specified attribute of the specified volume.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2.png
+  humanURL: https://aws.amazon.com/ec2/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Stack Network, Stack, API Service Provider,
+    API Service Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-ec2/actiondescribevolumeattribute-get-openapi.md
+- name: AWS EC2 API - Describe Volumes
+  x-api-slug: actiondescribevolumes-get
+  description: Describes the specified EBS volumes.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2.png
+  humanURL: https://aws.amazon.com/ec2/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Stack Network, Stack, API Service Provider,
+    API Service Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-ec2/actiondescribevolumes-get-openapi.md
+- name: AWS EC2 API - Describe Volumes
+  x-api-slug: actiondescribevolumes-get
+  description: Describes the specified EBS volumes.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2.png
+  humanURL: https://aws.amazon.com/ec2/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Stack Network, Stack, API Service Provider,
+    API Service Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-ec2/actiondescribevolumes-get-openapi.md
 - name: AWS EC2 API - Describe Volume Status
   x-api-slug: actiondescribevolumestatus-get
   description: Describes the status of the specified volumes.
@@ -964,6 +1371,96 @@ apis:
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-ec2/actiondescribevpcclassiclink-get-postman.md
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-ec2/actiondescribevpcclassiclink-get-openapi.md
+- name: AWS EC2 API - Describe Vpc Classic Link Dns Support
+  x-api-slug: actiondescribevpcclassiclinkdnssupport-get
+  description: Describes the ClassicLink DNS support status of one or more VPCs.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2.png
+  humanURL: https://aws.amazon.com/ec2/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Stack Network, Stack, API Service Provider,
+    API Service Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-ec2/actiondescribevpcclassiclinkdnssupport-get-openapi.md
+- name: AWS EC2 API - Describe Vpc Classic Link Dns Support
+  x-api-slug: actiondescribevpcclassiclinkdnssupport-get
+  description: Describes the ClassicLink DNS support status of one or more VPCs.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2.png
+  humanURL: https://aws.amazon.com/ec2/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Stack Network, Stack, API Service Provider,
+    API Service Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-ec2/actiondescribevpcclassiclinkdnssupport-get-openapi.md
+- name: AWS EC2 API - Describe Vpc Endpoints
+  x-api-slug: actiondescribevpcendpoints-get
+  description: Describes one or more of your VPC endpoints.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2.png
+  humanURL: https://aws.amazon.com/ec2/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Stack Network, Stack, API Service Provider,
+    API Service Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-ec2/actiondescribevpcendpoints-get-openapi.md
+- name: AWS EC2 API - Describe Vpc Endpoints
+  x-api-slug: actiondescribevpcendpoints-get
+  description: Describes one or more of your VPC endpoints.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2.png
+  humanURL: https://aws.amazon.com/ec2/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Stack Network, Stack, API Service Provider,
+    API Service Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-ec2/actiondescribevpcendpoints-get-openapi.md
+- name: AWS EC2 API - Describe Vpc Endpoint Services
+  x-api-slug: actiondescribevpcendpointservices-get
+  description: Describes all supported AWS services that can be specified when creating
+    a VPC endpoint.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2.png
+  humanURL: https://aws.amazon.com/ec2/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Stack Network, Stack, API Service Provider,
+    API Service Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-ec2/actiondescribevpcendpointservices-get-openapi.md
+- name: AWS EC2 API - Describe Vpc Endpoint Services
+  x-api-slug: actiondescribevpcendpointservices-get
+  description: Describes all supported AWS services that can be specified when creating
+    a VPC endpoint.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2.png
+  humanURL: https://aws.amazon.com/ec2/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Stack Network, Stack, API Service Provider,
+    API Service Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-ec2/actiondescribevpcendpointservices-get-openapi.md
+- name: AWS EC2 API - Describe Vpc Peering Connections
+  x-api-slug: actiondescribevpcpeeringconnections-get
+  description: Describes one or more of your VPC peering connections.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2.png
+  humanURL: https://aws.amazon.com/ec2/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Stack Network, Stack, API Service Provider,
+    API Service Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-ec2/actiondescribevpcpeeringconnections-get-openapi.md
+- name: AWS EC2 API - Describe Vpc Peering Connections
+  x-api-slug: actiondescribevpcpeeringconnections-get
+  description: Describes one or more of your VPC peering connections.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2.png
+  humanURL: https://aws.amazon.com/ec2/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Stack Network, Stack, API Service Provider,
+    API Service Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-ec2/actiondescribevpcpeeringconnections-get-openapi.md
 - name: AWS EC2 API - Describe Vpcs
   x-api-slug: actiondescribevpcs-get
   description: Describes one or more of your VPCs.
@@ -990,6 +1487,50 @@ apis:
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-ec2/actiondescribevpcs-get-postman.md
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-ec2/actiondescribevpcs-get-openapi.md
+- name: AWS EC2 API - Describe Vpn Connections
+  x-api-slug: actiondescribevpnconnections-get
+  description: Describes one or more of your VPN connections.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2.png
+  humanURL: https://aws.amazon.com/ec2/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Stack Network, Stack, API Service Provider,
+    API Service Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-ec2/actiondescribevpnconnections-get-openapi.md
+- name: AWS EC2 API - Describe Vpn Connections
+  x-api-slug: actiondescribevpnconnections-get
+  description: Describes one or more of your VPN connections.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2.png
+  humanURL: https://aws.amazon.com/ec2/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Stack Network, Stack, API Service Provider,
+    API Service Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-ec2/actiondescribevpnconnections-get-openapi.md
+- name: AWS EC2 API - Describe Vpn Gateways
+  x-api-slug: actiondescribevpngateways-get
+  description: Describes one or more of your virtual private gateways.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2.png
+  humanURL: https://aws.amazon.com/ec2/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Stack Network, Stack, API Service Provider,
+    API Service Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-ec2/actiondescribevpngateways-get-openapi.md
+- name: AWS EC2 API - Describe Vpn Gateways
+  x-api-slug: actiondescribevpngateways-get
+  description: Describes one or more of your virtual private gateways.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2.png
+  humanURL: https://aws.amazon.com/ec2/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Stack Network, Stack, API Service Provider,
+    API Service Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-ec2/actiondescribevpngateways-get-openapi.md
 - name: AWS EC2 API - Import Snapshot
   x-api-slug: actionimportsnapshot-get
   description: Describes your import snapshot tasks.
@@ -1198,6 +1739,90 @@ apis:
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-ec2/actiondescribeaddresses-get-postman.md
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-ec2/actiondescribeaddresses-get-openapi.md
+- name: AWS EC2 API - Describe Availability Zones
+  x-api-slug: actiondescribeavailabilityzones-get
+  description: Describes one or more of the Availability Zones that are available
+    to you.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2.png
+  humanURL: https://aws.amazon.com/ec2/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Stack Network, Stack, API Service Provider,
+    API Service Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-ec2/actiondescribeavailabilityzones-get-openapi.md
+- name: AWS EC2 API - Describe Availability Zones
+  x-api-slug: actiondescribeavailabilityzones-get
+  description: Describes one or more of the Availability Zones that are available
+    to you.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2.png
+  humanURL: https://aws.amazon.com/ec2/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Stack Network, Stack, API Service Provider,
+    API Service Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-ec2/actiondescribeavailabilityzones-get-openapi.md
+- name: AWS EC2 API - Describe Availability Zones
+  x-api-slug: actiondescribeavailabilityzones-get
+  description: Describes one or more of the Availability Zones that are available
+    to you.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2.png
+  humanURL: https://aws.amazon.com/ec2/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Stack Network, Stack, API Service Provider,
+    API Service Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-ec2/actiondescribeavailabilityzones-get-openapi.md
+- name: AWS EC2 API - Describe Availability Zones
+  x-api-slug: actiondescribeavailabilityzones-get
+  description: Describes one or more of the Availability Zones that are available
+    to you.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2.png
+  humanURL: https://aws.amazon.com/ec2/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Stack Network, Stack, API Service Provider,
+    API Service Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-ec2/actiondescribeavailabilityzones-get-openapi.md
+- name: AWS EC2 API - Describe Availability Zones
+  x-api-slug: actiondescribeavailabilityzones-get
+  description: Describes one or more of the Availability Zones that are available
+    to you.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2.png
+  humanURL: https://aws.amazon.com/ec2/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Stack Network, Stack, API Service Provider,
+    API Service Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-ec2/actiondescribeavailabilityzones-get-openapi.md
+- name: AWS EC2 API - Describe Availability Zones
+  x-api-slug: actiondescribeavailabilityzones-get
+  description: Describes one or more of the Availability Zones that are available
+    to you.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2.png
+  humanURL: https://aws.amazon.com/ec2/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Stack Network, Stack, API Service Provider,
+    API Service Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-ec2/actiondescribeavailabilityzones-get-openapi.md
+- name: AWS EC2 API - Describe Availability Zones
+  x-api-slug: actiondescribeavailabilityzones-get
+  description: Describes one or more of the Availability Zones that are available
+    to you.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2.png
+  humanURL: https://aws.amazon.com/ec2/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Stack Network, Stack, API Service Provider,
+    API Service Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-ec2/actiondescribeavailabilityzones-get-openapi.md
 - name: AWS EC2 API - Describe Bundle Tasks
   x-api-slug: actiondescribebundletasks-get
   description: Describes one or more of your bundling tasks.
@@ -1471,6 +2096,83 @@ apis:
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-ec2/actiondescribeconversiontasks-get-postman.md
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-ec2/actiondescribeconversiontasks-get-openapi.md
+- name: AWS EC2 API - Describe Customer Gateways
+  x-api-slug: actiondescribecustomergateways-get
+  description: Describes one or more of your VPN customer gateways.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2.png
+  humanURL: https://aws.amazon.com/ec2/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Stack Network, Stack, API Service Provider,
+    API Service Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-ec2/actiondescribecustomergateways-get-openapi.md
+- name: AWS EC2 API - Describe Customer Gateways
+  x-api-slug: actiondescribecustomergateways-get
+  description: Describes one or more of your VPN customer gateways.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2.png
+  humanURL: https://aws.amazon.com/ec2/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Stack Network, Stack, API Service Provider,
+    API Service Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-ec2/actiondescribecustomergateways-get-openapi.md
+- name: AWS EC2 API - Describe Customer Gateways
+  x-api-slug: actiondescribecustomergateways-get
+  description: Describes one or more of your VPN customer gateways.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2.png
+  humanURL: https://aws.amazon.com/ec2/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Stack Network, Stack, API Service Provider,
+    API Service Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-ec2/actiondescribecustomergateways-get-openapi.md
+- name: AWS EC2 API - Describe Customer Gateways
+  x-api-slug: actiondescribecustomergateways-get
+  description: Describes one or more of your VPN customer gateways.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2.png
+  humanURL: https://aws.amazon.com/ec2/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Stack Network, Stack, API Service Provider,
+    API Service Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-ec2/actiondescribecustomergateways-get-openapi.md
+- name: AWS EC2 API - Describe Customer Gateways
+  x-api-slug: actiondescribecustomergateways-get
+  description: Describes one or more of your VPN customer gateways.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2.png
+  humanURL: https://aws.amazon.com/ec2/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Stack Network, Stack, API Service Provider,
+    API Service Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-ec2/actiondescribecustomergateways-get-openapi.md
+- name: AWS EC2 API - Describe Customer Gateways
+  x-api-slug: actiondescribecustomergateways-get
+  description: Describes one or more of your VPN customer gateways.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2.png
+  humanURL: https://aws.amazon.com/ec2/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Stack Network, Stack, API Service Provider,
+    API Service Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-ec2/actiondescribecustomergateways-get-openapi.md
+- name: AWS EC2 API - Describe Customer Gateways
+  x-api-slug: actiondescribecustomergateways-get
+  description: Describes one or more of your VPN customer gateways.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2.png
+  humanURL: https://aws.amazon.com/ec2/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Stack Network, Stack, API Service Provider,
+    API Service Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-ec2/actiondescribecustomergateways-get-openapi.md
 - name: AWS EC2 API - Describe Dhcp Options
   x-api-slug: actiondescribedhcpoptions-get
   description: Describes one or more of your DHCP options sets.
@@ -2111,6 +2813,94 @@ apis:
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-ec2/actiondescribehostreservations-get-postman.md
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-ec2/actiondescribehostreservations-get-openapi.md
+- name: AWS EC2 API - Describe Hosts
+  x-api-slug: actiondescribehosts-get
+  description: Describes one or more of your Dedicated Hosts.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2.png
+  humanURL: https://aws.amazon.com/ec2/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Stack Network, Stack, API Service Provider,
+    API Service Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-ec2/actiondescribehosts-get-openapi.md
+- name: AWS EC2 API - Describe Hosts
+  x-api-slug: actiondescribehosts-get
+  description: Describes one or more of your Dedicated Hosts.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2.png
+  humanURL: https://aws.amazon.com/ec2/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Stack Network, Stack, API Service Provider,
+    API Service Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-ec2/actiondescribehosts-get-openapi.md
+- name: AWS EC2 API - Describe Hosts
+  x-api-slug: actiondescribehosts-get
+  description: Describes one or more of your Dedicated Hosts.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2.png
+  humanURL: https://aws.amazon.com/ec2/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Stack Network, Stack, API Service Provider,
+    API Service Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-ec2/actiondescribehosts-get-openapi.md
+- name: AWS EC2 API - Describe Hosts
+  x-api-slug: actiondescribehosts-get
+  description: Describes one or more of your Dedicated Hosts.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2.png
+  humanURL: https://aws.amazon.com/ec2/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Stack Network, Stack, API Service Provider,
+    API Service Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-ec2/actiondescribehosts-get-openapi.md
+- name: AWS EC2 API - Describe Hosts
+  x-api-slug: actiondescribehosts-get
+  description: Describes one or more of your Dedicated Hosts.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2.png
+  humanURL: https://aws.amazon.com/ec2/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Stack Network, Stack, API Service Provider,
+    API Service Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-ec2/actiondescribehosts-get-openapi.md
+- name: AWS EC2 API - Describe Hosts
+  x-api-slug: actiondescribehosts-get
+  description: Describes one or more of your Dedicated Hosts.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2.png
+  humanURL: https://aws.amazon.com/ec2/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Stack Network, Stack, API Service Provider,
+    API Service Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-ec2/actiondescribehosts-get-openapi.md
+- name: AWS EC2 API - Describe Hosts
+  x-api-slug: actiondescribehosts-get
+  description: Describes one or more of your Dedicated Hosts.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2.png
+  humanURL: https://aws.amazon.com/ec2/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Stack Network, Stack, API Service Provider,
+    API Service Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-ec2/actiondescribehosts-get-openapi.md
+- name: AWS EC2 API - Describe Hosts
+  x-api-slug: actiondescribehosts-get
+  description: Describes one or more of your Dedicated Hosts.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2.png
+  humanURL: https://aws.amazon.com/ec2/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Stack Network, Stack, API Service Provider,
+    API Service Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-ec2/actiondescribehosts-get-openapi.md
 - name: AWS EC2 API - Describe Identity Id Format
   x-api-slug: actiondescribeidentityidformat-get
   description: |-
@@ -2559,6 +3349,102 @@ apis:
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-ec2/actiondescribeimages-get-postman.md
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-ec2/actiondescribeimages-get-openapi.md
+- name: AWS EC2 API - Describe Import Image Tasks
+  x-api-slug: actiondescribeimportimagetasks-get
+  description: Displays details about an import virtual machine or import snapshot
+    tasks that are already created.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2.png
+  humanURL: https://aws.amazon.com/ec2/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Stack Network, Stack, API Service Provider,
+    API Service Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-ec2/actiondescribeimportimagetasks-get-openapi.md
+- name: AWS EC2 API - Describe Import Image Tasks
+  x-api-slug: actiondescribeimportimagetasks-get
+  description: Displays details about an import virtual machine or import snapshot
+    tasks that are already created.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2.png
+  humanURL: https://aws.amazon.com/ec2/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Stack Network, Stack, API Service Provider,
+    API Service Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-ec2/actiondescribeimportimagetasks-get-openapi.md
+- name: AWS EC2 API - Describe Import Image Tasks
+  x-api-slug: actiondescribeimportimagetasks-get
+  description: Displays details about an import virtual machine or import snapshot
+    tasks that are already created.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2.png
+  humanURL: https://aws.amazon.com/ec2/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Stack Network, Stack, API Service Provider,
+    API Service Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-ec2/actiondescribeimportimagetasks-get-openapi.md
+- name: AWS EC2 API - Describe Import Image Tasks
+  x-api-slug: actiondescribeimportimagetasks-get
+  description: Displays details about an import virtual machine or import snapshot
+    tasks that are already created.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2.png
+  humanURL: https://aws.amazon.com/ec2/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Stack Network, Stack, API Service Provider,
+    API Service Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-ec2/actiondescribeimportimagetasks-get-openapi.md
+- name: AWS EC2 API - Describe Import Image Tasks
+  x-api-slug: actiondescribeimportimagetasks-get
+  description: Displays details about an import virtual machine or import snapshot
+    tasks that are already created.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2.png
+  humanURL: https://aws.amazon.com/ec2/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Stack Network, Stack, API Service Provider,
+    API Service Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-ec2/actiondescribeimportimagetasks-get-openapi.md
+- name: AWS EC2 API - Describe Import Image Tasks
+  x-api-slug: actiondescribeimportimagetasks-get
+  description: Displays details about an import virtual machine or import snapshot
+    tasks that are already created.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2.png
+  humanURL: https://aws.amazon.com/ec2/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Stack Network, Stack, API Service Provider,
+    API Service Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-ec2/actiondescribeimportimagetasks-get-openapi.md
+- name: AWS EC2 API - Describe Import Image Tasks
+  x-api-slug: actiondescribeimportimagetasks-get
+  description: Displays details about an import virtual machine or import snapshot
+    tasks that are already created.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2.png
+  humanURL: https://aws.amazon.com/ec2/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Stack Network, Stack, API Service Provider,
+    API Service Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-ec2/actiondescribeimportimagetasks-get-openapi.md
+- name: AWS EC2 API - Describe Import Image Tasks
+  x-api-slug: actiondescribeimportimagetasks-get
+  description: Displays details about an import virtual machine or import snapshot
+    tasks that are already created.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2.png
+  humanURL: https://aws.amazon.com/ec2/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Stack Network, Stack, API Service Provider,
+    API Service Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-ec2/actiondescribeimportimagetasks-get-openapi.md
 - name: AWS EC2 API - Describe Import Snapshot Tasks
   x-api-slug: actiondescribeimportsnapshottasks-get
   description: Describes your import snapshot tasks.
@@ -2975,6 +3861,94 @@ apis:
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-ec2/actiondescribeinstancestatus-get-postman.md
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-ec2/actiondescribeinstancestatus-get-openapi.md
+- name: AWS EC2 API - Describe Internet Gateways
+  x-api-slug: actiondescribeinternetgateways-get
+  description: Describes one or more of your Internet gateways.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2.png
+  humanURL: https://aws.amazon.com/ec2/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Stack Network, Stack, API Service Provider,
+    API Service Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-ec2/actiondescribeinternetgateways-get-openapi.md
+- name: AWS EC2 API - Describe Internet Gateways
+  x-api-slug: actiondescribeinternetgateways-get
+  description: Describes one or more of your Internet gateways.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2.png
+  humanURL: https://aws.amazon.com/ec2/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Stack Network, Stack, API Service Provider,
+    API Service Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-ec2/actiondescribeinternetgateways-get-openapi.md
+- name: AWS EC2 API - Describe Internet Gateways
+  x-api-slug: actiondescribeinternetgateways-get
+  description: Describes one or more of your Internet gateways.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2.png
+  humanURL: https://aws.amazon.com/ec2/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Stack Network, Stack, API Service Provider,
+    API Service Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-ec2/actiondescribeinternetgateways-get-openapi.md
+- name: AWS EC2 API - Describe Internet Gateways
+  x-api-slug: actiondescribeinternetgateways-get
+  description: Describes one or more of your Internet gateways.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2.png
+  humanURL: https://aws.amazon.com/ec2/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Stack Network, Stack, API Service Provider,
+    API Service Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-ec2/actiondescribeinternetgateways-get-openapi.md
+- name: AWS EC2 API - Describe Internet Gateways
+  x-api-slug: actiondescribeinternetgateways-get
+  description: Describes one or more of your Internet gateways.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2.png
+  humanURL: https://aws.amazon.com/ec2/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Stack Network, Stack, API Service Provider,
+    API Service Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-ec2/actiondescribeinternetgateways-get-openapi.md
+- name: AWS EC2 API - Describe Internet Gateways
+  x-api-slug: actiondescribeinternetgateways-get
+  description: Describes one or more of your Internet gateways.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2.png
+  humanURL: https://aws.amazon.com/ec2/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Stack Network, Stack, API Service Provider,
+    API Service Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-ec2/actiondescribeinternetgateways-get-openapi.md
+- name: AWS EC2 API - Describe Internet Gateways
+  x-api-slug: actiondescribeinternetgateways-get
+  description: Describes one or more of your Internet gateways.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2.png
+  humanURL: https://aws.amazon.com/ec2/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Stack Network, Stack, API Service Provider,
+    API Service Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-ec2/actiondescribeinternetgateways-get-openapi.md
+- name: AWS EC2 API - Describe Internet Gateways
+  x-api-slug: actiondescribeinternetgateways-get
+  description: Describes one or more of your Internet gateways.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2.png
+  humanURL: https://aws.amazon.com/ec2/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Stack Network, Stack, API Service Provider,
+    API Service Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-ec2/actiondescribeinternetgateways-get-openapi.md
 - name: AWS EC2 API - Describe Key Pairs
   x-api-slug: actiondescribekeypairs-get
   description: Describes one or more of your key pairs.
@@ -3191,6 +4165,94 @@ apis:
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-ec2/actiondescribemovingaddresses-get-postman.md
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-ec2/actiondescribemovingaddresses-get-openapi.md
+- name: AWS EC2 API - Describe Nat Gateways
+  x-api-slug: actiondescribenatgateways-get
+  description: Describes one or more of the your NAT gateways.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2.png
+  humanURL: https://aws.amazon.com/ec2/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Stack Network, Stack, API Service Provider,
+    API Service Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-ec2/actiondescribenatgateways-get-openapi.md
+- name: AWS EC2 API - Describe Nat Gateways
+  x-api-slug: actiondescribenatgateways-get
+  description: Describes one or more of the your NAT gateways.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2.png
+  humanURL: https://aws.amazon.com/ec2/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Stack Network, Stack, API Service Provider,
+    API Service Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-ec2/actiondescribenatgateways-get-openapi.md
+- name: AWS EC2 API - Describe Nat Gateways
+  x-api-slug: actiondescribenatgateways-get
+  description: Describes one or more of the your NAT gateways.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2.png
+  humanURL: https://aws.amazon.com/ec2/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Stack Network, Stack, API Service Provider,
+    API Service Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-ec2/actiondescribenatgateways-get-openapi.md
+- name: AWS EC2 API - Describe Nat Gateways
+  x-api-slug: actiondescribenatgateways-get
+  description: Describes one or more of the your NAT gateways.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2.png
+  humanURL: https://aws.amazon.com/ec2/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Stack Network, Stack, API Service Provider,
+    API Service Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-ec2/actiondescribenatgateways-get-openapi.md
+- name: AWS EC2 API - Describe Nat Gateways
+  x-api-slug: actiondescribenatgateways-get
+  description: Describes one or more of the your NAT gateways.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2.png
+  humanURL: https://aws.amazon.com/ec2/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Stack Network, Stack, API Service Provider,
+    API Service Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-ec2/actiondescribenatgateways-get-openapi.md
+- name: AWS EC2 API - Describe Nat Gateways
+  x-api-slug: actiondescribenatgateways-get
+  description: Describes one or more of the your NAT gateways.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2.png
+  humanURL: https://aws.amazon.com/ec2/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Stack Network, Stack, API Service Provider,
+    API Service Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-ec2/actiondescribenatgateways-get-openapi.md
+- name: AWS EC2 API - Describe Nat Gateways
+  x-api-slug: actiondescribenatgateways-get
+  description: Describes one or more of the your NAT gateways.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2.png
+  humanURL: https://aws.amazon.com/ec2/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Stack Network, Stack, API Service Provider,
+    API Service Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-ec2/actiondescribenatgateways-get-openapi.md
+- name: AWS EC2 API - Describe Nat Gateways
+  x-api-slug: actiondescribenatgateways-get
+  description: Describes one or more of the your NAT gateways.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2.png
+  humanURL: https://aws.amazon.com/ec2/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Stack Network, Stack, API Service Provider,
+    API Service Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-ec2/actiondescribenatgateways-get-openapi.md
 - name: AWS EC2 API - Describe Network Acls
   x-api-slug: actiondescribenetworkacls-get
   description: Describes one or more of your network ACLs.
@@ -3503,6 +4565,105 @@ apis:
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-ec2/actiondescribenetworkinterfaces-get-postman.md
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-ec2/actiondescribenetworkinterfaces-get-openapi.md
+- name: AWS EC2 API - Describe Placement Groups
+  x-api-slug: actiondescribeplacementgroups-get
+  description: Describes one or more of your placement groups.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2.png
+  humanURL: https://aws.amazon.com/ec2/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Stack Network, Stack, API Service Provider,
+    API Service Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-ec2/actiondescribeplacementgroups-get-openapi.md
+- name: AWS EC2 API - Describe Placement Groups
+  x-api-slug: actiondescribeplacementgroups-get
+  description: Describes one or more of your placement groups.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2.png
+  humanURL: https://aws.amazon.com/ec2/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Stack Network, Stack, API Service Provider,
+    API Service Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-ec2/actiondescribeplacementgroups-get-openapi.md
+- name: AWS EC2 API - Describe Placement Groups
+  x-api-slug: actiondescribeplacementgroups-get
+  description: Describes one or more of your placement groups.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2.png
+  humanURL: https://aws.amazon.com/ec2/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Stack Network, Stack, API Service Provider,
+    API Service Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-ec2/actiondescribeplacementgroups-get-openapi.md
+- name: AWS EC2 API - Describe Placement Groups
+  x-api-slug: actiondescribeplacementgroups-get
+  description: Describes one or more of your placement groups.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2.png
+  humanURL: https://aws.amazon.com/ec2/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Stack Network, Stack, API Service Provider,
+    API Service Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-ec2/actiondescribeplacementgroups-get-openapi.md
+- name: AWS EC2 API - Describe Placement Groups
+  x-api-slug: actiondescribeplacementgroups-get
+  description: Describes one or more of your placement groups.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2.png
+  humanURL: https://aws.amazon.com/ec2/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Stack Network, Stack, API Service Provider,
+    API Service Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-ec2/actiondescribeplacementgroups-get-openapi.md
+- name: AWS EC2 API - Describe Placement Groups
+  x-api-slug: actiondescribeplacementgroups-get
+  description: Describes one or more of your placement groups.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2.png
+  humanURL: https://aws.amazon.com/ec2/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Stack Network, Stack, API Service Provider,
+    API Service Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-ec2/actiondescribeplacementgroups-get-openapi.md
+- name: AWS EC2 API - Describe Placement Groups
+  x-api-slug: actiondescribeplacementgroups-get
+  description: Describes one or more of your placement groups.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2.png
+  humanURL: https://aws.amazon.com/ec2/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Stack Network, Stack, API Service Provider,
+    API Service Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-ec2/actiondescribeplacementgroups-get-openapi.md
+- name: AWS EC2 API - Describe Placement Groups
+  x-api-slug: actiondescribeplacementgroups-get
+  description: Describes one or more of your placement groups.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2.png
+  humanURL: https://aws.amazon.com/ec2/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Stack Network, Stack, API Service Provider,
+    API Service Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-ec2/actiondescribeplacementgroups-get-openapi.md
+- name: AWS EC2 API - Describe Placement Groups
+  x-api-slug: actiondescribeplacementgroups-get
+  description: Describes one or more of your placement groups.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2.png
+  humanURL: https://aws.amazon.com/ec2/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Stack Network, Stack, API Service Provider,
+    API Service Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-ec2/actiondescribeplacementgroups-get-openapi.md
 - name: AWS EC2 API - Describe Prefix Lists
   x-api-slug: actiondescribeprefixlists-get
   description: Describes available AWS services in a prefix list format, which includes
@@ -3755,6 +4916,411 @@ apis:
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-ec2/actiondescriberegions-get-postman.md
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-ec2/actiondescriberegions-get-openapi.md
+- name: AWS EC2 API - Describe Reserved Instances
+  x-api-slug: actiondescribereservedinstances-get
+  description: Describes one or more of the Reserved Instances that you purchased.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2.png
+  humanURL: https://aws.amazon.com/ec2/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Stack Network, Stack, API Service Provider,
+    API Service Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-ec2/actiondescribereservedinstances-get-openapi.md
+- name: AWS EC2 API - Describe Reserved Instances
+  x-api-slug: actiondescribereservedinstances-get
+  description: Describes one or more of the Reserved Instances that you purchased.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2.png
+  humanURL: https://aws.amazon.com/ec2/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Stack Network, Stack, API Service Provider,
+    API Service Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-ec2/actiondescribereservedinstances-get-openapi.md
+- name: AWS EC2 API - Describe Reserved Instances
+  x-api-slug: actiondescribereservedinstances-get
+  description: Describes one or more of the Reserved Instances that you purchased.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2.png
+  humanURL: https://aws.amazon.com/ec2/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Stack Network, Stack, API Service Provider,
+    API Service Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-ec2/actiondescribereservedinstances-get-openapi.md
+- name: AWS EC2 API - Describe Reserved Instances
+  x-api-slug: actiondescribereservedinstances-get
+  description: Describes one or more of the Reserved Instances that you purchased.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2.png
+  humanURL: https://aws.amazon.com/ec2/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Stack Network, Stack, API Service Provider,
+    API Service Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-ec2/actiondescribereservedinstances-get-openapi.md
+- name: AWS EC2 API - Describe Reserved Instances
+  x-api-slug: actiondescribereservedinstances-get
+  description: Describes one or more of the Reserved Instances that you purchased.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2.png
+  humanURL: https://aws.amazon.com/ec2/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Stack Network, Stack, API Service Provider,
+    API Service Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-ec2/actiondescribereservedinstances-get-openapi.md
+- name: AWS EC2 API - Describe Reserved Instances
+  x-api-slug: actiondescribereservedinstances-get
+  description: Describes one or more of the Reserved Instances that you purchased.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2.png
+  humanURL: https://aws.amazon.com/ec2/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Stack Network, Stack, API Service Provider,
+    API Service Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-ec2/actiondescribereservedinstances-get-openapi.md
+- name: AWS EC2 API - Describe Reserved Instances
+  x-api-slug: actiondescribereservedinstances-get
+  description: Describes one or more of the Reserved Instances that you purchased.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2.png
+  humanURL: https://aws.amazon.com/ec2/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Stack Network, Stack, API Service Provider,
+    API Service Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-ec2/actiondescribereservedinstances-get-openapi.md
+- name: AWS EC2 API - Describe Reserved Instances
+  x-api-slug: actiondescribereservedinstances-get
+  description: Describes one or more of the Reserved Instances that you purchased.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2.png
+  humanURL: https://aws.amazon.com/ec2/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Stack Network, Stack, API Service Provider,
+    API Service Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-ec2/actiondescribereservedinstances-get-openapi.md
+- name: AWS EC2 API - Describe Reserved Instances
+  x-api-slug: actiondescribereservedinstances-get
+  description: Describes one or more of the Reserved Instances that you purchased.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2.png
+  humanURL: https://aws.amazon.com/ec2/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Stack Network, Stack, API Service Provider,
+    API Service Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-ec2/actiondescribereservedinstances-get-openapi.md
+- name: AWS EC2 API - Describe Reserved Instances Listings
+  x-api-slug: actiondescribereservedinstanceslistings-get
+  description: Describes your account's Reserved Instance listings in the Reserved
+    Instance Marketplace.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2.png
+  humanURL: https://aws.amazon.com/ec2/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Stack Network, Stack, API Service Provider,
+    API Service Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-ec2/actiondescribereservedinstanceslistings-get-openapi.md
+- name: AWS EC2 API - Describe Reserved Instances Listings
+  x-api-slug: actiondescribereservedinstanceslistings-get
+  description: Describes your account's Reserved Instance listings in the Reserved
+    Instance Marketplace.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2.png
+  humanURL: https://aws.amazon.com/ec2/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Stack Network, Stack, API Service Provider,
+    API Service Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-ec2/actiondescribereservedinstanceslistings-get-openapi.md
+- name: AWS EC2 API - Describe Reserved Instances Listings
+  x-api-slug: actiondescribereservedinstanceslistings-get
+  description: Describes your account's Reserved Instance listings in the Reserved
+    Instance Marketplace.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2.png
+  humanURL: https://aws.amazon.com/ec2/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Stack Network, Stack, API Service Provider,
+    API Service Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-ec2/actiondescribereservedinstanceslistings-get-openapi.md
+- name: AWS EC2 API - Describe Reserved Instances Listings
+  x-api-slug: actiondescribereservedinstanceslistings-get
+  description: Describes your account's Reserved Instance listings in the Reserved
+    Instance Marketplace.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2.png
+  humanURL: https://aws.amazon.com/ec2/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Stack Network, Stack, API Service Provider,
+    API Service Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-ec2/actiondescribereservedinstanceslistings-get-openapi.md
+- name: AWS EC2 API - Describe Reserved Instances Listings
+  x-api-slug: actiondescribereservedinstanceslistings-get
+  description: Describes your account's Reserved Instance listings in the Reserved
+    Instance Marketplace.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2.png
+  humanURL: https://aws.amazon.com/ec2/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Stack Network, Stack, API Service Provider,
+    API Service Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-ec2/actiondescribereservedinstanceslistings-get-openapi.md
+- name: AWS EC2 API - Describe Reserved Instances Listings
+  x-api-slug: actiondescribereservedinstanceslistings-get
+  description: Describes your account's Reserved Instance listings in the Reserved
+    Instance Marketplace.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2.png
+  humanURL: https://aws.amazon.com/ec2/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Stack Network, Stack, API Service Provider,
+    API Service Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-ec2/actiondescribereservedinstanceslistings-get-openapi.md
+- name: AWS EC2 API - Describe Reserved Instances Listings
+  x-api-slug: actiondescribereservedinstanceslistings-get
+  description: Describes your account's Reserved Instance listings in the Reserved
+    Instance Marketplace.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2.png
+  humanURL: https://aws.amazon.com/ec2/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Stack Network, Stack, API Service Provider,
+    API Service Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-ec2/actiondescribereservedinstanceslistings-get-openapi.md
+- name: AWS EC2 API - Describe Reserved Instances Listings
+  x-api-slug: actiondescribereservedinstanceslistings-get
+  description: Describes your account's Reserved Instance listings in the Reserved
+    Instance Marketplace.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2.png
+  humanURL: https://aws.amazon.com/ec2/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Stack Network, Stack, API Service Provider,
+    API Service Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-ec2/actiondescribereservedinstanceslistings-get-openapi.md
+- name: AWS EC2 API - Describe Reserved Instances Listings
+  x-api-slug: actiondescribereservedinstanceslistings-get
+  description: Describes your account's Reserved Instance listings in the Reserved
+    Instance Marketplace.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2.png
+  humanURL: https://aws.amazon.com/ec2/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Stack Network, Stack, API Service Provider,
+    API Service Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-ec2/actiondescribereservedinstanceslistings-get-openapi.md
+- name: AWS EC2 API - Describe Reserved Instances Modifications
+  x-api-slug: actiondescribereservedinstancesmodifications-get
+  description: Describes the modifications made to your Reserved Instances.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2.png
+  humanURL: https://aws.amazon.com/ec2/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Stack Network, Stack, API Service Provider,
+    API Service Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-ec2/actiondescribereservedinstancesmodifications-get-openapi.md
+- name: AWS EC2 API - Describe Reserved Instances Modifications
+  x-api-slug: actiondescribereservedinstancesmodifications-get
+  description: Describes the modifications made to your Reserved Instances.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2.png
+  humanURL: https://aws.amazon.com/ec2/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Stack Network, Stack, API Service Provider,
+    API Service Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-ec2/actiondescribereservedinstancesmodifications-get-openapi.md
+- name: AWS EC2 API - Describe Reserved Instances Modifications
+  x-api-slug: actiondescribereservedinstancesmodifications-get
+  description: Describes the modifications made to your Reserved Instances.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2.png
+  humanURL: https://aws.amazon.com/ec2/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Stack Network, Stack, API Service Provider,
+    API Service Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-ec2/actiondescribereservedinstancesmodifications-get-openapi.md
+- name: AWS EC2 API - Describe Reserved Instances Modifications
+  x-api-slug: actiondescribereservedinstancesmodifications-get
+  description: Describes the modifications made to your Reserved Instances.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2.png
+  humanURL: https://aws.amazon.com/ec2/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Stack Network, Stack, API Service Provider,
+    API Service Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-ec2/actiondescribereservedinstancesmodifications-get-openapi.md
+- name: AWS EC2 API - Describe Reserved Instances Modifications
+  x-api-slug: actiondescribereservedinstancesmodifications-get
+  description: Describes the modifications made to your Reserved Instances.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2.png
+  humanURL: https://aws.amazon.com/ec2/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Stack Network, Stack, API Service Provider,
+    API Service Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-ec2/actiondescribereservedinstancesmodifications-get-openapi.md
+- name: AWS EC2 API - Describe Reserved Instances Modifications
+  x-api-slug: actiondescribereservedinstancesmodifications-get
+  description: Describes the modifications made to your Reserved Instances.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2.png
+  humanURL: https://aws.amazon.com/ec2/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Stack Network, Stack, API Service Provider,
+    API Service Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-ec2/actiondescribereservedinstancesmodifications-get-openapi.md
+- name: AWS EC2 API - Describe Reserved Instances Modifications
+  x-api-slug: actiondescribereservedinstancesmodifications-get
+  description: Describes the modifications made to your Reserved Instances.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2.png
+  humanURL: https://aws.amazon.com/ec2/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Stack Network, Stack, API Service Provider,
+    API Service Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-ec2/actiondescribereservedinstancesmodifications-get-openapi.md
+- name: AWS EC2 API - Describe Reserved Instances Modifications
+  x-api-slug: actiondescribereservedinstancesmodifications-get
+  description: Describes the modifications made to your Reserved Instances.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2.png
+  humanURL: https://aws.amazon.com/ec2/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Stack Network, Stack, API Service Provider,
+    API Service Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-ec2/actiondescribereservedinstancesmodifications-get-openapi.md
+- name: AWS EC2 API - Describe Reserved Instances Modifications
+  x-api-slug: actiondescribereservedinstancesmodifications-get
+  description: Describes the modifications made to your Reserved Instances.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2.png
+  humanURL: https://aws.amazon.com/ec2/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Stack Network, Stack, API Service Provider,
+    API Service Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-ec2/actiondescribereservedinstancesmodifications-get-openapi.md
+- name: AWS EC2 API - Describe Reserved Instances Offerings
+  x-api-slug: actiondescribereservedinstancesofferings-get
+  description: Describes Reserved Instance offerings that are available for purchase.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2.png
+  humanURL: https://aws.amazon.com/ec2/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Stack Network, Stack, API Service Provider,
+    API Service Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-ec2/actiondescribereservedinstancesofferings-get-openapi.md
+- name: AWS EC2 API - Describe Reserved Instances Offerings
+  x-api-slug: actiondescribereservedinstancesofferings-get
+  description: Describes Reserved Instance offerings that are available for purchase.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2.png
+  humanURL: https://aws.amazon.com/ec2/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Stack Network, Stack, API Service Provider,
+    API Service Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-ec2/actiondescribereservedinstancesofferings-get-openapi.md
+- name: AWS EC2 API - Describe Reserved Instances Offerings
+  x-api-slug: actiondescribereservedinstancesofferings-get
+  description: Describes Reserved Instance offerings that are available for purchase.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2.png
+  humanURL: https://aws.amazon.com/ec2/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Stack Network, Stack, API Service Provider,
+    API Service Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-ec2/actiondescribereservedinstancesofferings-get-openapi.md
+- name: AWS EC2 API - Describe Reserved Instances Offerings
+  x-api-slug: actiondescribereservedinstancesofferings-get
+  description: Describes Reserved Instance offerings that are available for purchase.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2.png
+  humanURL: https://aws.amazon.com/ec2/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Stack Network, Stack, API Service Provider,
+    API Service Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-ec2/actiondescribereservedinstancesofferings-get-openapi.md
+- name: AWS EC2 API - Describe Reserved Instances Offerings
+  x-api-slug: actiondescribereservedinstancesofferings-get
+  description: Describes Reserved Instance offerings that are available for purchase.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2.png
+  humanURL: https://aws.amazon.com/ec2/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Stack Network, Stack, API Service Provider,
+    API Service Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-ec2/actiondescribereservedinstancesofferings-get-openapi.md
+- name: AWS EC2 API - Describe Reserved Instances Offerings
+  x-api-slug: actiondescribereservedinstancesofferings-get
+  description: Describes Reserved Instance offerings that are available for purchase.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2.png
+  humanURL: https://aws.amazon.com/ec2/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Stack Network, Stack, API Service Provider,
+    API Service Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-ec2/actiondescribereservedinstancesofferings-get-openapi.md
+- name: AWS EC2 API - Describe Reserved Instances Offerings
+  x-api-slug: actiondescribereservedinstancesofferings-get
+  description: Describes Reserved Instance offerings that are available for purchase.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2.png
+  humanURL: https://aws.amazon.com/ec2/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Stack Network, Stack, API Service Provider,
+    API Service Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-ec2/actiondescribereservedinstancesofferings-get-openapi.md
+- name: AWS EC2 API - Describe Reserved Instances Offerings
+  x-api-slug: actiondescribereservedinstancesofferings-get
+  description: Describes Reserved Instance offerings that are available for purchase.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2.png
+  humanURL: https://aws.amazon.com/ec2/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Stack Network, Stack, API Service Provider,
+    API Service Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-ec2/actiondescribereservedinstancesofferings-get-openapi.md
+- name: AWS EC2 API - Describe Reserved Instances Offerings
+  x-api-slug: actiondescribereservedinstancesofferings-get
+  description: Describes Reserved Instance offerings that are available for purchase.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2.png
+  humanURL: https://aws.amazon.com/ec2/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Stack Network, Stack, API Service Provider,
+    API Service Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-ec2/actiondescribereservedinstancesofferings-get-openapi.md
 - name: AWS EC2 API - Describe Route Tables
   x-api-slug: actiondescriberoutetables-get
   description: Describes one or more of your route tables.
@@ -3872,6 +5438,105 @@ apis:
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-ec2/actiondescriberoutetables-get-postman.md
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-ec2/actiondescriberoutetables-get-openapi.md
+- name: AWS EC2 API - Describe Scheduled Instance Availability
+  x-api-slug: actiondescribescheduledinstanceavailability-get
+  description: Finds available schedules that meet the specified criteria.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2.png
+  humanURL: https://aws.amazon.com/ec2/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Stack Network, Stack, API Service Provider,
+    API Service Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-ec2/actiondescribescheduledinstanceavailability-get-openapi.md
+- name: AWS EC2 API - Describe Scheduled Instance Availability
+  x-api-slug: actiondescribescheduledinstanceavailability-get
+  description: Finds available schedules that meet the specified criteria.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2.png
+  humanURL: https://aws.amazon.com/ec2/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Stack Network, Stack, API Service Provider,
+    API Service Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-ec2/actiondescribescheduledinstanceavailability-get-openapi.md
+- name: AWS EC2 API - Describe Scheduled Instance Availability
+  x-api-slug: actiondescribescheduledinstanceavailability-get
+  description: Finds available schedules that meet the specified criteria.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2.png
+  humanURL: https://aws.amazon.com/ec2/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Stack Network, Stack, API Service Provider,
+    API Service Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-ec2/actiondescribescheduledinstanceavailability-get-openapi.md
+- name: AWS EC2 API - Describe Scheduled Instance Availability
+  x-api-slug: actiondescribescheduledinstanceavailability-get
+  description: Finds available schedules that meet the specified criteria.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2.png
+  humanURL: https://aws.amazon.com/ec2/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Stack Network, Stack, API Service Provider,
+    API Service Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-ec2/actiondescribescheduledinstanceavailability-get-openapi.md
+- name: AWS EC2 API - Describe Scheduled Instance Availability
+  x-api-slug: actiondescribescheduledinstanceavailability-get
+  description: Finds available schedules that meet the specified criteria.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2.png
+  humanURL: https://aws.amazon.com/ec2/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Stack Network, Stack, API Service Provider,
+    API Service Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-ec2/actiondescribescheduledinstanceavailability-get-openapi.md
+- name: AWS EC2 API - Describe Scheduled Instance Availability
+  x-api-slug: actiondescribescheduledinstanceavailability-get
+  description: Finds available schedules that meet the specified criteria.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2.png
+  humanURL: https://aws.amazon.com/ec2/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Stack Network, Stack, API Service Provider,
+    API Service Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-ec2/actiondescribescheduledinstanceavailability-get-openapi.md
+- name: AWS EC2 API - Describe Scheduled Instance Availability
+  x-api-slug: actiondescribescheduledinstanceavailability-get
+  description: Finds available schedules that meet the specified criteria.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2.png
+  humanURL: https://aws.amazon.com/ec2/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Stack Network, Stack, API Service Provider,
+    API Service Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-ec2/actiondescribescheduledinstanceavailability-get-openapi.md
+- name: AWS EC2 API - Describe Scheduled Instance Availability
+  x-api-slug: actiondescribescheduledinstanceavailability-get
+  description: Finds available schedules that meet the specified criteria.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2.png
+  humanURL: https://aws.amazon.com/ec2/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Stack Network, Stack, API Service Provider,
+    API Service Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-ec2/actiondescribescheduledinstanceavailability-get-openapi.md
+- name: AWS EC2 API - Describe Scheduled Instance Availability
+  x-api-slug: actiondescribescheduledinstanceavailability-get
+  description: Finds available schedules that meet the specified criteria.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2.png
+  humanURL: https://aws.amazon.com/ec2/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Stack Network, Stack, API Service Provider,
+    API Service Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-ec2/actiondescribescheduledinstanceavailability-get-openapi.md
 - name: AWS EC2 API - Describe Scheduled Instances
   x-api-slug: actiondescribescheduledinstances-get
   description: Describes one or more of your Scheduled Instances.
@@ -3989,6 +5654,222 @@ apis:
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-ec2/actiondescribescheduledinstances-get-postman.md
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-ec2/actiondescribescheduledinstances-get-openapi.md
+- name: AWS EC2 API - Describe Security Group References ( E C2- V P C only)
+  x-api-slug: actiondescribesecuritygroupreferences-ec2vpc-only-get
+  description: '[EC2-VPC only] Describes the VPCs on the other side of a VPC peering
+    connection that are referencing the security groups you''ve specified in this
+    request.'
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2.png
+  humanURL: https://aws.amazon.com/ec2/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Stack Network, Stack, API Service Provider,
+    API Service Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-ec2/actiondescribesecuritygroupreferences-ec2vpc-only-get-openapi.md
+- name: AWS EC2 API - Describe Security Group References ( E C2- V P C only)
+  x-api-slug: actiondescribesecuritygroupreferences-ec2vpc-only-get
+  description: '[EC2-VPC only] Describes the VPCs on the other side of a VPC peering
+    connection that are referencing the security groups you''ve specified in this
+    request.'
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2.png
+  humanURL: https://aws.amazon.com/ec2/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Stack Network, Stack, API Service Provider,
+    API Service Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-ec2/actiondescribesecuritygroupreferences-ec2vpc-only-get-openapi.md
+- name: AWS EC2 API - Describe Security Group References ( E C2- V P C only)
+  x-api-slug: actiondescribesecuritygroupreferences-ec2vpc-only-get
+  description: '[EC2-VPC only] Describes the VPCs on the other side of a VPC peering
+    connection that are referencing the security groups you''ve specified in this
+    request.'
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2.png
+  humanURL: https://aws.amazon.com/ec2/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Stack Network, Stack, API Service Provider,
+    API Service Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-ec2/actiondescribesecuritygroupreferences-ec2vpc-only-get-openapi.md
+- name: AWS EC2 API - Describe Security Group References ( E C2- V P C only)
+  x-api-slug: actiondescribesecuritygroupreferences-ec2vpc-only-get
+  description: '[EC2-VPC only] Describes the VPCs on the other side of a VPC peering
+    connection that are referencing the security groups you''ve specified in this
+    request.'
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2.png
+  humanURL: https://aws.amazon.com/ec2/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Stack Network, Stack, API Service Provider,
+    API Service Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-ec2/actiondescribesecuritygroupreferences-ec2vpc-only-get-openapi.md
+- name: AWS EC2 API - Describe Security Group References ( E C2- V P C only)
+  x-api-slug: actiondescribesecuritygroupreferences-ec2vpc-only-get
+  description: '[EC2-VPC only] Describes the VPCs on the other side of a VPC peering
+    connection that are referencing the security groups you''ve specified in this
+    request.'
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2.png
+  humanURL: https://aws.amazon.com/ec2/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Stack Network, Stack, API Service Provider,
+    API Service Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-ec2/actiondescribesecuritygroupreferences-ec2vpc-only-get-openapi.md
+- name: AWS EC2 API - Describe Security Group References ( E C2- V P C only)
+  x-api-slug: actiondescribesecuritygroupreferences-ec2vpc-only-get
+  description: '[EC2-VPC only] Describes the VPCs on the other side of a VPC peering
+    connection that are referencing the security groups you''ve specified in this
+    request.'
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2.png
+  humanURL: https://aws.amazon.com/ec2/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Stack Network, Stack, API Service Provider,
+    API Service Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-ec2/actiondescribesecuritygroupreferences-ec2vpc-only-get-openapi.md
+- name: AWS EC2 API - Describe Security Group References ( E C2- V P C only)
+  x-api-slug: actiondescribesecuritygroupreferences-ec2vpc-only-get
+  description: '[EC2-VPC only] Describes the VPCs on the other side of a VPC peering
+    connection that are referencing the security groups you''ve specified in this
+    request.'
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2.png
+  humanURL: https://aws.amazon.com/ec2/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Stack Network, Stack, API Service Provider,
+    API Service Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-ec2/actiondescribesecuritygroupreferences-ec2vpc-only-get-openapi.md
+- name: AWS EC2 API - Describe Security Group References ( E C2- V P C only)
+  x-api-slug: actiondescribesecuritygroupreferences-ec2vpc-only-get
+  description: '[EC2-VPC only] Describes the VPCs on the other side of a VPC peering
+    connection that are referencing the security groups you''ve specified in this
+    request.'
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2.png
+  humanURL: https://aws.amazon.com/ec2/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Stack Network, Stack, API Service Provider,
+    API Service Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-ec2/actiondescribesecuritygroupreferences-ec2vpc-only-get-openapi.md
+- name: AWS EC2 API - Describe Security Group References ( E C2- V P C only)
+  x-api-slug: actiondescribesecuritygroupreferences-ec2vpc-only-get
+  description: '[EC2-VPC only] Describes the VPCs on the other side of a VPC peering
+    connection that are referencing the security groups you''ve specified in this
+    request.'
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2.png
+  humanURL: https://aws.amazon.com/ec2/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Stack Network, Stack, API Service Provider,
+    API Service Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-ec2/actiondescribesecuritygroupreferences-ec2vpc-only-get-openapi.md
+- name: AWS EC2 API - Describe Security Groups
+  x-api-slug: actiondescribesecuritygroups-get
+  description: Describes one or more of your security groups.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2.png
+  humanURL: https://aws.amazon.com/ec2/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Stack Network, Stack, API Service Provider,
+    API Service Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-ec2/actiondescribesecuritygroups-get-openapi.md
+- name: AWS EC2 API - Describe Security Groups
+  x-api-slug: actiondescribesecuritygroups-get
+  description: Describes one or more of your security groups.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2.png
+  humanURL: https://aws.amazon.com/ec2/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Stack Network, Stack, API Service Provider,
+    API Service Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-ec2/actiondescribesecuritygroups-get-openapi.md
+- name: AWS EC2 API - Describe Security Groups
+  x-api-slug: actiondescribesecuritygroups-get
+  description: Describes one or more of your security groups.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2.png
+  humanURL: https://aws.amazon.com/ec2/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Stack Network, Stack, API Service Provider,
+    API Service Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-ec2/actiondescribesecuritygroups-get-openapi.md
+- name: AWS EC2 API - Describe Security Groups
+  x-api-slug: actiondescribesecuritygroups-get
+  description: Describes one or more of your security groups.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2.png
+  humanURL: https://aws.amazon.com/ec2/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Stack Network, Stack, API Service Provider,
+    API Service Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-ec2/actiondescribesecuritygroups-get-openapi.md
+- name: AWS EC2 API - Describe Security Groups
+  x-api-slug: actiondescribesecuritygroups-get
+  description: Describes one or more of your security groups.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2.png
+  humanURL: https://aws.amazon.com/ec2/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Stack Network, Stack, API Service Provider,
+    API Service Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-ec2/actiondescribesecuritygroups-get-openapi.md
+- name: AWS EC2 API - Describe Security Groups
+  x-api-slug: actiondescribesecuritygroups-get
+  description: Describes one or more of your security groups.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2.png
+  humanURL: https://aws.amazon.com/ec2/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Stack Network, Stack, API Service Provider,
+    API Service Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-ec2/actiondescribesecuritygroups-get-openapi.md
+- name: AWS EC2 API - Describe Security Groups
+  x-api-slug: actiondescribesecuritygroups-get
+  description: Describes one or more of your security groups.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2.png
+  humanURL: https://aws.amazon.com/ec2/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Stack Network, Stack, API Service Provider,
+    API Service Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-ec2/actiondescribesecuritygroups-get-openapi.md
+- name: AWS EC2 API - Describe Security Groups
+  x-api-slug: actiondescribesecuritygroups-get
+  description: Describes one or more of your security groups.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2.png
+  humanURL: https://aws.amazon.com/ec2/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Stack Network, Stack, API Service Provider,
+    API Service Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-ec2/actiondescribesecuritygroups-get-openapi.md
+- name: AWS EC2 API - Describe Security Groups
+  x-api-slug: actiondescribesecuritygroups-get
+  description: Describes one or more of your security groups.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2.png
+  humanURL: https://aws.amazon.com/ec2/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Stack Network, Stack, API Service Provider,
+    API Service Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-ec2/actiondescribesecuritygroups-get-openapi.md
 - name: AWS EC2 API - Describe Snapshot Attribute
   x-api-slug: actiondescribesnapshotattribute-get
   description: Describes the specified attribute of the specified snapshot.
@@ -4223,6 +6104,105 @@ apis:
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-ec2/actiondescribesnapshots-get-postman.md
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-ec2/actiondescribesnapshots-get-openapi.md
+- name: AWS EC2 API - Describe Spot Datafeed Subscription
+  x-api-slug: actiondescribespotdatafeedsubscription-get
+  description: Describes the data feed for Spot instances.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2.png
+  humanURL: https://aws.amazon.com/ec2/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Stack Network, Stack, API Service Provider,
+    API Service Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-ec2/actiondescribespotdatafeedsubscription-get-openapi.md
+- name: AWS EC2 API - Describe Spot Datafeed Subscription
+  x-api-slug: actiondescribespotdatafeedsubscription-get
+  description: Describes the data feed for Spot instances.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2.png
+  humanURL: https://aws.amazon.com/ec2/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Stack Network, Stack, API Service Provider,
+    API Service Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-ec2/actiondescribespotdatafeedsubscription-get-openapi.md
+- name: AWS EC2 API - Describe Spot Datafeed Subscription
+  x-api-slug: actiondescribespotdatafeedsubscription-get
+  description: Describes the data feed for Spot instances.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2.png
+  humanURL: https://aws.amazon.com/ec2/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Stack Network, Stack, API Service Provider,
+    API Service Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-ec2/actiondescribespotdatafeedsubscription-get-openapi.md
+- name: AWS EC2 API - Describe Spot Datafeed Subscription
+  x-api-slug: actiondescribespotdatafeedsubscription-get
+  description: Describes the data feed for Spot instances.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2.png
+  humanURL: https://aws.amazon.com/ec2/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Stack Network, Stack, API Service Provider,
+    API Service Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-ec2/actiondescribespotdatafeedsubscription-get-openapi.md
+- name: AWS EC2 API - Describe Spot Datafeed Subscription
+  x-api-slug: actiondescribespotdatafeedsubscription-get
+  description: Describes the data feed for Spot instances.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2.png
+  humanURL: https://aws.amazon.com/ec2/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Stack Network, Stack, API Service Provider,
+    API Service Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-ec2/actiondescribespotdatafeedsubscription-get-openapi.md
+- name: AWS EC2 API - Describe Spot Datafeed Subscription
+  x-api-slug: actiondescribespotdatafeedsubscription-get
+  description: Describes the data feed for Spot instances.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2.png
+  humanURL: https://aws.amazon.com/ec2/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Stack Network, Stack, API Service Provider,
+    API Service Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-ec2/actiondescribespotdatafeedsubscription-get-openapi.md
+- name: AWS EC2 API - Describe Spot Datafeed Subscription
+  x-api-slug: actiondescribespotdatafeedsubscription-get
+  description: Describes the data feed for Spot instances.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2.png
+  humanURL: https://aws.amazon.com/ec2/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Stack Network, Stack, API Service Provider,
+    API Service Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-ec2/actiondescribespotdatafeedsubscription-get-openapi.md
+- name: AWS EC2 API - Describe Spot Datafeed Subscription
+  x-api-slug: actiondescribespotdatafeedsubscription-get
+  description: Describes the data feed for Spot instances.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2.png
+  humanURL: https://aws.amazon.com/ec2/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Stack Network, Stack, API Service Provider,
+    API Service Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-ec2/actiondescribespotdatafeedsubscription-get-openapi.md
+- name: AWS EC2 API - Describe Spot Datafeed Subscription
+  x-api-slug: actiondescribespotdatafeedsubscription-get
+  description: Describes the data feed for Spot instances.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2.png
+  humanURL: https://aws.amazon.com/ec2/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Stack Network, Stack, API Service Provider,
+    API Service Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-ec2/actiondescribespotdatafeedsubscription-get-openapi.md
 - name: AWS EC2 API - Describe Spot Fleet Instances
   x-api-slug: actiondescribespotfleetinstances-get
   description: Describes the running instances for the specified Spot fleet.
@@ -4817,6 +6797,114 @@ apis:
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-ec2/actiondescribespotpricehistory-get-postman.md
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-ec2/actiondescribespotpricehistory-get-openapi.md
+- name: AWS EC2 API - Describe Stale Security Groups ( E C2- V P C only)
+  x-api-slug: actiondescribestalesecuritygroups-ec2vpc-only-get
+  description: '[EC2-VPC only] Describes the stale security group rules for security
+    groups in a specified VPC.'
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2.png
+  humanURL: https://aws.amazon.com/ec2/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Stack Network, Stack, API Service Provider,
+    API Service Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-ec2/actiondescribestalesecuritygroups-ec2vpc-only-get-openapi.md
+- name: AWS EC2 API - Describe Stale Security Groups ( E C2- V P C only)
+  x-api-slug: actiondescribestalesecuritygroups-ec2vpc-only-get
+  description: '[EC2-VPC only] Describes the stale security group rules for security
+    groups in a specified VPC.'
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2.png
+  humanURL: https://aws.amazon.com/ec2/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Stack Network, Stack, API Service Provider,
+    API Service Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-ec2/actiondescribestalesecuritygroups-ec2vpc-only-get-openapi.md
+- name: AWS EC2 API - Describe Stale Security Groups ( E C2- V P C only)
+  x-api-slug: actiondescribestalesecuritygroups-ec2vpc-only-get
+  description: '[EC2-VPC only] Describes the stale security group rules for security
+    groups in a specified VPC.'
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2.png
+  humanURL: https://aws.amazon.com/ec2/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Stack Network, Stack, API Service Provider,
+    API Service Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-ec2/actiondescribestalesecuritygroups-ec2vpc-only-get-openapi.md
+- name: AWS EC2 API - Describe Stale Security Groups ( E C2- V P C only)
+  x-api-slug: actiondescribestalesecuritygroups-ec2vpc-only-get
+  description: '[EC2-VPC only] Describes the stale security group rules for security
+    groups in a specified VPC.'
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2.png
+  humanURL: https://aws.amazon.com/ec2/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Stack Network, Stack, API Service Provider,
+    API Service Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-ec2/actiondescribestalesecuritygroups-ec2vpc-only-get-openapi.md
+- name: AWS EC2 API - Describe Stale Security Groups ( E C2- V P C only)
+  x-api-slug: actiondescribestalesecuritygroups-ec2vpc-only-get
+  description: '[EC2-VPC only] Describes the stale security group rules for security
+    groups in a specified VPC.'
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2.png
+  humanURL: https://aws.amazon.com/ec2/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Stack Network, Stack, API Service Provider,
+    API Service Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-ec2/actiondescribestalesecuritygroups-ec2vpc-only-get-openapi.md
+- name: AWS EC2 API - Describe Stale Security Groups ( E C2- V P C only)
+  x-api-slug: actiondescribestalesecuritygroups-ec2vpc-only-get
+  description: '[EC2-VPC only] Describes the stale security group rules for security
+    groups in a specified VPC.'
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2.png
+  humanURL: https://aws.amazon.com/ec2/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Stack Network, Stack, API Service Provider,
+    API Service Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-ec2/actiondescribestalesecuritygroups-ec2vpc-only-get-openapi.md
+- name: AWS EC2 API - Describe Stale Security Groups ( E C2- V P C only)
+  x-api-slug: actiondescribestalesecuritygroups-ec2vpc-only-get
+  description: '[EC2-VPC only] Describes the stale security group rules for security
+    groups in a specified VPC.'
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2.png
+  humanURL: https://aws.amazon.com/ec2/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Stack Network, Stack, API Service Provider,
+    API Service Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-ec2/actiondescribestalesecuritygroups-ec2vpc-only-get-openapi.md
+- name: AWS EC2 API - Describe Stale Security Groups ( E C2- V P C only)
+  x-api-slug: actiondescribestalesecuritygroups-ec2vpc-only-get
+  description: '[EC2-VPC only] Describes the stale security group rules for security
+    groups in a specified VPC.'
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2.png
+  humanURL: https://aws.amazon.com/ec2/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Stack Network, Stack, API Service Provider,
+    API Service Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-ec2/actiondescribestalesecuritygroups-ec2vpc-only-get-openapi.md
+- name: AWS EC2 API - Describe Stale Security Groups ( E C2- V P C only)
+  x-api-slug: actiondescribestalesecuritygroups-ec2vpc-only-get
+  description: '[EC2-VPC only] Describes the stale security group rules for security
+    groups in a specified VPC.'
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2.png
+  humanURL: https://aws.amazon.com/ec2/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Stack Network, Stack, API Service Provider,
+    API Service Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-ec2/actiondescribestalesecuritygroups-ec2vpc-only-get-openapi.md
 - name: AWS EC2 API - Describe Subnets
   x-api-slug: actiondescribesubnets-get
   description: Describes one or more of your subnets.
@@ -4934,6 +7022,325 @@ apis:
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-ec2/actiondescribesubnets-get-postman.md
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-ec2/actiondescribesubnets-get-openapi.md
+- name: AWS EC2 API - Describe Tags
+  x-api-slug: actiondescribetags-get
+  description: Describes one or more of the tags for your EC2 resources.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2.png
+  humanURL: https://aws.amazon.com/ec2/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Stack Network, Stack, API Service Provider,
+    API Service Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-ec2/actiondescribetags-get-openapi.md
+- name: AWS EC2 API - Describe Tags
+  x-api-slug: actiondescribetags-get
+  description: Describes one or more of the tags for your EC2 resources.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2.png
+  humanURL: https://aws.amazon.com/ec2/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Stack Network, Stack, API Service Provider,
+    API Service Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-ec2/actiondescribetags-get-openapi.md
+- name: AWS EC2 API - Describe Tags
+  x-api-slug: actiondescribetags-get
+  description: Describes one or more of the tags for your EC2 resources.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2.png
+  humanURL: https://aws.amazon.com/ec2/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Stack Network, Stack, API Service Provider,
+    API Service Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-ec2/actiondescribetags-get-openapi.md
+- name: AWS EC2 API - Describe Tags
+  x-api-slug: actiondescribetags-get
+  description: Describes one or more of the tags for your EC2 resources.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2.png
+  humanURL: https://aws.amazon.com/ec2/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Stack Network, Stack, API Service Provider,
+    API Service Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-ec2/actiondescribetags-get-openapi.md
+- name: AWS EC2 API - Describe Tags
+  x-api-slug: actiondescribetags-get
+  description: Describes one or more of the tags for your EC2 resources.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2.png
+  humanURL: https://aws.amazon.com/ec2/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Stack Network, Stack, API Service Provider,
+    API Service Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-ec2/actiondescribetags-get-openapi.md
+- name: AWS EC2 API - Describe Tags
+  x-api-slug: actiondescribetags-get
+  description: Describes one or more of the tags for your EC2 resources.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2.png
+  humanURL: https://aws.amazon.com/ec2/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Stack Network, Stack, API Service Provider,
+    API Service Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-ec2/actiondescribetags-get-openapi.md
+- name: AWS EC2 API - Describe Tags
+  x-api-slug: actiondescribetags-get
+  description: Describes one or more of the tags for your EC2 resources.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2.png
+  humanURL: https://aws.amazon.com/ec2/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Stack Network, Stack, API Service Provider,
+    API Service Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-ec2/actiondescribetags-get-openapi.md
+- name: AWS EC2 API - Describe Tags
+  x-api-slug: actiondescribetags-get
+  description: Describes one or more of the tags for your EC2 resources.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2.png
+  humanURL: https://aws.amazon.com/ec2/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Stack Network, Stack, API Service Provider,
+    API Service Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-ec2/actiondescribetags-get-openapi.md
+- name: AWS EC2 API - Describe Tags
+  x-api-slug: actiondescribetags-get
+  description: Describes one or more of the tags for your EC2 resources.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2.png
+  humanURL: https://aws.amazon.com/ec2/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Stack Network, Stack, API Service Provider,
+    API Service Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-ec2/actiondescribetags-get-openapi.md
+- name: AWS EC2 API - Describe Volume Attribute
+  x-api-slug: actiondescribevolumeattribute-get
+  description: Describes the specified attribute of the specified volume.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2.png
+  humanURL: https://aws.amazon.com/ec2/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Stack Network, Stack, API Service Provider,
+    API Service Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-ec2/actiondescribevolumeattribute-get-openapi.md
+- name: AWS EC2 API - Describe Volume Attribute
+  x-api-slug: actiondescribevolumeattribute-get
+  description: Describes the specified attribute of the specified volume.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2.png
+  humanURL: https://aws.amazon.com/ec2/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Stack Network, Stack, API Service Provider,
+    API Service Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-ec2/actiondescribevolumeattribute-get-openapi.md
+- name: AWS EC2 API - Describe Volume Attribute
+  x-api-slug: actiondescribevolumeattribute-get
+  description: Describes the specified attribute of the specified volume.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2.png
+  humanURL: https://aws.amazon.com/ec2/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Stack Network, Stack, API Service Provider,
+    API Service Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-ec2/actiondescribevolumeattribute-get-openapi.md
+- name: AWS EC2 API - Describe Volume Attribute
+  x-api-slug: actiondescribevolumeattribute-get
+  description: Describes the specified attribute of the specified volume.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2.png
+  humanURL: https://aws.amazon.com/ec2/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Stack Network, Stack, API Service Provider,
+    API Service Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-ec2/actiondescribevolumeattribute-get-openapi.md
+- name: AWS EC2 API - Describe Volume Attribute
+  x-api-slug: actiondescribevolumeattribute-get
+  description: Describes the specified attribute of the specified volume.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2.png
+  humanURL: https://aws.amazon.com/ec2/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Stack Network, Stack, API Service Provider,
+    API Service Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-ec2/actiondescribevolumeattribute-get-openapi.md
+- name: AWS EC2 API - Describe Volume Attribute
+  x-api-slug: actiondescribevolumeattribute-get
+  description: Describes the specified attribute of the specified volume.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2.png
+  humanURL: https://aws.amazon.com/ec2/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Stack Network, Stack, API Service Provider,
+    API Service Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-ec2/actiondescribevolumeattribute-get-openapi.md
+- name: AWS EC2 API - Describe Volume Attribute
+  x-api-slug: actiondescribevolumeattribute-get
+  description: Describes the specified attribute of the specified volume.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2.png
+  humanURL: https://aws.amazon.com/ec2/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Stack Network, Stack, API Service Provider,
+    API Service Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-ec2/actiondescribevolumeattribute-get-openapi.md
+- name: AWS EC2 API - Describe Volume Attribute
+  x-api-slug: actiondescribevolumeattribute-get
+  description: Describes the specified attribute of the specified volume.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2.png
+  humanURL: https://aws.amazon.com/ec2/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Stack Network, Stack, API Service Provider,
+    API Service Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-ec2/actiondescribevolumeattribute-get-openapi.md
+- name: AWS EC2 API - Describe Volume Attribute
+  x-api-slug: actiondescribevolumeattribute-get
+  description: Describes the specified attribute of the specified volume.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2.png
+  humanURL: https://aws.amazon.com/ec2/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Stack Network, Stack, API Service Provider,
+    API Service Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-ec2/actiondescribevolumeattribute-get-openapi.md
+- name: AWS EC2 API - Describe Volume Attribute
+  x-api-slug: actiondescribevolumeattribute-get
+  description: Describes the specified attribute of the specified volume.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2.png
+  humanURL: https://aws.amazon.com/ec2/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Stack Network, Stack, API Service Provider,
+    API Service Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-ec2/actiondescribevolumeattribute-get-openapi.md
+- name: AWS EC2 API - Describe Volumes
+  x-api-slug: actiondescribevolumes-get
+  description: Describes the specified EBS volumes.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2.png
+  humanURL: https://aws.amazon.com/ec2/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Stack Network, Stack, API Service Provider,
+    API Service Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-ec2/actiondescribevolumes-get-openapi.md
+- name: AWS EC2 API - Describe Volumes
+  x-api-slug: actiondescribevolumes-get
+  description: Describes the specified EBS volumes.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2.png
+  humanURL: https://aws.amazon.com/ec2/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Stack Network, Stack, API Service Provider,
+    API Service Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-ec2/actiondescribevolumes-get-openapi.md
+- name: AWS EC2 API - Describe Volumes
+  x-api-slug: actiondescribevolumes-get
+  description: Describes the specified EBS volumes.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2.png
+  humanURL: https://aws.amazon.com/ec2/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Stack Network, Stack, API Service Provider,
+    API Service Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-ec2/actiondescribevolumes-get-openapi.md
+- name: AWS EC2 API - Describe Volumes
+  x-api-slug: actiondescribevolumes-get
+  description: Describes the specified EBS volumes.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2.png
+  humanURL: https://aws.amazon.com/ec2/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Stack Network, Stack, API Service Provider,
+    API Service Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-ec2/actiondescribevolumes-get-openapi.md
+- name: AWS EC2 API - Describe Volumes
+  x-api-slug: actiondescribevolumes-get
+  description: Describes the specified EBS volumes.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2.png
+  humanURL: https://aws.amazon.com/ec2/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Stack Network, Stack, API Service Provider,
+    API Service Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-ec2/actiondescribevolumes-get-openapi.md
+- name: AWS EC2 API - Describe Volumes
+  x-api-slug: actiondescribevolumes-get
+  description: Describes the specified EBS volumes.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2.png
+  humanURL: https://aws.amazon.com/ec2/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Stack Network, Stack, API Service Provider,
+    API Service Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-ec2/actiondescribevolumes-get-openapi.md
+- name: AWS EC2 API - Describe Volumes
+  x-api-slug: actiondescribevolumes-get
+  description: Describes the specified EBS volumes.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2.png
+  humanURL: https://aws.amazon.com/ec2/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Stack Network, Stack, API Service Provider,
+    API Service Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-ec2/actiondescribevolumes-get-openapi.md
+- name: AWS EC2 API - Describe Volumes
+  x-api-slug: actiondescribevolumes-get
+  description: Describes the specified EBS volumes.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2.png
+  humanURL: https://aws.amazon.com/ec2/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Stack Network, Stack, API Service Provider,
+    API Service Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-ec2/actiondescribevolumes-get-openapi.md
+- name: AWS EC2 API - Describe Volumes
+  x-api-slug: actiondescribevolumes-get
+  description: Describes the specified EBS volumes.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2.png
+  humanURL: https://aws.amazon.com/ec2/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Stack Network, Stack, API Service Provider,
+    API Service Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-ec2/actiondescribevolumes-get-openapi.md
+- name: AWS EC2 API - Describe Volumes
+  x-api-slug: actiondescribevolumes-get
+  description: Describes the specified EBS volumes.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2.png
+  humanURL: https://aws.amazon.com/ec2/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Stack Network, Stack, API Service Provider,
+    API Service Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-ec2/actiondescribevolumes-get-openapi.md
 - name: AWS EC2 API - Describe Volume Status
   x-api-slug: actiondescribevolumestatus-get
   description: Describes the status of the specified volumes.
@@ -5324,6 +7731,456 @@ apis:
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-ec2/actiondescribevpcclassiclink-get-postman.md
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-ec2/actiondescribevpcclassiclink-get-openapi.md
+- name: AWS EC2 API - Describe Vpc Classic Link Dns Support
+  x-api-slug: actiondescribevpcclassiclinkdnssupport-get
+  description: Describes the ClassicLink DNS support status of one or more VPCs.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2.png
+  humanURL: https://aws.amazon.com/ec2/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Stack Network, Stack, API Service Provider,
+    API Service Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-ec2/actiondescribevpcclassiclinkdnssupport-get-openapi.md
+- name: AWS EC2 API - Describe Vpc Classic Link Dns Support
+  x-api-slug: actiondescribevpcclassiclinkdnssupport-get
+  description: Describes the ClassicLink DNS support status of one or more VPCs.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2.png
+  humanURL: https://aws.amazon.com/ec2/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Stack Network, Stack, API Service Provider,
+    API Service Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-ec2/actiondescribevpcclassiclinkdnssupport-get-openapi.md
+- name: AWS EC2 API - Describe Vpc Classic Link Dns Support
+  x-api-slug: actiondescribevpcclassiclinkdnssupport-get
+  description: Describes the ClassicLink DNS support status of one or more VPCs.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2.png
+  humanURL: https://aws.amazon.com/ec2/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Stack Network, Stack, API Service Provider,
+    API Service Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-ec2/actiondescribevpcclassiclinkdnssupport-get-openapi.md
+- name: AWS EC2 API - Describe Vpc Classic Link Dns Support
+  x-api-slug: actiondescribevpcclassiclinkdnssupport-get
+  description: Describes the ClassicLink DNS support status of one or more VPCs.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2.png
+  humanURL: https://aws.amazon.com/ec2/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Stack Network, Stack, API Service Provider,
+    API Service Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-ec2/actiondescribevpcclassiclinkdnssupport-get-openapi.md
+- name: AWS EC2 API - Describe Vpc Classic Link Dns Support
+  x-api-slug: actiondescribevpcclassiclinkdnssupport-get
+  description: Describes the ClassicLink DNS support status of one or more VPCs.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2.png
+  humanURL: https://aws.amazon.com/ec2/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Stack Network, Stack, API Service Provider,
+    API Service Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-ec2/actiondescribevpcclassiclinkdnssupport-get-openapi.md
+- name: AWS EC2 API - Describe Vpc Classic Link Dns Support
+  x-api-slug: actiondescribevpcclassiclinkdnssupport-get
+  description: Describes the ClassicLink DNS support status of one or more VPCs.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2.png
+  humanURL: https://aws.amazon.com/ec2/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Stack Network, Stack, API Service Provider,
+    API Service Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-ec2/actiondescribevpcclassiclinkdnssupport-get-openapi.md
+- name: AWS EC2 API - Describe Vpc Classic Link Dns Support
+  x-api-slug: actiondescribevpcclassiclinkdnssupport-get
+  description: Describes the ClassicLink DNS support status of one or more VPCs.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2.png
+  humanURL: https://aws.amazon.com/ec2/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Stack Network, Stack, API Service Provider,
+    API Service Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-ec2/actiondescribevpcclassiclinkdnssupport-get-openapi.md
+- name: AWS EC2 API - Describe Vpc Classic Link Dns Support
+  x-api-slug: actiondescribevpcclassiclinkdnssupport-get
+  description: Describes the ClassicLink DNS support status of one or more VPCs.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2.png
+  humanURL: https://aws.amazon.com/ec2/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Stack Network, Stack, API Service Provider,
+    API Service Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-ec2/actiondescribevpcclassiclinkdnssupport-get-openapi.md
+- name: AWS EC2 API - Describe Vpc Classic Link Dns Support
+  x-api-slug: actiondescribevpcclassiclinkdnssupport-get
+  description: Describes the ClassicLink DNS support status of one or more VPCs.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2.png
+  humanURL: https://aws.amazon.com/ec2/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Stack Network, Stack, API Service Provider,
+    API Service Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-ec2/actiondescribevpcclassiclinkdnssupport-get-openapi.md
+- name: AWS EC2 API - Describe Vpc Classic Link Dns Support
+  x-api-slug: actiondescribevpcclassiclinkdnssupport-get
+  description: Describes the ClassicLink DNS support status of one or more VPCs.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2.png
+  humanURL: https://aws.amazon.com/ec2/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Stack Network, Stack, API Service Provider,
+    API Service Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-ec2/actiondescribevpcclassiclinkdnssupport-get-openapi.md
+- name: AWS EC2 API - Describe Vpc Endpoints
+  x-api-slug: actiondescribevpcendpoints-get
+  description: Describes one or more of your VPC endpoints.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2.png
+  humanURL: https://aws.amazon.com/ec2/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Stack Network, Stack, API Service Provider,
+    API Service Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-ec2/actiondescribevpcendpoints-get-openapi.md
+- name: AWS EC2 API - Describe Vpc Endpoints
+  x-api-slug: actiondescribevpcendpoints-get
+  description: Describes one or more of your VPC endpoints.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2.png
+  humanURL: https://aws.amazon.com/ec2/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Stack Network, Stack, API Service Provider,
+    API Service Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-ec2/actiondescribevpcendpoints-get-openapi.md
+- name: AWS EC2 API - Describe Vpc Endpoints
+  x-api-slug: actiondescribevpcendpoints-get
+  description: Describes one or more of your VPC endpoints.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2.png
+  humanURL: https://aws.amazon.com/ec2/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Stack Network, Stack, API Service Provider,
+    API Service Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-ec2/actiondescribevpcendpoints-get-openapi.md
+- name: AWS EC2 API - Describe Vpc Endpoints
+  x-api-slug: actiondescribevpcendpoints-get
+  description: Describes one or more of your VPC endpoints.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2.png
+  humanURL: https://aws.amazon.com/ec2/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Stack Network, Stack, API Service Provider,
+    API Service Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-ec2/actiondescribevpcendpoints-get-openapi.md
+- name: AWS EC2 API - Describe Vpc Endpoints
+  x-api-slug: actiondescribevpcendpoints-get
+  description: Describes one or more of your VPC endpoints.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2.png
+  humanURL: https://aws.amazon.com/ec2/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Stack Network, Stack, API Service Provider,
+    API Service Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-ec2/actiondescribevpcendpoints-get-openapi.md
+- name: AWS EC2 API - Describe Vpc Endpoints
+  x-api-slug: actiondescribevpcendpoints-get
+  description: Describes one or more of your VPC endpoints.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2.png
+  humanURL: https://aws.amazon.com/ec2/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Stack Network, Stack, API Service Provider,
+    API Service Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-ec2/actiondescribevpcendpoints-get-openapi.md
+- name: AWS EC2 API - Describe Vpc Endpoints
+  x-api-slug: actiondescribevpcendpoints-get
+  description: Describes one or more of your VPC endpoints.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2.png
+  humanURL: https://aws.amazon.com/ec2/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Stack Network, Stack, API Service Provider,
+    API Service Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-ec2/actiondescribevpcendpoints-get-openapi.md
+- name: AWS EC2 API - Describe Vpc Endpoints
+  x-api-slug: actiondescribevpcendpoints-get
+  description: Describes one or more of your VPC endpoints.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2.png
+  humanURL: https://aws.amazon.com/ec2/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Stack Network, Stack, API Service Provider,
+    API Service Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-ec2/actiondescribevpcendpoints-get-openapi.md
+- name: AWS EC2 API - Describe Vpc Endpoints
+  x-api-slug: actiondescribevpcendpoints-get
+  description: Describes one or more of your VPC endpoints.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2.png
+  humanURL: https://aws.amazon.com/ec2/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Stack Network, Stack, API Service Provider,
+    API Service Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-ec2/actiondescribevpcendpoints-get-openapi.md
+- name: AWS EC2 API - Describe Vpc Endpoints
+  x-api-slug: actiondescribevpcendpoints-get
+  description: Describes one or more of your VPC endpoints.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2.png
+  humanURL: https://aws.amazon.com/ec2/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Stack Network, Stack, API Service Provider,
+    API Service Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-ec2/actiondescribevpcendpoints-get-openapi.md
+- name: AWS EC2 API - Describe Vpc Endpoint Services
+  x-api-slug: actiondescribevpcendpointservices-get
+  description: Describes all supported AWS services that can be specified when creating
+    a VPC endpoint.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2.png
+  humanURL: https://aws.amazon.com/ec2/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Stack Network, Stack, API Service Provider,
+    API Service Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-ec2/actiondescribevpcendpointservices-get-openapi.md
+- name: AWS EC2 API - Describe Vpc Endpoint Services
+  x-api-slug: actiondescribevpcendpointservices-get
+  description: Describes all supported AWS services that can be specified when creating
+    a VPC endpoint.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2.png
+  humanURL: https://aws.amazon.com/ec2/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Stack Network, Stack, API Service Provider,
+    API Service Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-ec2/actiondescribevpcendpointservices-get-openapi.md
+- name: AWS EC2 API - Describe Vpc Endpoint Services
+  x-api-slug: actiondescribevpcendpointservices-get
+  description: Describes all supported AWS services that can be specified when creating
+    a VPC endpoint.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2.png
+  humanURL: https://aws.amazon.com/ec2/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Stack Network, Stack, API Service Provider,
+    API Service Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-ec2/actiondescribevpcendpointservices-get-openapi.md
+- name: AWS EC2 API - Describe Vpc Endpoint Services
+  x-api-slug: actiondescribevpcendpointservices-get
+  description: Describes all supported AWS services that can be specified when creating
+    a VPC endpoint.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2.png
+  humanURL: https://aws.amazon.com/ec2/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Stack Network, Stack, API Service Provider,
+    API Service Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-ec2/actiondescribevpcendpointservices-get-openapi.md
+- name: AWS EC2 API - Describe Vpc Endpoint Services
+  x-api-slug: actiondescribevpcendpointservices-get
+  description: Describes all supported AWS services that can be specified when creating
+    a VPC endpoint.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2.png
+  humanURL: https://aws.amazon.com/ec2/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Stack Network, Stack, API Service Provider,
+    API Service Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-ec2/actiondescribevpcendpointservices-get-openapi.md
+- name: AWS EC2 API - Describe Vpc Endpoint Services
+  x-api-slug: actiondescribevpcendpointservices-get
+  description: Describes all supported AWS services that can be specified when creating
+    a VPC endpoint.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2.png
+  humanURL: https://aws.amazon.com/ec2/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Stack Network, Stack, API Service Provider,
+    API Service Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-ec2/actiondescribevpcendpointservices-get-openapi.md
+- name: AWS EC2 API - Describe Vpc Endpoint Services
+  x-api-slug: actiondescribevpcendpointservices-get
+  description: Describes all supported AWS services that can be specified when creating
+    a VPC endpoint.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2.png
+  humanURL: https://aws.amazon.com/ec2/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Stack Network, Stack, API Service Provider,
+    API Service Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-ec2/actiondescribevpcendpointservices-get-openapi.md
+- name: AWS EC2 API - Describe Vpc Endpoint Services
+  x-api-slug: actiondescribevpcendpointservices-get
+  description: Describes all supported AWS services that can be specified when creating
+    a VPC endpoint.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2.png
+  humanURL: https://aws.amazon.com/ec2/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Stack Network, Stack, API Service Provider,
+    API Service Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-ec2/actiondescribevpcendpointservices-get-openapi.md
+- name: AWS EC2 API - Describe Vpc Endpoint Services
+  x-api-slug: actiondescribevpcendpointservices-get
+  description: Describes all supported AWS services that can be specified when creating
+    a VPC endpoint.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2.png
+  humanURL: https://aws.amazon.com/ec2/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Stack Network, Stack, API Service Provider,
+    API Service Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-ec2/actiondescribevpcendpointservices-get-openapi.md
+- name: AWS EC2 API - Describe Vpc Endpoint Services
+  x-api-slug: actiondescribevpcendpointservices-get
+  description: Describes all supported AWS services that can be specified when creating
+    a VPC endpoint.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2.png
+  humanURL: https://aws.amazon.com/ec2/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Stack Network, Stack, API Service Provider,
+    API Service Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-ec2/actiondescribevpcendpointservices-get-openapi.md
+- name: AWS EC2 API - Describe Vpc Peering Connections
+  x-api-slug: actiondescribevpcpeeringconnections-get
+  description: Describes one or more of your VPC peering connections.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2.png
+  humanURL: https://aws.amazon.com/ec2/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Stack Network, Stack, API Service Provider,
+    API Service Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-ec2/actiondescribevpcpeeringconnections-get-openapi.md
+- name: AWS EC2 API - Describe Vpc Peering Connections
+  x-api-slug: actiondescribevpcpeeringconnections-get
+  description: Describes one or more of your VPC peering connections.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2.png
+  humanURL: https://aws.amazon.com/ec2/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Stack Network, Stack, API Service Provider,
+    API Service Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-ec2/actiondescribevpcpeeringconnections-get-openapi.md
+- name: AWS EC2 API - Describe Vpc Peering Connections
+  x-api-slug: actiondescribevpcpeeringconnections-get
+  description: Describes one or more of your VPC peering connections.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2.png
+  humanURL: https://aws.amazon.com/ec2/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Stack Network, Stack, API Service Provider,
+    API Service Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-ec2/actiondescribevpcpeeringconnections-get-openapi.md
+- name: AWS EC2 API - Describe Vpc Peering Connections
+  x-api-slug: actiondescribevpcpeeringconnections-get
+  description: Describes one or more of your VPC peering connections.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2.png
+  humanURL: https://aws.amazon.com/ec2/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Stack Network, Stack, API Service Provider,
+    API Service Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-ec2/actiondescribevpcpeeringconnections-get-openapi.md
+- name: AWS EC2 API - Describe Vpc Peering Connections
+  x-api-slug: actiondescribevpcpeeringconnections-get
+  description: Describes one or more of your VPC peering connections.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2.png
+  humanURL: https://aws.amazon.com/ec2/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Stack Network, Stack, API Service Provider,
+    API Service Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-ec2/actiondescribevpcpeeringconnections-get-openapi.md
+- name: AWS EC2 API - Describe Vpc Peering Connections
+  x-api-slug: actiondescribevpcpeeringconnections-get
+  description: Describes one or more of your VPC peering connections.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2.png
+  humanURL: https://aws.amazon.com/ec2/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Stack Network, Stack, API Service Provider,
+    API Service Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-ec2/actiondescribevpcpeeringconnections-get-openapi.md
+- name: AWS EC2 API - Describe Vpc Peering Connections
+  x-api-slug: actiondescribevpcpeeringconnections-get
+  description: Describes one or more of your VPC peering connections.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2.png
+  humanURL: https://aws.amazon.com/ec2/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Stack Network, Stack, API Service Provider,
+    API Service Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-ec2/actiondescribevpcpeeringconnections-get-openapi.md
+- name: AWS EC2 API - Describe Vpc Peering Connections
+  x-api-slug: actiondescribevpcpeeringconnections-get
+  description: Describes one or more of your VPC peering connections.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2.png
+  humanURL: https://aws.amazon.com/ec2/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Stack Network, Stack, API Service Provider,
+    API Service Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-ec2/actiondescribevpcpeeringconnections-get-openapi.md
+- name: AWS EC2 API - Describe Vpc Peering Connections
+  x-api-slug: actiondescribevpcpeeringconnections-get
+  description: Describes one or more of your VPC peering connections.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2.png
+  humanURL: https://aws.amazon.com/ec2/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Stack Network, Stack, API Service Provider,
+    API Service Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-ec2/actiondescribevpcpeeringconnections-get-openapi.md
+- name: AWS EC2 API - Describe Vpc Peering Connections
+  x-api-slug: actiondescribevpcpeeringconnections-get
+  description: Describes one or more of your VPC peering connections.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2.png
+  humanURL: https://aws.amazon.com/ec2/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Stack Network, Stack, API Service Provider,
+    API Service Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-ec2/actiondescribevpcpeeringconnections-get-openapi.md
 - name: AWS EC2 API - Describe Vpcs
   x-api-slug: actiondescribevpcs-get
   description: Describes one or more of your VPCs.
@@ -5454,6 +8311,226 @@ apis:
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-ec2/actiondescribevpcs-get-postman.md
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-ec2/actiondescribevpcs-get-openapi.md
+- name: AWS EC2 API - Describe Vpn Connections
+  x-api-slug: actiondescribevpnconnections-get
+  description: Describes one or more of your VPN connections.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2.png
+  humanURL: https://aws.amazon.com/ec2/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Stack Network, Stack, API Service Provider,
+    API Service Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-ec2/actiondescribevpnconnections-get-openapi.md
+- name: AWS EC2 API - Describe Vpn Connections
+  x-api-slug: actiondescribevpnconnections-get
+  description: Describes one or more of your VPN connections.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2.png
+  humanURL: https://aws.amazon.com/ec2/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Stack Network, Stack, API Service Provider,
+    API Service Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-ec2/actiondescribevpnconnections-get-openapi.md
+- name: AWS EC2 API - Describe Vpn Connections
+  x-api-slug: actiondescribevpnconnections-get
+  description: Describes one or more of your VPN connections.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2.png
+  humanURL: https://aws.amazon.com/ec2/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Stack Network, Stack, API Service Provider,
+    API Service Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-ec2/actiondescribevpnconnections-get-openapi.md
+- name: AWS EC2 API - Describe Vpn Connections
+  x-api-slug: actiondescribevpnconnections-get
+  description: Describes one or more of your VPN connections.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2.png
+  humanURL: https://aws.amazon.com/ec2/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Stack Network, Stack, API Service Provider,
+    API Service Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-ec2/actiondescribevpnconnections-get-openapi.md
+- name: AWS EC2 API - Describe Vpn Connections
+  x-api-slug: actiondescribevpnconnections-get
+  description: Describes one or more of your VPN connections.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2.png
+  humanURL: https://aws.amazon.com/ec2/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Stack Network, Stack, API Service Provider,
+    API Service Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-ec2/actiondescribevpnconnections-get-openapi.md
+- name: AWS EC2 API - Describe Vpn Connections
+  x-api-slug: actiondescribevpnconnections-get
+  description: Describes one or more of your VPN connections.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2.png
+  humanURL: https://aws.amazon.com/ec2/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Stack Network, Stack, API Service Provider,
+    API Service Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-ec2/actiondescribevpnconnections-get-openapi.md
+- name: AWS EC2 API - Describe Vpn Connections
+  x-api-slug: actiondescribevpnconnections-get
+  description: Describes one or more of your VPN connections.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2.png
+  humanURL: https://aws.amazon.com/ec2/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Stack Network, Stack, API Service Provider,
+    API Service Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-ec2/actiondescribevpnconnections-get-openapi.md
+- name: AWS EC2 API - Describe Vpn Connections
+  x-api-slug: actiondescribevpnconnections-get
+  description: Describes one or more of your VPN connections.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2.png
+  humanURL: https://aws.amazon.com/ec2/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Stack Network, Stack, API Service Provider,
+    API Service Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-ec2/actiondescribevpnconnections-get-openapi.md
+- name: AWS EC2 API - Describe Vpn Connections
+  x-api-slug: actiondescribevpnconnections-get
+  description: Describes one or more of your VPN connections.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2.png
+  humanURL: https://aws.amazon.com/ec2/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Stack Network, Stack, API Service Provider,
+    API Service Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-ec2/actiondescribevpnconnections-get-openapi.md
+- name: AWS EC2 API - Describe Vpn Connections
+  x-api-slug: actiondescribevpnconnections-get
+  description: Describes one or more of your VPN connections.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2.png
+  humanURL: https://aws.amazon.com/ec2/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Stack Network, Stack, API Service Provider,
+    API Service Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-ec2/actiondescribevpnconnections-get-openapi.md
+- name: AWS EC2 API - Describe Vpn Gateways
+  x-api-slug: actiondescribevpngateways-get
+  description: Describes one or more of your virtual private gateways.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2.png
+  humanURL: https://aws.amazon.com/ec2/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Stack Network, Stack, API Service Provider,
+    API Service Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-ec2/actiondescribevpngateways-get-openapi.md
+- name: AWS EC2 API - Describe Vpn Gateways
+  x-api-slug: actiondescribevpngateways-get
+  description: Describes one or more of your virtual private gateways.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2.png
+  humanURL: https://aws.amazon.com/ec2/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Stack Network, Stack, API Service Provider,
+    API Service Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-ec2/actiondescribevpngateways-get-openapi.md
+- name: AWS EC2 API - Describe Vpn Gateways
+  x-api-slug: actiondescribevpngateways-get
+  description: Describes one or more of your virtual private gateways.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2.png
+  humanURL: https://aws.amazon.com/ec2/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Stack Network, Stack, API Service Provider,
+    API Service Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-ec2/actiondescribevpngateways-get-openapi.md
+- name: AWS EC2 API - Describe Vpn Gateways
+  x-api-slug: actiondescribevpngateways-get
+  description: Describes one or more of your virtual private gateways.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2.png
+  humanURL: https://aws.amazon.com/ec2/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Stack Network, Stack, API Service Provider,
+    API Service Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-ec2/actiondescribevpngateways-get-openapi.md
+- name: AWS EC2 API - Describe Vpn Gateways
+  x-api-slug: actiondescribevpngateways-get
+  description: Describes one or more of your virtual private gateways.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2.png
+  humanURL: https://aws.amazon.com/ec2/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Stack Network, Stack, API Service Provider,
+    API Service Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-ec2/actiondescribevpngateways-get-openapi.md
+- name: AWS EC2 API - Describe Vpn Gateways
+  x-api-slug: actiondescribevpngateways-get
+  description: Describes one or more of your virtual private gateways.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2.png
+  humanURL: https://aws.amazon.com/ec2/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Stack Network, Stack, API Service Provider,
+    API Service Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-ec2/actiondescribevpngateways-get-openapi.md
+- name: AWS EC2 API - Describe Vpn Gateways
+  x-api-slug: actiondescribevpngateways-get
+  description: Describes one or more of your virtual private gateways.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2.png
+  humanURL: https://aws.amazon.com/ec2/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Stack Network, Stack, API Service Provider,
+    API Service Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-ec2/actiondescribevpngateways-get-openapi.md
+- name: AWS EC2 API - Describe Vpn Gateways
+  x-api-slug: actiondescribevpngateways-get
+  description: Describes one or more of your virtual private gateways.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2.png
+  humanURL: https://aws.amazon.com/ec2/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Stack Network, Stack, API Service Provider,
+    API Service Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-ec2/actiondescribevpngateways-get-openapi.md
+- name: AWS EC2 API - Describe Vpn Gateways
+  x-api-slug: actiondescribevpngateways-get
+  description: Describes one or more of your virtual private gateways.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2.png
+  humanURL: https://aws.amazon.com/ec2/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Stack Network, Stack, API Service Provider,
+    API Service Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-ec2/actiondescribevpngateways-get-openapi.md
+- name: AWS EC2 API - Describe Vpn Gateways
+  x-api-slug: actiondescribevpngateways-get
+  description: Describes one or more of your virtual private gateways.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2.png
+  humanURL: https://aws.amazon.com/ec2/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Stack Network, Stack, API Service Provider,
+    API Service Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-ec2/actiondescribevpngateways-get-openapi.md
 - name: AWS EC2 API - Import Snapshot
   x-api-slug: actionimportsnapshot-get
   description: Describes your import snapshot tasks.
@@ -5844,6 +8921,138 @@ apis:
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-ec2/actiondescribeaddresses-get-postman.md
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-ec2/actiondescribeaddresses-get-openapi.md
+- name: AWS EC2 API - Describe Availability Zones
+  x-api-slug: actiondescribeavailabilityzones-get
+  description: Describes one or more of the Availability Zones that are available
+    to you.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2.png
+  humanURL: https://aws.amazon.com/ec2/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Stack Network, Stack, API Service Provider,
+    API Service Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-ec2/actiondescribeavailabilityzones-get-openapi.md
+- name: AWS EC2 API - Describe Availability Zones
+  x-api-slug: actiondescribeavailabilityzones-get
+  description: Describes one or more of the Availability Zones that are available
+    to you.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2.png
+  humanURL: https://aws.amazon.com/ec2/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Stack Network, Stack, API Service Provider,
+    API Service Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-ec2/actiondescribeavailabilityzones-get-openapi.md
+- name: AWS EC2 API - Describe Availability Zones
+  x-api-slug: actiondescribeavailabilityzones-get
+  description: Describes one or more of the Availability Zones that are available
+    to you.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2.png
+  humanURL: https://aws.amazon.com/ec2/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Stack Network, Stack, API Service Provider,
+    API Service Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-ec2/actiondescribeavailabilityzones-get-openapi.md
+- name: AWS EC2 API - Describe Availability Zones
+  x-api-slug: actiondescribeavailabilityzones-get
+  description: Describes one or more of the Availability Zones that are available
+    to you.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2.png
+  humanURL: https://aws.amazon.com/ec2/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Stack Network, Stack, API Service Provider,
+    API Service Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-ec2/actiondescribeavailabilityzones-get-openapi.md
+- name: AWS EC2 API - Describe Availability Zones
+  x-api-slug: actiondescribeavailabilityzones-get
+  description: Describes one or more of the Availability Zones that are available
+    to you.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2.png
+  humanURL: https://aws.amazon.com/ec2/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Stack Network, Stack, API Service Provider,
+    API Service Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-ec2/actiondescribeavailabilityzones-get-openapi.md
+- name: AWS EC2 API - Describe Availability Zones
+  x-api-slug: actiondescribeavailabilityzones-get
+  description: Describes one or more of the Availability Zones that are available
+    to you.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2.png
+  humanURL: https://aws.amazon.com/ec2/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Stack Network, Stack, API Service Provider,
+    API Service Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-ec2/actiondescribeavailabilityzones-get-openapi.md
+- name: AWS EC2 API - Describe Availability Zones
+  x-api-slug: actiondescribeavailabilityzones-get
+  description: Describes one or more of the Availability Zones that are available
+    to you.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2.png
+  humanURL: https://aws.amazon.com/ec2/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Stack Network, Stack, API Service Provider,
+    API Service Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-ec2/actiondescribeavailabilityzones-get-openapi.md
+- name: AWS EC2 API - Describe Availability Zones
+  x-api-slug: actiondescribeavailabilityzones-get
+  description: Describes one or more of the Availability Zones that are available
+    to you.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2.png
+  humanURL: https://aws.amazon.com/ec2/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Stack Network, Stack, API Service Provider,
+    API Service Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-ec2/actiondescribeavailabilityzones-get-openapi.md
+- name: AWS EC2 API - Describe Availability Zones
+  x-api-slug: actiondescribeavailabilityzones-get
+  description: Describes one or more of the Availability Zones that are available
+    to you.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2.png
+  humanURL: https://aws.amazon.com/ec2/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Stack Network, Stack, API Service Provider,
+    API Service Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-ec2/actiondescribeavailabilityzones-get-openapi.md
+- name: AWS EC2 API - Describe Availability Zones
+  x-api-slug: actiondescribeavailabilityzones-get
+  description: Describes one or more of the Availability Zones that are available
+    to you.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2.png
+  humanURL: https://aws.amazon.com/ec2/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Stack Network, Stack, API Service Provider,
+    API Service Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-ec2/actiondescribeavailabilityzones-get-openapi.md
+- name: AWS EC2 API - Describe Availability Zones
+  x-api-slug: actiondescribeavailabilityzones-get
+  description: Describes one or more of the Availability Zones that are available
+    to you.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2.png
+  humanURL: https://aws.amazon.com/ec2/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Stack Network, Stack, API Service Provider,
+    API Service Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-ec2/actiondescribeavailabilityzones-get-openapi.md
 - name: AWS EC2 API - Describe Bundle Tasks
   x-api-slug: actiondescribebundletasks-get
   description: Describes one or more of your bundling tasks.
@@ -6273,6 +9482,127 @@ apis:
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-ec2/actiondescribeconversiontasks-get-postman.md
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-ec2/actiondescribeconversiontasks-get-openapi.md
+- name: AWS EC2 API - Describe Customer Gateways
+  x-api-slug: actiondescribecustomergateways-get
+  description: Describes one or more of your VPN customer gateways.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2.png
+  humanURL: https://aws.amazon.com/ec2/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Stack Network, Stack, API Service Provider,
+    API Service Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-ec2/actiondescribecustomergateways-get-openapi.md
+- name: AWS EC2 API - Describe Customer Gateways
+  x-api-slug: actiondescribecustomergateways-get
+  description: Describes one or more of your VPN customer gateways.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2.png
+  humanURL: https://aws.amazon.com/ec2/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Stack Network, Stack, API Service Provider,
+    API Service Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-ec2/actiondescribecustomergateways-get-openapi.md
+- name: AWS EC2 API - Describe Customer Gateways
+  x-api-slug: actiondescribecustomergateways-get
+  description: Describes one or more of your VPN customer gateways.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2.png
+  humanURL: https://aws.amazon.com/ec2/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Stack Network, Stack, API Service Provider,
+    API Service Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-ec2/actiondescribecustomergateways-get-openapi.md
+- name: AWS EC2 API - Describe Customer Gateways
+  x-api-slug: actiondescribecustomergateways-get
+  description: Describes one or more of your VPN customer gateways.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2.png
+  humanURL: https://aws.amazon.com/ec2/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Stack Network, Stack, API Service Provider,
+    API Service Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-ec2/actiondescribecustomergateways-get-openapi.md
+- name: AWS EC2 API - Describe Customer Gateways
+  x-api-slug: actiondescribecustomergateways-get
+  description: Describes one or more of your VPN customer gateways.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2.png
+  humanURL: https://aws.amazon.com/ec2/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Stack Network, Stack, API Service Provider,
+    API Service Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-ec2/actiondescribecustomergateways-get-openapi.md
+- name: AWS EC2 API - Describe Customer Gateways
+  x-api-slug: actiondescribecustomergateways-get
+  description: Describes one or more of your VPN customer gateways.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2.png
+  humanURL: https://aws.amazon.com/ec2/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Stack Network, Stack, API Service Provider,
+    API Service Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-ec2/actiondescribecustomergateways-get-openapi.md
+- name: AWS EC2 API - Describe Customer Gateways
+  x-api-slug: actiondescribecustomergateways-get
+  description: Describes one or more of your VPN customer gateways.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2.png
+  humanURL: https://aws.amazon.com/ec2/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Stack Network, Stack, API Service Provider,
+    API Service Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-ec2/actiondescribecustomergateways-get-openapi.md
+- name: AWS EC2 API - Describe Customer Gateways
+  x-api-slug: actiondescribecustomergateways-get
+  description: Describes one or more of your VPN customer gateways.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2.png
+  humanURL: https://aws.amazon.com/ec2/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Stack Network, Stack, API Service Provider,
+    API Service Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-ec2/actiondescribecustomergateways-get-openapi.md
+- name: AWS EC2 API - Describe Customer Gateways
+  x-api-slug: actiondescribecustomergateways-get
+  description: Describes one or more of your VPN customer gateways.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2.png
+  humanURL: https://aws.amazon.com/ec2/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Stack Network, Stack, API Service Provider,
+    API Service Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-ec2/actiondescribecustomergateways-get-openapi.md
+- name: AWS EC2 API - Describe Customer Gateways
+  x-api-slug: actiondescribecustomergateways-get
+  description: Describes one or more of your VPN customer gateways.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2.png
+  humanURL: https://aws.amazon.com/ec2/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Stack Network, Stack, API Service Provider,
+    API Service Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-ec2/actiondescribecustomergateways-get-openapi.md
+- name: AWS EC2 API - Describe Customer Gateways
+  x-api-slug: actiondescribecustomergateways-get
+  description: Describes one or more of your VPN customer gateways.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2.png
+  humanURL: https://aws.amazon.com/ec2/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Stack Network, Stack, API Service Provider,
+    API Service Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-ec2/actiondescribecustomergateways-get-openapi.md
 - name: AWS EC2 API - Describe Dhcp Options
   x-api-slug: actiondescribedhcpoptions-get
   description: Describes one or more of your DHCP options sets.
@@ -7153,6 +10483,127 @@ apis:
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-ec2/actiondescribehostreservations-get-postman.md
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-ec2/actiondescribehostreservations-get-openapi.md
+- name: AWS EC2 API - Describe Hosts
+  x-api-slug: actiondescribehosts-get
+  description: Describes one or more of your Dedicated Hosts.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2.png
+  humanURL: https://aws.amazon.com/ec2/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Stack Network, Stack, API Service Provider,
+    API Service Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-ec2/actiondescribehosts-get-openapi.md
+- name: AWS EC2 API - Describe Hosts
+  x-api-slug: actiondescribehosts-get
+  description: Describes one or more of your Dedicated Hosts.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2.png
+  humanURL: https://aws.amazon.com/ec2/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Stack Network, Stack, API Service Provider,
+    API Service Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-ec2/actiondescribehosts-get-openapi.md
+- name: AWS EC2 API - Describe Hosts
+  x-api-slug: actiondescribehosts-get
+  description: Describes one or more of your Dedicated Hosts.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2.png
+  humanURL: https://aws.amazon.com/ec2/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Stack Network, Stack, API Service Provider,
+    API Service Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-ec2/actiondescribehosts-get-openapi.md
+- name: AWS EC2 API - Describe Hosts
+  x-api-slug: actiondescribehosts-get
+  description: Describes one or more of your Dedicated Hosts.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2.png
+  humanURL: https://aws.amazon.com/ec2/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Stack Network, Stack, API Service Provider,
+    API Service Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-ec2/actiondescribehosts-get-openapi.md
+- name: AWS EC2 API - Describe Hosts
+  x-api-slug: actiondescribehosts-get
+  description: Describes one or more of your Dedicated Hosts.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2.png
+  humanURL: https://aws.amazon.com/ec2/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Stack Network, Stack, API Service Provider,
+    API Service Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-ec2/actiondescribehosts-get-openapi.md
+- name: AWS EC2 API - Describe Hosts
+  x-api-slug: actiondescribehosts-get
+  description: Describes one or more of your Dedicated Hosts.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2.png
+  humanURL: https://aws.amazon.com/ec2/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Stack Network, Stack, API Service Provider,
+    API Service Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-ec2/actiondescribehosts-get-openapi.md
+- name: AWS EC2 API - Describe Hosts
+  x-api-slug: actiondescribehosts-get
+  description: Describes one or more of your Dedicated Hosts.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2.png
+  humanURL: https://aws.amazon.com/ec2/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Stack Network, Stack, API Service Provider,
+    API Service Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-ec2/actiondescribehosts-get-openapi.md
+- name: AWS EC2 API - Describe Hosts
+  x-api-slug: actiondescribehosts-get
+  description: Describes one or more of your Dedicated Hosts.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2.png
+  humanURL: https://aws.amazon.com/ec2/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Stack Network, Stack, API Service Provider,
+    API Service Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-ec2/actiondescribehosts-get-openapi.md
+- name: AWS EC2 API - Describe Hosts
+  x-api-slug: actiondescribehosts-get
+  description: Describes one or more of your Dedicated Hosts.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2.png
+  humanURL: https://aws.amazon.com/ec2/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Stack Network, Stack, API Service Provider,
+    API Service Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-ec2/actiondescribehosts-get-openapi.md
+- name: AWS EC2 API - Describe Hosts
+  x-api-slug: actiondescribehosts-get
+  description: Describes one or more of your Dedicated Hosts.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2.png
+  humanURL: https://aws.amazon.com/ec2/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Stack Network, Stack, API Service Provider,
+    API Service Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-ec2/actiondescribehosts-get-openapi.md
+- name: AWS EC2 API - Describe Hosts
+  x-api-slug: actiondescribehosts-get
+  description: Describes one or more of your Dedicated Hosts.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2.png
+  humanURL: https://aws.amazon.com/ec2/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Stack Network, Stack, API Service Provider,
+    API Service Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-ec2/actiondescribehosts-get-openapi.md
 - name: AWS EC2 API - Describe Identity Id Format
   x-api-slug: actiondescribeidentityidformat-get
   description: |-
@@ -8341,6 +11792,127 @@ apis:
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-ec2/actiondescribeinstancestatus-get-postman.md
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-ec2/actiondescribeinstancestatus-get-openapi.md
+- name: AWS EC2 API - Describe Internet Gateways
+  x-api-slug: actiondescribeinternetgateways-get
+  description: Describes one or more of your Internet gateways.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2.png
+  humanURL: https://aws.amazon.com/ec2/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Stack Network, Stack, API Service Provider,
+    API Service Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-ec2/actiondescribeinternetgateways-get-openapi.md
+- name: AWS EC2 API - Describe Internet Gateways
+  x-api-slug: actiondescribeinternetgateways-get
+  description: Describes one or more of your Internet gateways.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2.png
+  humanURL: https://aws.amazon.com/ec2/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Stack Network, Stack, API Service Provider,
+    API Service Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-ec2/actiondescribeinternetgateways-get-openapi.md
+- name: AWS EC2 API - Describe Internet Gateways
+  x-api-slug: actiondescribeinternetgateways-get
+  description: Describes one or more of your Internet gateways.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2.png
+  humanURL: https://aws.amazon.com/ec2/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Stack Network, Stack, API Service Provider,
+    API Service Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-ec2/actiondescribeinternetgateways-get-openapi.md
+- name: AWS EC2 API - Describe Internet Gateways
+  x-api-slug: actiondescribeinternetgateways-get
+  description: Describes one or more of your Internet gateways.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2.png
+  humanURL: https://aws.amazon.com/ec2/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Stack Network, Stack, API Service Provider,
+    API Service Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-ec2/actiondescribeinternetgateways-get-openapi.md
+- name: AWS EC2 API - Describe Internet Gateways
+  x-api-slug: actiondescribeinternetgateways-get
+  description: Describes one or more of your Internet gateways.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2.png
+  humanURL: https://aws.amazon.com/ec2/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Stack Network, Stack, API Service Provider,
+    API Service Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-ec2/actiondescribeinternetgateways-get-openapi.md
+- name: AWS EC2 API - Describe Internet Gateways
+  x-api-slug: actiondescribeinternetgateways-get
+  description: Describes one or more of your Internet gateways.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2.png
+  humanURL: https://aws.amazon.com/ec2/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Stack Network, Stack, API Service Provider,
+    API Service Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-ec2/actiondescribeinternetgateways-get-openapi.md
+- name: AWS EC2 API - Describe Internet Gateways
+  x-api-slug: actiondescribeinternetgateways-get
+  description: Describes one or more of your Internet gateways.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2.png
+  humanURL: https://aws.amazon.com/ec2/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Stack Network, Stack, API Service Provider,
+    API Service Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-ec2/actiondescribeinternetgateways-get-openapi.md
+- name: AWS EC2 API - Describe Internet Gateways
+  x-api-slug: actiondescribeinternetgateways-get
+  description: Describes one or more of your Internet gateways.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2.png
+  humanURL: https://aws.amazon.com/ec2/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Stack Network, Stack, API Service Provider,
+    API Service Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-ec2/actiondescribeinternetgateways-get-openapi.md
+- name: AWS EC2 API - Describe Internet Gateways
+  x-api-slug: actiondescribeinternetgateways-get
+  description: Describes one or more of your Internet gateways.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2.png
+  humanURL: https://aws.amazon.com/ec2/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Stack Network, Stack, API Service Provider,
+    API Service Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-ec2/actiondescribeinternetgateways-get-openapi.md
+- name: AWS EC2 API - Describe Internet Gateways
+  x-api-slug: actiondescribeinternetgateways-get
+  description: Describes one or more of your Internet gateways.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2.png
+  humanURL: https://aws.amazon.com/ec2/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Stack Network, Stack, API Service Provider,
+    API Service Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-ec2/actiondescribeinternetgateways-get-openapi.md
+- name: AWS EC2 API - Describe Internet Gateways
+  x-api-slug: actiondescribeinternetgateways-get
+  description: Describes one or more of your Internet gateways.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2.png
+  humanURL: https://aws.amazon.com/ec2/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Stack Network, Stack, API Service Provider,
+    API Service Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-ec2/actiondescribeinternetgateways-get-openapi.md
 - name: AWS EC2 API - Describe Key Pairs
   x-api-slug: actiondescribekeypairs-get
   description: Describes one or more of your key pairs.
@@ -8638,6 +12210,127 @@ apis:
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-ec2/actiondescribemovingaddresses-get-postman.md
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-ec2/actiondescribemovingaddresses-get-openapi.md
+- name: AWS EC2 API - Describe Nat Gateways
+  x-api-slug: actiondescribenatgateways-get
+  description: Describes one or more of the your NAT gateways.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2.png
+  humanURL: https://aws.amazon.com/ec2/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Stack Network, Stack, API Service Provider,
+    API Service Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-ec2/actiondescribenatgateways-get-openapi.md
+- name: AWS EC2 API - Describe Nat Gateways
+  x-api-slug: actiondescribenatgateways-get
+  description: Describes one or more of the your NAT gateways.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2.png
+  humanURL: https://aws.amazon.com/ec2/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Stack Network, Stack, API Service Provider,
+    API Service Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-ec2/actiondescribenatgateways-get-openapi.md
+- name: AWS EC2 API - Describe Nat Gateways
+  x-api-slug: actiondescribenatgateways-get
+  description: Describes one or more of the your NAT gateways.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2.png
+  humanURL: https://aws.amazon.com/ec2/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Stack Network, Stack, API Service Provider,
+    API Service Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-ec2/actiondescribenatgateways-get-openapi.md
+- name: AWS EC2 API - Describe Nat Gateways
+  x-api-slug: actiondescribenatgateways-get
+  description: Describes one or more of the your NAT gateways.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2.png
+  humanURL: https://aws.amazon.com/ec2/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Stack Network, Stack, API Service Provider,
+    API Service Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-ec2/actiondescribenatgateways-get-openapi.md
+- name: AWS EC2 API - Describe Nat Gateways
+  x-api-slug: actiondescribenatgateways-get
+  description: Describes one or more of the your NAT gateways.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2.png
+  humanURL: https://aws.amazon.com/ec2/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Stack Network, Stack, API Service Provider,
+    API Service Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-ec2/actiondescribenatgateways-get-openapi.md
+- name: AWS EC2 API - Describe Nat Gateways
+  x-api-slug: actiondescribenatgateways-get
+  description: Describes one or more of the your NAT gateways.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2.png
+  humanURL: https://aws.amazon.com/ec2/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Stack Network, Stack, API Service Provider,
+    API Service Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-ec2/actiondescribenatgateways-get-openapi.md
+- name: AWS EC2 API - Describe Nat Gateways
+  x-api-slug: actiondescribenatgateways-get
+  description: Describes one or more of the your NAT gateways.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2.png
+  humanURL: https://aws.amazon.com/ec2/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Stack Network, Stack, API Service Provider,
+    API Service Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-ec2/actiondescribenatgateways-get-openapi.md
+- name: AWS EC2 API - Describe Nat Gateways
+  x-api-slug: actiondescribenatgateways-get
+  description: Describes one or more of the your NAT gateways.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2.png
+  humanURL: https://aws.amazon.com/ec2/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Stack Network, Stack, API Service Provider,
+    API Service Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-ec2/actiondescribenatgateways-get-openapi.md
+- name: AWS EC2 API - Describe Nat Gateways
+  x-api-slug: actiondescribenatgateways-get
+  description: Describes one or more of the your NAT gateways.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2.png
+  humanURL: https://aws.amazon.com/ec2/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Stack Network, Stack, API Service Provider,
+    API Service Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-ec2/actiondescribenatgateways-get-openapi.md
+- name: AWS EC2 API - Describe Nat Gateways
+  x-api-slug: actiondescribenatgateways-get
+  description: Describes one or more of the your NAT gateways.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2.png
+  humanURL: https://aws.amazon.com/ec2/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Stack Network, Stack, API Service Provider,
+    API Service Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-ec2/actiondescribenatgateways-get-openapi.md
+- name: AWS EC2 API - Describe Nat Gateways
+  x-api-slug: actiondescribenatgateways-get
+  description: Describes one or more of the your NAT gateways.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2.png
+  humanURL: https://aws.amazon.com/ec2/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Stack Network, Stack, API Service Provider,
+    API Service Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-ec2/actiondescribenatgateways-get-openapi.md
 - name: AWS EC2 API - Describe Network Acls
   x-api-slug: actiondescribenetworkacls-get
   description: Describes one or more of your network ACLs.
@@ -9067,6 +12760,138 @@ apis:
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-ec2/actiondescribenetworkinterfaces-get-postman.md
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-ec2/actiondescribenetworkinterfaces-get-openapi.md
+- name: AWS EC2 API - Describe Placement Groups
+  x-api-slug: actiondescribeplacementgroups-get
+  description: Describes one or more of your placement groups.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2.png
+  humanURL: https://aws.amazon.com/ec2/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Stack Network, Stack, API Service Provider,
+    API Service Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-ec2/actiondescribeplacementgroups-get-openapi.md
+- name: AWS EC2 API - Describe Placement Groups
+  x-api-slug: actiondescribeplacementgroups-get
+  description: Describes one or more of your placement groups.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2.png
+  humanURL: https://aws.amazon.com/ec2/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Stack Network, Stack, API Service Provider,
+    API Service Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-ec2/actiondescribeplacementgroups-get-openapi.md
+- name: AWS EC2 API - Describe Placement Groups
+  x-api-slug: actiondescribeplacementgroups-get
+  description: Describes one or more of your placement groups.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2.png
+  humanURL: https://aws.amazon.com/ec2/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Stack Network, Stack, API Service Provider,
+    API Service Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-ec2/actiondescribeplacementgroups-get-openapi.md
+- name: AWS EC2 API - Describe Placement Groups
+  x-api-slug: actiondescribeplacementgroups-get
+  description: Describes one or more of your placement groups.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2.png
+  humanURL: https://aws.amazon.com/ec2/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Stack Network, Stack, API Service Provider,
+    API Service Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-ec2/actiondescribeplacementgroups-get-openapi.md
+- name: AWS EC2 API - Describe Placement Groups
+  x-api-slug: actiondescribeplacementgroups-get
+  description: Describes one or more of your placement groups.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2.png
+  humanURL: https://aws.amazon.com/ec2/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Stack Network, Stack, API Service Provider,
+    API Service Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-ec2/actiondescribeplacementgroups-get-openapi.md
+- name: AWS EC2 API - Describe Placement Groups
+  x-api-slug: actiondescribeplacementgroups-get
+  description: Describes one or more of your placement groups.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2.png
+  humanURL: https://aws.amazon.com/ec2/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Stack Network, Stack, API Service Provider,
+    API Service Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-ec2/actiondescribeplacementgroups-get-openapi.md
+- name: AWS EC2 API - Describe Placement Groups
+  x-api-slug: actiondescribeplacementgroups-get
+  description: Describes one or more of your placement groups.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2.png
+  humanURL: https://aws.amazon.com/ec2/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Stack Network, Stack, API Service Provider,
+    API Service Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-ec2/actiondescribeplacementgroups-get-openapi.md
+- name: AWS EC2 API - Describe Placement Groups
+  x-api-slug: actiondescribeplacementgroups-get
+  description: Describes one or more of your placement groups.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2.png
+  humanURL: https://aws.amazon.com/ec2/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Stack Network, Stack, API Service Provider,
+    API Service Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-ec2/actiondescribeplacementgroups-get-openapi.md
+- name: AWS EC2 API - Describe Placement Groups
+  x-api-slug: actiondescribeplacementgroups-get
+  description: Describes one or more of your placement groups.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2.png
+  humanURL: https://aws.amazon.com/ec2/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Stack Network, Stack, API Service Provider,
+    API Service Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-ec2/actiondescribeplacementgroups-get-openapi.md
+- name: AWS EC2 API - Describe Placement Groups
+  x-api-slug: actiondescribeplacementgroups-get
+  description: Describes one or more of your placement groups.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2.png
+  humanURL: https://aws.amazon.com/ec2/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Stack Network, Stack, API Service Provider,
+    API Service Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-ec2/actiondescribeplacementgroups-get-openapi.md
+- name: AWS EC2 API - Describe Placement Groups
+  x-api-slug: actiondescribeplacementgroups-get
+  description: Describes one or more of your placement groups.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2.png
+  humanURL: https://aws.amazon.com/ec2/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Stack Network, Stack, API Service Provider,
+    API Service Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-ec2/actiondescribeplacementgroups-get-openapi.md
+- name: AWS EC2 API - Describe Placement Groups
+  x-api-slug: actiondescribeplacementgroups-get
+  description: Describes one or more of your placement groups.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2.png
+  humanURL: https://aws.amazon.com/ec2/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Stack Network, Stack, API Service Provider,
+    API Service Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-ec2/actiondescribeplacementgroups-get-openapi.md
 - name: AWS EC2 API - Describe Prefix Lists
   x-api-slug: actiondescribeprefixlists-get
   description: Describes available AWS services in a prefix list format, which includes
@@ -9403,6 +13228,546 @@ apis:
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-ec2/actiondescriberegions-get-postman.md
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-ec2/actiondescriberegions-get-openapi.md
+- name: AWS EC2 API - Describe Reserved Instances
+  x-api-slug: actiondescribereservedinstances-get
+  description: Describes one or more of the Reserved Instances that you purchased.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2.png
+  humanURL: https://aws.amazon.com/ec2/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Stack Network, Stack, API Service Provider,
+    API Service Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-ec2/actiondescribereservedinstances-get-openapi.md
+- name: AWS EC2 API - Describe Reserved Instances
+  x-api-slug: actiondescribereservedinstances-get
+  description: Describes one or more of the Reserved Instances that you purchased.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2.png
+  humanURL: https://aws.amazon.com/ec2/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Stack Network, Stack, API Service Provider,
+    API Service Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-ec2/actiondescribereservedinstances-get-openapi.md
+- name: AWS EC2 API - Describe Reserved Instances
+  x-api-slug: actiondescribereservedinstances-get
+  description: Describes one or more of the Reserved Instances that you purchased.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2.png
+  humanURL: https://aws.amazon.com/ec2/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Stack Network, Stack, API Service Provider,
+    API Service Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-ec2/actiondescribereservedinstances-get-openapi.md
+- name: AWS EC2 API - Describe Reserved Instances
+  x-api-slug: actiondescribereservedinstances-get
+  description: Describes one or more of the Reserved Instances that you purchased.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2.png
+  humanURL: https://aws.amazon.com/ec2/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Stack Network, Stack, API Service Provider,
+    API Service Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-ec2/actiondescribereservedinstances-get-openapi.md
+- name: AWS EC2 API - Describe Reserved Instances
+  x-api-slug: actiondescribereservedinstances-get
+  description: Describes one or more of the Reserved Instances that you purchased.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2.png
+  humanURL: https://aws.amazon.com/ec2/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Stack Network, Stack, API Service Provider,
+    API Service Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-ec2/actiondescribereservedinstances-get-openapi.md
+- name: AWS EC2 API - Describe Reserved Instances
+  x-api-slug: actiondescribereservedinstances-get
+  description: Describes one or more of the Reserved Instances that you purchased.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2.png
+  humanURL: https://aws.amazon.com/ec2/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Stack Network, Stack, API Service Provider,
+    API Service Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-ec2/actiondescribereservedinstances-get-openapi.md
+- name: AWS EC2 API - Describe Reserved Instances
+  x-api-slug: actiondescribereservedinstances-get
+  description: Describes one or more of the Reserved Instances that you purchased.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2.png
+  humanURL: https://aws.amazon.com/ec2/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Stack Network, Stack, API Service Provider,
+    API Service Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-ec2/actiondescribereservedinstances-get-openapi.md
+- name: AWS EC2 API - Describe Reserved Instances
+  x-api-slug: actiondescribereservedinstances-get
+  description: Describes one or more of the Reserved Instances that you purchased.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2.png
+  humanURL: https://aws.amazon.com/ec2/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Stack Network, Stack, API Service Provider,
+    API Service Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-ec2/actiondescribereservedinstances-get-openapi.md
+- name: AWS EC2 API - Describe Reserved Instances
+  x-api-slug: actiondescribereservedinstances-get
+  description: Describes one or more of the Reserved Instances that you purchased.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2.png
+  humanURL: https://aws.amazon.com/ec2/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Stack Network, Stack, API Service Provider,
+    API Service Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-ec2/actiondescribereservedinstances-get-openapi.md
+- name: AWS EC2 API - Describe Reserved Instances
+  x-api-slug: actiondescribereservedinstances-get
+  description: Describes one or more of the Reserved Instances that you purchased.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2.png
+  humanURL: https://aws.amazon.com/ec2/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Stack Network, Stack, API Service Provider,
+    API Service Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-ec2/actiondescribereservedinstances-get-openapi.md
+- name: AWS EC2 API - Describe Reserved Instances
+  x-api-slug: actiondescribereservedinstances-get
+  description: Describes one or more of the Reserved Instances that you purchased.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2.png
+  humanURL: https://aws.amazon.com/ec2/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Stack Network, Stack, API Service Provider,
+    API Service Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-ec2/actiondescribereservedinstances-get-openapi.md
+- name: AWS EC2 API - Describe Reserved Instances
+  x-api-slug: actiondescribereservedinstances-get
+  description: Describes one or more of the Reserved Instances that you purchased.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2.png
+  humanURL: https://aws.amazon.com/ec2/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Stack Network, Stack, API Service Provider,
+    API Service Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-ec2/actiondescribereservedinstances-get-openapi.md
+- name: AWS EC2 API - Describe Reserved Instances Listings
+  x-api-slug: actiondescribereservedinstanceslistings-get
+  description: Describes your account's Reserved Instance listings in the Reserved
+    Instance Marketplace.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2.png
+  humanURL: https://aws.amazon.com/ec2/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Stack Network, Stack, API Service Provider,
+    API Service Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-ec2/actiondescribereservedinstanceslistings-get-openapi.md
+- name: AWS EC2 API - Describe Reserved Instances Listings
+  x-api-slug: actiondescribereservedinstanceslistings-get
+  description: Describes your account's Reserved Instance listings in the Reserved
+    Instance Marketplace.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2.png
+  humanURL: https://aws.amazon.com/ec2/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Stack Network, Stack, API Service Provider,
+    API Service Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-ec2/actiondescribereservedinstanceslistings-get-openapi.md
+- name: AWS EC2 API - Describe Reserved Instances Listings
+  x-api-slug: actiondescribereservedinstanceslistings-get
+  description: Describes your account's Reserved Instance listings in the Reserved
+    Instance Marketplace.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2.png
+  humanURL: https://aws.amazon.com/ec2/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Stack Network, Stack, API Service Provider,
+    API Service Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-ec2/actiondescribereservedinstanceslistings-get-openapi.md
+- name: AWS EC2 API - Describe Reserved Instances Listings
+  x-api-slug: actiondescribereservedinstanceslistings-get
+  description: Describes your account's Reserved Instance listings in the Reserved
+    Instance Marketplace.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2.png
+  humanURL: https://aws.amazon.com/ec2/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Stack Network, Stack, API Service Provider,
+    API Service Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-ec2/actiondescribereservedinstanceslistings-get-openapi.md
+- name: AWS EC2 API - Describe Reserved Instances Listings
+  x-api-slug: actiondescribereservedinstanceslistings-get
+  description: Describes your account's Reserved Instance listings in the Reserved
+    Instance Marketplace.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2.png
+  humanURL: https://aws.amazon.com/ec2/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Stack Network, Stack, API Service Provider,
+    API Service Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-ec2/actiondescribereservedinstanceslistings-get-openapi.md
+- name: AWS EC2 API - Describe Reserved Instances Listings
+  x-api-slug: actiondescribereservedinstanceslistings-get
+  description: Describes your account's Reserved Instance listings in the Reserved
+    Instance Marketplace.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2.png
+  humanURL: https://aws.amazon.com/ec2/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Stack Network, Stack, API Service Provider,
+    API Service Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-ec2/actiondescribereservedinstanceslistings-get-openapi.md
+- name: AWS EC2 API - Describe Reserved Instances Listings
+  x-api-slug: actiondescribereservedinstanceslistings-get
+  description: Describes your account's Reserved Instance listings in the Reserved
+    Instance Marketplace.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2.png
+  humanURL: https://aws.amazon.com/ec2/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Stack Network, Stack, API Service Provider,
+    API Service Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-ec2/actiondescribereservedinstanceslistings-get-openapi.md
+- name: AWS EC2 API - Describe Reserved Instances Listings
+  x-api-slug: actiondescribereservedinstanceslistings-get
+  description: Describes your account's Reserved Instance listings in the Reserved
+    Instance Marketplace.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2.png
+  humanURL: https://aws.amazon.com/ec2/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Stack Network, Stack, API Service Provider,
+    API Service Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-ec2/actiondescribereservedinstanceslistings-get-openapi.md
+- name: AWS EC2 API - Describe Reserved Instances Listings
+  x-api-slug: actiondescribereservedinstanceslistings-get
+  description: Describes your account's Reserved Instance listings in the Reserved
+    Instance Marketplace.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2.png
+  humanURL: https://aws.amazon.com/ec2/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Stack Network, Stack, API Service Provider,
+    API Service Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-ec2/actiondescribereservedinstanceslistings-get-openapi.md
+- name: AWS EC2 API - Describe Reserved Instances Listings
+  x-api-slug: actiondescribereservedinstanceslistings-get
+  description: Describes your account's Reserved Instance listings in the Reserved
+    Instance Marketplace.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2.png
+  humanURL: https://aws.amazon.com/ec2/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Stack Network, Stack, API Service Provider,
+    API Service Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-ec2/actiondescribereservedinstanceslistings-get-openapi.md
+- name: AWS EC2 API - Describe Reserved Instances Listings
+  x-api-slug: actiondescribereservedinstanceslistings-get
+  description: Describes your account's Reserved Instance listings in the Reserved
+    Instance Marketplace.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2.png
+  humanURL: https://aws.amazon.com/ec2/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Stack Network, Stack, API Service Provider,
+    API Service Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-ec2/actiondescribereservedinstanceslistings-get-openapi.md
+- name: AWS EC2 API - Describe Reserved Instances Listings
+  x-api-slug: actiondescribereservedinstanceslistings-get
+  description: Describes your account's Reserved Instance listings in the Reserved
+    Instance Marketplace.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2.png
+  humanURL: https://aws.amazon.com/ec2/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Stack Network, Stack, API Service Provider,
+    API Service Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-ec2/actiondescribereservedinstanceslistings-get-openapi.md
+- name: AWS EC2 API - Describe Reserved Instances Modifications
+  x-api-slug: actiondescribereservedinstancesmodifications-get
+  description: Describes the modifications made to your Reserved Instances.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2.png
+  humanURL: https://aws.amazon.com/ec2/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Stack Network, Stack, API Service Provider,
+    API Service Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-ec2/actiondescribereservedinstancesmodifications-get-openapi.md
+- name: AWS EC2 API - Describe Reserved Instances Modifications
+  x-api-slug: actiondescribereservedinstancesmodifications-get
+  description: Describes the modifications made to your Reserved Instances.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2.png
+  humanURL: https://aws.amazon.com/ec2/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Stack Network, Stack, API Service Provider,
+    API Service Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-ec2/actiondescribereservedinstancesmodifications-get-openapi.md
+- name: AWS EC2 API - Describe Reserved Instances Modifications
+  x-api-slug: actiondescribereservedinstancesmodifications-get
+  description: Describes the modifications made to your Reserved Instances.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2.png
+  humanURL: https://aws.amazon.com/ec2/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Stack Network, Stack, API Service Provider,
+    API Service Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-ec2/actiondescribereservedinstancesmodifications-get-openapi.md
+- name: AWS EC2 API - Describe Reserved Instances Modifications
+  x-api-slug: actiondescribereservedinstancesmodifications-get
+  description: Describes the modifications made to your Reserved Instances.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2.png
+  humanURL: https://aws.amazon.com/ec2/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Stack Network, Stack, API Service Provider,
+    API Service Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-ec2/actiondescribereservedinstancesmodifications-get-openapi.md
+- name: AWS EC2 API - Describe Reserved Instances Modifications
+  x-api-slug: actiondescribereservedinstancesmodifications-get
+  description: Describes the modifications made to your Reserved Instances.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2.png
+  humanURL: https://aws.amazon.com/ec2/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Stack Network, Stack, API Service Provider,
+    API Service Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-ec2/actiondescribereservedinstancesmodifications-get-openapi.md
+- name: AWS EC2 API - Describe Reserved Instances Modifications
+  x-api-slug: actiondescribereservedinstancesmodifications-get
+  description: Describes the modifications made to your Reserved Instances.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2.png
+  humanURL: https://aws.amazon.com/ec2/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Stack Network, Stack, API Service Provider,
+    API Service Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-ec2/actiondescribereservedinstancesmodifications-get-openapi.md
+- name: AWS EC2 API - Describe Reserved Instances Modifications
+  x-api-slug: actiondescribereservedinstancesmodifications-get
+  description: Describes the modifications made to your Reserved Instances.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2.png
+  humanURL: https://aws.amazon.com/ec2/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Stack Network, Stack, API Service Provider,
+    API Service Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-ec2/actiondescribereservedinstancesmodifications-get-openapi.md
+- name: AWS EC2 API - Describe Reserved Instances Modifications
+  x-api-slug: actiondescribereservedinstancesmodifications-get
+  description: Describes the modifications made to your Reserved Instances.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2.png
+  humanURL: https://aws.amazon.com/ec2/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Stack Network, Stack, API Service Provider,
+    API Service Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-ec2/actiondescribereservedinstancesmodifications-get-openapi.md
+- name: AWS EC2 API - Describe Reserved Instances Modifications
+  x-api-slug: actiondescribereservedinstancesmodifications-get
+  description: Describes the modifications made to your Reserved Instances.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2.png
+  humanURL: https://aws.amazon.com/ec2/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Stack Network, Stack, API Service Provider,
+    API Service Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-ec2/actiondescribereservedinstancesmodifications-get-openapi.md
+- name: AWS EC2 API - Describe Reserved Instances Modifications
+  x-api-slug: actiondescribereservedinstancesmodifications-get
+  description: Describes the modifications made to your Reserved Instances.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2.png
+  humanURL: https://aws.amazon.com/ec2/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Stack Network, Stack, API Service Provider,
+    API Service Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-ec2/actiondescribereservedinstancesmodifications-get-openapi.md
+- name: AWS EC2 API - Describe Reserved Instances Modifications
+  x-api-slug: actiondescribereservedinstancesmodifications-get
+  description: Describes the modifications made to your Reserved Instances.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2.png
+  humanURL: https://aws.amazon.com/ec2/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Stack Network, Stack, API Service Provider,
+    API Service Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-ec2/actiondescribereservedinstancesmodifications-get-openapi.md
+- name: AWS EC2 API - Describe Reserved Instances Modifications
+  x-api-slug: actiondescribereservedinstancesmodifications-get
+  description: Describes the modifications made to your Reserved Instances.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2.png
+  humanURL: https://aws.amazon.com/ec2/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Stack Network, Stack, API Service Provider,
+    API Service Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-ec2/actiondescribereservedinstancesmodifications-get-openapi.md
+- name: AWS EC2 API - Describe Reserved Instances Offerings
+  x-api-slug: actiondescribereservedinstancesofferings-get
+  description: Describes Reserved Instance offerings that are available for purchase.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2.png
+  humanURL: https://aws.amazon.com/ec2/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Stack Network, Stack, API Service Provider,
+    API Service Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-ec2/actiondescribereservedinstancesofferings-get-openapi.md
+- name: AWS EC2 API - Describe Reserved Instances Offerings
+  x-api-slug: actiondescribereservedinstancesofferings-get
+  description: Describes Reserved Instance offerings that are available for purchase.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2.png
+  humanURL: https://aws.amazon.com/ec2/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Stack Network, Stack, API Service Provider,
+    API Service Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-ec2/actiondescribereservedinstancesofferings-get-openapi.md
+- name: AWS EC2 API - Describe Reserved Instances Offerings
+  x-api-slug: actiondescribereservedinstancesofferings-get
+  description: Describes Reserved Instance offerings that are available for purchase.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2.png
+  humanURL: https://aws.amazon.com/ec2/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Stack Network, Stack, API Service Provider,
+    API Service Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-ec2/actiondescribereservedinstancesofferings-get-openapi.md
+- name: AWS EC2 API - Describe Reserved Instances Offerings
+  x-api-slug: actiondescribereservedinstancesofferings-get
+  description: Describes Reserved Instance offerings that are available for purchase.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2.png
+  humanURL: https://aws.amazon.com/ec2/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Stack Network, Stack, API Service Provider,
+    API Service Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-ec2/actiondescribereservedinstancesofferings-get-openapi.md
+- name: AWS EC2 API - Describe Reserved Instances Offerings
+  x-api-slug: actiondescribereservedinstancesofferings-get
+  description: Describes Reserved Instance offerings that are available for purchase.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2.png
+  humanURL: https://aws.amazon.com/ec2/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Stack Network, Stack, API Service Provider,
+    API Service Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-ec2/actiondescribereservedinstancesofferings-get-openapi.md
+- name: AWS EC2 API - Describe Reserved Instances Offerings
+  x-api-slug: actiondescribereservedinstancesofferings-get
+  description: Describes Reserved Instance offerings that are available for purchase.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2.png
+  humanURL: https://aws.amazon.com/ec2/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Stack Network, Stack, API Service Provider,
+    API Service Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-ec2/actiondescribereservedinstancesofferings-get-openapi.md
+- name: AWS EC2 API - Describe Reserved Instances Offerings
+  x-api-slug: actiondescribereservedinstancesofferings-get
+  description: Describes Reserved Instance offerings that are available for purchase.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2.png
+  humanURL: https://aws.amazon.com/ec2/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Stack Network, Stack, API Service Provider,
+    API Service Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-ec2/actiondescribereservedinstancesofferings-get-openapi.md
+- name: AWS EC2 API - Describe Reserved Instances Offerings
+  x-api-slug: actiondescribereservedinstancesofferings-get
+  description: Describes Reserved Instance offerings that are available for purchase.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2.png
+  humanURL: https://aws.amazon.com/ec2/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Stack Network, Stack, API Service Provider,
+    API Service Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-ec2/actiondescribereservedinstancesofferings-get-openapi.md
+- name: AWS EC2 API - Describe Reserved Instances Offerings
+  x-api-slug: actiondescribereservedinstancesofferings-get
+  description: Describes Reserved Instance offerings that are available for purchase.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2.png
+  humanURL: https://aws.amazon.com/ec2/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Stack Network, Stack, API Service Provider,
+    API Service Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-ec2/actiondescribereservedinstancesofferings-get-openapi.md
+- name: AWS EC2 API - Describe Reserved Instances Offerings
+  x-api-slug: actiondescribereservedinstancesofferings-get
+  description: Describes Reserved Instance offerings that are available for purchase.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2.png
+  humanURL: https://aws.amazon.com/ec2/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Stack Network, Stack, API Service Provider,
+    API Service Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-ec2/actiondescribereservedinstancesofferings-get-openapi.md
+- name: AWS EC2 API - Describe Reserved Instances Offerings
+  x-api-slug: actiondescribereservedinstancesofferings-get
+  description: Describes Reserved Instance offerings that are available for purchase.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2.png
+  humanURL: https://aws.amazon.com/ec2/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Stack Network, Stack, API Service Provider,
+    API Service Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-ec2/actiondescribereservedinstancesofferings-get-openapi.md
+- name: AWS EC2 API - Describe Reserved Instances Offerings
+  x-api-slug: actiondescribereservedinstancesofferings-get
+  description: Describes Reserved Instance offerings that are available for purchase.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2.png
+  humanURL: https://aws.amazon.com/ec2/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Stack Network, Stack, API Service Provider,
+    API Service Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-ec2/actiondescribereservedinstancesofferings-get-openapi.md
 - name: AWS EC2 API - Describe Route Tables
   x-api-slug: actiondescriberoutetables-get
   description: Describes one or more of your route tables.
@@ -9715,6 +14080,294 @@ apis:
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-ec2/actiondescribescheduledinstances-get-postman.md
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-ec2/actiondescribescheduledinstances-get-openapi.md
+- name: AWS EC2 API - Describe Security Group References ( E C2- V P C only)
+  x-api-slug: actiondescribesecuritygroupreferences-ec2vpc-only-get
+  description: '[EC2-VPC only] Describes the VPCs on the other side of a VPC peering
+    connection that are referencing the security groups you''ve specified in this
+    request.'
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2.png
+  humanURL: https://aws.amazon.com/ec2/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Stack Network, Stack, API Service Provider,
+    API Service Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-ec2/actiondescribesecuritygroupreferences-ec2vpc-only-get-openapi.md
+- name: AWS EC2 API - Describe Security Group References ( E C2- V P C only)
+  x-api-slug: actiondescribesecuritygroupreferences-ec2vpc-only-get
+  description: '[EC2-VPC only] Describes the VPCs on the other side of a VPC peering
+    connection that are referencing the security groups you''ve specified in this
+    request.'
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2.png
+  humanURL: https://aws.amazon.com/ec2/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Stack Network, Stack, API Service Provider,
+    API Service Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-ec2/actiondescribesecuritygroupreferences-ec2vpc-only-get-openapi.md
+- name: AWS EC2 API - Describe Security Group References ( E C2- V P C only)
+  x-api-slug: actiondescribesecuritygroupreferences-ec2vpc-only-get
+  description: '[EC2-VPC only] Describes the VPCs on the other side of a VPC peering
+    connection that are referencing the security groups you''ve specified in this
+    request.'
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2.png
+  humanURL: https://aws.amazon.com/ec2/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Stack Network, Stack, API Service Provider,
+    API Service Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-ec2/actiondescribesecuritygroupreferences-ec2vpc-only-get-openapi.md
+- name: AWS EC2 API - Describe Security Group References ( E C2- V P C only)
+  x-api-slug: actiondescribesecuritygroupreferences-ec2vpc-only-get
+  description: '[EC2-VPC only] Describes the VPCs on the other side of a VPC peering
+    connection that are referencing the security groups you''ve specified in this
+    request.'
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2.png
+  humanURL: https://aws.amazon.com/ec2/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Stack Network, Stack, API Service Provider,
+    API Service Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-ec2/actiondescribesecuritygroupreferences-ec2vpc-only-get-openapi.md
+- name: AWS EC2 API - Describe Security Group References ( E C2- V P C only)
+  x-api-slug: actiondescribesecuritygroupreferences-ec2vpc-only-get
+  description: '[EC2-VPC only] Describes the VPCs on the other side of a VPC peering
+    connection that are referencing the security groups you''ve specified in this
+    request.'
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2.png
+  humanURL: https://aws.amazon.com/ec2/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Stack Network, Stack, API Service Provider,
+    API Service Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-ec2/actiondescribesecuritygroupreferences-ec2vpc-only-get-openapi.md
+- name: AWS EC2 API - Describe Security Group References ( E C2- V P C only)
+  x-api-slug: actiondescribesecuritygroupreferences-ec2vpc-only-get
+  description: '[EC2-VPC only] Describes the VPCs on the other side of a VPC peering
+    connection that are referencing the security groups you''ve specified in this
+    request.'
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2.png
+  humanURL: https://aws.amazon.com/ec2/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Stack Network, Stack, API Service Provider,
+    API Service Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-ec2/actiondescribesecuritygroupreferences-ec2vpc-only-get-openapi.md
+- name: AWS EC2 API - Describe Security Group References ( E C2- V P C only)
+  x-api-slug: actiondescribesecuritygroupreferences-ec2vpc-only-get
+  description: '[EC2-VPC only] Describes the VPCs on the other side of a VPC peering
+    connection that are referencing the security groups you''ve specified in this
+    request.'
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2.png
+  humanURL: https://aws.amazon.com/ec2/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Stack Network, Stack, API Service Provider,
+    API Service Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-ec2/actiondescribesecuritygroupreferences-ec2vpc-only-get-openapi.md
+- name: AWS EC2 API - Describe Security Group References ( E C2- V P C only)
+  x-api-slug: actiondescribesecuritygroupreferences-ec2vpc-only-get
+  description: '[EC2-VPC only] Describes the VPCs on the other side of a VPC peering
+    connection that are referencing the security groups you''ve specified in this
+    request.'
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2.png
+  humanURL: https://aws.amazon.com/ec2/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Stack Network, Stack, API Service Provider,
+    API Service Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-ec2/actiondescribesecuritygroupreferences-ec2vpc-only-get-openapi.md
+- name: AWS EC2 API - Describe Security Group References ( E C2- V P C only)
+  x-api-slug: actiondescribesecuritygroupreferences-ec2vpc-only-get
+  description: '[EC2-VPC only] Describes the VPCs on the other side of a VPC peering
+    connection that are referencing the security groups you''ve specified in this
+    request.'
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2.png
+  humanURL: https://aws.amazon.com/ec2/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Stack Network, Stack, API Service Provider,
+    API Service Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-ec2/actiondescribesecuritygroupreferences-ec2vpc-only-get-openapi.md
+- name: AWS EC2 API - Describe Security Group References ( E C2- V P C only)
+  x-api-slug: actiondescribesecuritygroupreferences-ec2vpc-only-get
+  description: '[EC2-VPC only] Describes the VPCs on the other side of a VPC peering
+    connection that are referencing the security groups you''ve specified in this
+    request.'
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2.png
+  humanURL: https://aws.amazon.com/ec2/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Stack Network, Stack, API Service Provider,
+    API Service Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-ec2/actiondescribesecuritygroupreferences-ec2vpc-only-get-openapi.md
+- name: AWS EC2 API - Describe Security Group References ( E C2- V P C only)
+  x-api-slug: actiondescribesecuritygroupreferences-ec2vpc-only-get
+  description: '[EC2-VPC only] Describes the VPCs on the other side of a VPC peering
+    connection that are referencing the security groups you''ve specified in this
+    request.'
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2.png
+  humanURL: https://aws.amazon.com/ec2/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Stack Network, Stack, API Service Provider,
+    API Service Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-ec2/actiondescribesecuritygroupreferences-ec2vpc-only-get-openapi.md
+- name: AWS EC2 API - Describe Security Group References ( E C2- V P C only)
+  x-api-slug: actiondescribesecuritygroupreferences-ec2vpc-only-get
+  description: '[EC2-VPC only] Describes the VPCs on the other side of a VPC peering
+    connection that are referencing the security groups you''ve specified in this
+    request.'
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2.png
+  humanURL: https://aws.amazon.com/ec2/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Stack Network, Stack, API Service Provider,
+    API Service Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-ec2/actiondescribesecuritygroupreferences-ec2vpc-only-get-openapi.md
+- name: AWS EC2 API - Describe Security Groups
+  x-api-slug: actiondescribesecuritygroups-get
+  description: Describes one or more of your security groups.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2.png
+  humanURL: https://aws.amazon.com/ec2/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Stack Network, Stack, API Service Provider,
+    API Service Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-ec2/actiondescribesecuritygroups-get-openapi.md
+- name: AWS EC2 API - Describe Security Groups
+  x-api-slug: actiondescribesecuritygroups-get
+  description: Describes one or more of your security groups.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2.png
+  humanURL: https://aws.amazon.com/ec2/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Stack Network, Stack, API Service Provider,
+    API Service Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-ec2/actiondescribesecuritygroups-get-openapi.md
+- name: AWS EC2 API - Describe Security Groups
+  x-api-slug: actiondescribesecuritygroups-get
+  description: Describes one or more of your security groups.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2.png
+  humanURL: https://aws.amazon.com/ec2/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Stack Network, Stack, API Service Provider,
+    API Service Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-ec2/actiondescribesecuritygroups-get-openapi.md
+- name: AWS EC2 API - Describe Security Groups
+  x-api-slug: actiondescribesecuritygroups-get
+  description: Describes one or more of your security groups.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2.png
+  humanURL: https://aws.amazon.com/ec2/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Stack Network, Stack, API Service Provider,
+    API Service Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-ec2/actiondescribesecuritygroups-get-openapi.md
+- name: AWS EC2 API - Describe Security Groups
+  x-api-slug: actiondescribesecuritygroups-get
+  description: Describes one or more of your security groups.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2.png
+  humanURL: https://aws.amazon.com/ec2/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Stack Network, Stack, API Service Provider,
+    API Service Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-ec2/actiondescribesecuritygroups-get-openapi.md
+- name: AWS EC2 API - Describe Security Groups
+  x-api-slug: actiondescribesecuritygroups-get
+  description: Describes one or more of your security groups.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2.png
+  humanURL: https://aws.amazon.com/ec2/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Stack Network, Stack, API Service Provider,
+    API Service Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-ec2/actiondescribesecuritygroups-get-openapi.md
+- name: AWS EC2 API - Describe Security Groups
+  x-api-slug: actiondescribesecuritygroups-get
+  description: Describes one or more of your security groups.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2.png
+  humanURL: https://aws.amazon.com/ec2/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Stack Network, Stack, API Service Provider,
+    API Service Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-ec2/actiondescribesecuritygroups-get-openapi.md
+- name: AWS EC2 API - Describe Security Groups
+  x-api-slug: actiondescribesecuritygroups-get
+  description: Describes one or more of your security groups.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2.png
+  humanURL: https://aws.amazon.com/ec2/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Stack Network, Stack, API Service Provider,
+    API Service Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-ec2/actiondescribesecuritygroups-get-openapi.md
+- name: AWS EC2 API - Describe Security Groups
+  x-api-slug: actiondescribesecuritygroups-get
+  description: Describes one or more of your security groups.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2.png
+  humanURL: https://aws.amazon.com/ec2/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Stack Network, Stack, API Service Provider,
+    API Service Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-ec2/actiondescribesecuritygroups-get-openapi.md
+- name: AWS EC2 API - Describe Security Groups
+  x-api-slug: actiondescribesecuritygroups-get
+  description: Describes one or more of your security groups.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2.png
+  humanURL: https://aws.amazon.com/ec2/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Stack Network, Stack, API Service Provider,
+    API Service Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-ec2/actiondescribesecuritygroups-get-openapi.md
+- name: AWS EC2 API - Describe Security Groups
+  x-api-slug: actiondescribesecuritygroups-get
+  description: Describes one or more of your security groups.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2.png
+  humanURL: https://aws.amazon.com/ec2/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Stack Network, Stack, API Service Provider,
+    API Service Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-ec2/actiondescribesecuritygroups-get-openapi.md
+- name: AWS EC2 API - Describe Security Groups
+  x-api-slug: actiondescribesecuritygroups-get
+  description: Describes one or more of your security groups.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2.png
+  humanURL: https://aws.amazon.com/ec2/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Stack Network, Stack, API Service Provider,
+    API Service Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-ec2/actiondescribesecuritygroups-get-openapi.md
 - name: AWS EC2 API - Describe Snapshot Attribute
   x-api-slug: actiondescribesnapshotattribute-get
   description: Describes the specified attribute of the specified snapshot.
@@ -10027,6 +14680,138 @@ apis:
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-ec2/actiondescribesnapshots-get-postman.md
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-ec2/actiondescribesnapshots-get-openapi.md
+- name: AWS EC2 API - Describe Spot Datafeed Subscription
+  x-api-slug: actiondescribespotdatafeedsubscription-get
+  description: Describes the data feed for Spot instances.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2.png
+  humanURL: https://aws.amazon.com/ec2/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Stack Network, Stack, API Service Provider,
+    API Service Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-ec2/actiondescribespotdatafeedsubscription-get-openapi.md
+- name: AWS EC2 API - Describe Spot Datafeed Subscription
+  x-api-slug: actiondescribespotdatafeedsubscription-get
+  description: Describes the data feed for Spot instances.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2.png
+  humanURL: https://aws.amazon.com/ec2/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Stack Network, Stack, API Service Provider,
+    API Service Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-ec2/actiondescribespotdatafeedsubscription-get-openapi.md
+- name: AWS EC2 API - Describe Spot Datafeed Subscription
+  x-api-slug: actiondescribespotdatafeedsubscription-get
+  description: Describes the data feed for Spot instances.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2.png
+  humanURL: https://aws.amazon.com/ec2/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Stack Network, Stack, API Service Provider,
+    API Service Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-ec2/actiondescribespotdatafeedsubscription-get-openapi.md
+- name: AWS EC2 API - Describe Spot Datafeed Subscription
+  x-api-slug: actiondescribespotdatafeedsubscription-get
+  description: Describes the data feed for Spot instances.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2.png
+  humanURL: https://aws.amazon.com/ec2/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Stack Network, Stack, API Service Provider,
+    API Service Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-ec2/actiondescribespotdatafeedsubscription-get-openapi.md
+- name: AWS EC2 API - Describe Spot Datafeed Subscription
+  x-api-slug: actiondescribespotdatafeedsubscription-get
+  description: Describes the data feed for Spot instances.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2.png
+  humanURL: https://aws.amazon.com/ec2/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Stack Network, Stack, API Service Provider,
+    API Service Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-ec2/actiondescribespotdatafeedsubscription-get-openapi.md
+- name: AWS EC2 API - Describe Spot Datafeed Subscription
+  x-api-slug: actiondescribespotdatafeedsubscription-get
+  description: Describes the data feed for Spot instances.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2.png
+  humanURL: https://aws.amazon.com/ec2/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Stack Network, Stack, API Service Provider,
+    API Service Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-ec2/actiondescribespotdatafeedsubscription-get-openapi.md
+- name: AWS EC2 API - Describe Spot Datafeed Subscription
+  x-api-slug: actiondescribespotdatafeedsubscription-get
+  description: Describes the data feed for Spot instances.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2.png
+  humanURL: https://aws.amazon.com/ec2/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Stack Network, Stack, API Service Provider,
+    API Service Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-ec2/actiondescribespotdatafeedsubscription-get-openapi.md
+- name: AWS EC2 API - Describe Spot Datafeed Subscription
+  x-api-slug: actiondescribespotdatafeedsubscription-get
+  description: Describes the data feed for Spot instances.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2.png
+  humanURL: https://aws.amazon.com/ec2/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Stack Network, Stack, API Service Provider,
+    API Service Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-ec2/actiondescribespotdatafeedsubscription-get-openapi.md
+- name: AWS EC2 API - Describe Spot Datafeed Subscription
+  x-api-slug: actiondescribespotdatafeedsubscription-get
+  description: Describes the data feed for Spot instances.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2.png
+  humanURL: https://aws.amazon.com/ec2/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Stack Network, Stack, API Service Provider,
+    API Service Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-ec2/actiondescribespotdatafeedsubscription-get-openapi.md
+- name: AWS EC2 API - Describe Spot Datafeed Subscription
+  x-api-slug: actiondescribespotdatafeedsubscription-get
+  description: Describes the data feed for Spot instances.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2.png
+  humanURL: https://aws.amazon.com/ec2/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Stack Network, Stack, API Service Provider,
+    API Service Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-ec2/actiondescribespotdatafeedsubscription-get-openapi.md
+- name: AWS EC2 API - Describe Spot Datafeed Subscription
+  x-api-slug: actiondescribespotdatafeedsubscription-get
+  description: Describes the data feed for Spot instances.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2.png
+  humanURL: https://aws.amazon.com/ec2/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Stack Network, Stack, API Service Provider,
+    API Service Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-ec2/actiondescribespotdatafeedsubscription-get-openapi.md
+- name: AWS EC2 API - Describe Spot Datafeed Subscription
+  x-api-slug: actiondescribespotdatafeedsubscription-get
+  description: Describes the data feed for Spot instances.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2.png
+  humanURL: https://aws.amazon.com/ec2/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Stack Network, Stack, API Service Provider,
+    API Service Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-ec2/actiondescribespotdatafeedsubscription-get-openapi.md
 - name: AWS EC2 API - Describe Spot Fleet Instances
   x-api-slug: actiondescribespotfleetinstances-get
   description: Describes the running instances for the specified Spot fleet.
@@ -10819,6 +15604,150 @@ apis:
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-ec2/actiondescribespotpricehistory-get-postman.md
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-ec2/actiondescribespotpricehistory-get-openapi.md
+- name: AWS EC2 API - Describe Stale Security Groups ( E C2- V P C only)
+  x-api-slug: actiondescribestalesecuritygroups-ec2vpc-only-get
+  description: '[EC2-VPC only] Describes the stale security group rules for security
+    groups in a specified VPC.'
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2.png
+  humanURL: https://aws.amazon.com/ec2/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Stack Network, Stack, API Service Provider,
+    API Service Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-ec2/actiondescribestalesecuritygroups-ec2vpc-only-get-openapi.md
+- name: AWS EC2 API - Describe Stale Security Groups ( E C2- V P C only)
+  x-api-slug: actiondescribestalesecuritygroups-ec2vpc-only-get
+  description: '[EC2-VPC only] Describes the stale security group rules for security
+    groups in a specified VPC.'
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2.png
+  humanURL: https://aws.amazon.com/ec2/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Stack Network, Stack, API Service Provider,
+    API Service Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-ec2/actiondescribestalesecuritygroups-ec2vpc-only-get-openapi.md
+- name: AWS EC2 API - Describe Stale Security Groups ( E C2- V P C only)
+  x-api-slug: actiondescribestalesecuritygroups-ec2vpc-only-get
+  description: '[EC2-VPC only] Describes the stale security group rules for security
+    groups in a specified VPC.'
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2.png
+  humanURL: https://aws.amazon.com/ec2/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Stack Network, Stack, API Service Provider,
+    API Service Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-ec2/actiondescribestalesecuritygroups-ec2vpc-only-get-openapi.md
+- name: AWS EC2 API - Describe Stale Security Groups ( E C2- V P C only)
+  x-api-slug: actiondescribestalesecuritygroups-ec2vpc-only-get
+  description: '[EC2-VPC only] Describes the stale security group rules for security
+    groups in a specified VPC.'
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2.png
+  humanURL: https://aws.amazon.com/ec2/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Stack Network, Stack, API Service Provider,
+    API Service Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-ec2/actiondescribestalesecuritygroups-ec2vpc-only-get-openapi.md
+- name: AWS EC2 API - Describe Stale Security Groups ( E C2- V P C only)
+  x-api-slug: actiondescribestalesecuritygroups-ec2vpc-only-get
+  description: '[EC2-VPC only] Describes the stale security group rules for security
+    groups in a specified VPC.'
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2.png
+  humanURL: https://aws.amazon.com/ec2/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Stack Network, Stack, API Service Provider,
+    API Service Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-ec2/actiondescribestalesecuritygroups-ec2vpc-only-get-openapi.md
+- name: AWS EC2 API - Describe Stale Security Groups ( E C2- V P C only)
+  x-api-slug: actiondescribestalesecuritygroups-ec2vpc-only-get
+  description: '[EC2-VPC only] Describes the stale security group rules for security
+    groups in a specified VPC.'
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2.png
+  humanURL: https://aws.amazon.com/ec2/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Stack Network, Stack, API Service Provider,
+    API Service Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-ec2/actiondescribestalesecuritygroups-ec2vpc-only-get-openapi.md
+- name: AWS EC2 API - Describe Stale Security Groups ( E C2- V P C only)
+  x-api-slug: actiondescribestalesecuritygroups-ec2vpc-only-get
+  description: '[EC2-VPC only] Describes the stale security group rules for security
+    groups in a specified VPC.'
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2.png
+  humanURL: https://aws.amazon.com/ec2/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Stack Network, Stack, API Service Provider,
+    API Service Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-ec2/actiondescribestalesecuritygroups-ec2vpc-only-get-openapi.md
+- name: AWS EC2 API - Describe Stale Security Groups ( E C2- V P C only)
+  x-api-slug: actiondescribestalesecuritygroups-ec2vpc-only-get
+  description: '[EC2-VPC only] Describes the stale security group rules for security
+    groups in a specified VPC.'
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2.png
+  humanURL: https://aws.amazon.com/ec2/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Stack Network, Stack, API Service Provider,
+    API Service Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-ec2/actiondescribestalesecuritygroups-ec2vpc-only-get-openapi.md
+- name: AWS EC2 API - Describe Stale Security Groups ( E C2- V P C only)
+  x-api-slug: actiondescribestalesecuritygroups-ec2vpc-only-get
+  description: '[EC2-VPC only] Describes the stale security group rules for security
+    groups in a specified VPC.'
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2.png
+  humanURL: https://aws.amazon.com/ec2/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Stack Network, Stack, API Service Provider,
+    API Service Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-ec2/actiondescribestalesecuritygroups-ec2vpc-only-get-openapi.md
+- name: AWS EC2 API - Describe Stale Security Groups ( E C2- V P C only)
+  x-api-slug: actiondescribestalesecuritygroups-ec2vpc-only-get
+  description: '[EC2-VPC only] Describes the stale security group rules for security
+    groups in a specified VPC.'
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2.png
+  humanURL: https://aws.amazon.com/ec2/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Stack Network, Stack, API Service Provider,
+    API Service Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-ec2/actiondescribestalesecuritygroups-ec2vpc-only-get-openapi.md
+- name: AWS EC2 API - Describe Stale Security Groups ( E C2- V P C only)
+  x-api-slug: actiondescribestalesecuritygroups-ec2vpc-only-get
+  description: '[EC2-VPC only] Describes the stale security group rules for security
+    groups in a specified VPC.'
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2.png
+  humanURL: https://aws.amazon.com/ec2/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Stack Network, Stack, API Service Provider,
+    API Service Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-ec2/actiondescribestalesecuritygroups-ec2vpc-only-get-openapi.md
+- name: AWS EC2 API - Describe Stale Security Groups ( E C2- V P C only)
+  x-api-slug: actiondescribestalesecuritygroups-ec2vpc-only-get
+  description: '[EC2-VPC only] Describes the stale security group rules for security
+    groups in a specified VPC.'
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2.png
+  humanURL: https://aws.amazon.com/ec2/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Stack Network, Stack, API Service Provider,
+    API Service Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-ec2/actiondescribestalesecuritygroups-ec2vpc-only-get-openapi.md
 - name: AWS EC2 API - Describe Subnets
   x-api-slug: actiondescribesubnets-get
   description: Describes one or more of your subnets.
@@ -10975,6 +15904,402 @@ apis:
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-ec2/actiondescribesubnets-get-postman.md
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-ec2/actiondescribesubnets-get-openapi.md
+- name: AWS EC2 API - Describe Tags
+  x-api-slug: actiondescribetags-get
+  description: Describes one or more of the tags for your EC2 resources.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2.png
+  humanURL: https://aws.amazon.com/ec2/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Stack Network, Stack, API Service Provider,
+    API Service Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-ec2/actiondescribetags-get-openapi.md
+- name: AWS EC2 API - Describe Tags
+  x-api-slug: actiondescribetags-get
+  description: Describes one or more of the tags for your EC2 resources.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2.png
+  humanURL: https://aws.amazon.com/ec2/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Stack Network, Stack, API Service Provider,
+    API Service Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-ec2/actiondescribetags-get-openapi.md
+- name: AWS EC2 API - Describe Tags
+  x-api-slug: actiondescribetags-get
+  description: Describes one or more of the tags for your EC2 resources.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2.png
+  humanURL: https://aws.amazon.com/ec2/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Stack Network, Stack, API Service Provider,
+    API Service Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-ec2/actiondescribetags-get-openapi.md
+- name: AWS EC2 API - Describe Tags
+  x-api-slug: actiondescribetags-get
+  description: Describes one or more of the tags for your EC2 resources.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2.png
+  humanURL: https://aws.amazon.com/ec2/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Stack Network, Stack, API Service Provider,
+    API Service Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-ec2/actiondescribetags-get-openapi.md
+- name: AWS EC2 API - Describe Tags
+  x-api-slug: actiondescribetags-get
+  description: Describes one or more of the tags for your EC2 resources.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2.png
+  humanURL: https://aws.amazon.com/ec2/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Stack Network, Stack, API Service Provider,
+    API Service Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-ec2/actiondescribetags-get-openapi.md
+- name: AWS EC2 API - Describe Tags
+  x-api-slug: actiondescribetags-get
+  description: Describes one or more of the tags for your EC2 resources.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2.png
+  humanURL: https://aws.amazon.com/ec2/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Stack Network, Stack, API Service Provider,
+    API Service Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-ec2/actiondescribetags-get-openapi.md
+- name: AWS EC2 API - Describe Tags
+  x-api-slug: actiondescribetags-get
+  description: Describes one or more of the tags for your EC2 resources.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2.png
+  humanURL: https://aws.amazon.com/ec2/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Stack Network, Stack, API Service Provider,
+    API Service Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-ec2/actiondescribetags-get-openapi.md
+- name: AWS EC2 API - Describe Tags
+  x-api-slug: actiondescribetags-get
+  description: Describes one or more of the tags for your EC2 resources.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2.png
+  humanURL: https://aws.amazon.com/ec2/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Stack Network, Stack, API Service Provider,
+    API Service Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-ec2/actiondescribetags-get-openapi.md
+- name: AWS EC2 API - Describe Tags
+  x-api-slug: actiondescribetags-get
+  description: Describes one or more of the tags for your EC2 resources.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2.png
+  humanURL: https://aws.amazon.com/ec2/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Stack Network, Stack, API Service Provider,
+    API Service Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-ec2/actiondescribetags-get-openapi.md
+- name: AWS EC2 API - Describe Tags
+  x-api-slug: actiondescribetags-get
+  description: Describes one or more of the tags for your EC2 resources.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2.png
+  humanURL: https://aws.amazon.com/ec2/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Stack Network, Stack, API Service Provider,
+    API Service Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-ec2/actiondescribetags-get-openapi.md
+- name: AWS EC2 API - Describe Tags
+  x-api-slug: actiondescribetags-get
+  description: Describes one or more of the tags for your EC2 resources.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2.png
+  humanURL: https://aws.amazon.com/ec2/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Stack Network, Stack, API Service Provider,
+    API Service Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-ec2/actiondescribetags-get-openapi.md
+- name: AWS EC2 API - Describe Tags
+  x-api-slug: actiondescribetags-get
+  description: Describes one or more of the tags for your EC2 resources.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2.png
+  humanURL: https://aws.amazon.com/ec2/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Stack Network, Stack, API Service Provider,
+    API Service Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-ec2/actiondescribetags-get-openapi.md
+- name: AWS EC2 API - Describe Volume Attribute
+  x-api-slug: actiondescribevolumeattribute-get
+  description: Describes the specified attribute of the specified volume.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2.png
+  humanURL: https://aws.amazon.com/ec2/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Stack Network, Stack, API Service Provider,
+    API Service Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-ec2/actiondescribevolumeattribute-get-openapi.md
+- name: AWS EC2 API - Describe Volume Attribute
+  x-api-slug: actiondescribevolumeattribute-get
+  description: Describes the specified attribute of the specified volume.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2.png
+  humanURL: https://aws.amazon.com/ec2/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Stack Network, Stack, API Service Provider,
+    API Service Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-ec2/actiondescribevolumeattribute-get-openapi.md
+- name: AWS EC2 API - Describe Volume Attribute
+  x-api-slug: actiondescribevolumeattribute-get
+  description: Describes the specified attribute of the specified volume.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2.png
+  humanURL: https://aws.amazon.com/ec2/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Stack Network, Stack, API Service Provider,
+    API Service Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-ec2/actiondescribevolumeattribute-get-openapi.md
+- name: AWS EC2 API - Describe Volume Attribute
+  x-api-slug: actiondescribevolumeattribute-get
+  description: Describes the specified attribute of the specified volume.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2.png
+  humanURL: https://aws.amazon.com/ec2/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Stack Network, Stack, API Service Provider,
+    API Service Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-ec2/actiondescribevolumeattribute-get-openapi.md
+- name: AWS EC2 API - Describe Volume Attribute
+  x-api-slug: actiondescribevolumeattribute-get
+  description: Describes the specified attribute of the specified volume.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2.png
+  humanURL: https://aws.amazon.com/ec2/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Stack Network, Stack, API Service Provider,
+    API Service Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-ec2/actiondescribevolumeattribute-get-openapi.md
+- name: AWS EC2 API - Describe Volume Attribute
+  x-api-slug: actiondescribevolumeattribute-get
+  description: Describes the specified attribute of the specified volume.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2.png
+  humanURL: https://aws.amazon.com/ec2/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Stack Network, Stack, API Service Provider,
+    API Service Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-ec2/actiondescribevolumeattribute-get-openapi.md
+- name: AWS EC2 API - Describe Volume Attribute
+  x-api-slug: actiondescribevolumeattribute-get
+  description: Describes the specified attribute of the specified volume.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2.png
+  humanURL: https://aws.amazon.com/ec2/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Stack Network, Stack, API Service Provider,
+    API Service Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-ec2/actiondescribevolumeattribute-get-openapi.md
+- name: AWS EC2 API - Describe Volume Attribute
+  x-api-slug: actiondescribevolumeattribute-get
+  description: Describes the specified attribute of the specified volume.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2.png
+  humanURL: https://aws.amazon.com/ec2/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Stack Network, Stack, API Service Provider,
+    API Service Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-ec2/actiondescribevolumeattribute-get-openapi.md
+- name: AWS EC2 API - Describe Volume Attribute
+  x-api-slug: actiondescribevolumeattribute-get
+  description: Describes the specified attribute of the specified volume.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2.png
+  humanURL: https://aws.amazon.com/ec2/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Stack Network, Stack, API Service Provider,
+    API Service Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-ec2/actiondescribevolumeattribute-get-openapi.md
+- name: AWS EC2 API - Describe Volume Attribute
+  x-api-slug: actiondescribevolumeattribute-get
+  description: Describes the specified attribute of the specified volume.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2.png
+  humanURL: https://aws.amazon.com/ec2/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Stack Network, Stack, API Service Provider,
+    API Service Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-ec2/actiondescribevolumeattribute-get-openapi.md
+- name: AWS EC2 API - Describe Volume Attribute
+  x-api-slug: actiondescribevolumeattribute-get
+  description: Describes the specified attribute of the specified volume.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2.png
+  humanURL: https://aws.amazon.com/ec2/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Stack Network, Stack, API Service Provider,
+    API Service Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-ec2/actiondescribevolumeattribute-get-openapi.md
+- name: AWS EC2 API - Describe Volume Attribute
+  x-api-slug: actiondescribevolumeattribute-get
+  description: Describes the specified attribute of the specified volume.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2.png
+  humanURL: https://aws.amazon.com/ec2/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Stack Network, Stack, API Service Provider,
+    API Service Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-ec2/actiondescribevolumeattribute-get-openapi.md
+- name: AWS EC2 API - Describe Volumes
+  x-api-slug: actiondescribevolumes-get
+  description: Describes the specified EBS volumes.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2.png
+  humanURL: https://aws.amazon.com/ec2/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Stack Network, Stack, API Service Provider,
+    API Service Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-ec2/actiondescribevolumes-get-openapi.md
+- name: AWS EC2 API - Describe Volumes
+  x-api-slug: actiondescribevolumes-get
+  description: Describes the specified EBS volumes.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2.png
+  humanURL: https://aws.amazon.com/ec2/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Stack Network, Stack, API Service Provider,
+    API Service Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-ec2/actiondescribevolumes-get-openapi.md
+- name: AWS EC2 API - Describe Volumes
+  x-api-slug: actiondescribevolumes-get
+  description: Describes the specified EBS volumes.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2.png
+  humanURL: https://aws.amazon.com/ec2/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Stack Network, Stack, API Service Provider,
+    API Service Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-ec2/actiondescribevolumes-get-openapi.md
+- name: AWS EC2 API - Describe Volumes
+  x-api-slug: actiondescribevolumes-get
+  description: Describes the specified EBS volumes.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2.png
+  humanURL: https://aws.amazon.com/ec2/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Stack Network, Stack, API Service Provider,
+    API Service Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-ec2/actiondescribevolumes-get-openapi.md
+- name: AWS EC2 API - Describe Volumes
+  x-api-slug: actiondescribevolumes-get
+  description: Describes the specified EBS volumes.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2.png
+  humanURL: https://aws.amazon.com/ec2/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Stack Network, Stack, API Service Provider,
+    API Service Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-ec2/actiondescribevolumes-get-openapi.md
+- name: AWS EC2 API - Describe Volumes
+  x-api-slug: actiondescribevolumes-get
+  description: Describes the specified EBS volumes.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2.png
+  humanURL: https://aws.amazon.com/ec2/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Stack Network, Stack, API Service Provider,
+    API Service Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-ec2/actiondescribevolumes-get-openapi.md
+- name: AWS EC2 API - Describe Volumes
+  x-api-slug: actiondescribevolumes-get
+  description: Describes the specified EBS volumes.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2.png
+  humanURL: https://aws.amazon.com/ec2/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Stack Network, Stack, API Service Provider,
+    API Service Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-ec2/actiondescribevolumes-get-openapi.md
+- name: AWS EC2 API - Describe Volumes
+  x-api-slug: actiondescribevolumes-get
+  description: Describes the specified EBS volumes.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2.png
+  humanURL: https://aws.amazon.com/ec2/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Stack Network, Stack, API Service Provider,
+    API Service Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-ec2/actiondescribevolumes-get-openapi.md
+- name: AWS EC2 API - Describe Volumes
+  x-api-slug: actiondescribevolumes-get
+  description: Describes the specified EBS volumes.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2.png
+  humanURL: https://aws.amazon.com/ec2/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Stack Network, Stack, API Service Provider,
+    API Service Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-ec2/actiondescribevolumes-get-openapi.md
+- name: AWS EC2 API - Describe Volumes
+  x-api-slug: actiondescribevolumes-get
+  description: Describes the specified EBS volumes.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2.png
+  humanURL: https://aws.amazon.com/ec2/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Stack Network, Stack, API Service Provider,
+    API Service Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-ec2/actiondescribevolumes-get-openapi.md
+- name: AWS EC2 API - Describe Volumes
+  x-api-slug: actiondescribevolumes-get
+  description: Describes the specified EBS volumes.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2.png
+  humanURL: https://aws.amazon.com/ec2/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Stack Network, Stack, API Service Provider,
+    API Service Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-ec2/actiondescribevolumes-get-openapi.md
+- name: AWS EC2 API - Describe Volumes
+  x-api-slug: actiondescribevolumes-get
+  description: Describes the specified EBS volumes.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2.png
+  humanURL: https://aws.amazon.com/ec2/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Stack Network, Stack, API Service Provider,
+    API Service Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-ec2/actiondescribevolumes-get-openapi.md
 - name: AWS EC2 API - Describe Volume Status
   x-api-slug: actiondescribevolumestatus-get
   description: Describes the status of the specified volumes.
@@ -11482,6 +16807,591 @@ apis:
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-ec2/actiondescribevpcclassiclink-get-postman.md
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-ec2/actiondescribevpcclassiclink-get-openapi.md
+- name: AWS EC2 API - Describe Vpc Classic Link Dns Support
+  x-api-slug: actiondescribevpcclassiclinkdnssupport-get
+  description: Describes the ClassicLink DNS support status of one or more VPCs.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2.png
+  humanURL: https://aws.amazon.com/ec2/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Stack Network, Stack, API Service Provider,
+    API Service Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-ec2/actiondescribevpcclassiclinkdnssupport-get-openapi.md
+- name: AWS EC2 API - Describe Vpc Classic Link Dns Support
+  x-api-slug: actiondescribevpcclassiclinkdnssupport-get
+  description: Describes the ClassicLink DNS support status of one or more VPCs.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2.png
+  humanURL: https://aws.amazon.com/ec2/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Stack Network, Stack, API Service Provider,
+    API Service Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-ec2/actiondescribevpcclassiclinkdnssupport-get-openapi.md
+- name: AWS EC2 API - Describe Vpc Classic Link Dns Support
+  x-api-slug: actiondescribevpcclassiclinkdnssupport-get
+  description: Describes the ClassicLink DNS support status of one or more VPCs.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2.png
+  humanURL: https://aws.amazon.com/ec2/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Stack Network, Stack, API Service Provider,
+    API Service Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-ec2/actiondescribevpcclassiclinkdnssupport-get-openapi.md
+- name: AWS EC2 API - Describe Vpc Classic Link Dns Support
+  x-api-slug: actiondescribevpcclassiclinkdnssupport-get
+  description: Describes the ClassicLink DNS support status of one or more VPCs.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2.png
+  humanURL: https://aws.amazon.com/ec2/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Stack Network, Stack, API Service Provider,
+    API Service Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-ec2/actiondescribevpcclassiclinkdnssupport-get-openapi.md
+- name: AWS EC2 API - Describe Vpc Classic Link Dns Support
+  x-api-slug: actiondescribevpcclassiclinkdnssupport-get
+  description: Describes the ClassicLink DNS support status of one or more VPCs.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2.png
+  humanURL: https://aws.amazon.com/ec2/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Stack Network, Stack, API Service Provider,
+    API Service Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-ec2/actiondescribevpcclassiclinkdnssupport-get-openapi.md
+- name: AWS EC2 API - Describe Vpc Classic Link Dns Support
+  x-api-slug: actiondescribevpcclassiclinkdnssupport-get
+  description: Describes the ClassicLink DNS support status of one or more VPCs.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2.png
+  humanURL: https://aws.amazon.com/ec2/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Stack Network, Stack, API Service Provider,
+    API Service Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-ec2/actiondescribevpcclassiclinkdnssupport-get-openapi.md
+- name: AWS EC2 API - Describe Vpc Classic Link Dns Support
+  x-api-slug: actiondescribevpcclassiclinkdnssupport-get
+  description: Describes the ClassicLink DNS support status of one or more VPCs.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2.png
+  humanURL: https://aws.amazon.com/ec2/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Stack Network, Stack, API Service Provider,
+    API Service Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-ec2/actiondescribevpcclassiclinkdnssupport-get-openapi.md
+- name: AWS EC2 API - Describe Vpc Classic Link Dns Support
+  x-api-slug: actiondescribevpcclassiclinkdnssupport-get
+  description: Describes the ClassicLink DNS support status of one or more VPCs.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2.png
+  humanURL: https://aws.amazon.com/ec2/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Stack Network, Stack, API Service Provider,
+    API Service Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-ec2/actiondescribevpcclassiclinkdnssupport-get-openapi.md
+- name: AWS EC2 API - Describe Vpc Classic Link Dns Support
+  x-api-slug: actiondescribevpcclassiclinkdnssupport-get
+  description: Describes the ClassicLink DNS support status of one or more VPCs.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2.png
+  humanURL: https://aws.amazon.com/ec2/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Stack Network, Stack, API Service Provider,
+    API Service Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-ec2/actiondescribevpcclassiclinkdnssupport-get-openapi.md
+- name: AWS EC2 API - Describe Vpc Classic Link Dns Support
+  x-api-slug: actiondescribevpcclassiclinkdnssupport-get
+  description: Describes the ClassicLink DNS support status of one or more VPCs.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2.png
+  humanURL: https://aws.amazon.com/ec2/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Stack Network, Stack, API Service Provider,
+    API Service Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-ec2/actiondescribevpcclassiclinkdnssupport-get-openapi.md
+- name: AWS EC2 API - Describe Vpc Classic Link Dns Support
+  x-api-slug: actiondescribevpcclassiclinkdnssupport-get
+  description: Describes the ClassicLink DNS support status of one or more VPCs.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2.png
+  humanURL: https://aws.amazon.com/ec2/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Stack Network, Stack, API Service Provider,
+    API Service Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-ec2/actiondescribevpcclassiclinkdnssupport-get-openapi.md
+- name: AWS EC2 API - Describe Vpc Classic Link Dns Support
+  x-api-slug: actiondescribevpcclassiclinkdnssupport-get
+  description: Describes the ClassicLink DNS support status of one or more VPCs.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2.png
+  humanURL: https://aws.amazon.com/ec2/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Stack Network, Stack, API Service Provider,
+    API Service Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-ec2/actiondescribevpcclassiclinkdnssupport-get-openapi.md
+- name: AWS EC2 API - Describe Vpc Classic Link Dns Support
+  x-api-slug: actiondescribevpcclassiclinkdnssupport-get
+  description: Describes the ClassicLink DNS support status of one or more VPCs.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2.png
+  humanURL: https://aws.amazon.com/ec2/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Stack Network, Stack, API Service Provider,
+    API Service Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-ec2/actiondescribevpcclassiclinkdnssupport-get-openapi.md
+- name: AWS EC2 API - Describe Vpc Endpoints
+  x-api-slug: actiondescribevpcendpoints-get
+  description: Describes one or more of your VPC endpoints.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2.png
+  humanURL: https://aws.amazon.com/ec2/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Stack Network, Stack, API Service Provider,
+    API Service Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-ec2/actiondescribevpcendpoints-get-openapi.md
+- name: AWS EC2 API - Describe Vpc Endpoints
+  x-api-slug: actiondescribevpcendpoints-get
+  description: Describes one or more of your VPC endpoints.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2.png
+  humanURL: https://aws.amazon.com/ec2/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Stack Network, Stack, API Service Provider,
+    API Service Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-ec2/actiondescribevpcendpoints-get-openapi.md
+- name: AWS EC2 API - Describe Vpc Endpoints
+  x-api-slug: actiondescribevpcendpoints-get
+  description: Describes one or more of your VPC endpoints.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2.png
+  humanURL: https://aws.amazon.com/ec2/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Stack Network, Stack, API Service Provider,
+    API Service Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-ec2/actiondescribevpcendpoints-get-openapi.md
+- name: AWS EC2 API - Describe Vpc Endpoints
+  x-api-slug: actiondescribevpcendpoints-get
+  description: Describes one or more of your VPC endpoints.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2.png
+  humanURL: https://aws.amazon.com/ec2/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Stack Network, Stack, API Service Provider,
+    API Service Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-ec2/actiondescribevpcendpoints-get-openapi.md
+- name: AWS EC2 API - Describe Vpc Endpoints
+  x-api-slug: actiondescribevpcendpoints-get
+  description: Describes one or more of your VPC endpoints.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2.png
+  humanURL: https://aws.amazon.com/ec2/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Stack Network, Stack, API Service Provider,
+    API Service Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-ec2/actiondescribevpcendpoints-get-openapi.md
+- name: AWS EC2 API - Describe Vpc Endpoints
+  x-api-slug: actiondescribevpcendpoints-get
+  description: Describes one or more of your VPC endpoints.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2.png
+  humanURL: https://aws.amazon.com/ec2/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Stack Network, Stack, API Service Provider,
+    API Service Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-ec2/actiondescribevpcendpoints-get-openapi.md
+- name: AWS EC2 API - Describe Vpc Endpoints
+  x-api-slug: actiondescribevpcendpoints-get
+  description: Describes one or more of your VPC endpoints.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2.png
+  humanURL: https://aws.amazon.com/ec2/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Stack Network, Stack, API Service Provider,
+    API Service Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-ec2/actiondescribevpcendpoints-get-openapi.md
+- name: AWS EC2 API - Describe Vpc Endpoints
+  x-api-slug: actiondescribevpcendpoints-get
+  description: Describes one or more of your VPC endpoints.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2.png
+  humanURL: https://aws.amazon.com/ec2/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Stack Network, Stack, API Service Provider,
+    API Service Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-ec2/actiondescribevpcendpoints-get-openapi.md
+- name: AWS EC2 API - Describe Vpc Endpoints
+  x-api-slug: actiondescribevpcendpoints-get
+  description: Describes one or more of your VPC endpoints.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2.png
+  humanURL: https://aws.amazon.com/ec2/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Stack Network, Stack, API Service Provider,
+    API Service Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-ec2/actiondescribevpcendpoints-get-openapi.md
+- name: AWS EC2 API - Describe Vpc Endpoints
+  x-api-slug: actiondescribevpcendpoints-get
+  description: Describes one or more of your VPC endpoints.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2.png
+  humanURL: https://aws.amazon.com/ec2/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Stack Network, Stack, API Service Provider,
+    API Service Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-ec2/actiondescribevpcendpoints-get-openapi.md
+- name: AWS EC2 API - Describe Vpc Endpoints
+  x-api-slug: actiondescribevpcendpoints-get
+  description: Describes one or more of your VPC endpoints.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2.png
+  humanURL: https://aws.amazon.com/ec2/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Stack Network, Stack, API Service Provider,
+    API Service Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-ec2/actiondescribevpcendpoints-get-openapi.md
+- name: AWS EC2 API - Describe Vpc Endpoints
+  x-api-slug: actiondescribevpcendpoints-get
+  description: Describes one or more of your VPC endpoints.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2.png
+  humanURL: https://aws.amazon.com/ec2/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Stack Network, Stack, API Service Provider,
+    API Service Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-ec2/actiondescribevpcendpoints-get-openapi.md
+- name: AWS EC2 API - Describe Vpc Endpoints
+  x-api-slug: actiondescribevpcendpoints-get
+  description: Describes one or more of your VPC endpoints.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2.png
+  humanURL: https://aws.amazon.com/ec2/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Stack Network, Stack, API Service Provider,
+    API Service Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-ec2/actiondescribevpcendpoints-get-openapi.md
+- name: AWS EC2 API - Describe Vpc Endpoint Services
+  x-api-slug: actiondescribevpcendpointservices-get
+  description: Describes all supported AWS services that can be specified when creating
+    a VPC endpoint.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2.png
+  humanURL: https://aws.amazon.com/ec2/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Stack Network, Stack, API Service Provider,
+    API Service Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-ec2/actiondescribevpcendpointservices-get-openapi.md
+- name: AWS EC2 API - Describe Vpc Endpoint Services
+  x-api-slug: actiondescribevpcendpointservices-get
+  description: Describes all supported AWS services that can be specified when creating
+    a VPC endpoint.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2.png
+  humanURL: https://aws.amazon.com/ec2/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Stack Network, Stack, API Service Provider,
+    API Service Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-ec2/actiondescribevpcendpointservices-get-openapi.md
+- name: AWS EC2 API - Describe Vpc Endpoint Services
+  x-api-slug: actiondescribevpcendpointservices-get
+  description: Describes all supported AWS services that can be specified when creating
+    a VPC endpoint.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2.png
+  humanURL: https://aws.amazon.com/ec2/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Stack Network, Stack, API Service Provider,
+    API Service Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-ec2/actiondescribevpcendpointservices-get-openapi.md
+- name: AWS EC2 API - Describe Vpc Endpoint Services
+  x-api-slug: actiondescribevpcendpointservices-get
+  description: Describes all supported AWS services that can be specified when creating
+    a VPC endpoint.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2.png
+  humanURL: https://aws.amazon.com/ec2/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Stack Network, Stack, API Service Provider,
+    API Service Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-ec2/actiondescribevpcendpointservices-get-openapi.md
+- name: AWS EC2 API - Describe Vpc Endpoint Services
+  x-api-slug: actiondescribevpcendpointservices-get
+  description: Describes all supported AWS services that can be specified when creating
+    a VPC endpoint.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2.png
+  humanURL: https://aws.amazon.com/ec2/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Stack Network, Stack, API Service Provider,
+    API Service Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-ec2/actiondescribevpcendpointservices-get-openapi.md
+- name: AWS EC2 API - Describe Vpc Endpoint Services
+  x-api-slug: actiondescribevpcendpointservices-get
+  description: Describes all supported AWS services that can be specified when creating
+    a VPC endpoint.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2.png
+  humanURL: https://aws.amazon.com/ec2/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Stack Network, Stack, API Service Provider,
+    API Service Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-ec2/actiondescribevpcendpointservices-get-openapi.md
+- name: AWS EC2 API - Describe Vpc Endpoint Services
+  x-api-slug: actiondescribevpcendpointservices-get
+  description: Describes all supported AWS services that can be specified when creating
+    a VPC endpoint.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2.png
+  humanURL: https://aws.amazon.com/ec2/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Stack Network, Stack, API Service Provider,
+    API Service Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-ec2/actiondescribevpcendpointservices-get-openapi.md
+- name: AWS EC2 API - Describe Vpc Endpoint Services
+  x-api-slug: actiondescribevpcendpointservices-get
+  description: Describes all supported AWS services that can be specified when creating
+    a VPC endpoint.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2.png
+  humanURL: https://aws.amazon.com/ec2/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Stack Network, Stack, API Service Provider,
+    API Service Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-ec2/actiondescribevpcendpointservices-get-openapi.md
+- name: AWS EC2 API - Describe Vpc Endpoint Services
+  x-api-slug: actiondescribevpcendpointservices-get
+  description: Describes all supported AWS services that can be specified when creating
+    a VPC endpoint.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2.png
+  humanURL: https://aws.amazon.com/ec2/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Stack Network, Stack, API Service Provider,
+    API Service Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-ec2/actiondescribevpcendpointservices-get-openapi.md
+- name: AWS EC2 API - Describe Vpc Endpoint Services
+  x-api-slug: actiondescribevpcendpointservices-get
+  description: Describes all supported AWS services that can be specified when creating
+    a VPC endpoint.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2.png
+  humanURL: https://aws.amazon.com/ec2/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Stack Network, Stack, API Service Provider,
+    API Service Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-ec2/actiondescribevpcendpointservices-get-openapi.md
+- name: AWS EC2 API - Describe Vpc Endpoint Services
+  x-api-slug: actiondescribevpcendpointservices-get
+  description: Describes all supported AWS services that can be specified when creating
+    a VPC endpoint.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2.png
+  humanURL: https://aws.amazon.com/ec2/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Stack Network, Stack, API Service Provider,
+    API Service Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-ec2/actiondescribevpcendpointservices-get-openapi.md
+- name: AWS EC2 API - Describe Vpc Endpoint Services
+  x-api-slug: actiondescribevpcendpointservices-get
+  description: Describes all supported AWS services that can be specified when creating
+    a VPC endpoint.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2.png
+  humanURL: https://aws.amazon.com/ec2/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Stack Network, Stack, API Service Provider,
+    API Service Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-ec2/actiondescribevpcendpointservices-get-openapi.md
+- name: AWS EC2 API - Describe Vpc Endpoint Services
+  x-api-slug: actiondescribevpcendpointservices-get
+  description: Describes all supported AWS services that can be specified when creating
+    a VPC endpoint.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2.png
+  humanURL: https://aws.amazon.com/ec2/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Stack Network, Stack, API Service Provider,
+    API Service Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-ec2/actiondescribevpcendpointservices-get-openapi.md
+- name: AWS EC2 API - Describe Vpc Peering Connections
+  x-api-slug: actiondescribevpcpeeringconnections-get
+  description: Describes one or more of your VPC peering connections.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2.png
+  humanURL: https://aws.amazon.com/ec2/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Stack Network, Stack, API Service Provider,
+    API Service Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-ec2/actiondescribevpcpeeringconnections-get-openapi.md
+- name: AWS EC2 API - Describe Vpc Peering Connections
+  x-api-slug: actiondescribevpcpeeringconnections-get
+  description: Describes one or more of your VPC peering connections.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2.png
+  humanURL: https://aws.amazon.com/ec2/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Stack Network, Stack, API Service Provider,
+    API Service Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-ec2/actiondescribevpcpeeringconnections-get-openapi.md
+- name: AWS EC2 API - Describe Vpc Peering Connections
+  x-api-slug: actiondescribevpcpeeringconnections-get
+  description: Describes one or more of your VPC peering connections.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2.png
+  humanURL: https://aws.amazon.com/ec2/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Stack Network, Stack, API Service Provider,
+    API Service Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-ec2/actiondescribevpcpeeringconnections-get-openapi.md
+- name: AWS EC2 API - Describe Vpc Peering Connections
+  x-api-slug: actiondescribevpcpeeringconnections-get
+  description: Describes one or more of your VPC peering connections.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2.png
+  humanURL: https://aws.amazon.com/ec2/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Stack Network, Stack, API Service Provider,
+    API Service Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-ec2/actiondescribevpcpeeringconnections-get-openapi.md
+- name: AWS EC2 API - Describe Vpc Peering Connections
+  x-api-slug: actiondescribevpcpeeringconnections-get
+  description: Describes one or more of your VPC peering connections.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2.png
+  humanURL: https://aws.amazon.com/ec2/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Stack Network, Stack, API Service Provider,
+    API Service Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-ec2/actiondescribevpcpeeringconnections-get-openapi.md
+- name: AWS EC2 API - Describe Vpc Peering Connections
+  x-api-slug: actiondescribevpcpeeringconnections-get
+  description: Describes one or more of your VPC peering connections.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2.png
+  humanURL: https://aws.amazon.com/ec2/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Stack Network, Stack, API Service Provider,
+    API Service Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-ec2/actiondescribevpcpeeringconnections-get-openapi.md
+- name: AWS EC2 API - Describe Vpc Peering Connections
+  x-api-slug: actiondescribevpcpeeringconnections-get
+  description: Describes one or more of your VPC peering connections.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2.png
+  humanURL: https://aws.amazon.com/ec2/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Stack Network, Stack, API Service Provider,
+    API Service Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-ec2/actiondescribevpcpeeringconnections-get-openapi.md
+- name: AWS EC2 API - Describe Vpc Peering Connections
+  x-api-slug: actiondescribevpcpeeringconnections-get
+  description: Describes one or more of your VPC peering connections.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2.png
+  humanURL: https://aws.amazon.com/ec2/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Stack Network, Stack, API Service Provider,
+    API Service Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-ec2/actiondescribevpcpeeringconnections-get-openapi.md
+- name: AWS EC2 API - Describe Vpc Peering Connections
+  x-api-slug: actiondescribevpcpeeringconnections-get
+  description: Describes one or more of your VPC peering connections.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2.png
+  humanURL: https://aws.amazon.com/ec2/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Stack Network, Stack, API Service Provider,
+    API Service Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-ec2/actiondescribevpcpeeringconnections-get-openapi.md
+- name: AWS EC2 API - Describe Vpc Peering Connections
+  x-api-slug: actiondescribevpcpeeringconnections-get
+  description: Describes one or more of your VPC peering connections.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2.png
+  humanURL: https://aws.amazon.com/ec2/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Stack Network, Stack, API Service Provider,
+    API Service Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-ec2/actiondescribevpcpeeringconnections-get-openapi.md
+- name: AWS EC2 API - Describe Vpc Peering Connections
+  x-api-slug: actiondescribevpcpeeringconnections-get
+  description: Describes one or more of your VPC peering connections.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2.png
+  humanURL: https://aws.amazon.com/ec2/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Stack Network, Stack, API Service Provider,
+    API Service Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-ec2/actiondescribevpcpeeringconnections-get-openapi.md
+- name: AWS EC2 API - Describe Vpc Peering Connections
+  x-api-slug: actiondescribevpcpeeringconnections-get
+  description: Describes one or more of your VPC peering connections.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2.png
+  humanURL: https://aws.amazon.com/ec2/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Stack Network, Stack, API Service Provider,
+    API Service Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-ec2/actiondescribevpcpeeringconnections-get-openapi.md
+- name: AWS EC2 API - Describe Vpc Peering Connections
+  x-api-slug: actiondescribevpcpeeringconnections-get
+  description: Describes one or more of your VPC peering connections.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2.png
+  humanURL: https://aws.amazon.com/ec2/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Stack Network, Stack, API Service Provider,
+    API Service Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-ec2/actiondescribevpcpeeringconnections-get-openapi.md
 - name: AWS EC2 API - Describe Vpcs
   x-api-slug: actiondescribevpcs-get
   description: Describes one or more of your VPCs.
@@ -11651,6 +17561,292 @@ apis:
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-ec2/actiondescribevpcs-get-postman.md
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-ec2/actiondescribevpcs-get-openapi.md
+- name: AWS EC2 API - Describe Vpn Connections
+  x-api-slug: actiondescribevpnconnections-get
+  description: Describes one or more of your VPN connections.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2.png
+  humanURL: https://aws.amazon.com/ec2/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Stack Network, Stack, API Service Provider,
+    API Service Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-ec2/actiondescribevpnconnections-get-openapi.md
+- name: AWS EC2 API - Describe Vpn Connections
+  x-api-slug: actiondescribevpnconnections-get
+  description: Describes one or more of your VPN connections.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2.png
+  humanURL: https://aws.amazon.com/ec2/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Stack Network, Stack, API Service Provider,
+    API Service Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-ec2/actiondescribevpnconnections-get-openapi.md
+- name: AWS EC2 API - Describe Vpn Connections
+  x-api-slug: actiondescribevpnconnections-get
+  description: Describes one or more of your VPN connections.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2.png
+  humanURL: https://aws.amazon.com/ec2/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Stack Network, Stack, API Service Provider,
+    API Service Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-ec2/actiondescribevpnconnections-get-openapi.md
+- name: AWS EC2 API - Describe Vpn Connections
+  x-api-slug: actiondescribevpnconnections-get
+  description: Describes one or more of your VPN connections.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2.png
+  humanURL: https://aws.amazon.com/ec2/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Stack Network, Stack, API Service Provider,
+    API Service Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-ec2/actiondescribevpnconnections-get-openapi.md
+- name: AWS EC2 API - Describe Vpn Connections
+  x-api-slug: actiondescribevpnconnections-get
+  description: Describes one or more of your VPN connections.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2.png
+  humanURL: https://aws.amazon.com/ec2/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Stack Network, Stack, API Service Provider,
+    API Service Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-ec2/actiondescribevpnconnections-get-openapi.md
+- name: AWS EC2 API - Describe Vpn Connections
+  x-api-slug: actiondescribevpnconnections-get
+  description: Describes one or more of your VPN connections.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2.png
+  humanURL: https://aws.amazon.com/ec2/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Stack Network, Stack, API Service Provider,
+    API Service Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-ec2/actiondescribevpnconnections-get-openapi.md
+- name: AWS EC2 API - Describe Vpn Connections
+  x-api-slug: actiondescribevpnconnections-get
+  description: Describes one or more of your VPN connections.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2.png
+  humanURL: https://aws.amazon.com/ec2/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Stack Network, Stack, API Service Provider,
+    API Service Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-ec2/actiondescribevpnconnections-get-openapi.md
+- name: AWS EC2 API - Describe Vpn Connections
+  x-api-slug: actiondescribevpnconnections-get
+  description: Describes one or more of your VPN connections.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2.png
+  humanURL: https://aws.amazon.com/ec2/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Stack Network, Stack, API Service Provider,
+    API Service Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-ec2/actiondescribevpnconnections-get-openapi.md
+- name: AWS EC2 API - Describe Vpn Connections
+  x-api-slug: actiondescribevpnconnections-get
+  description: Describes one or more of your VPN connections.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2.png
+  humanURL: https://aws.amazon.com/ec2/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Stack Network, Stack, API Service Provider,
+    API Service Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-ec2/actiondescribevpnconnections-get-openapi.md
+- name: AWS EC2 API - Describe Vpn Connections
+  x-api-slug: actiondescribevpnconnections-get
+  description: Describes one or more of your VPN connections.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2.png
+  humanURL: https://aws.amazon.com/ec2/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Stack Network, Stack, API Service Provider,
+    API Service Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-ec2/actiondescribevpnconnections-get-openapi.md
+- name: AWS EC2 API - Describe Vpn Connections
+  x-api-slug: actiondescribevpnconnections-get
+  description: Describes one or more of your VPN connections.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2.png
+  humanURL: https://aws.amazon.com/ec2/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Stack Network, Stack, API Service Provider,
+    API Service Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-ec2/actiondescribevpnconnections-get-openapi.md
+- name: AWS EC2 API - Describe Vpn Connections
+  x-api-slug: actiondescribevpnconnections-get
+  description: Describes one or more of your VPN connections.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2.png
+  humanURL: https://aws.amazon.com/ec2/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Stack Network, Stack, API Service Provider,
+    API Service Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-ec2/actiondescribevpnconnections-get-openapi.md
+- name: AWS EC2 API - Describe Vpn Connections
+  x-api-slug: actiondescribevpnconnections-get
+  description: Describes one or more of your VPN connections.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2.png
+  humanURL: https://aws.amazon.com/ec2/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Stack Network, Stack, API Service Provider,
+    API Service Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-ec2/actiondescribevpnconnections-get-openapi.md
+- name: AWS EC2 API - Describe Vpn Gateways
+  x-api-slug: actiondescribevpngateways-get
+  description: Describes one or more of your virtual private gateways.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2.png
+  humanURL: https://aws.amazon.com/ec2/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Stack Network, Stack, API Service Provider,
+    API Service Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-ec2/actiondescribevpngateways-get-openapi.md
+- name: AWS EC2 API - Describe Vpn Gateways
+  x-api-slug: actiondescribevpngateways-get
+  description: Describes one or more of your virtual private gateways.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2.png
+  humanURL: https://aws.amazon.com/ec2/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Stack Network, Stack, API Service Provider,
+    API Service Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-ec2/actiondescribevpngateways-get-openapi.md
+- name: AWS EC2 API - Describe Vpn Gateways
+  x-api-slug: actiondescribevpngateways-get
+  description: Describes one or more of your virtual private gateways.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2.png
+  humanURL: https://aws.amazon.com/ec2/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Stack Network, Stack, API Service Provider,
+    API Service Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-ec2/actiondescribevpngateways-get-openapi.md
+- name: AWS EC2 API - Describe Vpn Gateways
+  x-api-slug: actiondescribevpngateways-get
+  description: Describes one or more of your virtual private gateways.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2.png
+  humanURL: https://aws.amazon.com/ec2/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Stack Network, Stack, API Service Provider,
+    API Service Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-ec2/actiondescribevpngateways-get-openapi.md
+- name: AWS EC2 API - Describe Vpn Gateways
+  x-api-slug: actiondescribevpngateways-get
+  description: Describes one or more of your virtual private gateways.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2.png
+  humanURL: https://aws.amazon.com/ec2/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Stack Network, Stack, API Service Provider,
+    API Service Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-ec2/actiondescribevpngateways-get-openapi.md
+- name: AWS EC2 API - Describe Vpn Gateways
+  x-api-slug: actiondescribevpngateways-get
+  description: Describes one or more of your virtual private gateways.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2.png
+  humanURL: https://aws.amazon.com/ec2/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Stack Network, Stack, API Service Provider,
+    API Service Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-ec2/actiondescribevpngateways-get-openapi.md
+- name: AWS EC2 API - Describe Vpn Gateways
+  x-api-slug: actiondescribevpngateways-get
+  description: Describes one or more of your virtual private gateways.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2.png
+  humanURL: https://aws.amazon.com/ec2/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Stack Network, Stack, API Service Provider,
+    API Service Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-ec2/actiondescribevpngateways-get-openapi.md
+- name: AWS EC2 API - Describe Vpn Gateways
+  x-api-slug: actiondescribevpngateways-get
+  description: Describes one or more of your virtual private gateways.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2.png
+  humanURL: https://aws.amazon.com/ec2/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Stack Network, Stack, API Service Provider,
+    API Service Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-ec2/actiondescribevpngateways-get-openapi.md
+- name: AWS EC2 API - Describe Vpn Gateways
+  x-api-slug: actiondescribevpngateways-get
+  description: Describes one or more of your virtual private gateways.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2.png
+  humanURL: https://aws.amazon.com/ec2/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Stack Network, Stack, API Service Provider,
+    API Service Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-ec2/actiondescribevpngateways-get-openapi.md
+- name: AWS EC2 API - Describe Vpn Gateways
+  x-api-slug: actiondescribevpngateways-get
+  description: Describes one or more of your virtual private gateways.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2.png
+  humanURL: https://aws.amazon.com/ec2/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Stack Network, Stack, API Service Provider,
+    API Service Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-ec2/actiondescribevpngateways-get-openapi.md
+- name: AWS EC2 API - Describe Vpn Gateways
+  x-api-slug: actiondescribevpngateways-get
+  description: Describes one or more of your virtual private gateways.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2.png
+  humanURL: https://aws.amazon.com/ec2/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Stack Network, Stack, API Service Provider,
+    API Service Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-ec2/actiondescribevpngateways-get-openapi.md
+- name: AWS EC2 API - Describe Vpn Gateways
+  x-api-slug: actiondescribevpngateways-get
+  description: Describes one or more of your virtual private gateways.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2.png
+  humanURL: https://aws.amazon.com/ec2/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Stack Network, Stack, API Service Provider,
+    API Service Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-ec2/actiondescribevpngateways-get-openapi.md
+- name: AWS EC2 API - Describe Vpn Gateways
+  x-api-slug: actiondescribevpngateways-get
+  description: Describes one or more of your virtual private gateways.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2.png
+  humanURL: https://aws.amazon.com/ec2/
+  baseURL: :///
+  tags: Amazon Web Services, Compute, Stack Network, Stack, API Service Provider,
+    API Service Provider, API Provider, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-ec2/actiondescribevpngateways-get-openapi.md
 - name: AWS EC2 API - Import Snapshot
   x-api-slug: actionimportsnapshot-get
   description: Describes your import snapshot tasks.

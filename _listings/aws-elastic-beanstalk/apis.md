@@ -14,11 +14,276 @@ image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/l
 x-kinRank: "10"
 x-alexaRank: "0"
 tags: Descriptions
-created: "2018-08-26"
-modified: "2018-08-26"
+created: "2018-08-27"
+modified: "2018-08-27"
 url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-elastic-beanstalk/apis.md
 specificationVersion: "0.14"
 apis:
+- name: AWS Elastic Beanstalk API - Describe Applications
+  x-api-slug: actiondescribeapplications-get
+  description: Returns the descriptions of existing applications.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AWSElasticBeanstalk.png
+  humanURL: https://aws.amazon.com/elasticbeanstalk/
+  baseURL: :///
+  tags: Amazon Web Services, Containers, Stack Network, API Service Provider, API
+    Service Provider, API Provider, Deployments, Profiles, Relative Data, Service
+    API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-elastic-beanstalk/actiondescribeapplications-get-openapi.md
+- name: AWS Elastic Beanstalk API - Describe Application Versions
+  x-api-slug: actiondescribeapplicationversions-get
+  description: Retrieve a list of application versions.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AWSElasticBeanstalk.png
+  humanURL: https://aws.amazon.com/elasticbeanstalk/
+  baseURL: :///
+  tags: Amazon Web Services, Containers, Stack Network, API Service Provider, API
+    Service Provider, API Provider, Deployments, Profiles, Relative Data, Service
+    API
+  properties:
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-elastic-beanstalk/actiondescribeapplicationversions-get-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-elastic-beanstalk/actiondescribeapplicationversions-get-openapi.md
+- name: AWS Elastic Beanstalk API - Describe Configuration Options
+  x-api-slug: actiondescribeconfigurationoptions-get
+  description: |-
+    Describes the configuration options that are used in a particular configuration
+          template or environment, or that a specified solution stack defines.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AWSElasticBeanstalk.png
+  humanURL: https://aws.amazon.com/elasticbeanstalk/
+  baseURL: :///
+  tags: Amazon Web Services, Containers, Stack Network, API Service Provider, API
+    Service Provider, API Provider, Deployments, Profiles, Relative Data, Service
+    API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-elastic-beanstalk/actiondescribeconfigurationoptions-get-openapi.md
+- name: AWS Elastic Beanstalk API - Describe Configuration Settings
+  x-api-slug: actiondescribeconfigurationsettings-get
+  description: |-
+    Returns a description of the settings for the specified configuration set, that is,
+          either a configuration template or the configuration set associated with a running
+          environment.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AWSElasticBeanstalk.png
+  humanURL: https://aws.amazon.com/elasticbeanstalk/
+  baseURL: :///
+  tags: Amazon Web Services, Containers, Stack Network, API Service Provider, API
+    Service Provider, API Provider, Deployments, Profiles, Relative Data, Service
+    API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-elastic-beanstalk/actiondescribeconfigurationsettings-get-openapi.md
+- name: AWS Elastic Beanstalk API - Describe Environment Health
+  x-api-slug: actiondescribeenvironmenthealth-get
+  description: Returns information about the overall health of the specified environment.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AWSElasticBeanstalk.png
+  humanURL: https://aws.amazon.com/elasticbeanstalk/
+  baseURL: :///
+  tags: Amazon Web Services, Containers, Stack Network, API Service Provider, API
+    Service Provider, API Provider, Deployments, Profiles, Relative Data, Service
+    API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-elastic-beanstalk/actiondescribeenvironmenthealth-get-openapi.md
+- name: AWS Elastic Beanstalk API - Describe Environment Managed Action History
+  x-api-slug: actiondescribeenvironmentmanagedactionhistory-get
+  description: Lists an environment's completed and failed managed actions.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AWSElasticBeanstalk.png
+  humanURL: https://aws.amazon.com/elasticbeanstalk/
+  baseURL: :///
+  tags: Amazon Web Services, Containers, Stack Network, API Service Provider, API
+    Service Provider, API Provider, Deployments, Profiles, Relative Data, Service
+    API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-elastic-beanstalk/actiondescribeenvironmentmanagedactionhistory-get-openapi.md
+- name: AWS Elastic Beanstalk API - Describe Environment Managed Actions
+  x-api-slug: actiondescribeenvironmentmanagedactions-get
+  description: Lists an environment's upcoming and in-progress managed actions.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AWSElasticBeanstalk.png
+  humanURL: https://aws.amazon.com/elasticbeanstalk/
+  baseURL: :///
+  tags: Amazon Web Services, Containers, Stack Network, API Service Provider, API
+    Service Provider, API Provider, Deployments, Profiles, Relative Data, Service
+    API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-elastic-beanstalk/actiondescribeenvironmentmanagedactions-get-openapi.md
+- name: AWS Elastic Beanstalk API - Describe Environment Resources
+  x-api-slug: actiondescribeenvironmentresources-get
+  description: Returns AWS resources for this environment.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AWSElasticBeanstalk.png
+  humanURL: https://aws.amazon.com/elasticbeanstalk/
+  baseURL: :///
+  tags: Amazon Web Services, Containers, Stack Network, API Service Provider, API
+    Service Provider, API Provider, Deployments, Profiles, Relative Data, Service
+    API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-elastic-beanstalk/actiondescribeenvironmentresources-get-openapi.md
+- name: AWS Elastic Beanstalk API - Describe Environments
+  x-api-slug: actiondescribeenvironments-get
+  description: Returns descriptions for existing environments.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AWSElasticBeanstalk.png
+  humanURL: https://aws.amazon.com/elasticbeanstalk/
+  baseURL: :///
+  tags: Amazon Web Services, Containers, Stack Network, API Service Provider, API
+    Service Provider, API Provider, Deployments, Profiles, Relative Data, Service
+    API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-elastic-beanstalk/actiondescribeenvironments-get-openapi.md
+- name: AWS Elastic Beanstalk API - Describe Environments
+  x-api-slug: actiondescribeenvironments-get
+  description: Returns descriptions for existing environments.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AWSElasticBeanstalk.png
+  humanURL: https://aws.amazon.com/elasticbeanstalk/
+  baseURL: :///
+  tags: Amazon Web Services, Containers, Stack Network, API Service Provider, API
+    Service Provider, API Provider, Deployments, Profiles, Relative Data, Service
+    API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-elastic-beanstalk/actiondescribeenvironments-get-openapi.md
+- name: AWS Elastic Beanstalk API - Describe Events
+  x-api-slug: actiondescribeevents-get
+  description: Returns list of event descriptions matching criteria up to the last
+    6 weeks.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AWSElasticBeanstalk.png
+  humanURL: https://aws.amazon.com/elasticbeanstalk/
+  baseURL: :///
+  tags: Amazon Web Services, Containers, Stack Network, API Service Provider, API
+    Service Provider, API Provider, Deployments, Profiles, Relative Data, Service
+    API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-elastic-beanstalk/actiondescribeevents-get-openapi.md
+- name: AWS Elastic Beanstalk API - Describe Events
+  x-api-slug: actiondescribeevents-get
+  description: Returns list of event descriptions matching criteria up to the last
+    6 weeks.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AWSElasticBeanstalk.png
+  humanURL: https://aws.amazon.com/elasticbeanstalk/
+  baseURL: :///
+  tags: Amazon Web Services, Containers, Stack Network, API Service Provider, API
+    Service Provider, API Provider, Deployments, Profiles, Relative Data, Service
+    API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-elastic-beanstalk/actiondescribeevents-get-openapi.md
+- name: AWS Elastic Beanstalk API - Describe Instances Health
+  x-api-slug: actiondescribeinstanceshealth-get
+  description: |-
+    Retrives detailed information about the health of instances in your AWS Elastic
+          Beanstalk.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AWSElasticBeanstalk.png
+  humanURL: https://aws.amazon.com/elasticbeanstalk/
+  baseURL: :///
+  tags: Amazon Web Services, Containers, Stack Network, API Service Provider, API
+    Service Provider, API Provider, Deployments, Profiles, Relative Data, Service
+    API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-elastic-beanstalk/actiondescribeinstanceshealth-get-openapi.md
+- name: AWS Elastic Beanstalk API - Describe Instances Health
+  x-api-slug: actiondescribeinstanceshealth-get
+  description: |-
+    Retrives detailed information about the health of instances in your AWS Elastic
+          Beanstalk.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AWSElasticBeanstalk.png
+  humanURL: https://aws.amazon.com/elasticbeanstalk/
+  baseURL: :///
+  tags: Amazon Web Services, Containers, Stack Network, API Service Provider, API
+    Service Provider, API Provider, Deployments, Profiles, Relative Data, Service
+    API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-elastic-beanstalk/actiondescribeinstanceshealth-get-openapi.md
+- name: AWS Elastic Beanstalk API - Describe Applications
+  x-api-slug: actiondescribeapplications-get
+  description: Returns the descriptions of existing applications.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AWSElasticBeanstalk.png
+  humanURL: https://aws.amazon.com/elasticbeanstalk/
+  baseURL: :///
+  tags: Amazon Web Services, Containers, Stack Network, API Service Provider, API
+    Service Provider, API Provider, Deployments, Profiles, Relative Data, Service
+    API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-elastic-beanstalk/actiondescribeapplications-get-openapi.md
+- name: AWS Elastic Beanstalk API - Describe Applications
+  x-api-slug: actiondescribeapplications-get
+  description: Returns the descriptions of existing applications.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AWSElasticBeanstalk.png
+  humanURL: https://aws.amazon.com/elasticbeanstalk/
+  baseURL: :///
+  tags: Amazon Web Services, Containers, Stack Network, API Service Provider, API
+    Service Provider, API Provider, Deployments, Profiles, Relative Data, Service
+    API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-elastic-beanstalk/actiondescribeapplications-get-openapi.md
+- name: AWS Elastic Beanstalk API - Describe Applications
+  x-api-slug: actiondescribeapplications-get
+  description: Returns the descriptions of existing applications.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AWSElasticBeanstalk.png
+  humanURL: https://aws.amazon.com/elasticbeanstalk/
+  baseURL: :///
+  tags: Amazon Web Services, Containers, Stack Network, API Service Provider, API
+    Service Provider, API Provider, Deployments, Profiles, Relative Data, Service
+    API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-elastic-beanstalk/actiondescribeapplications-get-openapi.md
+- name: AWS Elastic Beanstalk API - Describe Applications
+  x-api-slug: actiondescribeapplications-get
+  description: Returns the descriptions of existing applications.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AWSElasticBeanstalk.png
+  humanURL: https://aws.amazon.com/elasticbeanstalk/
+  baseURL: :///
+  tags: Amazon Web Services, Containers, Stack Network, API Service Provider, API
+    Service Provider, API Provider, Deployments, Profiles, Relative Data, Service
+    API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-elastic-beanstalk/actiondescribeapplications-get-openapi.md
+- name: AWS Elastic Beanstalk API - Describe Applications
+  x-api-slug: actiondescribeapplications-get
+  description: Returns the descriptions of existing applications.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AWSElasticBeanstalk.png
+  humanURL: https://aws.amazon.com/elasticbeanstalk/
+  baseURL: :///
+  tags: Amazon Web Services, Containers, Stack Network, API Service Provider, API
+    Service Provider, API Provider, Deployments, Profiles, Relative Data, Service
+    API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-elastic-beanstalk/actiondescribeapplications-get-openapi.md
+- name: AWS Elastic Beanstalk API - Describe Applications
+  x-api-slug: actiondescribeapplications-get
+  description: Returns the descriptions of existing applications.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AWSElasticBeanstalk.png
+  humanURL: https://aws.amazon.com/elasticbeanstalk/
+  baseURL: :///
+  tags: Amazon Web Services, Containers, Stack Network, API Service Provider, API
+    Service Provider, API Provider, Deployments, Profiles, Relative Data, Service
+    API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-elastic-beanstalk/actiondescribeapplications-get-openapi.md
+- name: AWS Elastic Beanstalk API - Describe Applications
+  x-api-slug: actiondescribeapplications-get
+  description: Returns the descriptions of existing applications.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AWSElasticBeanstalk.png
+  humanURL: https://aws.amazon.com/elasticbeanstalk/
+  baseURL: :///
+  tags: Amazon Web Services, Containers, Stack Network, API Service Provider, API
+    Service Provider, API Provider, Deployments, Profiles, Relative Data, Service
+    API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-elastic-beanstalk/actiondescribeapplications-get-openapi.md
 - name: AWS Elastic Beanstalk API - Describe Application Versions
   x-api-slug: actiondescribeapplicationversions-get
   description: Retrieve a list of application versions.
@@ -117,9 +382,11 @@ apis:
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-elastic-beanstalk/actiondescribeapplicationversions-get-postman.md
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-elastic-beanstalk/actiondescribeapplicationversions-get-openapi.md
-- name: AWS Elastic Beanstalk API - Describe Application Versions
-  x-api-slug: actiondescribeapplicationversions-get
-  description: Retrieve a list of application versions.
+- name: AWS Elastic Beanstalk API - Describe Configuration Options
+  x-api-slug: actiondescribeconfigurationoptions-get
+  description: |-
+    Describes the configuration options that are used in a particular configuration
+          template or environment, or that a specified solution stack defines.
   image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AWSElasticBeanstalk.png
   humanURL: https://aws.amazon.com/elasticbeanstalk/
   baseURL: :///
@@ -127,10 +394,1047 @@ apis:
     Service Provider, API Provider, Deployments, Profiles, Relative Data, Service
     API
   properties:
-  - type: x-postman-collection
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-elastic-beanstalk/actiondescribeapplicationversions-get-postman.md
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-elastic-beanstalk/actiondescribeapplicationversions-get-openapi.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-elastic-beanstalk/actiondescribeconfigurationoptions-get-openapi.md
+- name: AWS Elastic Beanstalk API - Describe Configuration Options
+  x-api-slug: actiondescribeconfigurationoptions-get
+  description: |-
+    Describes the configuration options that are used in a particular configuration
+          template or environment, or that a specified solution stack defines.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AWSElasticBeanstalk.png
+  humanURL: https://aws.amazon.com/elasticbeanstalk/
+  baseURL: :///
+  tags: Amazon Web Services, Containers, Stack Network, API Service Provider, API
+    Service Provider, API Provider, Deployments, Profiles, Relative Data, Service
+    API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-elastic-beanstalk/actiondescribeconfigurationoptions-get-openapi.md
+- name: AWS Elastic Beanstalk API - Describe Configuration Options
+  x-api-slug: actiondescribeconfigurationoptions-get
+  description: |-
+    Describes the configuration options that are used in a particular configuration
+          template or environment, or that a specified solution stack defines.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AWSElasticBeanstalk.png
+  humanURL: https://aws.amazon.com/elasticbeanstalk/
+  baseURL: :///
+  tags: Amazon Web Services, Containers, Stack Network, API Service Provider, API
+    Service Provider, API Provider, Deployments, Profiles, Relative Data, Service
+    API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-elastic-beanstalk/actiondescribeconfigurationoptions-get-openapi.md
+- name: AWS Elastic Beanstalk API - Describe Configuration Options
+  x-api-slug: actiondescribeconfigurationoptions-get
+  description: |-
+    Describes the configuration options that are used in a particular configuration
+          template or environment, or that a specified solution stack defines.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AWSElasticBeanstalk.png
+  humanURL: https://aws.amazon.com/elasticbeanstalk/
+  baseURL: :///
+  tags: Amazon Web Services, Containers, Stack Network, API Service Provider, API
+    Service Provider, API Provider, Deployments, Profiles, Relative Data, Service
+    API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-elastic-beanstalk/actiondescribeconfigurationoptions-get-openapi.md
+- name: AWS Elastic Beanstalk API - Describe Configuration Options
+  x-api-slug: actiondescribeconfigurationoptions-get
+  description: |-
+    Describes the configuration options that are used in a particular configuration
+          template or environment, or that a specified solution stack defines.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AWSElasticBeanstalk.png
+  humanURL: https://aws.amazon.com/elasticbeanstalk/
+  baseURL: :///
+  tags: Amazon Web Services, Containers, Stack Network, API Service Provider, API
+    Service Provider, API Provider, Deployments, Profiles, Relative Data, Service
+    API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-elastic-beanstalk/actiondescribeconfigurationoptions-get-openapi.md
+- name: AWS Elastic Beanstalk API - Describe Configuration Options
+  x-api-slug: actiondescribeconfigurationoptions-get
+  description: |-
+    Describes the configuration options that are used in a particular configuration
+          template or environment, or that a specified solution stack defines.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AWSElasticBeanstalk.png
+  humanURL: https://aws.amazon.com/elasticbeanstalk/
+  baseURL: :///
+  tags: Amazon Web Services, Containers, Stack Network, API Service Provider, API
+    Service Provider, API Provider, Deployments, Profiles, Relative Data, Service
+    API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-elastic-beanstalk/actiondescribeconfigurationoptions-get-openapi.md
+- name: AWS Elastic Beanstalk API - Describe Configuration Options
+  x-api-slug: actiondescribeconfigurationoptions-get
+  description: |-
+    Describes the configuration options that are used in a particular configuration
+          template or environment, or that a specified solution stack defines.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AWSElasticBeanstalk.png
+  humanURL: https://aws.amazon.com/elasticbeanstalk/
+  baseURL: :///
+  tags: Amazon Web Services, Containers, Stack Network, API Service Provider, API
+    Service Provider, API Provider, Deployments, Profiles, Relative Data, Service
+    API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-elastic-beanstalk/actiondescribeconfigurationoptions-get-openapi.md
+- name: AWS Elastic Beanstalk API - Describe Configuration Settings
+  x-api-slug: actiondescribeconfigurationsettings-get
+  description: |-
+    Returns a description of the settings for the specified configuration set, that is,
+          either a configuration template or the configuration set associated with a running
+          environment.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AWSElasticBeanstalk.png
+  humanURL: https://aws.amazon.com/elasticbeanstalk/
+  baseURL: :///
+  tags: Amazon Web Services, Containers, Stack Network, API Service Provider, API
+    Service Provider, API Provider, Deployments, Profiles, Relative Data, Service
+    API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-elastic-beanstalk/actiondescribeconfigurationsettings-get-openapi.md
+- name: AWS Elastic Beanstalk API - Describe Configuration Settings
+  x-api-slug: actiondescribeconfigurationsettings-get
+  description: |-
+    Returns a description of the settings for the specified configuration set, that is,
+          either a configuration template or the configuration set associated with a running
+          environment.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AWSElasticBeanstalk.png
+  humanURL: https://aws.amazon.com/elasticbeanstalk/
+  baseURL: :///
+  tags: Amazon Web Services, Containers, Stack Network, API Service Provider, API
+    Service Provider, API Provider, Deployments, Profiles, Relative Data, Service
+    API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-elastic-beanstalk/actiondescribeconfigurationsettings-get-openapi.md
+- name: AWS Elastic Beanstalk API - Describe Configuration Settings
+  x-api-slug: actiondescribeconfigurationsettings-get
+  description: |-
+    Returns a description of the settings for the specified configuration set, that is,
+          either a configuration template or the configuration set associated with a running
+          environment.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AWSElasticBeanstalk.png
+  humanURL: https://aws.amazon.com/elasticbeanstalk/
+  baseURL: :///
+  tags: Amazon Web Services, Containers, Stack Network, API Service Provider, API
+    Service Provider, API Provider, Deployments, Profiles, Relative Data, Service
+    API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-elastic-beanstalk/actiondescribeconfigurationsettings-get-openapi.md
+- name: AWS Elastic Beanstalk API - Describe Configuration Settings
+  x-api-slug: actiondescribeconfigurationsettings-get
+  description: |-
+    Returns a description of the settings for the specified configuration set, that is,
+          either a configuration template or the configuration set associated with a running
+          environment.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AWSElasticBeanstalk.png
+  humanURL: https://aws.amazon.com/elasticbeanstalk/
+  baseURL: :///
+  tags: Amazon Web Services, Containers, Stack Network, API Service Provider, API
+    Service Provider, API Provider, Deployments, Profiles, Relative Data, Service
+    API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-elastic-beanstalk/actiondescribeconfigurationsettings-get-openapi.md
+- name: AWS Elastic Beanstalk API - Describe Configuration Settings
+  x-api-slug: actiondescribeconfigurationsettings-get
+  description: |-
+    Returns a description of the settings for the specified configuration set, that is,
+          either a configuration template or the configuration set associated with a running
+          environment.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AWSElasticBeanstalk.png
+  humanURL: https://aws.amazon.com/elasticbeanstalk/
+  baseURL: :///
+  tags: Amazon Web Services, Containers, Stack Network, API Service Provider, API
+    Service Provider, API Provider, Deployments, Profiles, Relative Data, Service
+    API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-elastic-beanstalk/actiondescribeconfigurationsettings-get-openapi.md
+- name: AWS Elastic Beanstalk API - Describe Configuration Settings
+  x-api-slug: actiondescribeconfigurationsettings-get
+  description: |-
+    Returns a description of the settings for the specified configuration set, that is,
+          either a configuration template or the configuration set associated with a running
+          environment.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AWSElasticBeanstalk.png
+  humanURL: https://aws.amazon.com/elasticbeanstalk/
+  baseURL: :///
+  tags: Amazon Web Services, Containers, Stack Network, API Service Provider, API
+    Service Provider, API Provider, Deployments, Profiles, Relative Data, Service
+    API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-elastic-beanstalk/actiondescribeconfigurationsettings-get-openapi.md
+- name: AWS Elastic Beanstalk API - Describe Configuration Settings
+  x-api-slug: actiondescribeconfigurationsettings-get
+  description: |-
+    Returns a description of the settings for the specified configuration set, that is,
+          either a configuration template or the configuration set associated with a running
+          environment.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AWSElasticBeanstalk.png
+  humanURL: https://aws.amazon.com/elasticbeanstalk/
+  baseURL: :///
+  tags: Amazon Web Services, Containers, Stack Network, API Service Provider, API
+    Service Provider, API Provider, Deployments, Profiles, Relative Data, Service
+    API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-elastic-beanstalk/actiondescribeconfigurationsettings-get-openapi.md
+- name: AWS Elastic Beanstalk API - Describe Environment Health
+  x-api-slug: actiondescribeenvironmenthealth-get
+  description: Returns information about the overall health of the specified environment.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AWSElasticBeanstalk.png
+  humanURL: https://aws.amazon.com/elasticbeanstalk/
+  baseURL: :///
+  tags: Amazon Web Services, Containers, Stack Network, API Service Provider, API
+    Service Provider, API Provider, Deployments, Profiles, Relative Data, Service
+    API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-elastic-beanstalk/actiondescribeenvironmenthealth-get-openapi.md
+- name: AWS Elastic Beanstalk API - Describe Environment Health
+  x-api-slug: actiondescribeenvironmenthealth-get
+  description: Returns information about the overall health of the specified environment.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AWSElasticBeanstalk.png
+  humanURL: https://aws.amazon.com/elasticbeanstalk/
+  baseURL: :///
+  tags: Amazon Web Services, Containers, Stack Network, API Service Provider, API
+    Service Provider, API Provider, Deployments, Profiles, Relative Data, Service
+    API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-elastic-beanstalk/actiondescribeenvironmenthealth-get-openapi.md
+- name: AWS Elastic Beanstalk API - Describe Environment Health
+  x-api-slug: actiondescribeenvironmenthealth-get
+  description: Returns information about the overall health of the specified environment.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AWSElasticBeanstalk.png
+  humanURL: https://aws.amazon.com/elasticbeanstalk/
+  baseURL: :///
+  tags: Amazon Web Services, Containers, Stack Network, API Service Provider, API
+    Service Provider, API Provider, Deployments, Profiles, Relative Data, Service
+    API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-elastic-beanstalk/actiondescribeenvironmenthealth-get-openapi.md
+- name: AWS Elastic Beanstalk API - Describe Environment Health
+  x-api-slug: actiondescribeenvironmenthealth-get
+  description: Returns information about the overall health of the specified environment.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AWSElasticBeanstalk.png
+  humanURL: https://aws.amazon.com/elasticbeanstalk/
+  baseURL: :///
+  tags: Amazon Web Services, Containers, Stack Network, API Service Provider, API
+    Service Provider, API Provider, Deployments, Profiles, Relative Data, Service
+    API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-elastic-beanstalk/actiondescribeenvironmenthealth-get-openapi.md
+- name: AWS Elastic Beanstalk API - Describe Environment Health
+  x-api-slug: actiondescribeenvironmenthealth-get
+  description: Returns information about the overall health of the specified environment.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AWSElasticBeanstalk.png
+  humanURL: https://aws.amazon.com/elasticbeanstalk/
+  baseURL: :///
+  tags: Amazon Web Services, Containers, Stack Network, API Service Provider, API
+    Service Provider, API Provider, Deployments, Profiles, Relative Data, Service
+    API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-elastic-beanstalk/actiondescribeenvironmenthealth-get-openapi.md
+- name: AWS Elastic Beanstalk API - Describe Environment Health
+  x-api-slug: actiondescribeenvironmenthealth-get
+  description: Returns information about the overall health of the specified environment.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AWSElasticBeanstalk.png
+  humanURL: https://aws.amazon.com/elasticbeanstalk/
+  baseURL: :///
+  tags: Amazon Web Services, Containers, Stack Network, API Service Provider, API
+    Service Provider, API Provider, Deployments, Profiles, Relative Data, Service
+    API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-elastic-beanstalk/actiondescribeenvironmenthealth-get-openapi.md
+- name: AWS Elastic Beanstalk API - Describe Environment Health
+  x-api-slug: actiondescribeenvironmenthealth-get
+  description: Returns information about the overall health of the specified environment.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AWSElasticBeanstalk.png
+  humanURL: https://aws.amazon.com/elasticbeanstalk/
+  baseURL: :///
+  tags: Amazon Web Services, Containers, Stack Network, API Service Provider, API
+    Service Provider, API Provider, Deployments, Profiles, Relative Data, Service
+    API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-elastic-beanstalk/actiondescribeenvironmenthealth-get-openapi.md
+- name: AWS Elastic Beanstalk API - Describe Environment Health
+  x-api-slug: actiondescribeenvironmenthealth-get
+  description: Returns information about the overall health of the specified environment.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AWSElasticBeanstalk.png
+  humanURL: https://aws.amazon.com/elasticbeanstalk/
+  baseURL: :///
+  tags: Amazon Web Services, Containers, Stack Network, API Service Provider, API
+    Service Provider, API Provider, Deployments, Profiles, Relative Data, Service
+    API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-elastic-beanstalk/actiondescribeenvironmenthealth-get-openapi.md
+- name: AWS Elastic Beanstalk API - Describe Environment Managed Action History
+  x-api-slug: actiondescribeenvironmentmanagedactionhistory-get
+  description: Lists an environment's completed and failed managed actions.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AWSElasticBeanstalk.png
+  humanURL: https://aws.amazon.com/elasticbeanstalk/
+  baseURL: :///
+  tags: Amazon Web Services, Containers, Stack Network, API Service Provider, API
+    Service Provider, API Provider, Deployments, Profiles, Relative Data, Service
+    API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-elastic-beanstalk/actiondescribeenvironmentmanagedactionhistory-get-openapi.md
+- name: AWS Elastic Beanstalk API - Describe Environment Managed Action History
+  x-api-slug: actiondescribeenvironmentmanagedactionhistory-get
+  description: Lists an environment's completed and failed managed actions.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AWSElasticBeanstalk.png
+  humanURL: https://aws.amazon.com/elasticbeanstalk/
+  baseURL: :///
+  tags: Amazon Web Services, Containers, Stack Network, API Service Provider, API
+    Service Provider, API Provider, Deployments, Profiles, Relative Data, Service
+    API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-elastic-beanstalk/actiondescribeenvironmentmanagedactionhistory-get-openapi.md
+- name: AWS Elastic Beanstalk API - Describe Environment Managed Action History
+  x-api-slug: actiondescribeenvironmentmanagedactionhistory-get
+  description: Lists an environment's completed and failed managed actions.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AWSElasticBeanstalk.png
+  humanURL: https://aws.amazon.com/elasticbeanstalk/
+  baseURL: :///
+  tags: Amazon Web Services, Containers, Stack Network, API Service Provider, API
+    Service Provider, API Provider, Deployments, Profiles, Relative Data, Service
+    API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-elastic-beanstalk/actiondescribeenvironmentmanagedactionhistory-get-openapi.md
+- name: AWS Elastic Beanstalk API - Describe Environment Managed Action History
+  x-api-slug: actiondescribeenvironmentmanagedactionhistory-get
+  description: Lists an environment's completed and failed managed actions.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AWSElasticBeanstalk.png
+  humanURL: https://aws.amazon.com/elasticbeanstalk/
+  baseURL: :///
+  tags: Amazon Web Services, Containers, Stack Network, API Service Provider, API
+    Service Provider, API Provider, Deployments, Profiles, Relative Data, Service
+    API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-elastic-beanstalk/actiondescribeenvironmentmanagedactionhistory-get-openapi.md
+- name: AWS Elastic Beanstalk API - Describe Environment Managed Action History
+  x-api-slug: actiondescribeenvironmentmanagedactionhistory-get
+  description: Lists an environment's completed and failed managed actions.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AWSElasticBeanstalk.png
+  humanURL: https://aws.amazon.com/elasticbeanstalk/
+  baseURL: :///
+  tags: Amazon Web Services, Containers, Stack Network, API Service Provider, API
+    Service Provider, API Provider, Deployments, Profiles, Relative Data, Service
+    API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-elastic-beanstalk/actiondescribeenvironmentmanagedactionhistory-get-openapi.md
+- name: AWS Elastic Beanstalk API - Describe Environment Managed Action History
+  x-api-slug: actiondescribeenvironmentmanagedactionhistory-get
+  description: Lists an environment's completed and failed managed actions.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AWSElasticBeanstalk.png
+  humanURL: https://aws.amazon.com/elasticbeanstalk/
+  baseURL: :///
+  tags: Amazon Web Services, Containers, Stack Network, API Service Provider, API
+    Service Provider, API Provider, Deployments, Profiles, Relative Data, Service
+    API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-elastic-beanstalk/actiondescribeenvironmentmanagedactionhistory-get-openapi.md
+- name: AWS Elastic Beanstalk API - Describe Environment Managed Action History
+  x-api-slug: actiondescribeenvironmentmanagedactionhistory-get
+  description: Lists an environment's completed and failed managed actions.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AWSElasticBeanstalk.png
+  humanURL: https://aws.amazon.com/elasticbeanstalk/
+  baseURL: :///
+  tags: Amazon Web Services, Containers, Stack Network, API Service Provider, API
+    Service Provider, API Provider, Deployments, Profiles, Relative Data, Service
+    API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-elastic-beanstalk/actiondescribeenvironmentmanagedactionhistory-get-openapi.md
+- name: AWS Elastic Beanstalk API - Describe Environment Managed Action History
+  x-api-slug: actiondescribeenvironmentmanagedactionhistory-get
+  description: Lists an environment's completed and failed managed actions.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AWSElasticBeanstalk.png
+  humanURL: https://aws.amazon.com/elasticbeanstalk/
+  baseURL: :///
+  tags: Amazon Web Services, Containers, Stack Network, API Service Provider, API
+    Service Provider, API Provider, Deployments, Profiles, Relative Data, Service
+    API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-elastic-beanstalk/actiondescribeenvironmentmanagedactionhistory-get-openapi.md
+- name: AWS Elastic Beanstalk API - Describe Environment Managed Actions
+  x-api-slug: actiondescribeenvironmentmanagedactions-get
+  description: Lists an environment's upcoming and in-progress managed actions.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AWSElasticBeanstalk.png
+  humanURL: https://aws.amazon.com/elasticbeanstalk/
+  baseURL: :///
+  tags: Amazon Web Services, Containers, Stack Network, API Service Provider, API
+    Service Provider, API Provider, Deployments, Profiles, Relative Data, Service
+    API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-elastic-beanstalk/actiondescribeenvironmentmanagedactions-get-openapi.md
+- name: AWS Elastic Beanstalk API - Describe Environment Managed Actions
+  x-api-slug: actiondescribeenvironmentmanagedactions-get
+  description: Lists an environment's upcoming and in-progress managed actions.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AWSElasticBeanstalk.png
+  humanURL: https://aws.amazon.com/elasticbeanstalk/
+  baseURL: :///
+  tags: Amazon Web Services, Containers, Stack Network, API Service Provider, API
+    Service Provider, API Provider, Deployments, Profiles, Relative Data, Service
+    API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-elastic-beanstalk/actiondescribeenvironmentmanagedactions-get-openapi.md
+- name: AWS Elastic Beanstalk API - Describe Environment Managed Actions
+  x-api-slug: actiondescribeenvironmentmanagedactions-get
+  description: Lists an environment's upcoming and in-progress managed actions.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AWSElasticBeanstalk.png
+  humanURL: https://aws.amazon.com/elasticbeanstalk/
+  baseURL: :///
+  tags: Amazon Web Services, Containers, Stack Network, API Service Provider, API
+    Service Provider, API Provider, Deployments, Profiles, Relative Data, Service
+    API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-elastic-beanstalk/actiondescribeenvironmentmanagedactions-get-openapi.md
+- name: AWS Elastic Beanstalk API - Describe Environment Managed Actions
+  x-api-slug: actiondescribeenvironmentmanagedactions-get
+  description: Lists an environment's upcoming and in-progress managed actions.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AWSElasticBeanstalk.png
+  humanURL: https://aws.amazon.com/elasticbeanstalk/
+  baseURL: :///
+  tags: Amazon Web Services, Containers, Stack Network, API Service Provider, API
+    Service Provider, API Provider, Deployments, Profiles, Relative Data, Service
+    API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-elastic-beanstalk/actiondescribeenvironmentmanagedactions-get-openapi.md
+- name: AWS Elastic Beanstalk API - Describe Environment Managed Actions
+  x-api-slug: actiondescribeenvironmentmanagedactions-get
+  description: Lists an environment's upcoming and in-progress managed actions.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AWSElasticBeanstalk.png
+  humanURL: https://aws.amazon.com/elasticbeanstalk/
+  baseURL: :///
+  tags: Amazon Web Services, Containers, Stack Network, API Service Provider, API
+    Service Provider, API Provider, Deployments, Profiles, Relative Data, Service
+    API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-elastic-beanstalk/actiondescribeenvironmentmanagedactions-get-openapi.md
+- name: AWS Elastic Beanstalk API - Describe Environment Managed Actions
+  x-api-slug: actiondescribeenvironmentmanagedactions-get
+  description: Lists an environment's upcoming and in-progress managed actions.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AWSElasticBeanstalk.png
+  humanURL: https://aws.amazon.com/elasticbeanstalk/
+  baseURL: :///
+  tags: Amazon Web Services, Containers, Stack Network, API Service Provider, API
+    Service Provider, API Provider, Deployments, Profiles, Relative Data, Service
+    API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-elastic-beanstalk/actiondescribeenvironmentmanagedactions-get-openapi.md
+- name: AWS Elastic Beanstalk API - Describe Environment Managed Actions
+  x-api-slug: actiondescribeenvironmentmanagedactions-get
+  description: Lists an environment's upcoming and in-progress managed actions.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AWSElasticBeanstalk.png
+  humanURL: https://aws.amazon.com/elasticbeanstalk/
+  baseURL: :///
+  tags: Amazon Web Services, Containers, Stack Network, API Service Provider, API
+    Service Provider, API Provider, Deployments, Profiles, Relative Data, Service
+    API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-elastic-beanstalk/actiondescribeenvironmentmanagedactions-get-openapi.md
+- name: AWS Elastic Beanstalk API - Describe Environment Managed Actions
+  x-api-slug: actiondescribeenvironmentmanagedactions-get
+  description: Lists an environment's upcoming and in-progress managed actions.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AWSElasticBeanstalk.png
+  humanURL: https://aws.amazon.com/elasticbeanstalk/
+  baseURL: :///
+  tags: Amazon Web Services, Containers, Stack Network, API Service Provider, API
+    Service Provider, API Provider, Deployments, Profiles, Relative Data, Service
+    API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-elastic-beanstalk/actiondescribeenvironmentmanagedactions-get-openapi.md
+- name: AWS Elastic Beanstalk API - Describe Environment Resources
+  x-api-slug: actiondescribeenvironmentresources-get
+  description: Returns AWS resources for this environment.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AWSElasticBeanstalk.png
+  humanURL: https://aws.amazon.com/elasticbeanstalk/
+  baseURL: :///
+  tags: Amazon Web Services, Containers, Stack Network, API Service Provider, API
+    Service Provider, API Provider, Deployments, Profiles, Relative Data, Service
+    API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-elastic-beanstalk/actiondescribeenvironmentresources-get-openapi.md
+- name: AWS Elastic Beanstalk API - Describe Environment Resources
+  x-api-slug: actiondescribeenvironmentresources-get
+  description: Returns AWS resources for this environment.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AWSElasticBeanstalk.png
+  humanURL: https://aws.amazon.com/elasticbeanstalk/
+  baseURL: :///
+  tags: Amazon Web Services, Containers, Stack Network, API Service Provider, API
+    Service Provider, API Provider, Deployments, Profiles, Relative Data, Service
+    API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-elastic-beanstalk/actiondescribeenvironmentresources-get-openapi.md
+- name: AWS Elastic Beanstalk API - Describe Environment Resources
+  x-api-slug: actiondescribeenvironmentresources-get
+  description: Returns AWS resources for this environment.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AWSElasticBeanstalk.png
+  humanURL: https://aws.amazon.com/elasticbeanstalk/
+  baseURL: :///
+  tags: Amazon Web Services, Containers, Stack Network, API Service Provider, API
+    Service Provider, API Provider, Deployments, Profiles, Relative Data, Service
+    API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-elastic-beanstalk/actiondescribeenvironmentresources-get-openapi.md
+- name: AWS Elastic Beanstalk API - Describe Environment Resources
+  x-api-slug: actiondescribeenvironmentresources-get
+  description: Returns AWS resources for this environment.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AWSElasticBeanstalk.png
+  humanURL: https://aws.amazon.com/elasticbeanstalk/
+  baseURL: :///
+  tags: Amazon Web Services, Containers, Stack Network, API Service Provider, API
+    Service Provider, API Provider, Deployments, Profiles, Relative Data, Service
+    API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-elastic-beanstalk/actiondescribeenvironmentresources-get-openapi.md
+- name: AWS Elastic Beanstalk API - Describe Environment Resources
+  x-api-slug: actiondescribeenvironmentresources-get
+  description: Returns AWS resources for this environment.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AWSElasticBeanstalk.png
+  humanURL: https://aws.amazon.com/elasticbeanstalk/
+  baseURL: :///
+  tags: Amazon Web Services, Containers, Stack Network, API Service Provider, API
+    Service Provider, API Provider, Deployments, Profiles, Relative Data, Service
+    API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-elastic-beanstalk/actiondescribeenvironmentresources-get-openapi.md
+- name: AWS Elastic Beanstalk API - Describe Environment Resources
+  x-api-slug: actiondescribeenvironmentresources-get
+  description: Returns AWS resources for this environment.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AWSElasticBeanstalk.png
+  humanURL: https://aws.amazon.com/elasticbeanstalk/
+  baseURL: :///
+  tags: Amazon Web Services, Containers, Stack Network, API Service Provider, API
+    Service Provider, API Provider, Deployments, Profiles, Relative Data, Service
+    API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-elastic-beanstalk/actiondescribeenvironmentresources-get-openapi.md
+- name: AWS Elastic Beanstalk API - Describe Environment Resources
+  x-api-slug: actiondescribeenvironmentresources-get
+  description: Returns AWS resources for this environment.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AWSElasticBeanstalk.png
+  humanURL: https://aws.amazon.com/elasticbeanstalk/
+  baseURL: :///
+  tags: Amazon Web Services, Containers, Stack Network, API Service Provider, API
+    Service Provider, API Provider, Deployments, Profiles, Relative Data, Service
+    API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-elastic-beanstalk/actiondescribeenvironmentresources-get-openapi.md
+- name: AWS Elastic Beanstalk API - Describe Environment Resources
+  x-api-slug: actiondescribeenvironmentresources-get
+  description: Returns AWS resources for this environment.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AWSElasticBeanstalk.png
+  humanURL: https://aws.amazon.com/elasticbeanstalk/
+  baseURL: :///
+  tags: Amazon Web Services, Containers, Stack Network, API Service Provider, API
+    Service Provider, API Provider, Deployments, Profiles, Relative Data, Service
+    API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-elastic-beanstalk/actiondescribeenvironmentresources-get-openapi.md
+- name: AWS Elastic Beanstalk API - Describe Environments
+  x-api-slug: actiondescribeenvironments-get
+  description: Returns descriptions for existing environments.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AWSElasticBeanstalk.png
+  humanURL: https://aws.amazon.com/elasticbeanstalk/
+  baseURL: :///
+  tags: Amazon Web Services, Containers, Stack Network, API Service Provider, API
+    Service Provider, API Provider, Deployments, Profiles, Relative Data, Service
+    API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-elastic-beanstalk/actiondescribeenvironments-get-openapi.md
+- name: AWS Elastic Beanstalk API - Describe Environments
+  x-api-slug: actiondescribeenvironments-get
+  description: Returns descriptions for existing environments.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AWSElasticBeanstalk.png
+  humanURL: https://aws.amazon.com/elasticbeanstalk/
+  baseURL: :///
+  tags: Amazon Web Services, Containers, Stack Network, API Service Provider, API
+    Service Provider, API Provider, Deployments, Profiles, Relative Data, Service
+    API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-elastic-beanstalk/actiondescribeenvironments-get-openapi.md
+- name: AWS Elastic Beanstalk API - Describe Environments
+  x-api-slug: actiondescribeenvironments-get
+  description: Returns descriptions for existing environments.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AWSElasticBeanstalk.png
+  humanURL: https://aws.amazon.com/elasticbeanstalk/
+  baseURL: :///
+  tags: Amazon Web Services, Containers, Stack Network, API Service Provider, API
+    Service Provider, API Provider, Deployments, Profiles, Relative Data, Service
+    API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-elastic-beanstalk/actiondescribeenvironments-get-openapi.md
+- name: AWS Elastic Beanstalk API - Describe Environments
+  x-api-slug: actiondescribeenvironments-get
+  description: Returns descriptions for existing environments.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AWSElasticBeanstalk.png
+  humanURL: https://aws.amazon.com/elasticbeanstalk/
+  baseURL: :///
+  tags: Amazon Web Services, Containers, Stack Network, API Service Provider, API
+    Service Provider, API Provider, Deployments, Profiles, Relative Data, Service
+    API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-elastic-beanstalk/actiondescribeenvironments-get-openapi.md
+- name: AWS Elastic Beanstalk API - Describe Environments
+  x-api-slug: actiondescribeenvironments-get
+  description: Returns descriptions for existing environments.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AWSElasticBeanstalk.png
+  humanURL: https://aws.amazon.com/elasticbeanstalk/
+  baseURL: :///
+  tags: Amazon Web Services, Containers, Stack Network, API Service Provider, API
+    Service Provider, API Provider, Deployments, Profiles, Relative Data, Service
+    API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-elastic-beanstalk/actiondescribeenvironments-get-openapi.md
+- name: AWS Elastic Beanstalk API - Describe Environments
+  x-api-slug: actiondescribeenvironments-get
+  description: Returns descriptions for existing environments.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AWSElasticBeanstalk.png
+  humanURL: https://aws.amazon.com/elasticbeanstalk/
+  baseURL: :///
+  tags: Amazon Web Services, Containers, Stack Network, API Service Provider, API
+    Service Provider, API Provider, Deployments, Profiles, Relative Data, Service
+    API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-elastic-beanstalk/actiondescribeenvironments-get-openapi.md
+- name: AWS Elastic Beanstalk API - Describe Environments
+  x-api-slug: actiondescribeenvironments-get
+  description: Returns descriptions for existing environments.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AWSElasticBeanstalk.png
+  humanURL: https://aws.amazon.com/elasticbeanstalk/
+  baseURL: :///
+  tags: Amazon Web Services, Containers, Stack Network, API Service Provider, API
+    Service Provider, API Provider, Deployments, Profiles, Relative Data, Service
+    API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-elastic-beanstalk/actiondescribeenvironments-get-openapi.md
+- name: AWS Elastic Beanstalk API - Describe Environments
+  x-api-slug: actiondescribeenvironments-get
+  description: Returns descriptions for existing environments.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AWSElasticBeanstalk.png
+  humanURL: https://aws.amazon.com/elasticbeanstalk/
+  baseURL: :///
+  tags: Amazon Web Services, Containers, Stack Network, API Service Provider, API
+    Service Provider, API Provider, Deployments, Profiles, Relative Data, Service
+    API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-elastic-beanstalk/actiondescribeenvironments-get-openapi.md
+- name: AWS Elastic Beanstalk API - Describe Events
+  x-api-slug: actiondescribeevents-get
+  description: Returns list of event descriptions matching criteria up to the last
+    6 weeks.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AWSElasticBeanstalk.png
+  humanURL: https://aws.amazon.com/elasticbeanstalk/
+  baseURL: :///
+  tags: Amazon Web Services, Containers, Stack Network, API Service Provider, API
+    Service Provider, API Provider, Deployments, Profiles, Relative Data, Service
+    API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-elastic-beanstalk/actiondescribeevents-get-openapi.md
+- name: AWS Elastic Beanstalk API - Describe Events
+  x-api-slug: actiondescribeevents-get
+  description: Returns list of event descriptions matching criteria up to the last
+    6 weeks.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AWSElasticBeanstalk.png
+  humanURL: https://aws.amazon.com/elasticbeanstalk/
+  baseURL: :///
+  tags: Amazon Web Services, Containers, Stack Network, API Service Provider, API
+    Service Provider, API Provider, Deployments, Profiles, Relative Data, Service
+    API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-elastic-beanstalk/actiondescribeevents-get-openapi.md
+- name: AWS Elastic Beanstalk API - Describe Events
+  x-api-slug: actiondescribeevents-get
+  description: Returns list of event descriptions matching criteria up to the last
+    6 weeks.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AWSElasticBeanstalk.png
+  humanURL: https://aws.amazon.com/elasticbeanstalk/
+  baseURL: :///
+  tags: Amazon Web Services, Containers, Stack Network, API Service Provider, API
+    Service Provider, API Provider, Deployments, Profiles, Relative Data, Service
+    API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-elastic-beanstalk/actiondescribeevents-get-openapi.md
+- name: AWS Elastic Beanstalk API - Describe Events
+  x-api-slug: actiondescribeevents-get
+  description: Returns list of event descriptions matching criteria up to the last
+    6 weeks.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AWSElasticBeanstalk.png
+  humanURL: https://aws.amazon.com/elasticbeanstalk/
+  baseURL: :///
+  tags: Amazon Web Services, Containers, Stack Network, API Service Provider, API
+    Service Provider, API Provider, Deployments, Profiles, Relative Data, Service
+    API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-elastic-beanstalk/actiondescribeevents-get-openapi.md
+- name: AWS Elastic Beanstalk API - Describe Events
+  x-api-slug: actiondescribeevents-get
+  description: Returns list of event descriptions matching criteria up to the last
+    6 weeks.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AWSElasticBeanstalk.png
+  humanURL: https://aws.amazon.com/elasticbeanstalk/
+  baseURL: :///
+  tags: Amazon Web Services, Containers, Stack Network, API Service Provider, API
+    Service Provider, API Provider, Deployments, Profiles, Relative Data, Service
+    API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-elastic-beanstalk/actiondescribeevents-get-openapi.md
+- name: AWS Elastic Beanstalk API - Describe Events
+  x-api-slug: actiondescribeevents-get
+  description: Returns list of event descriptions matching criteria up to the last
+    6 weeks.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AWSElasticBeanstalk.png
+  humanURL: https://aws.amazon.com/elasticbeanstalk/
+  baseURL: :///
+  tags: Amazon Web Services, Containers, Stack Network, API Service Provider, API
+    Service Provider, API Provider, Deployments, Profiles, Relative Data, Service
+    API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-elastic-beanstalk/actiondescribeevents-get-openapi.md
+- name: AWS Elastic Beanstalk API - Describe Events
+  x-api-slug: actiondescribeevents-get
+  description: Returns list of event descriptions matching criteria up to the last
+    6 weeks.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AWSElasticBeanstalk.png
+  humanURL: https://aws.amazon.com/elasticbeanstalk/
+  baseURL: :///
+  tags: Amazon Web Services, Containers, Stack Network, API Service Provider, API
+    Service Provider, API Provider, Deployments, Profiles, Relative Data, Service
+    API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-elastic-beanstalk/actiondescribeevents-get-openapi.md
+- name: AWS Elastic Beanstalk API - Describe Events
+  x-api-slug: actiondescribeevents-get
+  description: Returns list of event descriptions matching criteria up to the last
+    6 weeks.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AWSElasticBeanstalk.png
+  humanURL: https://aws.amazon.com/elasticbeanstalk/
+  baseURL: :///
+  tags: Amazon Web Services, Containers, Stack Network, API Service Provider, API
+    Service Provider, API Provider, Deployments, Profiles, Relative Data, Service
+    API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-elastic-beanstalk/actiondescribeevents-get-openapi.md
+- name: AWS Elastic Beanstalk API - Describe Instances Health
+  x-api-slug: actiondescribeinstanceshealth-get
+  description: |-
+    Retrives detailed information about the health of instances in your AWS Elastic
+          Beanstalk.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AWSElasticBeanstalk.png
+  humanURL: https://aws.amazon.com/elasticbeanstalk/
+  baseURL: :///
+  tags: Amazon Web Services, Containers, Stack Network, API Service Provider, API
+    Service Provider, API Provider, Deployments, Profiles, Relative Data, Service
+    API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-elastic-beanstalk/actiondescribeinstanceshealth-get-openapi.md
+- name: AWS Elastic Beanstalk API - Describe Instances Health
+  x-api-slug: actiondescribeinstanceshealth-get
+  description: |-
+    Retrives detailed information about the health of instances in your AWS Elastic
+          Beanstalk.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AWSElasticBeanstalk.png
+  humanURL: https://aws.amazon.com/elasticbeanstalk/
+  baseURL: :///
+  tags: Amazon Web Services, Containers, Stack Network, API Service Provider, API
+    Service Provider, API Provider, Deployments, Profiles, Relative Data, Service
+    API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-elastic-beanstalk/actiondescribeinstanceshealth-get-openapi.md
+- name: AWS Elastic Beanstalk API - Describe Instances Health
+  x-api-slug: actiondescribeinstanceshealth-get
+  description: |-
+    Retrives detailed information about the health of instances in your AWS Elastic
+          Beanstalk.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AWSElasticBeanstalk.png
+  humanURL: https://aws.amazon.com/elasticbeanstalk/
+  baseURL: :///
+  tags: Amazon Web Services, Containers, Stack Network, API Service Provider, API
+    Service Provider, API Provider, Deployments, Profiles, Relative Data, Service
+    API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-elastic-beanstalk/actiondescribeinstanceshealth-get-openapi.md
+- name: AWS Elastic Beanstalk API - Describe Instances Health
+  x-api-slug: actiondescribeinstanceshealth-get
+  description: |-
+    Retrives detailed information about the health of instances in your AWS Elastic
+          Beanstalk.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AWSElasticBeanstalk.png
+  humanURL: https://aws.amazon.com/elasticbeanstalk/
+  baseURL: :///
+  tags: Amazon Web Services, Containers, Stack Network, API Service Provider, API
+    Service Provider, API Provider, Deployments, Profiles, Relative Data, Service
+    API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-elastic-beanstalk/actiondescribeinstanceshealth-get-openapi.md
+- name: AWS Elastic Beanstalk API - Describe Instances Health
+  x-api-slug: actiondescribeinstanceshealth-get
+  description: |-
+    Retrives detailed information about the health of instances in your AWS Elastic
+          Beanstalk.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AWSElasticBeanstalk.png
+  humanURL: https://aws.amazon.com/elasticbeanstalk/
+  baseURL: :///
+  tags: Amazon Web Services, Containers, Stack Network, API Service Provider, API
+    Service Provider, API Provider, Deployments, Profiles, Relative Data, Service
+    API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-elastic-beanstalk/actiondescribeinstanceshealth-get-openapi.md
+- name: AWS Elastic Beanstalk API - Describe Instances Health
+  x-api-slug: actiondescribeinstanceshealth-get
+  description: |-
+    Retrives detailed information about the health of instances in your AWS Elastic
+          Beanstalk.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AWSElasticBeanstalk.png
+  humanURL: https://aws.amazon.com/elasticbeanstalk/
+  baseURL: :///
+  tags: Amazon Web Services, Containers, Stack Network, API Service Provider, API
+    Service Provider, API Provider, Deployments, Profiles, Relative Data, Service
+    API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-elastic-beanstalk/actiondescribeinstanceshealth-get-openapi.md
+- name: AWS Elastic Beanstalk API - Describe Instances Health
+  x-api-slug: actiondescribeinstanceshealth-get
+  description: |-
+    Retrives detailed information about the health of instances in your AWS Elastic
+          Beanstalk.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AWSElasticBeanstalk.png
+  humanURL: https://aws.amazon.com/elasticbeanstalk/
+  baseURL: :///
+  tags: Amazon Web Services, Containers, Stack Network, API Service Provider, API
+    Service Provider, API Provider, Deployments, Profiles, Relative Data, Service
+    API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-elastic-beanstalk/actiondescribeinstanceshealth-get-openapi.md
+- name: AWS Elastic Beanstalk API - Describe Instances Health
+  x-api-slug: actiondescribeinstanceshealth-get
+  description: |-
+    Retrives detailed information about the health of instances in your AWS Elastic
+          Beanstalk.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AWSElasticBeanstalk.png
+  humanURL: https://aws.amazon.com/elasticbeanstalk/
+  baseURL: :///
+  tags: Amazon Web Services, Containers, Stack Network, API Service Provider, API
+    Service Provider, API Provider, Deployments, Profiles, Relative Data, Service
+    API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-elastic-beanstalk/actiondescribeinstanceshealth-get-openapi.md
+- name: AWS Elastic Beanstalk API - Describe Configuration Options
+  x-api-slug: actiondescribeconfigurationoptions-get
+  description: |-
+    Describes the configuration options that are used in a particular configuration
+          template or environment, or that a specified solution stack defines.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AWSElasticBeanstalk.png
+  humanURL: https://aws.amazon.com/elasticbeanstalk/
+  baseURL: :///
+  tags: Amazon Web Services, Containers, Stack Network, API Service Provider, API
+    Service Provider, API Provider, Deployments, Profiles, Relative Data, Service
+    API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-elastic-beanstalk/actiondescribeconfigurationoptions-get-openapi.md
+- name: AWS Elastic Beanstalk API - Describe Configuration Options
+  x-api-slug: actiondescribeconfigurationoptions-get
+  description: |-
+    Describes the configuration options that are used in a particular configuration
+          template or environment, or that a specified solution stack defines.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AWSElasticBeanstalk.png
+  humanURL: https://aws.amazon.com/elasticbeanstalk/
+  baseURL: :///
+  tags: Amazon Web Services, Containers, Stack Network, API Service Provider, API
+    Service Provider, API Provider, Deployments, Profiles, Relative Data, Service
+    API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-elastic-beanstalk/actiondescribeconfigurationoptions-get-openapi.md
+- name: AWS Elastic Beanstalk API - Describe Configuration Options
+  x-api-slug: actiondescribeconfigurationoptions-get
+  description: |-
+    Describes the configuration options that are used in a particular configuration
+          template or environment, or that a specified solution stack defines.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AWSElasticBeanstalk.png
+  humanURL: https://aws.amazon.com/elasticbeanstalk/
+  baseURL: :///
+  tags: Amazon Web Services, Containers, Stack Network, API Service Provider, API
+    Service Provider, API Provider, Deployments, Profiles, Relative Data, Service
+    API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-elastic-beanstalk/actiondescribeconfigurationoptions-get-openapi.md
+- name: AWS Elastic Beanstalk API - Describe Configuration Options
+  x-api-slug: actiondescribeconfigurationoptions-get
+  description: |-
+    Describes the configuration options that are used in a particular configuration
+          template or environment, or that a specified solution stack defines.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AWSElasticBeanstalk.png
+  humanURL: https://aws.amazon.com/elasticbeanstalk/
+  baseURL: :///
+  tags: Amazon Web Services, Containers, Stack Network, API Service Provider, API
+    Service Provider, API Provider, Deployments, Profiles, Relative Data, Service
+    API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-elastic-beanstalk/actiondescribeconfigurationoptions-get-openapi.md
+- name: AWS Elastic Beanstalk API - Describe Configuration Options
+  x-api-slug: actiondescribeconfigurationoptions-get
+  description: |-
+    Describes the configuration options that are used in a particular configuration
+          template or environment, or that a specified solution stack defines.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AWSElasticBeanstalk.png
+  humanURL: https://aws.amazon.com/elasticbeanstalk/
+  baseURL: :///
+  tags: Amazon Web Services, Containers, Stack Network, API Service Provider, API
+    Service Provider, API Provider, Deployments, Profiles, Relative Data, Service
+    API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-elastic-beanstalk/actiondescribeconfigurationoptions-get-openapi.md
+- name: AWS Elastic Beanstalk API - Describe Configuration Options
+  x-api-slug: actiondescribeconfigurationoptions-get
+  description: |-
+    Describes the configuration options that are used in a particular configuration
+          template or environment, or that a specified solution stack defines.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AWSElasticBeanstalk.png
+  humanURL: https://aws.amazon.com/elasticbeanstalk/
+  baseURL: :///
+  tags: Amazon Web Services, Containers, Stack Network, API Service Provider, API
+    Service Provider, API Provider, Deployments, Profiles, Relative Data, Service
+    API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-elastic-beanstalk/actiondescribeconfigurationoptions-get-openapi.md
+- name: AWS Elastic Beanstalk API - Describe Configuration Options
+  x-api-slug: actiondescribeconfigurationoptions-get
+  description: |-
+    Describes the configuration options that are used in a particular configuration
+          template or environment, or that a specified solution stack defines.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AWSElasticBeanstalk.png
+  humanURL: https://aws.amazon.com/elasticbeanstalk/
+  baseURL: :///
+  tags: Amazon Web Services, Containers, Stack Network, API Service Provider, API
+    Service Provider, API Provider, Deployments, Profiles, Relative Data, Service
+    API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-elastic-beanstalk/actiondescribeconfigurationoptions-get-openapi.md
+- name: AWS Elastic Beanstalk API - Describe Configuration Options
+  x-api-slug: actiondescribeconfigurationoptions-get
+  description: |-
+    Describes the configuration options that are used in a particular configuration
+          template or environment, or that a specified solution stack defines.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AWSElasticBeanstalk.png
+  humanURL: https://aws.amazon.com/elasticbeanstalk/
+  baseURL: :///
+  tags: Amazon Web Services, Containers, Stack Network, API Service Provider, API
+    Service Provider, API Provider, Deployments, Profiles, Relative Data, Service
+    API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-elastic-beanstalk/actiondescribeconfigurationoptions-get-openapi.md
+- name: AWS Elastic Beanstalk API - Describe Configuration Options
+  x-api-slug: actiondescribeconfigurationoptions-get
+  description: |-
+    Describes the configuration options that are used in a particular configuration
+          template or environment, or that a specified solution stack defines.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AWSElasticBeanstalk.png
+  humanURL: https://aws.amazon.com/elasticbeanstalk/
+  baseURL: :///
+  tags: Amazon Web Services, Containers, Stack Network, API Service Provider, API
+    Service Provider, API Provider, Deployments, Profiles, Relative Data, Service
+    API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-elastic-beanstalk/actiondescribeconfigurationoptions-get-openapi.md
+- name: AWS Elastic Beanstalk API - Describe Configuration Options
+  x-api-slug: actiondescribeconfigurationoptions-get
+  description: |-
+    Describes the configuration options that are used in a particular configuration
+          template or environment, or that a specified solution stack defines.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AWSElasticBeanstalk.png
+  humanURL: https://aws.amazon.com/elasticbeanstalk/
+  baseURL: :///
+  tags: Amazon Web Services, Containers, Stack Network, API Service Provider, API
+    Service Provider, API Provider, Deployments, Profiles, Relative Data, Service
+    API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-elastic-beanstalk/actiondescribeconfigurationoptions-get-openapi.md
+- name: AWS Elastic Beanstalk API - Describe Configuration Options
+  x-api-slug: actiondescribeconfigurationoptions-get
+  description: |-
+    Describes the configuration options that are used in a particular configuration
+          template or environment, or that a specified solution stack defines.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AWSElasticBeanstalk.png
+  humanURL: https://aws.amazon.com/elasticbeanstalk/
+  baseURL: :///
+  tags: Amazon Web Services, Containers, Stack Network, API Service Provider, API
+    Service Provider, API Provider, Deployments, Profiles, Relative Data, Service
+    API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-elastic-beanstalk/actiondescribeconfigurationoptions-get-openapi.md
 x-common:
 - type: x-api-gallery
   url: http://aws.ec2.systems.manager.api.gallery.streamdata.io

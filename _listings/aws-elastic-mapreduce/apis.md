@@ -13,11 +13,24 @@ image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/l
 x-kinRank: "10"
 x-alexaRank: "0"
 tags: Descriptions
-created: "2018-08-26"
-modified: "2018-08-26"
+created: "2018-08-27"
+modified: "2018-08-27"
 url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-elastic-mapreduce/apis.md
 specificationVersion: "0.14"
 apis:
+- name: AWS Elastic MapReduce API - Describe Cluster
+  x-api-slug: actiondescribecluster-get
+  description: Provides cluster-level details including status, hardware and software
+    configuration, VPC settings, and so on.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Analytics_AmazonEMR.png
+  humanURL: https://aws.amazon.com/emr/
+  baseURL: :///
+  tags: Amazon Web Services, Data, MapReduce, Stack Network, API Service Provider,
+    API Service Provider, API Provider, Databases, Profiles, Relative Data, Service
+    API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-elastic-mapreduce/actiondescribecluster-get-openapi.md
 - name: AWS Elastic MapReduce API - Describe Job Flows
   x-api-slug: actiondescribejobflows-get
   description: This API is deprecated and will eventually be removed.
@@ -46,6 +59,32 @@ apis:
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-elastic-mapreduce/actiondescribejobflows-get-postman.md
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-elastic-mapreduce/actiondescribejobflows-get-openapi.md
+- name: AWS Elastic MapReduce API - Describe Security Configuration
+  x-api-slug: actiondescribesecurityconfiguration-get
+  description: Provides the details of a security configuration by returning the configuration
+    JSON.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Analytics_AmazonEMR.png
+  humanURL: https://aws.amazon.com/emr/
+  baseURL: :///
+  tags: Amazon Web Services, Data, MapReduce, Stack Network, API Service Provider,
+    API Service Provider, API Provider, Databases, Profiles, Relative Data, Service
+    API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-elastic-mapreduce/actiondescribesecurityconfiguration-get-openapi.md
+- name: AWS Elastic MapReduce API - Describe Security Configuration
+  x-api-slug: actiondescribesecurityconfiguration-get
+  description: Provides the details of a security configuration by returning the configuration
+    JSON.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Analytics_AmazonEMR.png
+  humanURL: https://aws.amazon.com/emr/
+  baseURL: :///
+  tags: Amazon Web Services, Data, MapReduce, Stack Network, API Service Provider,
+    API Service Provider, API Provider, Databases, Profiles, Relative Data, Service
+    API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-elastic-mapreduce/actiondescribesecurityconfiguration-get-openapi.md
 - name: AWS Elastic MapReduce API - Describe Step
   x-api-slug: actiondescribestep-get
   description: Provides more detail about the cluster step.
@@ -74,6 +113,97 @@ apis:
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-elastic-mapreduce/actiondescribestep-get-postman.md
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-elastic-mapreduce/actiondescribestep-get-openapi.md
+- name: AWS Elastic MapReduce API - Describe Cluster
+  x-api-slug: actiondescribecluster-get
+  description: Provides cluster-level details including status, hardware and software
+    configuration, VPC settings, and so on.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Analytics_AmazonEMR.png
+  humanURL: https://aws.amazon.com/emr/
+  baseURL: :///
+  tags: Amazon Web Services, Data, MapReduce, Stack Network, API Service Provider,
+    API Service Provider, API Provider, Databases, Profiles, Relative Data, Service
+    API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-elastic-mapreduce/actiondescribecluster-get-openapi.md
+- name: AWS Elastic MapReduce API - Describe Cluster
+  x-api-slug: actiondescribecluster-get
+  description: Provides cluster-level details including status, hardware and software
+    configuration, VPC settings, and so on.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Analytics_AmazonEMR.png
+  humanURL: https://aws.amazon.com/emr/
+  baseURL: :///
+  tags: Amazon Web Services, Data, MapReduce, Stack Network, API Service Provider,
+    API Service Provider, API Provider, Databases, Profiles, Relative Data, Service
+    API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-elastic-mapreduce/actiondescribecluster-get-openapi.md
+- name: AWS Elastic MapReduce API - Describe Cluster
+  x-api-slug: actiondescribecluster-get
+  description: Provides cluster-level details including status, hardware and software
+    configuration, VPC settings, and so on.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Analytics_AmazonEMR.png
+  humanURL: https://aws.amazon.com/emr/
+  baseURL: :///
+  tags: Amazon Web Services, Data, MapReduce, Stack Network, API Service Provider,
+    API Service Provider, API Provider, Databases, Profiles, Relative Data, Service
+    API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-elastic-mapreduce/actiondescribecluster-get-openapi.md
+- name: AWS Elastic MapReduce API - Describe Cluster
+  x-api-slug: actiondescribecluster-get
+  description: Provides cluster-level details including status, hardware and software
+    configuration, VPC settings, and so on.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Analytics_AmazonEMR.png
+  humanURL: https://aws.amazon.com/emr/
+  baseURL: :///
+  tags: Amazon Web Services, Data, MapReduce, Stack Network, API Service Provider,
+    API Service Provider, API Provider, Databases, Profiles, Relative Data, Service
+    API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-elastic-mapreduce/actiondescribecluster-get-openapi.md
+- name: AWS Elastic MapReduce API - Describe Cluster
+  x-api-slug: actiondescribecluster-get
+  description: Provides cluster-level details including status, hardware and software
+    configuration, VPC settings, and so on.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Analytics_AmazonEMR.png
+  humanURL: https://aws.amazon.com/emr/
+  baseURL: :///
+  tags: Amazon Web Services, Data, MapReduce, Stack Network, API Service Provider,
+    API Service Provider, API Provider, Databases, Profiles, Relative Data, Service
+    API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-elastic-mapreduce/actiondescribecluster-get-openapi.md
+- name: AWS Elastic MapReduce API - Describe Cluster
+  x-api-slug: actiondescribecluster-get
+  description: Provides cluster-level details including status, hardware and software
+    configuration, VPC settings, and so on.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Analytics_AmazonEMR.png
+  humanURL: https://aws.amazon.com/emr/
+  baseURL: :///
+  tags: Amazon Web Services, Data, MapReduce, Stack Network, API Service Provider,
+    API Service Provider, API Provider, Databases, Profiles, Relative Data, Service
+    API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-elastic-mapreduce/actiondescribecluster-get-openapi.md
+- name: AWS Elastic MapReduce API - Describe Cluster
+  x-api-slug: actiondescribecluster-get
+  description: Provides cluster-level details including status, hardware and software
+    configuration, VPC settings, and so on.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Analytics_AmazonEMR.png
+  humanURL: https://aws.amazon.com/emr/
+  baseURL: :///
+  tags: Amazon Web Services, Data, MapReduce, Stack Network, API Service Provider,
+    API Service Provider, API Provider, Databases, Profiles, Relative Data, Service
+    API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-elastic-mapreduce/actiondescribecluster-get-openapi.md
 - name: AWS Elastic MapReduce API - Describe Job Flows
   x-api-slug: actiondescribejobflows-get
   description: This API is deprecated and will eventually be removed.
@@ -186,6 +316,123 @@ apis:
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-elastic-mapreduce/actiondescribejobflows-get-postman.md
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-elastic-mapreduce/actiondescribejobflows-get-openapi.md
+- name: AWS Elastic MapReduce API - Describe Security Configuration
+  x-api-slug: actiondescribesecurityconfiguration-get
+  description: Provides the details of a security configuration by returning the configuration
+    JSON.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Analytics_AmazonEMR.png
+  humanURL: https://aws.amazon.com/emr/
+  baseURL: :///
+  tags: Amazon Web Services, Data, MapReduce, Stack Network, API Service Provider,
+    API Service Provider, API Provider, Databases, Profiles, Relative Data, Service
+    API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-elastic-mapreduce/actiondescribesecurityconfiguration-get-openapi.md
+- name: AWS Elastic MapReduce API - Describe Security Configuration
+  x-api-slug: actiondescribesecurityconfiguration-get
+  description: Provides the details of a security configuration by returning the configuration
+    JSON.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Analytics_AmazonEMR.png
+  humanURL: https://aws.amazon.com/emr/
+  baseURL: :///
+  tags: Amazon Web Services, Data, MapReduce, Stack Network, API Service Provider,
+    API Service Provider, API Provider, Databases, Profiles, Relative Data, Service
+    API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-elastic-mapreduce/actiondescribesecurityconfiguration-get-openapi.md
+- name: AWS Elastic MapReduce API - Describe Security Configuration
+  x-api-slug: actiondescribesecurityconfiguration-get
+  description: Provides the details of a security configuration by returning the configuration
+    JSON.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Analytics_AmazonEMR.png
+  humanURL: https://aws.amazon.com/emr/
+  baseURL: :///
+  tags: Amazon Web Services, Data, MapReduce, Stack Network, API Service Provider,
+    API Service Provider, API Provider, Databases, Profiles, Relative Data, Service
+    API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-elastic-mapreduce/actiondescribesecurityconfiguration-get-openapi.md
+- name: AWS Elastic MapReduce API - Describe Security Configuration
+  x-api-slug: actiondescribesecurityconfiguration-get
+  description: Provides the details of a security configuration by returning the configuration
+    JSON.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Analytics_AmazonEMR.png
+  humanURL: https://aws.amazon.com/emr/
+  baseURL: :///
+  tags: Amazon Web Services, Data, MapReduce, Stack Network, API Service Provider,
+    API Service Provider, API Provider, Databases, Profiles, Relative Data, Service
+    API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-elastic-mapreduce/actiondescribesecurityconfiguration-get-openapi.md
+- name: AWS Elastic MapReduce API - Describe Security Configuration
+  x-api-slug: actiondescribesecurityconfiguration-get
+  description: Provides the details of a security configuration by returning the configuration
+    JSON.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Analytics_AmazonEMR.png
+  humanURL: https://aws.amazon.com/emr/
+  baseURL: :///
+  tags: Amazon Web Services, Data, MapReduce, Stack Network, API Service Provider,
+    API Service Provider, API Provider, Databases, Profiles, Relative Data, Service
+    API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-elastic-mapreduce/actiondescribesecurityconfiguration-get-openapi.md
+- name: AWS Elastic MapReduce API - Describe Security Configuration
+  x-api-slug: actiondescribesecurityconfiguration-get
+  description: Provides the details of a security configuration by returning the configuration
+    JSON.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Analytics_AmazonEMR.png
+  humanURL: https://aws.amazon.com/emr/
+  baseURL: :///
+  tags: Amazon Web Services, Data, MapReduce, Stack Network, API Service Provider,
+    API Service Provider, API Provider, Databases, Profiles, Relative Data, Service
+    API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-elastic-mapreduce/actiondescribesecurityconfiguration-get-openapi.md
+- name: AWS Elastic MapReduce API - Describe Security Configuration
+  x-api-slug: actiondescribesecurityconfiguration-get
+  description: Provides the details of a security configuration by returning the configuration
+    JSON.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Analytics_AmazonEMR.png
+  humanURL: https://aws.amazon.com/emr/
+  baseURL: :///
+  tags: Amazon Web Services, Data, MapReduce, Stack Network, API Service Provider,
+    API Service Provider, API Provider, Databases, Profiles, Relative Data, Service
+    API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-elastic-mapreduce/actiondescribesecurityconfiguration-get-openapi.md
+- name: AWS Elastic MapReduce API - Describe Security Configuration
+  x-api-slug: actiondescribesecurityconfiguration-get
+  description: Provides the details of a security configuration by returning the configuration
+    JSON.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Analytics_AmazonEMR.png
+  humanURL: https://aws.amazon.com/emr/
+  baseURL: :///
+  tags: Amazon Web Services, Data, MapReduce, Stack Network, API Service Provider,
+    API Service Provider, API Provider, Databases, Profiles, Relative Data, Service
+    API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-elastic-mapreduce/actiondescribesecurityconfiguration-get-openapi.md
+- name: AWS Elastic MapReduce API - Describe Security Configuration
+  x-api-slug: actiondescribesecurityconfiguration-get
+  description: Provides the details of a security configuration by returning the configuration
+    JSON.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Analytics_AmazonEMR.png
+  humanURL: https://aws.amazon.com/emr/
+  baseURL: :///
+  tags: Amazon Web Services, Data, MapReduce, Stack Network, API Service Provider,
+    API Service Provider, API Provider, Databases, Profiles, Relative Data, Service
+    API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-elastic-mapreduce/actiondescribesecurityconfiguration-get-openapi.md
 - name: AWS Elastic MapReduce API - Describe Step
   x-api-slug: actiondescribestep-get
   description: Provides more detail about the cluster step.

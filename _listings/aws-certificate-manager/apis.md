@@ -15,11 +15,107 @@ image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/l
 x-kinRank: "10"
 x-alexaRank: "0"
 tags: Descriptions
-created: "2018-08-26"
-modified: "2018-08-26"
+created: "2018-08-27"
+modified: "2018-08-27"
 url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-certificate-manager/apis.md
 specificationVersion: "0.14"
-apis: []
+apis:
+- name: AWS Certificate Manager API - Describe Certificate
+  x-api-slug: actiondescribecertificate-get
+  description: Returns a list of the fields contained in the specified ACM Certificate.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Security-Identity_ACM_certificate-manager.png
+  humanURL: https://aws.amazon.com/certificate-manager/
+  baseURL: :///
+  tags: Amazon Web Services, Security, Certificates, Encryption, Stack Network, API
+    Service Provider, API Service Provider, API Provider, Profiles, Relative Data,
+    Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-certificate-manager/actiondescribecertificate-get-openapi.md
+- name: AWS Certificate Manager API - Describe Certificate
+  x-api-slug: actiondescribecertificate-get
+  description: Returns a list of the fields contained in the specified ACM Certificate.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Security-Identity_ACM_certificate-manager.png
+  humanURL: https://aws.amazon.com/certificate-manager/
+  baseURL: :///
+  tags: Amazon Web Services, Security, Certificates, Encryption, Stack Network, API
+    Service Provider, API Service Provider, API Provider, Profiles, Relative Data,
+    Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-certificate-manager/actiondescribecertificate-get-openapi.md
+- name: AWS Certificate Manager API - Describe Certificate
+  x-api-slug: actiondescribecertificate-get
+  description: Returns a list of the fields contained in the specified ACM Certificate.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Security-Identity_ACM_certificate-manager.png
+  humanURL: https://aws.amazon.com/certificate-manager/
+  baseURL: :///
+  tags: Amazon Web Services, Security, Certificates, Encryption, Stack Network, API
+    Service Provider, API Service Provider, API Provider, Profiles, Relative Data,
+    Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-certificate-manager/actiondescribecertificate-get-openapi.md
+- name: AWS Certificate Manager API - Describe Certificate
+  x-api-slug: actiondescribecertificate-get
+  description: Returns a list of the fields contained in the specified ACM Certificate.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Security-Identity_ACM_certificate-manager.png
+  humanURL: https://aws.amazon.com/certificate-manager/
+  baseURL: :///
+  tags: Amazon Web Services, Security, Certificates, Encryption, Stack Network, API
+    Service Provider, API Service Provider, API Provider, Profiles, Relative Data,
+    Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-certificate-manager/actiondescribecertificate-get-openapi.md
+- name: AWS Certificate Manager API - Describe Certificate
+  x-api-slug: actiondescribecertificate-get
+  description: Returns a list of the fields contained in the specified ACM Certificate.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Security-Identity_ACM_certificate-manager.png
+  humanURL: https://aws.amazon.com/certificate-manager/
+  baseURL: :///
+  tags: Amazon Web Services, Security, Certificates, Encryption, Stack Network, API
+    Service Provider, API Service Provider, API Provider, Profiles, Relative Data,
+    Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-certificate-manager/actiondescribecertificate-get-openapi.md
+- name: AWS Certificate Manager API - Describe Certificate
+  x-api-slug: actiondescribecertificate-get
+  description: Returns a list of the fields contained in the specified ACM Certificate.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Security-Identity_ACM_certificate-manager.png
+  humanURL: https://aws.amazon.com/certificate-manager/
+  baseURL: :///
+  tags: Amazon Web Services, Security, Certificates, Encryption, Stack Network, API
+    Service Provider, API Service Provider, API Provider, Profiles, Relative Data,
+    Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-certificate-manager/actiondescribecertificate-get-openapi.md
+- name: AWS Certificate Manager API - Describe Certificate
+  x-api-slug: actiondescribecertificate-get
+  description: Returns a list of the fields contained in the specified ACM Certificate.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Security-Identity_ACM_certificate-manager.png
+  humanURL: https://aws.amazon.com/certificate-manager/
+  baseURL: :///
+  tags: Amazon Web Services, Security, Certificates, Encryption, Stack Network, API
+    Service Provider, API Service Provider, API Provider, Profiles, Relative Data,
+    Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-certificate-manager/actiondescribecertificate-get-openapi.md
+- name: AWS Certificate Manager API - Describe Certificate
+  x-api-slug: actiondescribecertificate-get
+  description: Returns a list of the fields contained in the specified ACM Certificate.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Security-Identity_ACM_certificate-manager.png
+  humanURL: https://aws.amazon.com/certificate-manager/
+  baseURL: :///
+  tags: Amazon Web Services, Security, Certificates, Encryption, Stack Network, API
+    Service Provider, API Service Provider, API Provider, Profiles, Relative Data,
+    Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-certificate-manager/actiondescribecertificate-get-openapi.md
 x-common:
 - type: x-api-gallery
   url: http://aws.batch.api.gallery.streamdata.io

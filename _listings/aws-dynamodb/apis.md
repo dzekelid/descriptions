@@ -11,8 +11,8 @@ image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/l
 x-kinRank: "10"
 x-alexaRank: "0"
 tags: Descriptions
-created: "2018-08-26"
-modified: "2018-08-26"
+created: "2018-08-27"
+modified: "2018-08-27"
 url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-dynamodb/apis.md
 specificationVersion: "0.14"
 apis:
@@ -46,6 +46,32 @@ apis:
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-dynamodb/actiondescribelimits-get-postman.md
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-dynamodb/actiondescribelimits-get-openapi.md
+- name: AWS DynamoDB API - Describe Table
+  x-api-slug: actiondescribetable-get
+  description: Returns information about the table, including the current status of
+    the table, when it was created, the primary key schema, and any indexes on the
+    table.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Database_AmazonDynamoDB.png
+  humanURL: https://aws.amazon.com/dynamodb/
+  baseURL: :///
+  tags: Amazon Web Services, Stack Network, API Service Provider, API Service Provider,
+    API Provider, Databases, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-dynamodb/actiondescribetable-get-openapi.md
+- name: AWS DynamoDB API - Describe Table
+  x-api-slug: actiondescribetable-get
+  description: Returns information about the table, including the current status of
+    the table, when it was created, the primary key schema, and any indexes on the
+    table.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Database_AmazonDynamoDB.png
+  humanURL: https://aws.amazon.com/dynamodb/
+  baseURL: :///
+  tags: Amazon Web Services, Stack Network, API Service Provider, API Service Provider,
+    API Provider, Databases, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-dynamodb/actiondescribetable-get-openapi.md
 - name: AWS DynamoDB API - Describe Limits
   x-api-slug: actiondescribelimits-get
   description: Returns the current provisioned-capacity limits for your AWS account
@@ -166,6 +192,123 @@ apis:
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-dynamodb/actiondescribelimits-get-postman.md
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-dynamodb/actiondescribelimits-get-openapi.md
+- name: AWS DynamoDB API - Describe Table
+  x-api-slug: actiondescribetable-get
+  description: Returns information about the table, including the current status of
+    the table, when it was created, the primary key schema, and any indexes on the
+    table.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Database_AmazonDynamoDB.png
+  humanURL: https://aws.amazon.com/dynamodb/
+  baseURL: :///
+  tags: Amazon Web Services, Stack Network, API Service Provider, API Service Provider,
+    API Provider, Databases, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-dynamodb/actiondescribetable-get-openapi.md
+- name: AWS DynamoDB API - Describe Table
+  x-api-slug: actiondescribetable-get
+  description: Returns information about the table, including the current status of
+    the table, when it was created, the primary key schema, and any indexes on the
+    table.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Database_AmazonDynamoDB.png
+  humanURL: https://aws.amazon.com/dynamodb/
+  baseURL: :///
+  tags: Amazon Web Services, Stack Network, API Service Provider, API Service Provider,
+    API Provider, Databases, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-dynamodb/actiondescribetable-get-openapi.md
+- name: AWS DynamoDB API - Describe Table
+  x-api-slug: actiondescribetable-get
+  description: Returns information about the table, including the current status of
+    the table, when it was created, the primary key schema, and any indexes on the
+    table.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Database_AmazonDynamoDB.png
+  humanURL: https://aws.amazon.com/dynamodb/
+  baseURL: :///
+  tags: Amazon Web Services, Stack Network, API Service Provider, API Service Provider,
+    API Provider, Databases, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-dynamodb/actiondescribetable-get-openapi.md
+- name: AWS DynamoDB API - Describe Table
+  x-api-slug: actiondescribetable-get
+  description: Returns information about the table, including the current status of
+    the table, when it was created, the primary key schema, and any indexes on the
+    table.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Database_AmazonDynamoDB.png
+  humanURL: https://aws.amazon.com/dynamodb/
+  baseURL: :///
+  tags: Amazon Web Services, Stack Network, API Service Provider, API Service Provider,
+    API Provider, Databases, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-dynamodb/actiondescribetable-get-openapi.md
+- name: AWS DynamoDB API - Describe Table
+  x-api-slug: actiondescribetable-get
+  description: Returns information about the table, including the current status of
+    the table, when it was created, the primary key schema, and any indexes on the
+    table.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Database_AmazonDynamoDB.png
+  humanURL: https://aws.amazon.com/dynamodb/
+  baseURL: :///
+  tags: Amazon Web Services, Stack Network, API Service Provider, API Service Provider,
+    API Provider, Databases, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-dynamodb/actiondescribetable-get-openapi.md
+- name: AWS DynamoDB API - Describe Table
+  x-api-slug: actiondescribetable-get
+  description: Returns information about the table, including the current status of
+    the table, when it was created, the primary key schema, and any indexes on the
+    table.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Database_AmazonDynamoDB.png
+  humanURL: https://aws.amazon.com/dynamodb/
+  baseURL: :///
+  tags: Amazon Web Services, Stack Network, API Service Provider, API Service Provider,
+    API Provider, Databases, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-dynamodb/actiondescribetable-get-openapi.md
+- name: AWS DynamoDB API - Describe Table
+  x-api-slug: actiondescribetable-get
+  description: Returns information about the table, including the current status of
+    the table, when it was created, the primary key schema, and any indexes on the
+    table.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Database_AmazonDynamoDB.png
+  humanURL: https://aws.amazon.com/dynamodb/
+  baseURL: :///
+  tags: Amazon Web Services, Stack Network, API Service Provider, API Service Provider,
+    API Provider, Databases, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-dynamodb/actiondescribetable-get-openapi.md
+- name: AWS DynamoDB API - Describe Table
+  x-api-slug: actiondescribetable-get
+  description: Returns information about the table, including the current status of
+    the table, when it was created, the primary key schema, and any indexes on the
+    table.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Database_AmazonDynamoDB.png
+  humanURL: https://aws.amazon.com/dynamodb/
+  baseURL: :///
+  tags: Amazon Web Services, Stack Network, API Service Provider, API Service Provider,
+    API Provider, Databases, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-dynamodb/actiondescribetable-get-openapi.md
+- name: AWS DynamoDB API - Describe Table
+  x-api-slug: actiondescribetable-get
+  description: Returns information about the table, including the current status of
+    the table, when it was created, the primary key schema, and any indexes on the
+    table.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Database_AmazonDynamoDB.png
+  humanURL: https://aws.amazon.com/dynamodb/
+  baseURL: :///
+  tags: Amazon Web Services, Stack Network, API Service Provider, API Service Provider,
+    API Provider, Databases, Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/descriptions/master/_listings/aws-dynamodb/actiondescribetable-get-openapi.md
 x-common:
 - type: x-api-gallery
   url: http://aws.directory.service.api.gallery.streamdata.io
